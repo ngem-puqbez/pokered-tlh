@@ -147,7 +147,7 @@ _ViridianGymCooltrainerM2EndBattleText::
 	prompt
 
 _ViridianGymCooltrainerM2AfterBattleText::
-	text "muqun qaDpIn!
+	text "muqun qaDpIn!"
 	done
 
 _ViridianGymHiker3BattleText::
