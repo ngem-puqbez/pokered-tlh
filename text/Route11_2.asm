@@ -1,28 +1,28 @@
 _Route11SuperNerd2EndBattleText::
-	text "Whoa!"
-	line "You spark plug!"
+	text "va!"
+	line "'ul QuQ SoH!"
 	prompt
 
 _Route11SuperNerd2AfterBattleText::
-	text "Well, better get"
-	line "back to work."
+	text "toH... DaH"
+	line "jIvumqa'nIS."
 	done
 
 _Route11Youngster4BattleText::
-	text "My #MON should"
-	line "be ready by now!"
+	text "DaH Suvrup"
+	line "#<m><a><n>meywIj!"
 	done
 
 _Route11Youngster4EndBattleText::
-	text "Too"
-	line "much, too young!"
+	text "tlhoy law'"
+	line "'ej tlhoy Qup!"
 	prompt
 
 _Route11Youngster4AfterBattleText::
-	text "I better go find"
-	line "stronger ones!"
+	text "#<m><a><n> HoS"
+	line "vISamnISbej!"
 	done
 
 _Route11DiglettsCaveSignText::
-	text "DIGLETT's CAVE"
+	text "<g><h><a><w><g><h><u> <D><I><S>"
 	done
