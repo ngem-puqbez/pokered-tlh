@@ -1,14 +1,14 @@
 _Route11Gate1FGuardText::
-	text "When you catch"
-	line "lots of #MON,"
-	cont "isn't it hard to"
-	cont "think up names?"
+	text "#mon law'"
+	line "vIjonchugh bIH"
+	cont "HochvaD pong"
+	cont "tlhIn vI'ogh."
+	cont "qatlh Qu'vam!"
 
-	para "In LAVENDER TOWN,"
-	line "there's a man who"
-	cont "rates #MON"
-	cont "nicknames."
+	para "<'><u><m><a><'> <v><e><n><g><H><o><m>Daq,"
+	line "#<m><a><n> pongmey"
+	cont "noH loD."
 
-	para "He'll help you"
-	line "rename them too!"
+	para "pong chu' Daper"
+	line "'e' DuboQ ghaH je!"
 	done
