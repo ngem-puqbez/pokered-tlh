@@ -1,19 +1,21 @@
 _PewterSpeechHouseGamblerText::
-	text "#MON learn new"
-	line "techniques as"
-	cont "they grow!"
+	text "nenchoHtaHvIS"
+	line "#<m><a><n> law'"
+	cont "tonSaw' ghoj!"
 
-	para "But, some moves"
-	line "must be taught by"
-	cont "the trainer!"
+	para "'ach tonSaw'"
+	line "puS ghojmeH"
+	cont "#<m><a><n>"
+	cont "ghojmoHnIS"
+	cont "qeqwI'Daj."
 	done
 
 _PewterSpeechHouseYoungsterText::
-	text "#MON become"
-	line "easier to catch"
-	cont "when they are"
-	cont "hurt or asleep!"
+	text "rIQchugh #<m><a><n>"
+	line "pagh QongtaHchugh"
+	cont "vaj ghaytan"
+	cont "DajonlaH!"
 
-	para "But, it's not a"
-	line "sure thing!"
+	para "'ach not DIch"
+	line "'oH!"
 	done
