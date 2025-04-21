@@ -1,16 +1,16 @@
 _ViridianPokecenterGentlemanText::
-	text "You can use that"
-	line "PC in the corner."
+	text "De'wI'vetlh"
+	line "lo'laH Hoch."
 
-	para "The receptionist"
-	line "told me. So kind!"
+	para "muja' boQwI'."
+	line "DochHa'qu'!"
 	done
 
 _ViridianPokecenterCooltrainerMText::
-	text "There's a #MON"
-	line "CENTER in every"
-	cont "town ahead."
+	text "Hoch vengDaq"
+	line "#<r><o><p><y><a><H>"
+	cont "tu'lu'."
 
-	para "They don't charge"
-	line "any money either!"
+	para "pIvmoHmeH Huch"
+	line "poQbe' je!"
 	done
