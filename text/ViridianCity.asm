@@ -1,181 +1,185 @@
 _ViridianCityYoungster1Text::
-	text "Those # BALLs"
-	line "at your waist!"
-	cont "You have #MON!"
+	text "qoghlIjDaq"
+	line "#<m><o><Q> vIlegh!"
+	cont "#<m><a><n> Daghaj!"
 
-	para "It's great that"
-	line "you can carry and"
-	cont "use #MON any"
-	cont "time, anywhere!"
+	para "reH Dat #<m><a><n>"
+	line "DaqenglaH."
+	cont "#<m><o><Q>mo'"
+	cont "laHvam qIt! Dun!"
 	done
 
 _ViridianCityGambler1GymAlwaysClosedText::
-	text "This #MON GYM"
-	line "is always closed."
+	text "not qaDqachvamDaq"
+	line "SaH vay'."
 
-	para "I wonder who the"
-	line "LEADER is?"
+	para "vabDot qaDpIn"
+	line "pong vISovbe'."
 	done
 
 _ViridianCityGambler1GymLeaderReturnedText::
-	text "VIRIDIAN GYM's"
-	line "LEADER returned!"
+	text "<q><o><'><r><I><n> qaDqach"
+	line "cheghta' qaDpIn!"
 	done
 
 _ViridianCityYoungster2YouWantToKnowAboutText::
-	text "You want to know"
-	line "about the 2 kinds"
-	cont "of caterpillar"
-	cont "#MON?"
+	text "cha' ghew mut"
+	line "vISov. qaja'"
+	cont "vIneH. Daghoj"
+	cont "DaneH'a'?"
 	done
 
 ViridianCityYoungster2OkThenText::
-	text "Oh, OK then!"
+	text "toH... luq."
 	done
 
 ViridianCityYoungster2CaterpieAndWeedleDescriptionText::
-	text "CATERPIE has no"
-	line "poison, but"
-	cont "WEEDLE does."
+	text "tar Hutlh <'><u><g><h><D><u><q>"
+	line "#<m><a><n> mut,"
+	cont "'a ghaj <D><u><Q><g><h><e><w>."
 
-	para "Watch out for its"
-	line "POISON STING!"
+	para "<t><a><r> <Q><I><n> tonSaw'"
+	line "lo'DI' yIyep!"
 	done
 
 _ViridianCityGirlHasntHadHisCoffeeYetText::
-	text "Oh Grandpa! Don't"
-	line "be so mean!"
-	cont "He hasn't had his"
-	cont "coffee yet."
+	text "toH vavnI'! DaH"
+	line "yIDochqu'Qo'!"
+	cont "'uH, 'ej wej"
+	cont "qa'vIn tlhutlh."
 	done
 
 _ViridianCityGirlWhenIGoShopText::
-	text "When I go shop in"
-	line "PEWTER CITY, I"
-	cont "have to take the"
-	cont "winding trail in"
-	cont "VIRIDIAN FOREST."
+	text "<H><o><t><n><a><g><h> <v><e><n><g>Daq"
+	line "jIje'nISDI'"
+	cont "<q><o><'><r><I><n> <n><g><e><m>Daq"
+	cont "taw job vIleng."
+	cont "rut Qatlh leng."
 	done
 
 _ViridianCityOldManSleepyPrivatePropertyText::
-	text "You can't go"
-	line "through here!"
+	text "naDev bIvegh"
+	line "'e' vItuch!"
 
-	para "This is private"
-	line "property!"
+	para "magh yotlhwIj 'oH"
+	line "Daqvam'e'! yImej!"
 	done
 
 ViridianCityFisherYouCanHaveThisText::
-	text "Yawn!"
-	line "I must have dozed"
-	cont "off in the sun."
+	text "Hob!"
+	line "ghunmo' jul"
+	cont "tamghay jIDum."
 
-	para "I had this dream"
-	line "about a DROWZEE"
-	cont "eating my dream."
-	cont "What's this?"
-	cont "Where did this TM"
-	cont "come from?"
+	para "jInaj 'ej"
+	line "SuchtuvwIj Sop"
+	cont "<D><o><y><'><S><a><n> 'e' vIjal."
+	cont "Dochvam nuq?"
+	cont "chay' luchvam"
+	cont "vISuq?"
 
-	para "This is spooky!"
-	line "Here, you can"
-	cont "have this TM."
+	para "mughIj!"
+	line "vIneHbe'!"
+	cont "qanob!"
 	prompt
 
 _ViridianCityFisherReceivedTM42Text::
-	text "<PLAYER> received"
-	line "TM42!@"
+	text "<t><j>42 Suq"
+	line "<PLAYER>!@"
 	text_end
 
 _ViridianCityFisherTM42ExplanationText::
-	text "TM42 contains"
-	line "DREAM EATER..."
-	cont "...Snore..."
+	text "<S><u><c><h><t><u><v> <S><o><p>"
+	line "tonSaw' ghoj <t><j>42"
+	cont "...wuD..."
 	done
 
 _ViridianCityFisherTM42NoRoomText::
-	text "You have too much"
-	line "stuff already."
+	text "wejHa' 'Iq "
+	line "luchlIj."
 	done
 
 _ViridianCityOldManHadMyCoffeeNowText::
-	text "Ahh, I've had my"
-	line "coffee now and I"
-	cont "feel great!"
+	text "maj, DaH qa'vIn"
+	line "vItlhutlhta' 'ej"
+	cont "jIpIvqa'choH!"
 
-	para "Sure you can go"
-	line "through!"
+	para "DaH bIvegh 'e'"
+	line "vIchaw'ba'!"
 
-	para "Are you in a"
-	line "hurry?"
+	para "DaH bImoDtaH,"
+	line "qar'a'?"
 	done
 
 _ViridianCityOldManKnowHowToCatchPokemonText::
-	text "I see you're using"
-	line "a #DEX."
+	text "#tamey Dalo'"
+	line "'e' vItu'."
 
-	para "When you catch a"
-	line "#MON, #DEX"
-	cont "is automatically"
-	cont "updated."
+	para "#<m><a><n> DajonDI'"
+	line "De'Daj qon"
+	cont "#tamey; wejHa'"
+	cont "qonbeH."
 
-	para "What? Don't you"
-	line "know how to catch"
-	cont "#MON?"
+	para "nuqjatlh? jonmeH"
+	line "Ho'DoS DaSovbe'!"
+	cont "qabqu'!"
 
-	para "I'll show you"
-	line "how to then."
+	para "DaH qaghojmoH."
+	line "HIghoHQo'."
 	done
 
 _ViridianCityOldManTimeIsMoneyText::
-	text "Time is money..."
-	line "Go along then."
+	text "Daghoj DaneHbe'."
+	line "jIyaj. yImej."
 	done
 
 _ViridianCityOldManYouNeedToWeakenTheTargetText::
-	text "First, you need"
-	line "to weaken the"
-	cont "target #MON."
+	text "bIjonpa' motlh"
+	line "#<m><a><n> DaHIvnIS"
+	cont "'ej DaDoy'moHnIS."
 	done
 
 _ViridianCitySignText::
-	text "VIRIDIAN CITY "
-	line "The Eternally"
-	cont "Green Paradise"
+	text "<q><o><'><r><I><n> <v><e><n><g>:"
+	line "reH 'IH SuDbogh"
+	cont "vengvam."
 	done
 
 _ViridianCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "Catch #MON"
-	line "and expand your"
-	cont "collection!"
+	para "#<m><a><n> DaboSmeH"
+	line "bIH DajonnIS!"
 
-	para "The more you have,"
-	line "the easier it is"
-	cont "to fight!"
+	para "#<m><a><n> law'"
+	line "Daghajchugh vaj"
+	cont "ngeDchoH may'!"
 	done
 
 _ViridianCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "The battle moves"
-	line "of #MON are"
-	cont "limited by their"
-	cont "POWER POINTs, PP."
+	para "Hoch #<m><a><n>"
+	line "tonSaw' vuS"
+	cont "HIvmeH HoS."
+	cont "rut HH ponglu'."
 
-	para "To replenish PP,"
-	line "rest your tired"
-	cont "#MON at a"
-	cont "#MON CENTER!"
+	para "tonSaw' lo'meH"
+	line "HH poQlu'."
+	cont "HH ghajbe'chugh"
+	cont "tonSaw' lo'be'lu'."
+
+	para "HH buy'moHmeH"
+	line "#<r><o><p><y><a><H>"
+	cont "yISuch 'ej"
+	cont "yIleS!"
 	done
 
 _ViridianCityGymSignText::
-	text "VIRIDIAN CITY"
-	line "#MON GYM"
+	text "<q><o><'><r><I><n> <v><e><n><g>"
+	line "#<m><a><n> qaDqach"
 	done
 
 _ViridianCityGymLockedText::
-	text "The GYM's doors"
-	line "are locked..."
+	text "ngaQ qaDqach"
+	line "lojmItmey..."
 	done
