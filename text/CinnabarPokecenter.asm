@@ -1,21 +1,18 @@
 _CinnabarPokecenterCooltrainerFText::
-	text "You can cancel"
-	line "evolution."
+	text "ghe'taHvIS #<m><a><n>"
+	line "DamevmoHlaH."
 
-	para "When a #MON is"
-	line "evolving, you can"
-	cont "stop it and leave"
-	cont "it the way it is."
+	para "ghe'choHDI'"
+	line "Daqaghchugh vaj"
+	cont "SIbI'Ha' wanI'"
+	cont "DaqaSqa'moHlaH."
 	done
 
 _CinnabarPokecenterGentlemanText::
-	text "Do you have any"
-	line "friends?"
+	text "jupwI'pu'"
+	line "Daghaj'a'?"
 
-	para "#MON you get"
-	line "in trades grow"
-	cont "very quickly."
-
-	para "I think it's"
-	line "worth a try!"
+	para "#<m><a><n> mechlu'chugh"
+	line "nom ghoj 'ej nom"
+	cont "nenchoH je."
 	done
