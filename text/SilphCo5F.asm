@@ -1,51 +1,50 @@
 _SilphCo5FSilphWorkerMThatsYouRightText::
-	text "TEAM ROCKET is"
-	line "in an uproar over"
-	cont "some intruder."
-	cont "That's you right?"
+	text "yotwI'mo' lImlaw'"
+	line "<p><e><n><g><D><u><j> ghom beq."
+	cont "DaghIjtaH, qar'a'?"
 	done
 
 _SilphCo5FSilphWorkerMYoureOurHeroText::
-	text "TEAM ROCKET took"
-	line "off! You're our"
-	cont "hero! Thank you!"
+	text "HeD <p><e><n><g><D><u><j> ghom!"
+	line "Subma' SoH!"
+	cont "batlh Daqawlu'taH!"
 	done
 
 _SilphCo5FRocket1BattleText::
-	text "I heard a kid was"
-	line "wandering around."
+	text "pa' lengtaH puq"
+	line "'e' vIQoy."
 	done
 
 _SilphCo5FRocket1EndBattleText::
-	text "Boom!"
+	text "jor!"
 	prompt
 
 _SilphCo5FRocket1AfterBattleText::
-	text "It's not smart"
-	line "to pick a fight"
-	cont "with TEAM ROCKET!"
+	text "<p><e><n><g><D><u><j> ghom DaSuv"
+	line "'e' DangIlchugh"
+	cont "bIQIpba'!"
 	done
 
 _SilphCo5FScientistBattleText::
-	text "We study #"
-	line "BALL technology"
-	cont "on this floor!"
+	text "Su'roqvamDaq"
+	line "#<m><o><Q> wIDubmeH"
+	cont "cham vur wIQul!"
 	done
 
 _SilphCo5FScientistEndBattleText::
-	text "Dang!"
-	line "Blast it!"
+	text "va!"
+	line "QI'yaH!"
 	prompt
 
 _SilphCo5FScientistAfterBattleText::
-	text "We worked on the"
-	line "ultimate #"
-	cont "BALL which would"
-	cont "catch anything!"
+	text "#<m><o><Q> nIvchu'"
+	line "wI'oghta'! vay'"
+	cont "jonlaH 'ej not"
+	cont "QapHa'!"
 	done
 
 _SilphCo5FRockerBattleText::
-	text "Whaaat? There"
-	line "shouldn't be any"
-	cont "children here?"
+	text "nuq? naDev"
+	line "puq tu'lu'be' net"
+	cont "tlheb!"
 	done
