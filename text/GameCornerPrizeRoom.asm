@@ -1,12 +1,12 @@
 _GameCornerPrizeRoomBaldingGuyText::
-	text "I sure do fancy"
-	line "that PORYGON!"
+	text "<p><u><S><r><e><D><m><e><y>vetlh"
+	line "veneHqu'!"
 
-	para "But, it's hard to"
-	line "win at slots!"
+	para "vabDot jISuDchugh"
+	line "reH jIlujlaw'!"
 	done
 
 _GameCornerPrizeRoomGamblerText::
-	text "I had a major"
-	line "haul today!"
+	text "DaHjaj jIDo'qu'!"
+	line "buy' <n><g><o><p> <'><a><p><l><o><'>!"
 	done
