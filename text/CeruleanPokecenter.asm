@@ -1,24 +1,21 @@
 _CeruleanPokecenterSuperNerdText::
-	text "That BILL!"
+	text "Dun <b><I><l>!"
 
-	para "I heard that"
-	line "he'll do whatever"
-	cont "it takes to get"
-	cont "rare #MON!"
+	para "#<m><a><n> qun"
+	line "SuqmeH Hoch"
+	cont "Qu'mey DIghqang!"
 	done
 
 _CeruleanPokecenterGentlemanText::
-	text "Have you heard"
-	line "about BILL?"
+	text "<b><I><l> DaSov'a'?"
 
-	para "Everyone calls"
-	line "him a #MANIAC!"
+	para "ghaHvaD"
+	line "#<n><g><o><t><l><h><w><I><'>"
+	cont "pong Hoch!"
 
-	para "I think people"
-	line "are just jealous"
-	cont "of BILL, though."
+	para "'ach <b><I><l> ghal neH"
+	line "chaH 'e' vIHar."
 
-	para "Who wouldn't want"
-	line "to boast about"
-	cont "their #MON?"
+	para "#<m><a><n>Daj Dunmo'"
+	line "mIy neHbe' 'Iv?"
 	done
