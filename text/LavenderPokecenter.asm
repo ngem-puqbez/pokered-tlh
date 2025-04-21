@@ -1,12 +1,13 @@
 _LavenderPokecenterGentlemanText::
-	text "TEAM ROCKET will"
-	line "do anything for"
-	cont "the sake of gold!"
+	text "Huch SuqmeH "
+	line "batlhHa' vangqang"
+	cont "<p><e><n><g><D><u><j> ghom!"
 	done
 
 _LavenderPokecenterLittleGirlText::
-	text "I saw CUBONE's"
-	line "mother die trying"
-	cont "to escape from"
-	cont "TEAM ROCKET!"
+	text "<p><e><n><g><D><u><j> ghomvo'"
+	line "nargh 'e'"
+	cont "nIDtaHvIS mIvHom"
+	cont "SoS... Hegh 'oH"
+	cont "'e' vIlegh."
 	done
