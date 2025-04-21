@@ -1,20 +1,20 @@
 _FuchsiaPokecenterRockerText::
-	text "You can't win"
-	line "with just one"
-	cont "strong #MON."
+	text "Hoch may'mey"
+	line "QaplaHbe'bej"
+	cont "wa' #<m><a><n> mob."
 
-	para "It's tough, but"
-	line "you have to raise"
-	cont "them evenly."
+	para "Qatlh 'a ngIq"
+	line "#<m><a><n> HoS"
+	cont "DarachnIS."
 	done
 
 _FuchsiaPokecenterCooltrainerFText::
-	text "There's a narrow"
-	line "trail west of"
-	cont "VIRIDIAN CITY."
+	text "<q><o><'><r><I><n> <v><e><n><g> 'evDaq"
+	line "taw lang tu'lu'."
 
-	para "It goes to #MON"
-	line "LEAGUE HQ."
-	cont "The HQ governs"
-	cont "all trainers."
+	para "#<m><a><n> 'obe'"
+	line "yaHnIv rar. Hoch #<m><a><n>"
+	cont "#<m><a><n> qeqwI'pu'"
+	cont "Soj 'oH yaHnIvvam"
+	cont "teblaw'."
 	done
