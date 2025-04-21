@@ -1,127 +1,126 @@
 _VermilionCityBeautyText::
-	text "We're careful"
-	line "about pollution!"
+	text "bIQ wISuQmoHbe'meH"
+	line "mayepqu'!"
 
-	para "We've heard GRIMER"
-	line "multiplies in"
-	cont "toxic sludge!"
+	para "HuH SuQDaq nom"
+	line "Sep <c><h><a><r><w><I><'>mey!"
 	done
 
 _VermilionCityGambler1DidYouSeeText::
-	text "Did you see S.S."
-	line "ANNE moored in"
-	cont "the harbor?"
+	text "verghDaq 'aybogh"
+	line "<b><I><Q><D><u><j> <H><o><y><q><u><'>"
+	cont "Daleghpu''a'?"
 	done
 
 _VermilionCityGambler1SSAnneDepartedText::
-	text "So, S.S.ANNE has"
-	line "departed!"
+	text "toH, mejpu'"
+	line "bIQDuj Hoyqu'!"
 
-	para "She'll be back in"
-	line "about a year."
+	para "wa'nem chegh."
 	done
 
 _VermilionCitySailor1WelcomeToSSAnneText::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "<b><I><Q><D><u><j> <H><o><y><q><u><'>Daq"
+	line "pIvan!"
 	done
 
 _VermilionCitySailor1DoYouHaveATicketText::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "<b><I><Q><D><u><j> <H><o><y><q><u><'>Daq"
+	line "pIvan!"
 
-	para "Excuse me, do you"
-	line "have a ticket?"
+	para "yIloS! <c><h><a><w><'>"
+	line "Daghaj'a'?"
 	prompt
 
 _VermilionCitySailor1FlashedTicketText::
-	text "<PLAYER> flashed"
-	line "the S.S.TICKET!"
+	text "nom <b><I><Q><D><u><j> <c><h><a><w><'>"
+	line "cha' <PLAYER>!"
 
-	para "Great! Welcome to"
-	line "S.S.ANNE!"
+	para "maj! <b><I><Q><D><u><j>"
+	line "<H><o><y><q><u><'>Daq pIvan!"
 	done
 
 _VermilionCitySailor1YouNeedATicketText::
-	text "<PLAYER> doesn't"
-	line "have the needed"
-	cont "S.S.TICKET."
+	text "<b><I><Q><D><u><j> <c><h><a><w><'>"
+	line "poQ <PLAYER> 'ach"
+	cont "ghajbe'."
 
-	para "Sorry!"
+	para "jIQoS!"
 
-	para "You need a ticket"
-	line "to get aboard."
+	para "bIQDuj DalItmeH"
+	line "<c><h><a><w><'> DapoQ."
 	done
 
 _VermilionCitySailor1ShipSetSailText::
-	text "The ship set sail."
+	text "wejHa' mej"
+	line "<b><I><Q><D><u><j> <H><o><y><q><u><'>."
 	done
 
 _VermilionCityGambler2Text::
-	text "I'm putting up a"
-	line "building on this"
-	cont "plot of land."
+	text "yotlhvamDaq qach"
+	line "wIchenmoHtaH"
+	cont "#<m><a><n> jIH je."
 
-	para "My #MON is"
-	line "tamping the land."
+	para "pa' yav beQmoHtaH"
+	line "#<m><a><n>wIj."
 	done
 
 _VermilionCityMachopText::
-	text "MACHOP: Guoh!"
-	line "Gogogoh!@"
+	text "<m><a><'><Q><o><r>: ghoH!"
+	line "ghoghoghoH!@"
 	text_end
 
 _VermilionCityMachopStompingTheLandFlatText::
 	text_start
-	para "A MACHOP is"
-	line "stomping the land"
-	cont "flat."
+	para "pe'vIl yav gho'"
+	line "<m><a><'><Q><o><r>. wejHa'"
+	cont "beQchoHtaH."
 	done
 
 _VermilionCitySailor2Text::
-	text "S.S.ANNE is a"
-	line "famous luxury"
-	cont "cruise ship."
+	text "noy <b><I><Q><D><u><j>"
+	line "<H><o><y><q><u><'>."
 
-	para "We visit VERMILION"
-	line "once a year."
+	para "Hoch DIS <b><e><q><p><u><j>"
+	line "<v><e><n><g> wISuch."
 	done
 
 _VermilionCitySignText::
-	text "VERMILION CITY"
-	line "The Port of"
-	cont "Exquisite Sunsets"
+	text "<b><e><q><p><u><j> <v><e><n><g>"
+	line "verghDaq 'IHqu'"
+	cont "tlhom chum."
 	done
 
 _VermilionCityNoticeSignText::
-	text "NOTICE!"
+	text "ghuH!"
 
-	para "ROUTE 12 may be"
-	line "blocked off by a"
-	cont "sleeping #MON."
+	para "<H><e> <w><a><'><m><a><H> <c><h><a><'>Daq"
+	line "lengwI'pu' bottaH"
+	cont "Qongbogh #<m><a><n>."
 
-	para "Detour through"
-	line "ROCK TUNNEL to"
-	cont "LAVENDER TOWN."
+	para "<'><u><m><a><'> <v><e><n><g><H><o><m>"
+	line "jaHmeH <n><a><g><h> <'><o><c><h>"
+	cont "yIvegh."
 
-	para "VERMILION POLICE"
+	para "-<b><e><q><p><u><j> <v><e><n><g>"
+	line "       ghan'Iq"
 	done
 
 _VermilionCityPokemonFanClubSignText::
-	text "#MON FAN CLUB"
-	line "All #MON fans"
-	cont "welcome!"
+	text "#<m><a><n> Ho'wI'pu'"
+	line "pe'vIl Supaw'jaj,"
+	cont "ngotlhwI'pu'!"
 	done
 
 _VermilionCityGymSignText::
-	text "VERMILION CITY"
-	line "#MON GYM"
-	cont "LEADER: LT.SURGE"
+	text "<b><e><q><p><u><j> <v><e><n><g>"
+	line "#<m><a><n> qaD qach"
+	cont "qaD pIn: <t><e><m><I> <S><o><g><h>"
 
-	para "The Lightning "
-	line "American!"
+	para "pe'bIl rurbogh"
+	line "QI' yaS!"
 	done
 
 _VermilionCityHarborSignText::
-	text "VERMILION HARBOR"
+	text "<b><e><q><p><u><j> <v><e><r><g><h>"
 	done
