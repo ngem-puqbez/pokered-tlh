@@ -1,23 +1,25 @@
 _VermilionMartCooltrainerMText::
-	text "There are evil"
-	line "people who will"
-	cont "use #MON for"
-	cont "criminal acts."
+	text "HeSmeH #<m><a><n>"
+	line "lo'bogh nuv'e'"
+	cont "tu'lu'."
 
-	para "TEAM ROCKET"
-	line "traffics in rare"
-	cont "#MON."
+	para "#<m><a><n> Qat ngev"
+	line "<p><e><n><g><D><u><j> ghom."
+	cont "Hatqu'ba'."
 
-	para "They also abandon"
-	line "#MON that they"
-	cont "consider not to"
-	cont "be popular or"
-	cont "useful."
+	para "Qatbe'chugh"
+	line "#<m><a><n>, qoj"
+	cont "lo'laHbe' 'e'"
+	cont "Harchugh ghomvetlh"
+	cont "vaj #<m><a><n>vetlh"
+	cont "lon 'ej woD."
 	done
 
 _VermilionMartCooltrainerFText::
-	text "I think #MON"
-	line "can be good or"
-	cont "evil. It depends"
-	cont "on the trainer."
+	text "mIghlaH 'ej"
+	line "mIghbe'laH"
+	cont "Hoch #<m><a><n>mey"
+	cont "'e' vIHarbej."
+	
+	para "potlh chojwI''e'."
 	done
