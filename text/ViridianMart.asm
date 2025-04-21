@@ -1,31 +1,32 @@
 _ViridianMartClerkSayHiToOakText::
-	text "Okay! Say hi to"
-	line "PROF.OAK for me!"
+	text "chay bIloS?"
+	line "DaH tepvam yIHIj!"
 	done
 
 _ViridianMartClerkYouCameFromPalletTownText::
-	text "Hey! You came from"
-	line "PALLET TOWN?"
+	text "<y><u><t><l><h><e><g><h> <v><e><n><g>vo'"
+	line "bIlengpu''a'?"
 	done
 
 _ViridianMartClerkParcelQuestText::
-	text "You know PROF."
-	line "OAK, right?"
+	text "<'><o><Q> 'a'ghen"
+	line "DaSov, qar'a'?"
 
-	para "His order came in."
-	line "Will you take it"
-	cont "to him?"
+	para "pawpu' Doch'e'"
+	line "vunbogh ghaH."
+	cont "yIHIj!"
 
-	para "<PLAYER> got"
-	line "OAK's PARCEL!@"
+	para "<PLAYER>vaD "
+	line "<'><o><Q> <t><e><p> nob"
+	cont "ngevwI'.@"
 	text_end
 
 _ViridianMartYoungsterText::
-	text "This shop sells"
-	line "many ANTIDOTEs."
+	text "<S><u><Q><H><a><'><w><I><'> law'"
+	line "ngev ngevwI'vam."
 	done
 
 _ViridianMartCooltrainerMText::
-	text "No! POTIONs are"
-	line "all sold out."
+	text "Hutvagh! DaH"
+	line "<H><e><r><g><h> ngevlu'be'."
 	done
