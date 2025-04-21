@@ -1,5 +1,5 @@
 _UndergroundPathRoute7MiddleAgedManText::
-	text "I heard a sleepy"
-	line "#MON appeared"
-	cont "near CELADON CITY."
+	text "<n><g><o><p><w><a><g><h> <v><e><n><g> Sum"
+	line "narghpu' Doy'bogh"
+	cont "#<m><a><n>."
 	done
