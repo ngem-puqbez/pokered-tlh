@@ -1,26 +1,25 @@
 _FuchsiaMeetingRoomSafariZoneWorker1::
-	text "We nicknamed the"
-	line "WARDEN SLOWPOKE."
+	text "<w><a><m><w><I><'><'><a><'>vaD"
+	line "<m><o><D><b><e><b><e><j> wIpong."
 
-	para "He and SLOWPOKE"
-	line "both look vacant!"
+	para "Dach qab ghaj"
+	line "ghaH <m><o><D><b><e><b><e><j> je!"
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker2::
-	text "SLOWPOKE is very"
-	line "knowledgeable"
-	cont "about #MON!"
+	text "#<m><a><n> bopbogh"
+	line "De' Sov <m><o><D><b><e><b><e><j>!"
 
-	para "He even has some"
-	line "fossils of rare,"
-	cont "extinct #MON!"
+	para "'ej qubbogh"
+	line "#<m><a><n> loq "
+	cont "'an'or ghaj je!"
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker3::
-	text "SLOWPOKE came in,"
-	line "but I couldn't"
-	cont "understand him."
+	text "naDev Such "
+	line "<m><o><D><b><e><b><e><j> 'a"
+	cont "vIyajlaHbe'."
 
-	para "I think he's got"
-	line "a speech problem!"
+	para "Qapbe'law'"
+	line "nujDaj!"
 	done
