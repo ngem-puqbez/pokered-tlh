@@ -1,123 +1,124 @@
 _ViridianForestYoungster1Text::
-	text "I came here with"
-	line "some friends!"
+	text "naDev jIpawDI'"
+	line "jupwI'pu'"
+	cont "vItlhej."
 
-	para "They're out for"
-	line "#MON fights!"
+	para "DaH #<m><a><n>"
+	line "SuvtaH chaH!"
 	done
 
 _ViridianForestYoungster2BattleText::
-	text "Hey! You have"
-	line "#MON! Come on!"
-	cont "Let's battle'em!"
+	text "toH! #<m><a><n>"
+	line "Daghaj 'e' vItu'!"
+	cont "maSuvjaj!"
 	done
 
 _ViridianForestYoungster2EndBattleText::
-	text "No!"
-	line "CATERPIE can't"
-	cont "cut it!"
+	text "Qo'!"
+	line "tlhoy puSmo'"
+	cont "<'><u><g><h><D><u><q> jIQapbe'!"
 	prompt
 
 _ViridianForestYoungster2AfterBattleText::
-	text "Ssh! You'll scare"
-	line "the bugs away!"
+	text "yItam!"
+	line "bIchuStaHchugh"
+	cont "'orgh ghewmey!"
 	done
 
 _ViridianForestYoungster3BattleText::
-	text "Yo! You can't jam"
-	line "out if you're a"
-	cont "#MON trainer!"
+	text "toH! #<m><a><n>"
+	line "chojwI' SoHchugh"
+	cont "bIchuS 'e'"
+	cont "vIchaw'be'!"
 	done
 
 _ViridianForestYoungster3EndBattleText::
-	text "Huh?"
-	line "I ran out of"
-	cont "#MON!"
+	text "chay?"
+	line "loj #<m><a><n>wIj."
 	prompt
 
 _ViridianForestYoungster3AfterBattleText::
-	text "Darn! I'm going"
-	line "to catch some"
-	cont "stronger ones!"
+	text "va! DaH HoSbogh"
+	line "#<m><a><n> chu'"
+	cont "vIjonnIS!"
 	done
 
 _ViridianForestYoungster4BattleText::
-	text "Hey, wait up!"
-	line "What's the hurry?"
+	text "toH, HIqIm!"
+	line "qatlh bImoDtaH?"
 	done
 
 _ViridianForestYoungster4EndBattleText::
-	text "I"
-	line "give! You're good"
-	cont "at this!"
+	text "jI..."
+	line "jIjegh."
+	cont "bIpo'law'!"
 	prompt
 
 _ViridianForestYoungster4AfterBattleText::
-	text "Sometimes, you"
-	line "can find stuff on"
-	cont "the ground!"
+	text "rut yavDaq"
+	line "Dochmey Samlu'"
 
-	para "I'm looking for"
-	line "the stuff I"
-	cont "dropped!"
+	para "luch vIchaghbogh"
+	line "vISamtaH."
 	done
 
 _ViridianForestYoungster5Text::
-	text "I ran out of #"
-	line "BALLs to catch"
-	cont "#MON with!"
+	text "Hoch #<m><o><Q>mey"
+	line "vIlo'pu'. DaH"
+	cont "#<m><a><n> latlh"
+	cont "vIjonlaHbe'taH!"
 
-	para "You should carry"
-	line "extras!"
+	para "reH #<m><o><Q>"
+	line "tIqeng!"
 	done
 
 _ViridianForestTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "If you want to"
-	line "avoid battles,"
-	cont "stay away from"
-	cont "grassy areas!"
+	para "#<m><a><n> DaSuv"
+	line "'e' DaneHbe'chugh"
+	cont "vaj magh woch"
+	cont "Da'elbe'nIS!"
 	done
 
 _ViridianForestUseAntidoteSignText::
-	text "For poison, use"
-	line "ANTIDOTE! Get it"
-	cont "at #MON MARTs!"
+	text "#<m><a><n>lIj"
+	line "ngejchugh tar"
+	cont "<S><u><Q><H><a><'><w><I><'> yIlo'!"
 	done
 
 _ViridianForestTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "Contact PROF.OAK"
-	line "via PC to get"
-	cont "your #DEX"
-	cont "evaluated!"
+	para "#<p><a><q>lIj poj"
+	line "<'><o><Q> 'a'ghen."
+	cont "ghaH DarI'meH"
+	cont "De'wI' yIlo'!"
 	done
 
 _ViridianForestTrainerTips3Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "No stealing of"
-	line "#MON from"
-	cont "other trainers!"
-	cont "Catch only wild"
-	cont "#MON!"
+	para "chojwI' #<m><a><n>"
+	line "yInIHQo'."
+	cont "#<m><a><n> tlhab"
+	cont "neH tIjon."
+	cont "HeSwI yIDaQo'!"
 	done
 
 _ViridianForestTrainerTips4Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "Weaken #MON"
-	line "before attempting"
-	cont "capture!"
+	para "#<m><a><n> Dajon"
+	line "'e' DanIDpa'"
+	cont "yIrIQmoH!"
 
-	para "When healthy,"
-	line "they may escape!"
+	para "pIvchugh #<m><a><n>"
+	line "chaq nargh!"
 	done
 
 _ViridianForestLeavingSignText::
-	text "LEAVING"
-	line "VIRIDIAN FOREST"
-	cont "PEWTER CITY AHEAD"
+	text "<q><o><'><r><I><n> <n><g><e><m>"
+	line "DamejtaH."
+	cont "Sum <H><o><t><n><a><g><h> <v><e><n><g>"
 	done
