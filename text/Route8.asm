@@ -1,154 +1,152 @@
 _Route8SuperNerd1BattleText::
-	text "You look good at"
-	line "#MON, but"
-	cont "how's your chem?"
+	text "QaQlaw' #<m><a><n>lIj"
+	line "'ach QaQ'a'"
+	cont "tamlerQeDlIj?"
 	done
 
 _Route8SuperNerd1EndBattleText::
-	text "Ow!"
-	line "Meltdown!"
+	text "'oy'!"
+	line "tlhoy choH!"
 	prompt
 
 _Route8SuperNerd1AfterBattleText::
-	text "I am better at"
-	line "school than this!"
+	text "DuSaQ vImaS; may'"
+	line "vImaS 'e' qa'!"
 	done
 
 _Route8Gambler1BattleText::
-	text "All right! Let's"
-	line "roll the dice!"
+	text "maj! mI' nagh"
+	line "DIronmoH! Ha'!"
 	done
 
 _Route8Gambler1EndBattleText::
-	text "Drat!"
-	line "Came up short!"
+	text "ghuy!"
+	line "luj mI'wIj!"
 	prompt
 
 _Route8Gambler1AfterBattleText::
-	text "Lady Luck's not"
-	line "with me today!"
+	text "DaHjaj "
+	line "jIDo'be'bej!"
 	done
 
 _Route8SuperNerd2BattleText::
-	text "You need strategy"
-	line "to win at this!"
+	text "qaDvam Qaplu'meH"
+	line "Dup poQlu'!"
 	done
 
 _Route8SuperNerd2EndBattleText::
-	text "It's"
-	line "not logical!"
+	text "ghu'vam"
+	line "QIjbe' meq!"
 	prompt
 
 _Route8SuperNerd2AfterBattleText::
-	text "Go with GRIMER"
-	line "first...and..."
-	cont "...and...then..."
+	text "SIbI' <c><h><a><r><w><I><'>"
+	line "vIngeH...'ej"
+	cont "...ghIq...ghIq..."
 	done
 
 _Route8CooltrainerF1BattleText::
-	text "I like NIDORAN, so"
-	line "I collect them!"
+	text "<D><u><Q><u><c><h>mey vIparHa'"
+	line "vaj bIH vIboS!"
 	done
 
 _Route8CooltrainerF1EndBattleText::
-	text "Why? Why??"
+	text "chay'?"
+	line "qab!"
 	prompt
 
 _Route8CooltrainerF1AfterBattleText::
-	text "When #MON grow"
-	line "up they get ugly!"
-	cont "They shouldn't"
-	cont "evolve!"
+	text "nenchoHDI' #<m><a><n>"
+	line "moHchoH je!"
+	cont "ghe'be' 'e'"
+	cont "vItlheb!"
 	done
 
 _Route8SuperNerd3BattleText::
-	text "School is fun, but"
-	line "so are #MON."
+	text "DuSaQ vItIv, 'a"
+	line "#<m><a><n> vItIv je."
 	done
 
 _Route8SuperNerd3EndBattleText::
-	text "I'll"
-	line "stay with school."
+	text "DuSaQ"
+	line "vIcheghnISlaw'."
 	prompt
 
 _Route8SuperNerd3AfterBattleText::
-	text "We're stuck here"
-	line "because of the"
-	cont "gates at SAFFRON."
+	text "ngaQmo' <n><a><'><r><a><n><y><u><b> <v><e><n><g>"
+	line "lojmIt naDev"
+	cont "maSat."
 	done
 
 _Route8CooltrainerF2BattleText::
-	text "MEOWTH is so cute,"
-	line "meow, meow, meow!"
+	text  "'IH <'><I><m><y><a><g><h><o><g><h>,"
+	line "'Imyagh, 'Imyagh!"
 	done
 
 _Route8CooltrainerF2EndBattleText::
-	text "Meow!"
+	text "'Imyagh!"
 	prompt
 
 _Route8CooltrainerF2AfterBattleText::
-	text "I think PIDGEY"
-	line "and RATTATA"
-	cont "are cute too!"
+	text "'IH <c><h><a><'><l><I><S><n><u>"
+	line "<b><o><q><c><h><u><S><r><a><t> je!"
 	done
 
 _Route8CooltrainerF3BattleText::
-	text "We must look"
-	line "silly standing"
-	cont "here like this!"
+	text "naDev maqammo'"
+	line "matlhaQlaw'!"
 	done
 
 _Route8CooltrainerF3EndBattleText::
-	text "Look what"
-	line "you did!"
+	text "wanI'"
+	line "DaqaSmoHbogh"
+	cont "yIchotlh!"
 	prompt
 
 _Route8CooltrainerF3AfterBattleText::
-	text "SAFFRON's gate"
-	line "keeper won't let"
-	cont "us through."
-	cont "He's so mean!"
+	text "ma'el 'e' chaw'be'"
+	line "lojmIt 'avwI'."
+	cont "DachtaH ghaH!"
 	done
 
 _Route8Gambler2BattleText::
-	text "I'm a rambling,"
-	line "gambling dude!"
+	text "jISuD 'ej jIyuD!"
+	line "jItlhayHa'!"
 	done
 
 _Route8Gambler2EndBattleText::
-	text "Missed"
-	line "the big score!"
+	text "narghpu'"
+	line "'eb'a'! jIQapbe'!"
 	prompt
 
 _Route8Gambler2AfterBattleText::
-	text "Gambling and"
-	line "#MON are like"
-	cont "eating peanuts!"
-	cont "Just can't stop!"
+	text "may', mI' nagh je"
+	line "vImevlaHbe';"
+	cont "naHlet vISoptaH"
+	cont "'e' lurur!"
 	done
 
 _Route8CooltrainerF4BattleText::
-	text "What's a cute,"
-	line "round and fluffy"
-	cont "#MON?"
+	text "machbogh, tunbogh"
+	line "'ej rutlhbogh"
+	cont "#<m><a><n> yIngu'!"
 	done
 
 _Route8CooltrainerF4EndBattleText::
-	text "Stop!"
+	text "yImev!"
 
-	para "Don't be so mean"
-	line "to my CLEFAIRY!"
+	para "<j><a><g><h><'><I><v>wIjvaD"
+	line "yIDochQo'!"
 	prompt
 
 _Route8CooltrainerF4AfterBattleText::
-	text "I heard that"
-	line "CLEFAIRY evolves"
-	cont "when it's exposed"
-	cont "to a MOON STONE."
+	text "<m><a><S> <n><a><g><h> Hot"
+	line "<j><a><g><h><'><I><v> ngugh"
+	cont "ghe' 'e' ja' joS."
 	done
 
 _Route8UndergroundSignText::
-	text "UNDERGROUND PATH"
-	line "CELADON CITY -"
-	cont "LAVENDER TOWN"
+	text "<w><u><t><l><h> <t><a><w>"
+	line "<n><g><o><p><w><a><g><h> <v><e><n><g> -"
+	cont "<'><u><m><a><'> <v><e><n><g><H><o><m>"
 	done
