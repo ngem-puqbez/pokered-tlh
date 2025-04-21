@@ -1,152 +1,153 @@
 _SaffronCityRocket1Text::
-	text "What do you want?"
-	line "Get lost!"
+	text "nuqneH, puq?"
+	line "HImej!"
 	done
 
 _SaffronCityRocket2Text::
-	text "BOSS said he'll"
-	line "take this town!"
+	text "tugh vengvam"
+	line "SeH <p><I><n> 'e' ja'!"
 	done
 
 _SaffronCityRocket3Text::
-	text "Get out of the"
-	line "way!"
+	text "Hemaj"
+	line "yIbotQo'!"
 	done
 
 _SaffronCityRocket4Text::
-	text "SAFFRON belongs"
-	line "to TEAM ROCKET!"
+	text "<n><a><'><r><a><n><y><u><b> <v><e><n><g>"
+	line "SeH <p><e><n><g><D><u><j> ghom!"
 	done
 
 _SaffronCityRocket5Text::
-	text "Being evil makes"
-	line "me feel so alive!"
+	text "jImIghtaHmo'"
+	line "jISey!"
 	done
 
 _SaffronCityRocket6Text::
-	text "Ow! Watch where"
-	line "you're walking!"
+	text "'oy'! HelIj yISaH!"
 	done
 
 _SaffronCityRocket7Text::
-	text "With SILPH under"
-	line "control, we can"
-	cont "exploit #MON"
-	cont "around the world!"
+	text "<S><I><l><v><a><'> malja'"
+	line "wISeHmo' Dat"
+	cont "#<m><a><n>mey"
+	cont "DISeHlaH je!"
 	done
 
 _SaffronCityScientistText::
-	text "You beat TEAM"
-	line "ROCKET all alone?"
-	cont "That's amazing!"
+	text "<p><e><n><g><D><u><j> ghom"
+	line "Dajey! bImob'a'?"
+	cont "bIDunqu'bej!"
 	done
 
 _SaffronCitySilphWorkerMText::
-	text "Yeah! TEAM ROCKET"
-	line "is gone!"
-	cont "It's safe to go"
-	cont "out again!"
+	text "maj! DachchoH"
+	line "<p><e><n><g><D><u><j> ghom!"
+	cont "DaH Qobbe'"
+	cont "taw'meymaj!"
 	done
 
 _SaffronCitySilphWorkerFText::
-	text "People should be"
-	line "flocking back to"
-	cont "SAFFRON now."
+	text "tugh vengmaj"
+	line "luchegh ghotpu'"
+	cont "law' 'e' vIjal."
 	done
 
 _SaffronCityGentlemanText::
-	text "I flew here on my"
-	line "PIDGEOT when I"
-	cont "read about SILPH."
+	text "<S><I><l><v><a><'> malja'"
+	line "bopbogh De'"
+	cont "vIlaDDI' cha'lIS'a"
+	cont "vIlIt 'ej mave'!"
 
-	para "It's already over?"
-	line "I missed the"
-	cont "media action."
+	para "wejHa' rIn?"
+	line "SeymoHbogh"
+	cont "De' chu' 'eb"
+	cont "vIjonHa'!"
 	done
 
 _SaffronCityPidgeotText::
-	text "PIDGEOT: Bi bibii!@"
+	text "<c><h><a><'><l><I><S><'><a>: bI"
+	line " bIbIbII!@"
 	text_end
 
 _SaffronCityRockerText::
-	text "I saw ROCKET"
-	line "BOSS escaping"
-	cont "SILPH's building."
+	text "<S><I><l><v><a><'> qachvo' HeD"
+	line "<p><e><n><g><D><u><j> pIn 'e'"
+	cont "vIlegh."
 	done
 
 _SaffronCityRocket8Text::
-	text "I'm a security"
-	line "guard."
+	text "Hung 'avwI' jIH."
 
-	para "Suspicious kids I"
-	line "don't allow in!"
+	para "'el puqpu' pIH"
+	line "'e' vIchaw'Qo'!"
 	done
 
 _SaffronCityRocket9Text::
 	text "..."
-	line "Snore..."
+	line "wuuuD..."
 
-	para "Hah! He's taking"
-	line "a snooze!"
+	para "Hgh! DumtaH"
+	line "ghaH!"
 	done
 
 _SaffronCitySignText::
-	text "SAFFRON CITY"
-	line "Shining, Golden"
-	cont "Land of Commerce"
+	text "<n><a><'><r><a><n><y><u><b> <v><e><n><g>"
+	line "bochbogh malja'"
+	cont "Sep; qol'om rur"
 	done
 
 _SaffronCityFightingDojoSignText::
-	text "FIGHTING DOJO"
+	text "<m><a><y><'> <'><a><m><p><a><S>"
 	done
 
 _SaffronCityGymSignText::
-	text "SAFFRON CITY"
-	line "#MON GYM"
-	cont "LEADER: SABRINA"
+	text "<n><a><'><r><a><n><y><u><b> <v><e><n><g>"
+	line "#<m><a><n> qaDqach"
+	cont "qaDpIn: <r><I><l><'><e><g><h>"
 
-	para "The Master of"
-	line "Psychic #MON!"
+	para "yab #<m><a><n>"
+	line "pIn'a'na'!"
 	done
 
 _SaffronCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "FULL HEAL cures"
-	line "all ailments like"
-	cont "sleep and burns."
+	para "Dotlhmey qab"
+	line "vor pIvchu'moHwI',"
+	cont "Qong qoj meQlu'"
+	cont "'aghmeH."
 
-	para "It costs a bit"
-	line "more, but it's"
-	cont "more convenient."
+	para "loQ wagh 'a"
+	line "lI'qu'ba'!"
 	done
 
 _SaffronCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "New GREAT BALL"
-	line "offers improved"
-	cont "capture rates."
+	para "DunmoQ vaQ law'"
+	line "nubwI'Daj vaQ puS"
+	cont "vurmo'."
 
-	para "Try it on those"
-	line "hard-to-catch"
-	cont "#MON."
+	para "#<m><a><n>mey rotlh"
+	line "lujonlu'rupbe'bogh"
+	cont "jonmeH yIlo'."
 	done
 
 _SaffronCitySilphCoSignText::
-	text "SILPH CO."
-	line "OFFICE BUILDING"
+	text "<S><I><l><v><a><'> malja'"
+	line "HuqmeH qach"
 	done
 
 _SaffronCityMrPsychicsHouseSignText::
-	text "MR.PSYCHIC's"
-	line "HOUSE"
+	text "<'><e><r><w><I><'> <j><o><H>"
+	line "juH qach"
 	done
 
 _SaffronCitySilphCoLatestProductSignText::
-	text "SILPH's latest"
-	line "product!"
+	text "<S><I><l><v><a><'> malja'"
+	line "chab chu'!"
 
-	para "Release to be"
-	line "determined..."
+	para "wej je'laH"
+	line "roghvaH..."
 	done
