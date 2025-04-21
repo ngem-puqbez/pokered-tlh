@@ -1,97 +1,94 @@
 SilphCo2FSilphWorkerFPleaseTakeThisText::
-	text "Eeek!"
-	line "No! Stop! Help!"
+	text "loS!"
+	line "Qo'! mev! QaH!"
 
-	para "Oh, you're not"
-	line "with TEAM ROCKET."
-	cont "I thought..."
-	cont "I'm sorry. Here,"
-	cont "please take this!"
+	para "toH, <p><e><n><g><D><u><j> ghom"
+	line "beq SoHbe'."
+	cont "mughIj..."
+	cont "jIQoS. Hu..."
+	cont "luchvam yItlhap!"
 	prompt
 
 _SilphCo2FSilphWorkerFReceivedTM36Text::
-	text "<PLAYER> got"
-	line "@"
 	text_ram wStringBuffer
-	text "!@"
+	text "Hev <PLAYER>!@"
 	text_end
 
 _SilphCo2FSilphWorkerFTM36ExplanationText::
-	text "TM36 is"
-	line "SELFDESTRUCT!"
+	text "<H><I><v><n><e><S> tonSaw'"
+	line "ngaS <t><j>36!"
 
-	para "It's powerful, but"
-	line "the #MON that"
-	cont "uses it faints!"
-	cont "Be careful."
+	para "HoSqu' 'ach"
+	line "lo'bogh #<m><a><n>"
+	cont "vulmoH je!"
+	cont "yIyep."
 	done
 
 _SilphCo2FSilphWorkerFTM36NoRoomText::
-	text "You don't have any"
-	line "room for this."
+	text "'Iq luchlIj. DaH"
+	line "DatlhaplaHbe'."
 	done
 
 _SilphCo2FScientist1BattleText::
-	text "Help! I'm a SILPH"
-	line "employee."
+	text "HIboQ! <S><I><l><v><a><'>"
+	line "malja' vumwI' jIH."
 	done
 
 _SilphCo2FScientist1EndBattleText::
-	text "How"
-	line "did you know I"
-	cont "was a ROCKET?"
+	text "<p><e><n><g><D><u><j> ghom"
+	line "vItoy' chay' 'e'"
+	cont "DatlhojlaH?"
 	prompt
 
 _SilphCo2FScientist1AfterBattleText::
-	text "I work for both"
-	line "SILPH and TEAM"
-	cont "ROCKET!"
+	text "<S><I><l><v><a><'> malja'"
+	line "<p><e><n><g><D><u><j> ghom je"
+	cont "vItoy'!"
 	done
 
 _SilphCo2FScientist2BattleText::
-	text "It's off limits"
-	line "here! Go home!"
+	text "SoHvaD tuch"
+	line "Daqvam! juH yIjaH!"
 	done
 
 _SilphCo2FScientist2EndBattleText::
-	text "You're"
-	line "good."
+	text "bIQaQ."
+	line " "
 	prompt
 
 _SilphCo2FScientist2AfterBattleText::
-	text "Can you solve the"
-	line "maze in here?"
+	text "chen'ong yughbogh"
+	line "qachvam DaSov'a'?"
 	done
 
 _SilphCo2FRocket1BattleText::
-	text "No kids are"
-	line "allowed in here!"
+	text "naDev puqpu'"
+	line "lutuchlu'!"
 	done
 
 _SilphCo2FRocket1EndBattleText::
-	text "Tough!"
+	text "bIrotlh!"
 	prompt
 
 _SilphCo2FRocket1AfterBattleText::
-	text "Diamond shaped"
-	line "tiles are"
-	cont "teleport blocks!"
+	text "ghot Qol meyrI'"
+	line "rurbogh majyang!"
 
-	para "They're hi-tech"
-	line "transporters!"
+	para "jolpat vurqu'"
+	line "bIHbej!"
 	done
 
 _SilphCo2FRocket2BattleText::
-	text "Hey kid! What are"
-	line "you doing here?"
+	text "toH, puq! naDev"
+	line "nuq Data'taH?"
 	done
 
 _SilphCo2FRocket2EndBattleText::
-	text "I goofed!"
+	text "jIQagh!"
 	prompt
 
 _SilphCo2FRocket2AfterBattleText::
-	text "SILPH CO. will"
-	line "be merged with"
-	cont "TEAM ROCKET!"
+	text "tugh mergh <S><I><l><v><a><'>"
+	line "malja' <p><e><n><g><D><u><j>"
+	cont "ghom je!"
 	done
