@@ -2,9 +2,9 @@
 
 VitaminStats:
 	list_start
-	li "HEALTH"
-	li "ATTACK"
-	li "DEFENSE"
-	li "SPEED"
-	li "SPECIAL"
+	li "yIn"
+	li "HoS"
+	li "Hub"
+	li "Do"
+	li "boqHar"
 	assert_list_length NUM_STATS
