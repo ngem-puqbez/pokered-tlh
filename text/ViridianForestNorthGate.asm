@@ -1,19 +1,19 @@
 _ViridianForestNorthGateSuperNerdText::
-	text "Many #MON live"
-	line "only in forests "
-	cont "and caves."
+	text "ngem DIS ghap"
+	line "Dab #<m><a><n> mut"
+	cont "law'."
 
-	para "You need to look"
-	line "everywhere to get"
-	cont "different kinds!"
+	para "Hoch jonmeH"
+	line "Dat tlharghnIS"
+	cont "#<m><a><n> chojwI'!"
 	done
 
 _ViridianForestNorthGateGrampsText::
-	text "Have you noticed"
-	line "the bushes on the"
-	cont "roadside?"
+	text "wejHa' He"
+	line "retlhDaq lavmey"
+	cont "Datu''a'?"
 
-	para "They can be cut"
-	line "down by a special"
-	cont "#MON move."
+	para "Ho'DoS lI'"
+	line "lo'chugh #<m><a><n>"
+	cont "bIH <p><e><'>laH."
 	done
