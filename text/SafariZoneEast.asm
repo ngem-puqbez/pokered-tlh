@@ -1,16 +1,15 @@
 _SafariZoneEastRestHouseSignText::
-	text "REST HOUSE"
+	text "<l><e><S> <q><a><c><h>"
 	done
 
 _SafariZoneEastTrainerTipsText::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "The remaining time"
-	line "declines only"
-	cont "while you walk!"
+	para "bIyItbe'chugh"
+	line "poH DaweSbe'!"
 	done
 
 _SafariZoneEastSignText::
-	text "CENTER AREA"
-	line "NORTH: AREA 2"
+	text "botlh Daq"
+	line "'ev: Daq 2"
 	done
