@@ -1,86 +1,83 @@
 _VictoryRoad2FMoltresBattleText::
-	text "Gyaoo!@"
+	text "ghayeaw!@"
 	text_end
 
 _VictoryRoad2FHikerBattleText::
-	text "VICTORY ROAD is"
-	line "the final test"
-	cont "for trainers!"
+	text "#<m><a><n> 'obe'"
+	line "qaDpa' chojwI'"
+	cont "<y><a><y> <t><a><w>Daq"
+	cont "chIjnIS!"
 	done
 
 _VictoryRoad2FHikerEndBattleText::
-	text "Aiyah!"
+	text "Hutvagh!"
 	prompt
 
 _VictoryRoad2FHikerAfterBattleText::
-	text "If you get stuck,"
-	line "try moving some"
-	cont "boulders around!"
+	text "bIruchlaHbe'chugh"
+	line "taw chu'"
+	cont "yIchenmoH! vIHlaH"
+	cont "nagh 'op!"
 	done
 
 _VictoryRoad2FSuperNerd1BattleText::
-	text "Ah, so you wish"
-	line "to challenge the"
-	cont "ELITE FOUR?"
+	text "toH, loS nIvwI'pu'"
+	line "DaqaD 'e' DaHech!"
 	done
 
 _VictoryRoad2FSuperNerd1EndBattleText::
-	text "You"
-	line "got me!"
+	text ""
+	line "choqIpqu'!"
 	prompt
 
 _VictoryRoad2FSuperNerd1AfterBattleText::
-	text "<RIVAL> also came"
-	line "through here!"
+	text "naDev <RIVAL>"
+	line "vIlegh!"
 	done
 
 _VictoryRoad2FCooltrainerMBattleText::
-	text "Come on!"
-	line "I'll whip you!"
+	text "HIghoS! qaqIpmeH"
+	line "HenjunwIj vIQach!"
 	done
 
 _VictoryRoad2FCooltrainerMEndBattleText::
-	text "I got"
-	line "whipped!"
+	text "jIH"
+	line "choqIp 'e' qa'!"
 	prompt
 
 _VictoryRoad2FCooltrainerMAfterBattleText::
-	text "You earned the"
-	line "right to be on"
-	cont "VICTORY ROAD!"
+	text "<y><a><y> <t><a><w>Daq leng"
+	line "DIb Dabajta'bej!"
 	done
 
 _VictoryRoad2FSuperNerd2BattleText::
-	text "If you can get"
-	line "through here, you"
-	cont "can go meet the"
-	cont "ELITE FOUR!"
+	text "DISvam naQ"
+	line "DaveghlaHchugh"
+	cont "<l><o><S> <n><I><v><w><I><'>pu'"
+	cont "DaqaDlaH!"
 	done
 
 _VictoryRoad2FSuperNerd2EndBattleText::
-	text "No!"
-	line "Unbelievable!"
+	text "Qo'!"
+	line "Harbe'la'!"
 	prompt
 
 _VictoryRoad2FSuperNerd2AfterBattleText::
-	text "I can beat you"
-	line "when it comes to"
-	cont "knowledge about"
-	cont "#MON!"
+	text "#<m><a><n> ngoDHom"
+	line "Sov qaD vIQaplaH."
 	done
 
 _VictoryRoad2FSuperNerd3BattleText::
-	text "Is VICTORY ROAD"
-	line "too tough?"
+	text "tlhoy' rotlh'a'"
+	line "<y><a><y> <t><a><w>?"
 	done
 
 _VictoryRoad2FSuperNerd3EndBattleText::
-	text "Well"
-	line "done!"
+	text "maj!"
+	line "majQa'!"
 	prompt
 
 _VictoryRoad2FSuperNerd3AfterBattleText::
-	text "Many trainers give"
-	line "up the challenge"
-	cont "here."
+	text "naDev jegh chojwI'"
+	line "law'! rotlhqu'."
 	done
