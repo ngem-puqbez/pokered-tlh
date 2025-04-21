@@ -1,38 +1,39 @@
 _SaffronGateGuardGeeImThirstyText::
-	text "I'm on guard duty."
-	line "Gee, I'm thirsty,"
-	cont "though!"
+	text "naDev jI'av!"
+	line "..."
+	cont "'ach jI'oj je."
 
-	para "Oh wait there,"
-	line "the road's closed."
+	para "toH, pa' DajaH"
+	line "'e' vIchaw'be'."
 	done
 
 _SaffronGateGuardImParchedText::
-	text "Whoa, boy!"
-	line "I'm parched!"
+	text "va, ghuy'!"
+	line "jI'ojqu'!"
 	cont "..."
-	cont "Huh? I can have"
-	cont "this drink?"
-	cont "Gee, thanks!@"
+	cont "toH? Soj Daghaj!"
+	cont "vItlhutlhlaH'a'?"
+	cont "maj! qawel!@"
 	text_end
 
 _SaffronGateGuardYouCanGoOnThroughText::
 	text_start
 
 	para "..."
-	line "Glug glug..."
+	line "ghup ghup..."
 	cont "..."
-	cont "Gulp..."
-	cont "If you want to go"
-	cont "to SAFFRON CITY..."
+	cont "ghup..."
+	cont "<n><a><'><r><a><n><y><u><b> <v><e><n><g>"
+	cont "DajaH DaneHchugh"
 	cont "..."
-	cont "You can go on"
-	cont "through. I'll"
-	cont "share this with"
-	cont "the other guards!"
+	cont "qachaw'."
+	para "'avwI'pu'"
+	line "latlhvaD Sojvam"
+	cont "vIlIn."
 	done
 
 _SaffronGateGuardThanksForTheDrinkText::
-	text "Hi, thanks for"
-	line "the cool drinks!"
+	text "toH, Sojvammo'"
+	line "qatlho'nIS!"
+	cont "yIruch!"
 	done
