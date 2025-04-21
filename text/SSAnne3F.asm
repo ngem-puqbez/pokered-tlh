@@ -1,7 +1,7 @@
 _SSAnne3FSailorText::
-	text "Our CAPTAIN is a"
-	line "sword master!"
+	text "yanwI' pIn'a'"
+	line "ghaH HoDma''e'!"
 
-	para "He even teaches"
-	line "CUT to #MON!"
+	para "#<m><a><n>vaD <p><e><'>"
+	line "Ho'DoS ghojmoH je!"
 	done
