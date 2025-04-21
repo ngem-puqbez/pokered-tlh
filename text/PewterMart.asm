@@ -1,17 +1,17 @@
 _PewterMartYoungsterText::
-	text "A shady, old man"
-	line "got me to buy"
-	cont "this really weird"
-	cont "fish #MON!"
+	text "jIHvaD ghotI'"
+	line "#<m><a><n>vam ngev"
+	cont "loD taQ."
 
-	para "It's totally weak"
-	line "and it cost ¥500!"
+	para "pujqu' 'ach ¥500"
+	line "neH 'oH DIlmeH"
+	cont "HuchDaj'e'!"
 	done
 
 _PewterMartSuperNerdText::
-	text "Good things can"
-	line "happen if you"
-	cont "raise #MON"
-	cont "diligently, even"
-	cont "the weak ones!"
+	text "#<m><a><n>"
+	line "DaQorghchugh 'ej"
+	cont "bIjeghbe'chugh"
+	cont "vabDot HoSchoHlaH"
+	cont "#<m><a><n> pujqu'!"
 	done
