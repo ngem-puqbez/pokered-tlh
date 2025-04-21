@@ -1,55 +1,54 @@
 _SilphCo5FRockerEndBattleText::
-	text "Oh"
-	line "goodness!"
+	text "toH"
+	line "Qu'vatlh!"
 	prompt
 
 _SilphCo5FRockerAfterBattleText::
-	text "You're only on 5F."
-	line "It's a long way"
-	cont "to my BOSS!"
+	text "<S>5Daq DatoSta'."
+	line "Hopqu'taH pInwI'!"
 	done
 
 _SilphCo5FRocket2BattleText::
-	text "Show TEAM ROCKET"
-	line "a little respect!"
+	text "<p><e><n><g><D><u><j> ghom"
+	line "DavuvchoHnIS!"
 	done
 
 _SilphCo5FRocket2EndBattleText::
-	text "Cough..."
-	line "Cough..."
+	text "jItuS..."
+	line "tuStaH..."
 	prompt
 
 _SilphCo5FRocket2AfterBattleText::
-	text "Which reminds me."
+	text "toH, vIqaw'moHlu'..."
 
-	para "KOFFING evolves"
-	line "into WEEZING!"
+	para "ghe'DI' tuStuS,"
+	line "tlhovtlhov moj!"
 	done
 
 _SilphCo5FPokemonReport1Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "#<m><a><n> QulwI'"
+	line "ghItlh 'oH!"
 
-	para "#MON LAB"
-	line "created PORYGON,"
-	cont "the first virtual"
-	cont "reality #MON."
+	para "<p><u><S><r><e><D><m><e><y>"
+	line "luchenmoHta'"
+	cont "QulwI'pu'. DI'ruj"
+	cont "velqa' #<m><a><n>"
+	cont "wa'DIch 'oH."
 	done
 
 _SilphCo5FPokemonReport2Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "#<m><a><n> QulwI'"
+	line "ghItlh 'oH!"
 
-	para "Over 160 #MON"
-	line "techniques have"
-	cont "been confirmed."
+	para "rav 160 tonSaw'"
+	line "pIm woqta' QulwI'."
 	done
 
 _SilphCo5FPokemonReport3Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "#<m><a><n> QulwI'"
+	line "ghItlh 'oH!"
 
-	para "4 #MON evolve"
-	line "only when traded"
-	cont "by link-cable."
+	para "4 #<m><a><n> ghe'meH"
+	line "bIH mechnIS cha'"
+	cont "chojwI'pu'."
 	done
