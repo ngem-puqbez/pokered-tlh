@@ -1,5 +1,5 @@
 _CinnabarMartSilphWorkerFText::
-	text "naDev <H><o><S> ><'><e><n><t><e><D>"
+	text "naDev <H><o><S> <'><e><n><t><e><D>"
 	line "ngevbe''a'? "
 	cont "may'vaD QaQ!"
 	done
