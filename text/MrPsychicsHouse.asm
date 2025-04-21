@@ -1,26 +1,27 @@
 _MrPsychicsHouseMrPsychicYouWantedThisText::
-	text "...Wait! Don't"
-	line "say a word!"
+	text "...yIloS! mu'"
+	line "yIjatlhQo'!"
 
-	para "You wanted this!"
+	para "Dochvam DaneH!"
 	prompt
 
 _MrPsychicsHouseMrPsychicReceivedTM29Text::
-	text "<PLAYER> received"
-	line "@"
+	text "@"
 	text_ram wStringBuffer
-	text "!@"
+	text "Hev"
+	line <PLAYER>!@"
 	text_end
 
 _MrPsychicsHouseMrPsychicTM29ExplanationText::
-	text "TM29 is PSYCHIC!"
+	text "<r><e><l><l><e><g><h><D><a><q>"
+	line "tonSaw' 'oH <t><j>29."
 
-	para "It can lower the"
-	line "target's SPECIAL"
-	cont "abilities."
+	para "jegh <b><o><q><H><a><r>"
+	line "nupmoHlaH "
+	cont "tonSaw'vam."
 	done
 
 _MrPsychicsHouseMrPsychicTM29NoRoomText::
-	text "Where do you plan"
-	line "to put this?"
+	text "nuqDaq luchvam"
+	line "Dapol 'e' DaHech?"
 	done
