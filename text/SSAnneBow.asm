@@ -1,52 +1,50 @@
 _SSAnneBowSuperNerdText::
-	text "The party's over."
-	line "The ship will be"
-	cont "departing soon."
+	text "rIn lop. tugh"
+	line "tlheD bIQ Dujvam."
 	done
 
 _SSAnneBowSailor1Text::
-	text "Scrubbing decks"
-	line "is hard work!"
+	text "rav vISay'moHlI'!"
+	line "Qu' Qatlh 'oH!"
 	done
 
 _SSAnneBowCooltrainerMText::
-	text "Urf. I feel ill."
+	text "Hu... jIroplaw'."
 
-	para "I stepped out to"
-	line "get some air."
+	para "'op rewve' nIt"
+	line "vItlhuHnIS."
 	done
 
 _SSAnneBowSailor2BattleText::
-	text "Hey matey!"
-
-	para "Let's do a little"
-	line "jig!"
+	text "toH jupwI'!"
+	line "loQ mamI'jaj!"
 	done
 
 _SSAnneBowSailor2EndBattleText::
-	text "You're"
-	line "impressive!"
+	text " "
+	line "bIDajqu'!"
 	prompt
 
 _SSAnneBowSailor2AfterBattleText::
-	text "How many kinds of"
-	line "#MON do you"
-	cont "think there are?"
+	text "#<m><a><n> mut 'ar"
+	line "tu'lu'? nuq DaHar?"
 	done
 
 _SSAnneBowSailor3BattleText::
-	text "Ahoy there!"
-	line "Are you seasick?"
+	text "toH jupwI'!"
+	line "bIroptaH'a'?"
 	done
 
 _SSAnneBowSailor3EndBattleText::
-	text "I was"
-	line "just careless!"
+	text "va..."
+	line "jIyepHa' neH!"
 	prompt
 
 _SSAnneBowSailor3AfterBattleText::
-	text "My Pa said there"
-	line "are 100 kinds of"
-	cont "#MON. I think"
-	cont "there are more."
+	text "wa'vatlh #<m><a><n>"
+	line "mut tu'lu' 'e'"
+	cont "jatlh vavoywI'."
+	cont "'ach yapbe'"
+	cont "mI'vetlh 'e'"
+	cont "vIHar."
 	done
