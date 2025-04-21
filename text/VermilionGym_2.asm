@@ -22,7 +22,7 @@ _VermilionGymLTSurgeThunderBadgeInfoText::
 
 _VermilionGymLTSurgeReceivedTM24Text::
 	text "@"
-	text_ram wcf4b
+	text_ram wStringBuffer
 	text_start
 	line "Suq <PLAYER>!@"
 	text_end
