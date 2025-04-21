@@ -1,135 +1,127 @@
 _SilphCo11FSilphPresidentText::
-	text "PRESIDENT: Thank"
-	line "you for saving"
-	cont "SILPH!"
+	text "<v><u><'><w><I><'><'><a><'>: <S><I><l><v><a><'>"
+	line "malja'wIj "
+	cont "DatoDmo' qatlho'!"
 
-	para "I will never"
-	line "forget you saved"
-	cont "us in our moment"
-	cont "of peril!"
+	para "Qobqu'taHvIS jutoD"
+	line "'e' DangIlmo'"
+	cont "reH batlh pIqaw'!"
 
-	para "I have to thank"
-	line "you in some way!"
+	para "qatlho'qu'mo'"
+	line "pop qanobnIS!"
 
-	para "Because I am rich,"
-	line "I can give you"
-	cont "anything!"
+	para "jImIpqu'mo'"
+	line "vay' vIpeSlaH!"
 
-	para "Here, maybe this"
-	line "will do!"
+	para "toH, chaq yap"
+	line "luchvam SIr!"
 	prompt
 
 _SilphCo11FSilphPresidentReceivedMasterBallText::
-	text "<PLAYER> got a"
-	line "@"
+
 	text_ram wStringBuffer
-	text "!@"
+	text "Hev <PLAYER>!@"
 	text_end
 
 _SilphCo11FSilphPresidentMasterBallDescriptionText::
-	text "PRESIDENT: You"
-	line "can't buy that"
-	cont "anywhere!"
+	text "<v><u><'><w><I><'><'><a><'>: Dochvam"
+	line "je'laH pagh! qen"
+	cont "'oH lu'ogh tejwI'!"
 
-	para "It's our secret"
-	line "prototype MASTER"
-	cont "BALL!"
+	para "#<m><o><Q> nIvchu'"
+	line "'aHDuHmaj 'oH!"
 
-	para "It will catch any"
-	line "#MON without"
-	cont "fail!"
+	para "#<m><a><n> tlhab"
+	line "jonlaHchu'."
+	cont "not QapHa'!"
 
-	para "You should be"
-	line "quiet about using"
-	cont "it, though."
+	para "'ach Dalo'chugh"
+	line "Dapegh 'e'"
+	cont "vItlheb."
 	done
 
 _SilphCo11FSilphPresidentNoRoomText::
-	text "You have no"
-	line "room for this."
+	text "buy' buqlIj. DaH"
+	line "DatlhaplaH."
 	done
 
 _SilphCo11FBeautyText::
-	text "SECRETARY: Thank"
-	line "you for rescuing"
-	cont "all of us!"
+	text "<b><o><Q><D><u><'>: jutoD!"
+	line "bIDunqu'!"
 
-	para "We admire your"
-	line "courage."
+	para "toDujlIj wIHo'."
 	done
 
 _SilphCo11FGiovanniText::
-	text "Ah <PLAYER>!"
-	line "So we meet again!"
+	text "toH <PLAYER>!"
+	line "maghomqa'pu'!"
 
-	para "The PRESIDENT and"
-	line "I are discussing"
-	cont "a vital business"
-	cont "proposition."
+	para "malja' ghu' potlh"
+	line "wIrIchtaH jIH"
+	cont "<v><u><'><w><I><'><'><a><'> je."
 
-	para "Keep your nose"
-	line "out of grown-up"
-	cont "matters..."
+	para "nenwI' Soj nISbe'"
+	line "puqpu' net tlheb."
 
-	para "Or, experience a"
-	line "world of pain!"
+	para "junISmo'"
+	line "qabIjqu'nIS!"
 	done
 
 _SilphCo10FGiovanniILostAgainText::
-	text "Arrgh!!"
-	line "I lost again!?"
+	text "QI'yaH!"
+	line "Qu'vatlh!!"
+	cont "chay' jIluj jay!?"
 	prompt
 
 _SilphCo11FGiovanniYouRuinedOurPlansText::
-	text "Blast it all!"
-	line "You ruined our"
-	cont "plans for SILPH!"
+	text "Hu'tegh!"
+	line "<S><I><l><v><a><'> nabwIj"
+	cont "Da'anlu'moH!"
 
-	para "But, TEAM ROCKET"
-	line "will never fall!"
+	para "'ach not lujchu'"
+	line "<p><e><n><g><D><u><j> ghom!"
 
-	para "<PLAYER>! Never"
-	line "forget that all"
-	cont "#MON exist"
-	cont "for TEAM ROCKET!"
+	para "<PLAYER>! not"
+	line "yIlIj! <p><e><n><g><D><u><j>"
+	cont "ghom toy'meH neH"
+	cont "#<m><a><n> lutu'lu'!"
 
-	para "I must go, but I"
-	line "shall return!"
+	para "jItlheD vabDot"
+	line "maghomqa'bej!"
 	done
 
 _SilphCo11FRocket1BattleText::
-	text "Stop right there!"
-	line "Don't you move!"
+	text "pa' yItaD!"
+	line "yIvIHqa'Qo'!"
 	done
 
 _SilphCo11FRocket1EndBattleText::
-	text "Don't..."
-	line "Please!"
+	text "Qo'..."
+	line "jIqoy!"
 	prompt
 
 _SilphCo11FRocket1AfterBattleText::
-	text "So, you want to"
-	line "see my BOSS?"
+	text "toH, pInwI' qaghom"
+	line "DaneH qar'a'?"
 	done
 
 _SilphCo11FRocket2BattleText::
-	text "Halt! Do you have"
-	line "an appointment"
-	cont "with my BOSS?"
+	text "mev! neqjung"
+	line "pIH'a' pInwIj?"
 	done
 
 _SilphCo11FRocket2EndBattleText::
-	text "Gaah!"
-	line "Demolished!"
+	text "va!"
+	line "choQaw'!"
 	prompt
 
 _SilphCo11FRocket2AfterBattleText::
-	text "Watch your step,"
-	line "my BOSS likes his"
-	cont "#MON tough!"
+	text "bIruchchugh yIyep."
+	line "#<m><a><n> HoSghaj"
+	cont "qem pInwI'!"
 	done
 
 _SilphCo10FPorygonText::
-	text "The monitor has"
-	line "#MON on it!"
+	text "#<m><a><n> 'aghtaH"
+	line "HaSta'vam!"
 	done
