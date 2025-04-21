@@ -1,157 +1,155 @@
 _Route9CooltrainerF1BattleText::
-	text "You have #MON"
-	line "with you!"
-	cont "You're mine!"
+	text "#<m><a><n> Daghaj!"
+	line "wejHa' Qapla'"
+	cont "vIDoQ!"
 	done
 
 _Route9CooltrainerF1EndBattleText::
-	text "You"
-	line "deceived me!"
+	text " "
+	line "tutojpu'!"
 	prompt
 
 _Route9CooltrainerF1AfterBattleText::
-	text "You need light to"
-	line "get through that"
-	cont "dark tunnel ahead."
+	text "DISvetlh Hurgh"
+	line "bIveghnISchugh"
+	cont "DawovmoH 'e'"
+	cont "vIchupqu'."
 	done
 
 _Route9CooltrainerM1BattleText::
-	text "Who's that walking"
-	line "with those good"
-	cont "looking #MON?"
+	text "bIyIttaHvIS"
+	line "Dutlhej #<m><a><n>"
+	cont "QaQ. SoH 'Iv?"
 	done
 
 _Route9CooltrainerM1EndBattleText::
-	text "Out"
-	line "like a light!"
+	text "chu'Ha'"
+	line "leQ vIrur!"
 	prompt
 
 _Route9CooltrainerM1AfterBattleText::
-	text "Keep walking!"
+	text "yIyIttaH!"
 	done
 
 _Route9CooltrainerM2BattleText::
-	text "I'm taking ROCK"
-	line "TUNNEL to go to"
-	cont "LAVENDER..."
+	text "<'><u><m><a><'> <v><e><n><g><H><o><m>"
+	line "vIjaHmeH <n><a><g><h>"
+	cont "<'><o><c><h> vIvegh..."
 	done
 
 _Route9CooltrainerM2EndBattleText::
-	text "Can't"
-	line "measure up!"
+	text " "
+	line "jI'ovbe'!"
 	prompt
 
 _Route9CooltrainerM2AfterBattleText::
-	text "Are you off to"
-	line "ROCK TUNNEL too?"
+	text "<n><a><g><h> <'><o><c><h> DajaH'a'"
+	line "SoH je?"
 	done
 
 _Route9CooltrainerF2BattleText::
-	text "Don't you dare"
-	line "condescend me!"
+	text "qoH QIp"
+	line "HIDamQo'!"
 	done
 
 _Route9CooltrainerF2EndBattleText::
-	text "No!"
-	line "You're too much!"
+	text "Qo'!"
+	line "chojeychu'ta'!"
 	prompt
 
 _Route9CooltrainerF2AfterBattleText::
-	text "You're obviously"
-	line "talented! Good"
-	cont "luck to you!"
+	text "bIpo'ba'!"
+	line "Do'jaj lenglIj!"
 	done
 
 _Route9Hiker1BattleText::
-	text "Bwahaha!"
-	line "Great! I was"
-	cont "bored, eh!"
+	text "baHghHgh!"
+	line "maj! Dal pagh"
+	cont "jagh, qar'a'!"
 	done
 
 _Route9Hiker1EndBattleText::
-	text "Keep it"
-	line "coming, eh!"
+	text "maSuvqa'"
+	line "vIneH, qar'a'!"
 
-	para "Oh wait. I'm out"
-	line "of #MON!"
+	para "toH. natlh"
+	line "#<m><a><n>meywIj!"
 	prompt
 
 _Route9Hiker1AfterBattleText::
-	text "You sure had guts"
-	line "standing up to me"
-	cont "there, eh?"
+	text "choqaDmeH butlh"
+	line "DachIwqu', qar'a'?"
 	done
 
 _Route9Hiker2BattleText::
-	text "Hahaha!"
-	line "Aren't you a"
-	cont "little toughie!"
+	text "HghHghHgh!"
+	line "rotlhwI' mach"
+	cont "SoHbe''a'?"
 	done
 
 _Route9Hiker2EndBattleText::
-	text "What's"
-	line "that?"
+	text "qaSpu'"
+	line "nuq?"
 	prompt
 
 _Route9Hiker2AfterBattleText::
-	text "Hahaha! Kids"
-	line "should be tough!"
+	text "HghHgh! rotlh"
+	line "puqpu' net tlheb!"
 	done
 
 _Route9Youngster1BattleText::
-	text "I got up early"
-	line "every day to"
-	cont "raise my #MON"
-	cont "from cocoons!"
+	text "mel'ogh #<m><a><n>wIj"
+	line "vIQorghmeH"
+	cont "Hoch po 'eqtaHvIS"
+	cont "jIvemta'!"
 	done
 
 _Route9Youngster1EndBattleText::
-	text "WHAT?"
-
-	para "What a total"
-	line "waste of time!"
+	text "chay'?"
+	line "pomeywIj"
+	cont "vI'anpu'!"
 	prompt
 
 _Route9Youngster1AfterBattleText::
-	text "I have to collect"
-	line "more than bugs to"
-	cont "get stronger..."
+	text "jIHoSchoHmeH"
+	line "ghew #<m><a><n>"
+	cont "neHHa' vIjonnIS..."
 	done
 
 _Route9Hiker3BattleText::
-	text "Hahahaha!"
-	line "Come on, dude!"
+	text "HghHghHghHgh!"
+	line "Ha', qoch!"
 	done
 
 _Route9Hiker3EndBattleText::
-	text "Hahahaha!"
-	line "You beat me fair!"
+	text "HghHghH!"
+	line "batlh chojey!"
 	prompt
 
 _Route9Hiker3AfterBattleText::
-	text "Hahahaha!"
-	line "Us hearty guys"
-	cont "always laugh!"
+	text "HghHghHghHgh!"
+	line "reH maHagh loDpu'"
+	cont "Quch!"
 	done
 
 _Route9Youngster2BattleText::
-	text "Go, my super bug"
-	line "#MON!"
+	text "Ha', ghew #<m><a><n>"
+	line "nIv!"
 	done
 
 _Route9Youngster2EndBattleText::
-	text "My"
-	line "bugs..."
+	text "Hu..."
+	line "ghewwIj..."
 	prompt
 
 _Route9Youngster2AfterBattleText::
-	text "If you don't like"
-	line "bug #MON, you"
-	cont "bug me!"
+	text "ghew #<m><a><n>mey"
+	line "Daparchugh, "
+	cont "jIHvo' yI'orgh!"
 	done
 
 _Route9SignText::
-	text "ROUTE 9"
-	line "CERULEAN CITY-"
-	cont "ROCK TUNNEL"
+	text "He Hut"
+	line "<c><h><a><l><H><o><m> <v><e><n><g> -"
+	cont "<n><a><g><h> <'><o><c><h>"
 	done
