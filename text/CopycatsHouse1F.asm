@@ -1,21 +1,21 @@
 _CopycatsHouse1FMiddleAgedWomanText::
-	text "My daughter is so"
-	line "self-centered."
-	cont "She only has a"
-	cont "few friends."
+	text "tlhoy SaH'egh"
+	line "puqbe'wI'."
+	cont "juppu' puS ghaj"
+	cont "ghaH."
 	done
 
 _CopycatsHouse1FMiddleAgedManText::
-	text "My daughter likes"
-	line "to mimic people."
+	text "nuv lIl 'e' tIv"
+	line "puqbe'wI'."
 
-	para "Her mimicry has"
-	line "earned her the"
-	cont "nickname COPYCAT"
-	cont "around here!"
+	para "chaH lIlmo'"
+	line "ghaHvaD lIloy"
+	cont "lupongchoH"
+	cont "jIlma'pu'!"
 	done
 
 _CopycatsHouse1FChanseyText::
-	text "CHANSEY: Chaan!"
-	line "Sii!@"
+	text "'IjQIm: 'IjIj!"
+	line "QIm!@"
 	text_end
