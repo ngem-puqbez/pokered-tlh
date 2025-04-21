@@ -1,13 +1,13 @@
 _RockTunnelPokecenterGentlemanText::
-	text "The element types"
-	line "of #MON make"
-	cont "them stronger"
-	cont "than some types"
-	cont "and weaker than"
-	cont "others!"
+	text "#<m><a><n> tonSaw'"
+	line "buvmo' rut"
+	cont "#<m><a><n> QIHqu'"
+	cont "'ej rut loQ QIH."
+	cont "potlhqu' buvmey!"
 	done
 
 _RockTunnelPokecenterFisherText::
-	text "I sold a useless"
-	line "NUGGET for ¥5000!"
+	text "naghboch lI'be'"
+	line "vIngev! ¥5000 "
+	cont "vISuq!"
 	done
