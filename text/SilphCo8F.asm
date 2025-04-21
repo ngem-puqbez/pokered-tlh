@@ -1,56 +1,56 @@
 __SilphCo8FSilphWorkerMThanksForSavingUsText::
-	text "I wonder if SILPH"
-	line "is finished..."
+	text "rIn <S><I><l><v><a><'> 'e'"
+	line "vISIv..."
 	done
 
 _SilphCo8FSilphWorkerMThanksForSavingUsText::
-	text "Thanks for saving"
-	line "us!"
+	text "jutoDpu'mo'"
+	line "pIwel!"
 	done
 
 _SilphCo8FRocket1BattleText::
-	text "That's as far as"
-	line "you'll go!"
+	text "bItlhetlhtaHlaHbe'"
+	line "SoH!"
 	done
 
 _SilphCo8FRocket1EndBattleText::
-	text "Not"
-	line "enough grit!"
+	text "Qo'!"
+	line "yapbe' butlh!"
 	prompt
 
 _SilphCo8FRocket1AfterBattleText::
-	text "If you don't turn"
-	line "back, I'll call"
-	cont "for backup!"
+	text "bIHeDbe'chugh"
+	line "ngaq vIrItrup!"
 	done
 
 _SilphCo8FScientistBattleText::
-	text "You're causing us"
-	line "problems!"
+	text "maHvaD bISeng!"
+	line "bImej vIneH!"
 	done
 
 _SilphCo8FScientistEndBattleText::
-	text "Huh?"
-	line "I lost?"
+	text "nuq?"
+	line "jIluj'a'?"
+
 	prompt
 
 _SilphCo8FScientistAfterBattleText::
-	text "So, what do you"
-	line "think of SILPH"
-	cont "BUILDING's maze?"
+	text "Hu'ma... <S><I><l><v><a><'>"
+	line "malja' qach "
+	cont "chen'ong DatIv'a'?"
 	done
 
 _SilphCo8FRocket2BattleText::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "loS <p><e><n><g><D><u><j> loDnI'"
+	line "maH!"
 	done
 
 _SilphCo8FRocket2EndBattleText::
-	text "Whoo!"
-	line "Oh brothers!"
+	text "ghay'!"
+	line "loDnI'pu'!"
 	prompt
 
 _SilphCo8FRocket2AfterBattleText::
-	text "I'll leave you up"
-	line "to my brothers!"
+	text "nIbIj loDnI'pu'wI'"
+	line "'e' vIchaw'!"
 	done
