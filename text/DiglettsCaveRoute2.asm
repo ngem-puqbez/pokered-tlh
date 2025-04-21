@@ -1,9 +1,9 @@
 _DiglettsCaveRoute2FishingGuruText::
-	text "I went to ROCK"
-	line "TUNNEL, but it's"
-	cont "dark and scary."
+	text "<n><a><g><h> <'><o><c><h> vIjaH"
+	line "'ach Hurghqu' 'ej"
+	cont "mughIj."
 
-	para "If a #MON's"
-	line "FLASH could light"
-	cont "it up..."
+	para "QIbmeyDaq tamghay"
+	line "<g><h><o><n>laHchugh "
+	cont "#<m><a><n>wIj..."
 	done
