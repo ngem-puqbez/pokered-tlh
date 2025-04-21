@@ -1,1509 +1,1509 @@
 _RhydonDexEntry::
-	text "Protected by an"
-	next "armor-like hide,"
-	next "it is capable of"
+	text "#<m><a><n>vam Hub"
+	next "SIryoD rurbogh"
+	next "DIr let'e'. "
 
-	page "living in molten"
-	next "lava of 3,600"
-	next "degrees"
+	page "3300 SImyon"
+	next "gheHbogh vaHbo'Daq"
+	next "yInlaH #<m><a><n>vam"
 	dex
 
 _KangaskhanDexEntry::
-	text "The infant rarely"
-	next "ventures out of"
-	next "its mother's"
+	text "DISDaj wejDIch"
+	next "qaSpa' pIjHa'"
+	next "SoSDaj chor buq"
 
-	page "protective pouch"
-	next "until it is 3"
-	next "years old"
+	page "mej QupwI'."
+	next "reH puqDaj '"
+	next "Hubqangchu"
 	dex
 
 _NidoranMDexEntry::
-	text "Stiffens its ears"
-	next "to sense danger."
-	next "The larger its"
+	text "Qob jemmeH"
+	next "qoghDaj letmoH."
+	next "Quch pu'vo'"
 
-	page "horns, the more"
-	next "powerful its"
-	next "secreted venom"
+	page "ghIt tar."
+	next "tInchugh pu'Daj"
+	next "HoSghaj tarvam"
 	dex
 
 _ClefairyDexEntry::
-	text "Its magical and"
-	next "cute appeal has"
-	next "many admirers."
+	text "'IHmo' #<m><a><n>vam"
+	next "Ho' ghotpu' law'."
+	next "Daqmey puSDaq"
 
-	page "It is rare and"
-	next "found only in"
-	next "certain areas"
+	page "tu'lu' 'ej "
+	next "DaqmeyDaq qub."
+	next "'IDnar rur laHDaj"
 	dex
 
 _SpearowDexEntry::
-	text "Eats bugs in"
-	next "grassy areas. It"
-	next "has to flap its"
+	text "puH nIlDaq ghew"
+	next "Sop. yav DungDaq"
+	next "ratlhmeH nom"
 
-	page "short wings at"
-	next "high speed to"
-	next "stay airborne"
+	page "telDu'Daj"
+	next "laqnISmoH"
+	next "#<m><a><n>vam mach"
 	dex
 
 _VoltorbDexEntry::
-	text "Usually found in"
-	next "power plants."
-	next "Easily mistaken"
+	text "'ul lIngbogh HoS"
+	next "waw'meyDaq"
+	next "pIj tu'lu'."
 
-	page "for a # BALL,"
-	next "they have zapped"
-	next "many people"
+	page "#<m><o><Q>mey rurmo'"
+	next "bIH ngu'Ha'pu'"
+	next "nuv law' 'ej HIv"
 	dex
 
 _NidokingDexEntry::
-	text "It uses its"
-	next "powerful tail in"
-	next "battle to smash,"
+	text "HoSghaj tlhuQDaj."
+	next "gheDDaj mup ghIq"
+	next "ngaH ngIq HomDu'"
 
-	page "constrict, then"
-	next "break the prey's"
-	next "bones"
+	page "ghor #<m><a><n>vam."
+	next "Daq'a'DajDaq"
+	next "wamwI' nIv 'oH"
 	dex
 
 _SlowbroDexEntry::
-	text "The SHELLDER that"
-	next "is latched onto"
-	next "SLOWPOKE's tail"
+	text "<m><o><D><b><e><b><e><j> chuv"
+	next "Soplaw' tlhuQDaj"
+	next "choptaHbogh"
 
-	page "is said to feed"
-	next "on the host's left"
-	next "over scraps"
+	page "<n><a><g><h><o><t><I><D><I><r>'e'."
+	next "tay'taHvIS jIjchu'"
+	next "#<m><a><n>meyvam"
 	dex
 
 _IvysaurDexEntry::
-	text "When the bulb on"
-	next "its back grows"
-	next "large, it appears"
+	text "tInchoHDI' ghub"
+	next "qengbogh 'ughchoH."
+	next "tlhoy 'ughchoHDI'"
 
-	page "to lose the"
-	next "ability to stand"
-	next "on its hind legs"
+	page "QammeH loS 'uSDu'"
+	next "Hoch lo'nISchoH"
+	next "#<m><a><n>vam"
 	dex
 
 _ExeggutorDexEntry::
-	text "Legend has it that"
-	next "on rare occasions,"
-	next "one of its heads"
+	text "pIjHa' ngIq nach"
+	next "chagh #<m><a><n>vam."
+	next "qaSchugh wanI'vam"
 
-	page "will drop off and"
-	next "continue on as an"
-	next "EXEGGCUTE"
+	page "nIteb vInchoH"
+	next "nachvetlh 'ej"
+	next "<g><h><o><m><m><u><H> moj"
 	dex
 
 _LickitungDexEntry::
-	text "Its tongue can be"
-	next "extended like a"
-	next "chameleon's. It"
+	text "gheDDaj SIchmeH"
+	next "jatDaj tIqmoHlaH."
+	next "jaghDaj roSDI'"
 
-	page "leaves a tingling"
-	next "sensation when it"
-	next "licks enemies"
+	page "bIH ngenmoH"
+	next "#<m><a><n>vam"
+	next "tlhepQe' jeD"
 	dex
 
 _ExeggcuteDexEntry::
-	text "Often mistaken"
-	next "for eggs."
-	next "When disturbed,"
+	text "QIm Doj rurmo'"
+	next "pIj ngu'Ha'lu'."
+	next "luSujlu'DI' nom"
 
-	page "they quickly"
-	next "gather and attack"
-	next "in swarms"
+	page "ghomchoH 'ej"
+	next "nItebHa' ghIjwI'"
+	next "HIv #<m><a><n>vam"
 	dex
 
 _GrimerDexEntry::
-	text "Appears in filthy"
-	next "areas. Thrives by"
-	next "sucking up"
+	text "Daqmey lamqu'"
+	next "leghlu'. betgham"
+	next "SuQ'e' ghImbogh"
 
-	page "polluted sludge"
-	next "that is pumped"
-	next "out of factories"
+	page "laSvarghmey"
+	next "tlhutlh 'e' tIvqu'"
+	next "#<m><a><n>vam"
 	dex
 
 _GengarDexEntry::
-	text "Under a full moon,"
-	next "this #MON"
-	next "likes to mimic"
+	text "ram wovmoHtaHvIS"
+	next "maS'e' So'bogh"
+	next "pagh bel'eghmoHmeH"
 
-	page "the shadows of"
-	next "people and laugh"
-	next "at their fright"
+	page "QIbmey lIl"
+	next "#<m><a><n>vam 'ej"
+	next "ghotpu' ghIj"
 	dex
 
 _NidoranFDexEntry::
-	text "Although small,"
-	next "its venomous"
-	next "barbs render this"
+	text "mach #<m><a><n>vam"
+	next "vabDot QobmoH"
+	next "pu'mey SuQ."
 
-	page "#MON dangerous."
-	next "The female has"
-	next "smaller horns"
+	page "be' pu' mach "
+	next "law' loD pu'"
+	next "mach puS"
 	dex
 
 _NidoqueenDexEntry::
-	text "Its hard scales"
-	next "provide strong"
-	next "protection. It"
+	text "letmo' ghISDenDaj"
+	next "yoD Da bIH."
+	next "tonSaw' HoSghaj"
 
-	page "uses its hefty"
-	next "bulk to execute"
-	next "powerful moves"
+	page "lo'meH porghDaj"
+	next "wa'lay 'ughqu'"
+	next "vIHnISmoH neH"
 	dex
 
 _CuboneDexEntry::
-	text "Because it never"
-	next "removes its skull"
-	next "helmet, no one"
+	text "DughrI' yughbogh"
+	next "mIvDaj'e' tuQmo'"
+	next "'ej teqQo'chu'mo'"
 
-	page "has ever seen"
-	next "this #MON's"
-	next "real face"
+	page "not #<m><a><n>"
+	next "qabna' leghlu'ta'."
+	next "ram pIj SaQ"
 	dex
 
 _RhyhornDexEntry::
-	text "Its massive bones"
-	next "are 1000 times"
-	next "harder than human"
+	text "tInqu'bogh HomDaj"
+	next "let law'qu' ghot"
+	next "HomDu' let puSqu'."
 
-	page "bones. It can"
-	next "easily knock a"
-	next "trailer flying"
+	page "ghot nen jaDlaH."
+	next "#<m><a><n>vamvaD"
+	next "ngeD ta'vam"
 	dex
 
 _LaprasDexEntry::
-	text "A #MON that"
-	next "has been over-"
-	next "hunted almost to"
+	text "tlhoy wamlu'pu'mo'"
+	next "tlhoS loqchoH"
+	next "#<m><a><n>vam. bIQ"
 
-	page "extinction. It"
-	next "can ferry people"
-	next "across the water"
+	page "vaS chIqmeH"
+	next "'oH lIghlaH ghot"
+	next "law'"
 	dex
 
 _ArcanineDexEntry::
-	text "A #MON that"
-	next "has been admired"
-	next "since the past"
+	text "bov tIQ, DaH je"
+	next "'IHqu'mo' "
+	next "#<m><a><n>vam"
 
-	page "for its beauty."
-	next "It runs agilely"
-	next "as if on wings"
+	page "Ho'lu'. qettaHvIS"
+	next "SoyHa'qu';"
+	next "puvwI' rur"
 	dex
 
 _MewDexEntry::
-	text "So rare that it"
-	next "is still said to"
-	next "be a mirage by"
+	text "qubqu'mo' wIch"
+	next "neH 'oH 'e' Har"
+	next "tej Han HochHom."
 
-	page "many experts. Only"
-	next "a few people have"
-	next "seen it worldwide"
+	page "vabDot puSqu'"
+	next "#<m><a><n>vam"
+	next "leghpu'bogh nuv"
 	dex
 
 _GyaradosDexEntry::
-	text "Rarely seen in"
-	next "the wild. Huge"
-	next "and vicious, it"
+	text "pIjHa' tlhabwI'"
+	next "leghlu'. rabmo'"
+	next "'ej naSqu'mo'"
 
-	page "is capable of"
-	next "destroying entire"
-	next "cities in a rage"
+	page "QeHchoHchugh"
+	next "jotqa'pa' veng"
+	next "Hoch Qaw'laH"
 	dex
 
 _ShellderDexEntry::
-	text "Its hard shell"
-	next "repels any kind"
-	next "of attack."
+	text "tonSaw' Hoch"
+	next "botchu'laH nagh"
+	next "nagh DIrDaj let."
 
-	page "It is vulnerable"
-	next "only when its"
-	next "shell is open"
+	page "may Sutvam"
+	next "poStaHvIS wun"
+	next "#<m><a><n>vam"
 	dex
 
 _TentacoolDexEntry::
-	text "Drifts in shallow"
-	next "seas. Anglers who"
-	next "hook them by"
+	text "bIQ'a' jaQHa'Daq"
+	next "rIjHa'. bong 'oH"
+	next "jonchugh wamwI'"
 
-	page "accident are"
-	next "often punished by"
-	next "its stinging acid"
+	page "vaj Hub'eghmeH"
+	next "'oy'bogh pey"
+	next "lo' #<m><a><n>vam"
 	dex
 
 _GastlyDexEntry::
-	text "Almost invisible,"
-	next "this gaseous"
-	next "#MON cloaks"
+	text "tlhoS Demchu'."
+	next "DoSDaj QongmoHmeH"
+	next "'oH luS SIp SuQ'e'"
 
-	page "the target and"
-	next "puts it to sleep"
-	next "without notice"
+	page "yughbogh porghDaj."
+	next "ghotpu' wov'onmey"
+	next "naw'laH 'oH"
 	dex
 
 _ScytherDexEntry::
-	text "With ninja-like"
-	next "agility and speed,"
-	next "it can create the"
+	text "morqumo'"
+	next "#<m><a><n>vam Daqmey"
+	next "puSDaq 'oH 'e'"
 
-	page "illusion that"
-	next "there is more"
-	next "than one"
+	page "qaSmoHlaHlaw'."
+	next "jaghDaj ghaDDaj je"
+	next "tojmeH laHvam lo'"
 	dex
 
 _StaryuDexEntry::
-	text "An enigmatic"
-	next "#MON that can"
-	next "effortlessly"
+	text "may' SuvtaHvIS"
+	next "ghamDaj weSchugh"
+	next "vaj qa'meH"
 
-	page "regenerate any"
-	next "appendage it"
-	next "loses in battle"
+	page "chenmoHlaH."
+	next "ram tamghay Doq"
+	next "tlhuD botlhDaj"
 	dex
 
 _BlastoiseDexEntry::
-	text "A brutal #MON"
-	next "with pressurized"
-	next "water jets on its"
+	text "nagh DIrDajDaq"
+	next "bIQ ghItwI'Du' HoS"
+	next "ghaj #<m><a><n>vam."
 
-	page "shell. They are"
-	next "used for high"
-	next "speed tackles"
+	page "nom ngeQmoHmeH"
+	next "porghDaj vo'laH"
+	next "ghItwI'Du'vam"
 	dex
 
 _PinsirDexEntry::
-	text "If it fails to"
-	next "crush the victim"
-	next "in its pincers,"
+	text "DaSwI'DajDaq jagh"
+	next "tapchu'ta'be'chugh"
+	next "vaj QIHqu'moHmeH"
 
-	page "it will swing it"
-	next "around and toss"
-	next "it hard"
+	page "pe'vIl joqmoH 'ej"
+	next "SIbI'Ha' jaD."
+	next "vovwI' HoS 'oHbej"
 	dex
 
 _TangelaDexEntry::
-	text "The whole body is"
-	next "swathed with wide"
-	next "vines that are"
+	text "porghDaq Hoch"
+	next "luvelmo' bartIqmey"
+	next "vaD 'oQqarmey"
 
-	page "similar to sea-"
-	next "weed. Its vines"
-	next "shake as it walks"
+	page "vaD je tI meS rur."
+	next "yIttaHvIS jel"
+	next "tI Dojvam"
 	dex
 
 _GrowlitheDexEntry::
-	text "Very protective"
-	next "of its territory."
-	next "It will bark and"
+	text "Daq'a' Hubqangqu'"
+	next "#<m><a><n>vam mach."
+	next "yotwI'pu' DoHmeH"
 
-	page "bite to repel"
-	next "intruders from"
-	next "its space"
+	page "ghughugh 'ej"
+	next "bey 'ej chop 'e'"
+	next "buQ #<m><a><n>vam"
 	dex
 
 _OnixDexEntry::
-	text "As it grows, the"
-	next "stone portions of"
-	next "its body harden"
+	text "nenchoHtaHvIS"
+	next "letqu'choH nagh"
+	next "luyughbogh "
 
-	page "to become similar"
-	next "to a diamond, but"
-	next "colored black"
+	page "porghDaj 'ay'Du';"
+	next "chanmon rur"
+	next "'ach qIj"
 	dex
 
 _FearowDexEntry::
-	text "With its huge and"
-	next "magnificent wings,"
-	next "it can keep aloft"
+	text "HoSghajbogh telDaj"
+	next "tInmo' reH puvlaH"
+	next "'ej not leSmeH"
 
-	page "without ever"
-	next "having to land"
-	next "for rest"
+	page "SaqnIS. DISmey"
+	next "qaSpu' 'ej yav"
+	next "Hotbe' #<m><a><n>vam"
 	dex
 
 _PidgeyDexEntry::
-	text "A common sight in"
-	next "forests and woods."
-	next "It flaps its"
+	text "ngemmeyDaq pIj"
+	next "bIH luleghlu'."
+	next "SuvtaHvIS jaghDaj"
 
-	page "wings at ground"
-	next "level to kick up"
-	next "blinding sand"
+	page "leghlaHbe'moHmeH"
+	next "telDaj laqmoH 'ej"
+	next "lam Do'ol je vo'"
 	dex
 
 _SlowpokeDexEntry::
-	text "Incredibly slow"
-	next "and dopey. It"
-	next "takes 5 seconds"
+	text "QIt QublaHmo' neH"
+	next "QIt vIHlaH."
+	next "HIvlu'DI' 'oy' "
 
-	page "for it to feel"
-	next "pain when under"
-	next "attack"
+	page "chu' jemlaHpa' qaS"
+	next "vagh lupmey."
+	next "reH qab QIp 'agh"
 	dex
 
 _KadabraDexEntry::
-	text "It emits special"
-	next "alpha waves from"
-	next "its body that"
+	text "yu'egh taQ tlhuD"
+	next "yabDaj. Sumchugh"
+	next "ghot pIj wuQchoH"
 
-	page "induce headaches"
-	next "just by being"
-	next "close by"
+	page "ghotvam. janmey"
+	next "law' SIghlaH"
+	next "yu'eghmeyvam je"
 	dex
 
 _GravelerDexEntry::
-	text "Rolls down slopes"
-	next "to move. It rolls"
-	next "over any obstacle"
+	text "vIHmeH bo'DeghDaq"
+	next "ron 'ej ghIr."
+	next "botlu'chugh"
 
-	page "without slowing"
-	next "or changing its"
-	next "direction"
+	page "chungHa''eghmoHbe'"
+	next "'ej HeDaj choHbe'"
+	next "#<m><a><n>vam"
 	dex
 
 _ChanseyDexEntry::
-	text "A rare and elusive"
-	next "#MON that is"
-	next "said to bring"
+	text "qubqu' #<m><a><n>vam."
+	next "pIjHa' leghlu'."
+	next "jupDaj mojlaHchugh"
 
-	page "happiness to those"
-	next "who manage to get"
-	next "it"
+	page "vay' vaj reH "
+	next "QuchchoH ghotvetlh"
+	next "'e' ja' joSwI'pu'"
 	dex
 
 _MachokeDexEntry::
-	text "Its muscular body"
-	next "is so powerful, it"
-	next "must wear a power"
+	text "'Iqmo' HoSDaj"
+	next "reH vuSbogh qogh"
+	next "tuQnIS. teqchugh"
 
-	page "save belt to be"
-	next "able to regulate"
-	next "its motions"
+	page "vIHDI' rIQ'egh"
+	next "SomrawDu'Daj"
+	next "HoSghajqu'"
 	dex
 
 _MrMimeDexEntry::
-	text "If interrupted"
-	next "while it is"
-	next "miming, it will"
+	text "muchtaHvIS"
+	next "qaghlu'chugh"
+	next "qaghwI'Daj yomeH"
 
-	page "slap around the"
-	next "offender with its"
-	next "broad hands"
+	page "ghopDu'Daj vaS"
+	next "lo' yoq rurbogh"
+	next "#<m><a><n>vam'e'"
 	dex
 
 _HitmonleeDexEntry::
-	text "When in a hurry,"
-	next "its legs lengthen"
-	next "progressively."
+	text "moDtaHvIS tIqchoH"
+	next "'uSDu'Daj. "
+	next "qaSmo' wanI'vam"
 
-	page "It runs smoothly"
-	next "with extra long,"
-	next "loping strides"
+	page "qettaHvIS"
+	next "ngaDqu' HeDaj"
+	next "porghDaj je"
 	dex
 
 _HitmonchanDexEntry::
-	text "While apparently"
-	next "doing nothing, it"
-	next "fires punches in"
+	text "rut Qam 'ej pagh"
+	next "ta'law'taHvIS"
+	next "nom rewve'"
 
-	page "lightning fast"
-	next "volleys that are"
-	next "impossible to see"
+	page "qIptaH. vItlhmo'"
+	next "ro'Du'Daj Do"
+	next "vIHbe'law'"
 	dex
 
 _ArbokDexEntry::
-	text "It is rumored that"
-	next "the ferocious"
-	next "warning markings"
+	text "tarDaj ghuHmoHmeH"
+	next "chorDajDaq HaSreH"
+	next "tlhIn tu'lu'."
 
-	page "on its belly"
-	next "differ from area"
-	next "to area"
+	page "HaSreH pIm ghaj"
+	next "Sepmey pIm"
+	next "Dabbogh #<m><a><n>"
 	dex
 
 _ParasectDexEntry::
-	text "A host-parasite"
-	next "pair in which the"
-	next "parasite mushroom"
+	text "'atlhqam yav,"
+	next "ghew je yugh"
+	next "#<m><a><n>vam porgh."
 
-	page "has taken over the"
-	next "host bug. Prefers"
-	next "damp places"
+	page "ghew porgh SeH"
+	next "'atlhqam. Daqmey"
+	next "yIQ maS 'oH"
 	dex
 
 _PsyduckDexEntry::
-	text "While lulling its"
-	next "enemies with its"
-	next "vacant look, this"
+	text "qab jeH 'aghmo'"
+	next "jaghDaj HojHa'moH"
+	next "ghIq HIvmeH "
 
-	page "wily #MON will"
-	next "use psychokinetic"
-	next "powers"
+	page "relleghDaqDaj"
+	next "lo' valbejbogh"
+	next "#<m><a><n>vam"
 	dex
 
 _DrowzeeDexEntry::
-	text "Puts enemies to"
-	next "sleep then eats"
-	next "their dreams."
+	text "jaghDaj QongmoH"
+	next "'ej Suchtuvmeychaj"
+	next "Sop #<m><a><n>vam."
 
-	page "Occasionally gets"
-	next "sick from eating"
-	next "bad dreams"
+	page "rut Suchtuvmey"
+	next "qab Soppu'DI'"
+	next "ropchoH"
 	dex
 
 _GolemDexEntry::
-	text "Its boulder-like"
-	next "body is extremely"
-	next "hard. It can"
+	text "letqu' nagh tIn"
+	next "rurbogh porghDaj."
+	next "HoSqu'moH DIrDaj"
 
-	page "easily withstand"
-	next "dynamite blasts"
-	next "without damage"
+	page "tlhalwI' jorwI'mey"
+	next "SIQlaH #<m><a><n>vam"
+	next "'ej lurIQmoHbe'"
 	dex
 
 _MagmarDexEntry::
-	text "Its body always"
-	next "burns with an"
-	next "orange glow that"
+	text "reH meQtaHmo'"
+	next "porghDaj wewqu'."
+	next "tamghay Doqmo'"
 
-	page "enables it to"
-	next "hide perfectly"
-	next "among flames"
+	page "tlhuDbogh"
+	next "qulmeyDaq"
+	next "So''eghlaHqu'"
 	dex
 
 _ElectabuzzDexEntry::
-	text "Normally found"
-	next "near power plants,"
-	next "they can wander"
+	text "motlh 'ul lIngbogh"
+	next "HoS waw'mey Sum."
+	next "lengtaHvIS veng"
 
-	page "away and cause"
-	next "major blackouts"
-	next "in cities"
+	page "ghoSchugh 'ul"
+	next "pat nIS 'ej"
+	next "QapHa'moHlaH"
 	dex
 
 _MagnetonDexEntry::
-	text "Formed by several"
-	next "MAGNEMITEs linked"
-	next "together. They"
+	text "rarchuqbogh wej"
+	next "<p><e><Q><g><h><e><w>mey yugh"
+	next "#<m><a><n>vam. "
 
-	page "frequently appear"
-	next "when sunspots"
-	next "flare up"
+	page "ghanDI' jul ghor"
+	next "peQchem nISlu'mo'"
+	next "chen law'"
 	dex
 
 _KoffingDexEntry::
-	text "Because it stores"
-	next "several kinds of"
-	next "toxic gases in"
+	text "porghDajDaq SIp"
+	next "SuQ Sar puS polmo'"
+	next "#<m><a><n>vam"
 
-	page "its body, it is"
-	next "prone to exploding"
-	next "without warning"
+	page "ghuHmoHpu'be'DI'"
+	next "rut jor 'ej "
+	next "tarvetlh polHa'"
 	dex
 
 _MankeyDexEntry::
-	text "Extremely quick to"
-	next "anger. It could"
-	next "be docile one"
+	text "nom QeHchoH."
+	next "rut jottaH 'ej"
+	next "QuchtaH ghIq"
 
-	page "moment then"
-	next "thrashing away"
-	next "the next instant"
+	page "SIbI' Qay' 'ej"
+	next "ralqu'choH."
+	next "pIj wanI'vam"
 	dex
 
 _SeelDexEntry::
-	text "The protruding"
-	next "horn on its head"
-	next "is very hard."
+	text "letqu' QuchDaj"
+	next "pu'. QaltaHvIS"
+	next "chuch ghormeH"
 
-	page "It is used for"
-	next "bashing through"
-	next "thick ice"
+	page "pu'vam lo'."
+	next "tlhoS veDDaj wov"
+	next "HaHlaHbe'chu' bIQ"
 	dex
 
 _DiglettDexEntry::
-	text "Lives about one"
-	next "yard underground"
-	next "where it feeds on"
+	text "wutlh Dab, motlh"
+	next "rav cha' 'uj"
+	next "'aqroS wej 'uj"
 
-	page "plant roots. It"
-	next "sometimes appears"
-	next "above ground"
+	page "Saw'. 'oQqar Sop."
+	next "rut yav ghor Dung"
+	next "nargh 'oH"
 	dex
 
 _TaurosDexEntry::
-	text "When it targets"
-	next "an enemy, it"
-	next "charges furiously"
+	text "jagh leghDI' 'uch"
+	next "'ejbuSchoH. nom"
+	next "ghoS; yovwI' rur."
 
-	page "while whipping its"
-	next "body with its"
-	next "long tails"
+	page "QeH'eghmoHtaHmeH"
+	next "porghDaj Dop qIp"
+	next "tlhuQDu'Daj tIq"
 	dex
 
 _FarfetchdDexEntry::
-	text "The sprig of"
-	next "green onions it"
-	next "holds is its"
+	text "nuHDaj 'oH naHDaj"
+	next "SuD'e'. buQlu'DI'"
+	next "San'emDervam"
 
-	page "weapon. It is"
-	next "used much like a"
-	next "metal sword"
+	page "Qach; yanwI' po'"
+	next "rur. nuH weSchugh"
+	next "Hub'eghchoHlaHbe'"
 	dex
 
 _VenonatDexEntry::
-	text "Lives in the"
-	next "shadows of tall"
-	next "trees where it"
+	text "Sormey woch QIb"
+	next "Dab #<m><a><n>vam"
+	next "'ej ghew machqu'"
 
-	page "eats insects. It"
-	next "is attracted by"
-	next "light at night"
+	page "Sop. ram 'oH"
+	next "lungel tamghay"
+	next "wovmoHwI'mey je"
 	dex
 
 _DragoniteDexEntry::
-	text "An extremely"
-	next "rarely seen"
-	next "marine #MON."
+	text "qubqu' bIQ'a'"
+	next "Dabbogh #<m><a><n>vam"
+	next "rorghlaw'. 'oH"
 
-	page "Its intelligence"
-	next "is said to match"
-	next "that of humans"
+	page "val law' ghot"
+	next "val rap 'e' ja'"
+	next "QulwI' law'"
 	dex
 
 _DoduoDexEntry::
-	text "A bird that makes"
-	next "up for its poor"
-	next "flying with its"
+	text "puvlaHbe' 'ach nom"
+	next "qetlaH 'e' qa'."
+	next "bem vem tIn"
 
-	page "fast foot speed."
-	next "Leaves giant"
-	next "footprints"
+	page "chenmoH"
+	next "#<m><a><n>vam"
+	next "qamDu' lang"
 	dex
 
 _PoliwagDexEntry::
-	text "Its newly grown"
-	next "legs prevent it"
-	next "from running. It"
+	text "ngeng HeH Dab."
+	next "qen chenmo'"
+	next "'uSDu'Daj wej"
 
-	page "appears to prefer"
-	next "swimming than"
-	next "trying to stand"
+	page "qetlaH. QamlaH"
+	next "'ach Qal 'e'"
+	next "maS #<m><a><n>vam"
 	dex
 
 _JynxDexEntry::
-	text "It seductively"
-	next "wiggles its hips"
-	next "as it walks. It"
+	text "vIttaHvIS motlh"
+	next "'IvtIHDu'Daj"
+	next "lerchu'moH."
 
-	page "can cause people"
-	next "to dance in"
-	next "unison with it"
+	page "mI'choHchugh"
+	next "vaj mI'choH"
+	next "lubejbogh ghot je"
 	dex
 
 _MoltresDexEntry::
-	text "Known as the"
-	next "legendary bird of"
-	next "fire. Every flap"
+	text "wIch qul bo'Degh"
+	next "'oH #<m><a><n>vam'e'."
+	next "telDaj laqDI'"
 
-	page "of its wings"
-	next "creates a dazzling"
-	next "flash of flames"
+	page "meQtaHbogh SuS'a'"
+	next "ver chenmoH 'e'"
+	next "luja' lut"
 	dex
 
 _ArticunoDexEntry::
-	text "A legendary bird"
-	next "#MON that is"
-	next "said to appear to"
+	text "wIch chuch bo'Degh"
+	next "'oH #<m><a><n>vam'e'."
+	next "HuD taDDaq"
 
-	page "doomed people who"
-	next "are lost in icy"
-	next "mountains"
+	page "chIjHa'pu'bogh"
+	next "lengwI'pu'"
+	next "toD 'e' luja' lut"
 	dex
 
 _ZapdosDexEntry::
-	text "A legendary bird"
-	next "#MON that is"
-	next "said to appear"
+	text "wIch 'ul bo'Degh"
+	next "'oH #<m><a><n>vam'e'."
+	next "'eng Hurghvo' ghIr"
 
-	page "from clouds while"
-	next "dropping enormous"
-	next "lightning bolts"
+	page "'ej pe'bIl HoSqu'"
+	next "lumupmoH telDaj"
+	next "vaS 'e' luja' lut"
 	dex
 
 _DittoDexEntry::
-	text "Capable of copying"
-	next "an enemy's genetic"
-	next "code to instantly"
+	text "Suvpa' jaghDaj"
+	next "roSghaH Hotlh"
+	next "'ej porghDajvaD"
 
-	page "transform itself"
-	next "into a duplicate"
-	next "of the enemy"
+	page "jaghDaj velqa' pup"
+	next "mojmoH. SuvlaHbe'"
+	next "porghDaj motlh"
 	dex
 
 _MeowthDexEntry::
-	text "Adores circular"
-	next "objects. Wanders"
-	next "the streets on a"
+	text "bochwI'mey"
+	next "rutlhwI'mey je"
+	next "muSHa'. Hoch ram"
 
-	page "nightly basis to"
-	next "look for dropped"
-	next "loose change"
+	page "veng tawmeyDaq"
+	next "Huch ngop lunej"
+	next "'ej luboS"
 	dex
 
 _KrabbyDexEntry::
-	text "Its pincers are"
-	next "not only powerful"
-	next "weapons, they are"
+	text "nuHmey HoSghaj"
+	next "bIH DaSwI'Du'Daj"
+	next "tIn. yIttaHvIS"
 
-	page "used for balance"
-	next "when walking"
-	next "sideways"
+	page "ngaD'eghmoHmeH"
+	next "wa'laychaj lo'laH"
+	next "#<m><a><n>vam"
 	dex
 
 _VulpixDexEntry::
-	text "At the time of"
-	next "birth, it has"
-	next "just one tail."
+	text "boghDI' wa' "
+	next "tlhuQ neH ghaj"
+	next "#<m><a><n>vam."
 
-	page "The tail splits"
-	next "from its tip as"
-	next "it grows older"
+	page "nenchoHtaHvIS"
+	next "rIv'eghchoH"
+	next "tlhuQDaj 'ej chev"
 	dex
 
 _NinetalesDexEntry::
-	text "Very smart and"
-	next "very vengeful."
-	next "Grabbing one of"
+	text "valqu' 'ej"
+	next "qeHqangqu'."
+	next "tlhuQDaq ngIq"
 
-	page "its many tails"
-	next "could result in a"
-	next "1000-year curse"
+	page "luHlu'chugh chaq"
+	next "noDmeH wa'SID"
+	next "DIS Do'Ha'moH"
 	dex
 
 _PikachuDexEntry::
-	text "When several of"
-	next "these #MON"
-	next "gather, their"
+	text "ghomchugh "
+	next "#<m><a><n>vam law'"
+	next "pe'bIl mupmoHlaH"
 
-	page "electricity could"
-	next "build and cause"
-	next "lightning storms"
+	page "'ej muD jevmoHlaH"
+	next "'ul'e' polpu'bogh"
+	next "ghom'a'vetlh"
 	dex
 
 _RaichuDexEntry::
-	text "Its long tail"
-	next "serves as a"
-	next "ground to protect"
+	text "'ulDaj HoSghajmo'"
+	next "Qan'eghmeH "
+	next "tIq tlhuQDaj"
 
-	page "itself from its"
-	next "own high voltage"
-	next "power"
+	page "megh'anDaq 'ulvam"
+	next "pol 'ej 'er'InDaq"
+	next "porghDaj ratlh"
 	dex
 
 _DratiniDexEntry::
-	text "Long considered a"
-	next "mythical #MON"
-	next "until recently"
+	text "poH nI' rorgh"
+	next "#<m><a><n>vam net Har"
+	next "'ach qen bIQ'a'"
 
-	page "when a small"
-	next "colony was found"
-	next "living underwater"
+	page "jaQDaq ghom mach"
+	next "lutu' tlharghwI'."
+	next "DaH qub net Sov"
 	dex
 
 _DragonairDexEntry::
-	text "A mystical #MON"
-	next "that exudes a"
-	next "gentle aura."
+	text "reH ghanHa'bej"
+	next "#<m><a><n>vam."
+	next "latlh HubmeH"
 
-	page "Has the ability"
-	next "to change climate"
-	next "conditions"
+	page "'umberDaj HochDaq"
+	next "QIt muD Dotlh"
+	next "SIghlaw' 'oH"
 	dex
 
 _KabutoDexEntry::
-	text "A #MON that"
-	next "was resurrected"
-	next "from a fossil"
+	text "yInqa'moHlu'bogh"
+	next "'an'or 'oH"
+	next "#<m><a><n>vam'e'."
 
-	page "found in what was"
-	next "once the ocean"
-	next "floor eons ago"
+	page "DIS QaDDaq Samlu'"
+	next "'a bov tIQ bIQ'a'"
+	next "rav 'oH Daqvam'e'"
 	dex
 
 _KabutopsDexEntry::
-	text "Its sleek shape is"
-	next "perfect for swim-"
-	next "ming. It slashes"
+	text "Qallu'meH pup"
+	next "borghDaj tu'qom"
+	next "lang. wamtaHvIS"
 
-	page "prey with its"
-	next "claws and drains"
-	next "the body fluids"
+	page "gheDDaj jonmeH"
+	next "pachDa' jejqu' lo'"
+	next "ghIq betgham rem"
 	dex
 
 _HorseaDexEntry::
-	text "Known to shoot"
-	next "down flying bugs"
-	next "with precision"
+	text "bIQ bebDaq "
+	next "'aytaHvIS"
+	next "#<m><a><n>vam"
 
-	page "blasts of ink"
-	next "from the surface"
-	next "of the water"
+	page "gheDDajDaq bIQ"
+	next "bach. pov vI'"
+	next "'aghlaHqu'"
 	dex
 
 _SeadraDexEntry::
-	text "Capable of swim-"
-	next "ming backwards by"
-	next "rapidly flapping"
+	text "QaltaHvIS 'oH"
+	next "'em ghoSmeH"
+	next "tlhuQDaj HoS,"
 
-	page "its wing-like"
-	next "pectoral fins and"
-	next "stout tail"
+	page "telDu' rurbogh"
+	next "mIjDangDaj'e' je"
+	next "jaqmoHlaH"
 	dex
 
 _SandshrewDexEntry::
-	text "Burrows deep"
-	next "underground in"
-	next "arid locations"
+	text "bIQ Hopbogh puH"
+	next "QaD Dab 'ej"
+	next "yav jaQDaq"
 
-	page "far from water."
-	next "It only emerges"
-	next "to hunt for food"
+	page "mol'egh."
+	next "wammeH neH"
+	next "molHa''egh"
 	dex
 
 _SandslashDexEntry::
-	text "Curls up into a"
-	next "spiny ball when"
-	next "threatened. It"
+	text "buQlu'chugh"
+	next "porghDaj 'obmoH"
+	next "'ej moQ moj."
 
-	page "can roll while"
-	next "curled up to"
-	next "attack or escape"
+	page "HIvmeH pagh "
+	next "narghmeH"
+	next "ronlaH #<m><a><n>vam"
 	dex
 
 _OmanyteDexEntry::
-	text "Although long"
-	next "extinct, in rare"
-	next "cases, it can be"
+	text "bov tIQ loqchoH"
+	next "#<m><a><n>vam."
+	next "vabDot ghu'mey"
 
-	page "genetically"
-	next "resurrected from"
-	next "fossils"
+	page "le' qaSchugh "
+	next "luyInqa'moHmeH"
+	next "'an'or lo'laH tej"
 	dex
 
 _OmastarDexEntry::
-	text "A prehistoric"
-	next "#MON that died"
-	next "out when its"
+	text "tlhoy' 'ughchoHmo'"
+	next "nagh DIrDaj gheD"
+	next "jonlaHbe'choH."
 
-	page "heavy shell made"
-	next "it impossible to"
-	next "catch prey"
+	page "SoplaHbe'mo'"
+	next "SIbI'Ha' loqchoH"
+	next "mutvam Hoch"
 	dex
 
 _JigglypuffDexEntry::
-	text "When its huge eyes"
-	next "light up, it sings"
-	next "a mysteriously"
+	text "wovchoHDI' mInDaj"
+	next "tIn jotmoHbogh"
+	next "bom taQ bomchoH."
 
-	page "soothing melody"
-	next "that lulls its"
-	next "enemies to sleep"
+	page "bomvam QoyDI'"
+	next "#<m><a><n>vam jagh"
+	next "SIbI' Qongqu'choH"
 	dex
 
 _WigglytuffDexEntry::
-	text "The body is soft"
-	next "and rubbery. When"
-	next "angered, it will"
+	text "tunqu' porghDaj;"
+	next "qoch'uq rur."
+	next "QeHmoHlu'DI'"
 
-	page "suck in air and"
-	next "inflate itself to"
-	next "an enormous size"
+	page "rewve' law' rech"
+	next "'ej porghDaj jo'"
+	next "tInqu''eghmoH"
 	dex
 
 _EeveeDexEntry::
-	text "Its genetic code"
-	next "is irregular."
-	next "It may mutate if"
+	text "taQbej roSghaHDaj"
+	next "SIr. #<m><a><n>vam "
+	next "ghe'moHlaH woj"
 
-	page "it is exposed to"
-	next "radiation from"
-	next "element STONEs"
+	page "tlhuDbogh naghmey"
+	next "puS. naghmey buv"
+	next "moj #<m><a><n> buv"
 	dex
 
 _FlareonDexEntry::
-	text "When storing"
-	next "thermal energy in"
-	next "its body, its"
+	text "porghDajDaq tuj"
+	next "ngeqtaHvIS 1550"
+	next "SImyon gheH"
 
-	page "temperature could"
-	next "soar to over 1600"
-	next "degrees"
+	page "porgh HatDaj"
+	next "net juvta' 'ach"
+	next "'aqroS Sovlu'be'"
 	dex
 
 _JolteonDexEntry::
-	text "It accumulates"
-	next "negative ions in"
-	next "the atmosphere to"
+	text "rewve'vo' tatmey"
+	next "ngIng ngeq."
+	next "HIvmeH tatmeyvetlh"
 
-	page "blast out 10000-"
-	next "volt lightning"
-	next "bolts"
+	page "polHa' 'ej pe'bIl"
+	next "tIH HoSghajqu'"
+	next "lIng #<m><a><n>vam"
 	dex
 
 _VaporeonDexEntry::
-	text "Lives close to"
-	next "water. Its long"
-	next "tail is ridged"
+	text "bIQ Supbogh Daqmey"
+	next "Dab 'e' maS."
+	next "'IHmo' DIrDaj boch"
 
-	page "with a fin which"
-	next "is often mistaken"
-	next "for a mermaid's"
+	page "#<m><a><n>vam leghDI'"
+	next "maQ Do' Dam bIQ"
+	next "Duj beqmey law'"
 	dex
 
 _MachopDexEntry::
-	text "Loves to build"
-	next "its muscles."
-	next "It trains in all"
+	text "SomrawDu'Daj"
+	next "tInmoH 'e' muSHa'."
+	next "HoS'eghmoHmeH"
 
-	page "styles of martial"
-	next "arts to become"
-	next "even stronger"
+	page "tonSaw' Hoch nID"
+	next "'ej mI'meH ngIq"
+	next "qeq #<m><a><n>vam"
 	dex
 
 _ZubatDexEntry::
-	text "Forms colonies in"
-	next "perpetually dark"
-	next "places. Uses"
+	text "reH Hurghbogh"
+	next "DaqmeyDaq mID"
+	next "lucher. gheDDaj"
 
-	page "ultrasonic waves"
-	next "to identify and"
-	next "approach targets"
+	page "ngu'meH 'ej"
+	next "SammeH wab"
+	next "Hamqu' lo'laH"
 	dex
 
 _EkansDexEntry::
-	text "Moves silently"
-	next "and stealthily."
-	next "Eats the eggs of"
+	text "vIHtaHvIS tam 'ej"
+	next "pegh. bo'Degh"
+	next "#<m><a><n> QImmey naQ"
 
-	page "birds, such as"
-	next "PIDGEY and"
-	next "SPEAROW, whole"
+	page "Sop. QIm tIn "
+	next "SopmeH ghapqa'Daj"
+	next "Sach #<m><a><n>vam"
 	dex
 
 _ParasDexEntry::
-	text "Burrows to suck"
-	next "tree roots. The"
-	next "mushrooms on its"
+	text "Sor 'oQqarvo'"
+	next "betgham remmeH"
+	next "ghaw. nenchoHmeH"
 
-	page "back grow by draw-"
-	next "ing nutrients from"
-	next "the bug host"
+	page "ghew porghvo'"
+	next "yIn nIHtaH DubDaj"
+	next "Dabbogh 'atlhqam"
 	dex
 
 _PoliwhirlDexEntry::
-	text "Capable of living"
-	next "in or out of"
-	next "water. When out"
+	text "bIQ DablaH vabDot"
+	next "puH DablaH je."
+	next "bIQ 'oHbe'taHvIS"
 
-	page "of water, it"
-	next "sweats to keep"
-	next "its body slimy"
+	page "SuynIj char lIng"
+	next "porghDaj naQ"
+	next "velbogh DIr'e'"
 	dex
 
 _PoliwrathDexEntry::
-	text "An adept swimmer"
-	next "at both the front"
-	next "crawl and breast"
+	text "QalwI' po' 'oH"
+	next "#<m><a><n>vam'e'."
+	next "QalmeH Ho'DoS"
 
-	page "stroke. Easily"
-	next "overtakes the best"
-	next "human swimmers"
+	page "Hoch pIn 'oH je."
+	next "Human QalwI'pu'"
+	next "juSlaH"
 	dex
 
 _WeedleDexEntry::
-	text "Often found in"
-	next "forests, eating"
-	next "leaves."
+	text "ngem Dab 'ej "
+	next "motlh pormey"
+	next "SoptaH."
 
-	page "It has a sharp"
-	next "venomous stinger"
-	next "on its head"
+	page "nachDajDaq pu'"
+	next "rurbogh 'aw'wI'"
+	next "ghaj #<m><a><n>vam"
 	dex
 
 _KakunaDexEntry::
-	text "Almost incapable"
-	next "of moving, this"
-	next "#MON can only"
+	text "tlhoS vIHlaHbe'mo'"
+	next "#<m><a><n>vam ghoSDI'"
+	next "#<m><a><n> latlh"
 
-	page "harden its shell"
-	next "to protect itself"
-	next "from predators"
+	page "Hub'eghmeH DIrlIj"
+	next "letnISmoH. ghe'pa'"
+	next "loQ SuvlaH"
 	dex
 
 _BeedrillDexEntry::
-	text "Flies at high"
-	next "speed and attacks"
-	next "using its large"
+	text "nom puvlaH 'ej "
+	next "HIvmeH 'aw'wI'Du'"
+	next "tIn'e' rarbogh"
 
-	page "venomous stingers"
-	next "on its forelegs"
-	next "and tail"
+	page "DeSDu'Daj tlhaQDaj"
+	next "je. jaghDaj DoHmoH"
+	next "'ejvoHmeyDaj wov"
 	dex
 
 _DodrioDexEntry::
-	text "Uses its three"
-	next "brains to execute"
-	next "complex plans."
+	text "nabmey Qatlh"
+	next "turmeH wej"
+	next "yabDu'Daj lo'."
 
-	page "While two heads"
-	next "sleep, one head"
-	next "stays awake"
+	page "QongtaHvIS cha'"
+	next "nachDu' HubmeH "
+	next "Qob ghuH latlh"
 	dex
 
 _PrimeapeDexEntry::
-	text "Always furious"
-	next "and tenacious to"
-	next "boot. It will not"
+	text "reH QeHqu' 'ej"
+	next "QeHmo' vaw je."
+	next "gheDDaj jonpa'"
 
-	page "abandon chasing"
-	next "its quarry until"
-	next "it is caught"
+	page "tlha'taH"
+	next "#<m><a><n>vam 'e'"
+	next "mevqangbe'qu'"
 	dex
 
 _DugtrioDexEntry::
-	text "A team of DIGLETT"
-	next "triplets."
-	next "It triggers huge"
+	text "wej <g><h><a><w><g><h><u> jIj"
+	next "yugh #<m><a><n>vam."
+	next "Qomqu'moHmeH"
 
-	page "earthquakes by"
-	next "burrowing 60 miles"
-	next "underground"
+	page "vaghmaH qelI'qam"
+	next "chuq Saw' yavDaq"
+	next "tlhanlaH"
 	dex
 
 _VenomothDexEntry::
-	text "The dust-like"
-	next "scales covering"
-	next "its wings are"
+	text "tar Sar tlhInDaj"
+	next "ghaSmeH jaS"
+	next "nguv telDu'Daj"
 
-	page "color coded to"
-	next "indicate the kinds"
-	next "of poison it has"
+	page "velbogh ghISDen."
+	next "Say'qIS rur"
+	next "ghISDenDu'vam"
 	dex
 
 _DewgongDexEntry::
-	text "Stores thermal"
-	next "energy in its"
-	next "body. Swims at a"
+	text "porghDaj qoDDaq"
+	next "tuj HoS vItlh"
+	next "pollaH. QaltaHvIS"
 
-	page "steady 8 knots"
-	next "even in intensely"
-	next "cold waters"
+	page "'aqroS Do'Daj"
+	next "choHlaHbe'"
+	next "bIQ bIrqu'"
 	dex
 
 _CaterpieDexEntry::
-	text "Its short feet"
-	next "are tipped with"
-	next "suction pads that"
+	text "runmo' 'uSDu'Daj"
+	next "nom qetlaHbe, 'ach"
+	next "ngamlaHmo' qamDaj"
 
-	page "enable it to"
-	next "tirelessly climb"
-	next "slopes and walls"
+	page "pIj reDmey Sormey"
+	next "qachmey joq toStaH"
+	next "#<m><a><n>vam mach"
 	dex
 
 _MetapodDexEntry::
-	text "This #MON is"
-	next "vulnerable to"
-	next "attack while its"
+	text "tuntaHvIS porghDaj"
+	next "puj Qanbogh nagh"
+	next "DIr'e' wun."
 
-	page "shell is soft,"
-	next "exposing its weak"
-	next "and tender body"
+	page "Hub'eghmeH nagh"
+	next "DIrvam letmoH"
+	next "#<m><a><n>vam"
 	dex
 
 _ButterfreeDexEntry::
-	text "In battle, it"
-	next "flaps its wings"
-	next "at high speed to"
+	text "SuvtaHvIS"
+	next "rewve'Daq Say'qIS"
+	next "SuQ peDmoHmeH nom"
 
-	page "release highly"
-	next "toxic dust into"
-	next "the air"
+	page "telDu'Daj laqmoH."
+	next "jaS jaghmey SIgh"
+	next "Say'qISmey pIm"
 	dex
 
 _MachampDexEntry::
-	text "Using its heavy"
-	next "muscles, it throws"
-	next "powerful punches"
+	text "qIpmeH SomrawDaj"
+	next "'ugh lo'. jaghDaj"
+	next "qIpDI' ghangwI'"
 
-	page "that can send the"
-	next "victim clear over"
-	next "the horizon"
+	page "HayDaq DoSDaj"
+	next "vo'laH #<m><a><n>vam"
+	next "HoSghajqu'"
 	dex
 
 _GolduckDexEntry::
-	text "Often seen swim-"
-	next "ming elegantly by"
-	next "lake shores. It"
+	text "pIj ngengmey"
+	next "HeH retlhDaq"
+	next "Qal 'e' leghlu'."
 
-	page "is often mistaken"
-	next "for the Japanese"
-	next "monster, Kappa"
+	page "tlhapragh bopbogh"
+	next "nIpon wIch rurmo'"
+	next "rut ngu'Ha'lu'"
 	dex
 
 _HypnoDexEntry::
-	text "When it locks eyes"
-	next "with an enemy, it"
-	next "will use a mix of"
+	text "mInDu'Daj ghanDI'"
+	next "jaghmeyDaj"
+	next "chotlhmoHchoH."
 
-	page "PSI moves such as"
-	next "HYPNOSIS and"
-	next "CONFUSION"
+	page "'ebvam jonmeH"
+	next "yab tonSaw' HoS"
+	next "lo' #<m><a><n>vam"
 	dex
 
 _GolbatDexEntry::
-	text "Once it strikes,"
-	next "it will not stop"
-	next "draining energy"
+	text "HIvDI' DoSDaj"
+	next "HoS rem 'e'"
+	next "mevqangbe' mo'"
 
-	page "from the victim"
-	next "even if it gets"
-	next "too heavy to fly"
+	page "rut pI'choH"
+	next "'ej 'ughmo'"
+	next "puvchoHlaHbe'"
 	dex
 
 _MewtwoDexEntry::
-	text "It was created by"
-	next "a scientist after"
-	next "years of horrific"
+	text "#<m><a><n>vam SIrchu'"
+	next "chenmoH ghob"
+	next "Hutlhbogh roSghaH"
 
-	page "gene splicing and"
-	next "DNA engineering"
-	next "experiments"
+	page "ngongmey Sar."
+	next "'oH bechmoHmo'"
+	next "tej nuvpu' voqbe'"
 	dex
 
 _SnorlaxDexEntry::
-	text "Very lazy. Just"
-	next "eats and sleeps."
-	next "As its rotund"
+	text "buDqu'. Sop 'ej"
+	next "Qong 'a latlh"
+	next "ta'be' #<m><a><n>vam."
 
-	page "bulk builds, it"
-	next "becomes steadily"
-	next "more slothful"
+	page "rorqu'choHtaHvIS"
+	next "QIt vIHchoHlaH 'ej"
+	next "buDqu'choH je"
 	dex
 
 _MagikarpDexEntry::
-	text "In the distant"
-	next "past, it was"
-	next "somewhat stronger"
+	text "bov tIQqu' HoSlaw'"
+	next "#<m><a><n>vam. 'ach"
+	next "pujchu'bej"
 
-	page "than the horribly"
-	next "weak descendants"
-	next "that exist today"
+	page "SIQtaHbogh"
+	next "HoSwI'meyvetlh"
+	next "nortlhammey"
 	dex
 
 _MukDexEntry::
-	text "Thickly covered"
-	next "with a filthy,"
-	next "vile sludge. It"
+	text "#<m><a><n>vam vel"
+	next "'upqu'bogh HuH"
+	next "lam. SuQqu'mo'"
 
-	page "is so toxic, even"
-	next "its footprints"
-	next "contain poison"
+	page "vabDot tarDaj"
+	next "ngaS #<m><a><n>vam"
+	next "bem vemmey"
 	dex
 
 _KinglerDexEntry::
-	text "The large pincer"
-	next "has 10000 hp of"
-	next "crushing power."
+	text "tapmeH HoS"
+	next "vItlhqu' lo'"
+	next "DaSwI' tInqu'."
 
-	page "However, its huge"
-	next "size makes it"
-	next "unwieldy to use"
+	page "vabDot 'ughqu'mo'"
+	next "DaSwI'vam lo' 'e'"
+	next "'oH Qu' Qatlh'e'"
 	dex
 
 _CloysterDexEntry::
-	text "When attacked, it"
-	next "launches its"
-	next "horns in quick"
+	text "HIvlu'DI' puSlogh"
+	next "nom jaghDaj chuH,"
+	next "pu'Daj lo'taHvIS."
 
-	page "volleys. Its"
-	next "innards have"
-	next "never been seen"
+	page "not Dep'e'"
+	next "ngaSbogh nagh "
+	next "DIrDaj leghlu'"
 	dex
-
+	
 _ElectrodeDexEntry::
-	text "It stores electric"
-	next "energy under very"
-	next "high pressure."
+	text "porghDajDaq 'ul"
+	next "ngeqmeH Surmen"
+	next "vItlh lo'. pIj meq"
 
-	page "It often explodes"
-	next "with little or no"
-	next "provocation"
+	page "rammo' jormeH"
+	next "Surmenvam ghIm"
+	next "#<m><a><n>vam"
 	dex
 
 _ClefableDexEntry::
-	text "A timid fairy"
-	next "#MON that is"
-	next "rarely seen. It"
+	text "SIqnaSwaq rur"
+	next "#<m><a><n>vam"
+	next "joqHa'. pIjHa'"
 
-	page "will run and hide"
-	next "the moment it"
-	next "senses people"
+	page "leghlu'. nuv "
+	next "jemDI' HeDchoH"
+	next "'ej So''eghchoH"
 	dex
 
 _WeezingDexEntry::
-	text "Where two kinds"
-	next "of poison gases"
-	next "meet, 2 KOFFINGs"
+	text "merghtaHchugh"
+	next "cha' tar SIp Sar"
+	next "DaqvetlhDaq QIt"
 
-	page "can fuse into a"
-	next "WEEZING over many"
-	next "years"
+	page "merghchuqlaH"
+	next "cha' <t><u><S><t><u><S> je"
+	next "chen #<m><a><n>vam"
 	dex
 
 _PersianDexEntry::
-	text "Although its fur"
-	next "has many admirers,"
-	next "it is tough to"
+	text "veDchaj luHo' nuv"
+	next "law' vabDot pIj"
+	next "qejmo' 'ej "
 
-	page "raise as a pet"
-	next "because of its"
-	next "fickle meanness"
+	page "lobHa'mo'"
+	next "Sajmey Da"
+	next "#<m><a><n>van puS"
 	dex
 
 _MarowakDexEntry::
-	text "The bone it holds"
-	next "is its key weapon."
-	next "It throws the"
+	text "nuHDaj maSbogh 'oH"
+	next "Hom'e' qengbogh."
+	next "po'mo' Homvam"
 
-	page "bone skillfully"
-	next "like a boomerang"
-	next "to KO targets"
+	page "jaDDI' DaSDaj"
+	next "qIp 'ej 'etmoH"
+	next "ghIq ghop chegh"
 	dex
 
 _HaunterDexEntry::
-	text "Because of its"
-	next "ability to slip"
-	next "through block"
+	text "tlhoy'mey lep"
+	next "'awlaHmo'"
+	next "#<m><a><n>vam"
 
-	page "walls, it is said"
-	next "to be from an-"
-	next "other dimension"
+	page "wu'bogh DI'ruj"
+	next "pIm 'oH mungDaj'e'"
+	next "'e' Har nuv law'"
 	dex
 
 _AbraDexEntry::
-	text "Using its ability"
-	next "to read minds, it"
-	next "will identify"
+	text "Qob ghuHmeH"
+	next "'erwI'DaqDaj lo'."
+	next "buQlu'DI'"
 
-	page "impending danger"
-	next "and TELEPORT to"
-	next "safety"
+	page "HeDmeH Qobvo'"
+	next "Qol'egh 'ej nargh"
+	next "#<m><a><n>vam"
 	dex
 
 _AlakazamDexEntry::
-	text "Its brain can out-"
-	next "perform a super-"
-	next "computer."
+	text "yabDaj QublaH"
+	next "law' De'wI''a'"
+	next "SImlaH puS."
 
-	page "Its intelligence"
-	next "quotient is said"
-	next "to be 5,000"
+	page "qawDaj povmo'"
+	next "lIjlaHbe'law'"
+	next "#<m><a><n>vam"
 	dex
 
 _PidgeottoDexEntry::
-	text "Very protective"
-	next "of its sprawling"
-	next "territorial area,"
+	text "yerDaj tInqu'"
+	next "che'taH neHmo'"
+	next "pe'vIl yotbogh"
 
-	page "this #MON will"
-	next "fiercely peck at"
-	next "any intruder"
+	page "#<m><a><n> Hoch "
+	next "wommeH nebDaj jej"
+	next "lo' #<m><a><n>vam"
 	dex
 
 _PidgeotDexEntry::
-	text "When hunting, it"
-	next "skims the surface"
-	next "of water at high"
+	text "<g><h><o><t><I><D><n><a><r> gheD"
+	next "latlh je wammeH"
+	next "bIQ beb DungDaq"
 
-	page "speed to pick off"
-	next "unwary prey such"
-	next "as MAGIKARP"
+	page "nom puv 'ej"
+	next "bIQvo' ghotI'"
+	next "'uch nebDaj"
 	dex
 
 _StarmieDexEntry::
-	text "Its central core"
-	next "glows with the"
-	next "seven colors of"
+	text "wew qut tIn"
+	next "ngaSbogh botlhDaj."
+	next "chumqu' tamghay"
 
-	page "the rainbow. Some"
-	next "people value the"
-	next "core as a gem"
+	page "tlhuDbogh. "
+	next "naghboch 'oH 'e'"
+	next "Dam ghot law'"
 	dex
 
 _BulbasaurDexEntry::
-	text "A strange seed was"
-	next "planted on its"
-	next "back at birth."
+	text "boghDI' DubDajDaq"
+	next "San'emDer taQ"
+	next "raS'IS pochlu'."
 
-	page "The plant sprouts"
-	next "and grows with"
-	next "this #MON"
+	page "San'emDer"
+	next "reStaHvIS #<m><a><n>"
+	next "nenchoHtaH je"
 	dex
 
 _VenusaurDexEntry::
-	text "The plant blooms"
-	next "when it is"
-	next "absorbing solar"
+	text "julwovvo' HoS"
+	next "HevmeH lew"
+	next "San'emDer 'InSong."
 
-	page "energy. It stays"
-	next "on the move to"
-	next "seek sunlight"
+	page "vIHchugh julwov"
+	next "tlha'meH QIt"
+	next "qet #<m><a><n>vam"
 	dex
 
 _TentacruelDexEntry::
-	text "The tentacles are"
-	next "normally kept"
-	next "short. On hunts,"
+	text "motlh nevroDDaj"
+	next "runmoH 'ach"
+	next "wamtaHvIS"
 
-	page "they are extended"
-	next "to ensnare and"
-	next "immobilize prey"
+	page "gheDDaj jonmeH"
+	next "'ej pujmoHmeH"
+	next "nevroDDaj tIqmoH"
 	dex
 
 _GoldeenDexEntry::
-	text "Its tail fin"
-	next "billows like an"
-	next "elegant ballroom"
+	text "'IHqu'bogh paH"
+	next "vaS rurmo' tlhuQ"
+	next "mIjDangDaj"
 
-	page "dress, giving it"
-	next "the nickname of"
-	next "the Water Queen"
+	page "'oHvaD bIQ"
+	next "voDleHbe' lupong"
+	next "nuv puS"
 	dex
 
 _SeakingDexEntry::
-	text "In the autumn"
-	next "spawning season,"
-	next "they can be seen"
+	text "qImroq bIr bI'reS"
+	next "qaSpa' SepmeH"
+	next "poHlIj tagh."
 
-	page "swimming power-"
-	next "fully up rivers"
-	next "and creeks"
+	page "poHvam qaStaHvIS"
+	next "bIQtIqmeyDaq"
+	next "pep'en ghoSHa'"
 	dex
 
 _PonytaDexEntry::
-	text "Its hooves are 10"
-	next "times harder than"
-	next "diamonds. It can"
+	text "lemDaj let law'"
+	next "chanmon let puS."
+	next "qettaHvIS botbogh"
 
-	page "trample anything"
-	next "completely flat"
-	next "in little time"
+	page "vay' beQmoHchu'."
+	next "vay' voqchu'chugh"
+	next "vaj meQbe' qulDaj"
 	dex
 
 _RapidashDexEntry::
-	text "Very competitive,"
-	next "this #MON will"
-	next "chase anything"
+	text "Do vItlh chavlaH."
+	next "'ovqangqu'mo'"
+	next "nom vIHlaH vay'"
 
-	page "that moves fast"
-	next "in the hopes of"
-	next "racing it"
+	page "tlha' #<m><a><n>vam."
+	next "SIbI'Ha' Hoch"
+	next "juSlaH neH."
 	dex
 
 _RattataDexEntry::
-	text "Bites anything"
-	next "when it attacks."
-	next "Small and very"
+	text "nom vIHlaH 'ej"
+	next "mach #<m><a><n>vam."
+	next "HIvmeH reH Hoch"
 
-	page "quick, it is a"
-	next "common sight in"
-	next "many places"
+	page "chopqang. Daqmey"
+	next "law'Daq leghlu'."
+	next "let Ho'Du'Daj"
 	dex
 
 _RaticateDexEntry::
-	text "It uses its whis-"
-	next "kers to maintain"
-	next "its balance."
+	text "ngaD'eghmoHmeH"
+	next "pu'vengmey lo'"
+	next "#<m><a><n>vam."
 
-	page "It apparently"
-	next "slows down if"
-	next "they are cut off"
+	page "bIH weSchugh"
+	next "QIt vIHchoHlaw'"
+	next "porghDaj"
 	dex
 
 _NidorinoDexEntry::
-	text "An aggressive"
-	next "#MON that is"
-	next "quick to attack."
+	text "reH HIvrup"
+	next "#<m><a><n>vam. not"
+	next "baw'Ha'."
 
-	page "The horn on its"
-	next "head secretes a"
-	next "powerful venom"
+	page "HoSqu' tar"
+	next "ghItbogh Quch"
+	next "pu'Daj"
 	dex
 
 _NidorinaDexEntry::
-	text "The female's horn"
-	next "develops slowly."
-	next "Prefers physical"
+	text "QIt nenchoH "
+	next "be' pu'mey."
+	next "HIvmeH lotmeH"
 
-	page "attacks such as"
-	next "clawing and"
-	next "biting"
+	page "pachDaj lo'"
+	next "qoj chop 'e'"
+	next "maS #<m><a><n>vam"
 	dex
 
 _GeodudeDexEntry::
-	text "Found in fields"
-	next "and mountains."
-	next "Mistaking them"
+	text "HuDmey bo'ghey"
+	next "puH beQ je Dab."
+	next "naghmey tIn"
 
-	page "for boulders,"
-	next "people often step"
-	next "or trip on them"
+	page "rurmo' pIj bong"
+	next "ghot tangmoH"
+	next "porghDaj let"
 	dex
 
 _PorygonDexEntry::
-	text "A #MON that"
-	next "consists entirely"
-	next "of programming"
+	text "nIqHom ghunlu'bogh"
+	next "yugh #<m><a><n>vam."
+	next "De'wI' patmey"
 
-	page "code. Capable of"
-	next "moving freely in"
-	next "cyberspace"
+	page "'ellaH #<m><a><n>vam"
+	next "'ej pa' vIHlaH;"
+	next "ngem Ha'DIbaH rur"
 	dex
 
 _AerodactylDexEntry::
-	text "A ferocious, pre-"
-	next "historic #MON"
-	next "that goes for the"
+	text "naS #<m><a><n>vam"
+	next "tIQ jaghDaj"
+	next "HIvmeH HughDaj"
 
-	page "enemy's throat"
-	next "with its serrated"
-	next "saw-like fangs"
+	page "'uch, jejbogh"
+	next "Ho'Du' tIq lo'."
+	next "gheD qu' maS"
 	dex
 
 _MagnemiteDexEntry::
-	text "Uses anti-gravity"
-	next "to stay suspended."
-	next "Appears without"
+	text "'almeH tlham Dop"
+	next "lIng. SIbI' nargh"
+	next "ghIq HIvmeH 'ul"
 
-	page "warning and uses"
-	next "THUNDER WAVE and"
-	next "similar moves"
+	page "tonSaw' Sar"
+	next "lo' #<m><a><n>vam."
+	next "HoS peQchemDaj"
 	dex
 
 _CharmanderDexEntry::
-	text "Obviously prefers"
-	next "hot places. When"
-	next "it rains, steam"
+	text "Daqmey tuj maSba'"
+	next "#<m><a><n>vam."
+	next "SISchoHDI'"
 
-	page "is said to spout"
-	next "from the tip of"
-	next "its tail"
+	page "tlhuQDaj 'er'Invo'"
+	next "SeS SalchoH net"
+	next "leghlaH"
 	dex
 
 _SquirtleDexEntry::
-	text "After birth, its"
-	next "back swells and"
-	next "hardens into a"
+	text "boghpu'DI' lun"
+	next "DubDaj ghIq"
+	next "letchoH. nagh DIr"
 
-	page "shell. Powerfully"
-	next "sprays foam from"
-	next "its mouth"
+	page "moj. pe'vIl nujvo'"
+	next "'o'nI' bIQ je ghIt"
+	next "#<m><a><n>vam"
 	dex
 
 _CharmeleonDexEntry::
-	text "When it swings"
-	next "its burning tail,"
-	next "it elevates the"
+	text "tlhuQDaj joqmoHDI'"
+	next "rewve' tujmoH"
+	next "qulDaj."
 
-	page "temperature to"
-	next "unbearably high"
-	next "levels"
+	page "taHchugh ghu'vam"
+	next "Hat tujqu' chavlaH"
+	next "#<m><a><n>vam"
 	dex
 
 _WartortleDexEntry::
-	text "Often hides in"
-	next "water to stalk"
-	next "unwary prey. For"
+	text "gheD ghuHbe'"
+	next "wammeH pIj bIQDaq"
+	next "ghach. QaltaHvIS"
 
-	page "swimming fast, it"
-	next "moves its ears to"
-	next "maintain balance"
+	page "ngaD'eghmoHmeH"
+	next "qoghDu'lIj vIHmoH"
+	next "#<m><a><n>vam"
 	dex
 
 _CharizardDexEntry::
-	text "Spits fire that"
-	next "is hot enough to"
-	next "melt boulders."
+	text "nujDajvo' qul"
+	next "ghIt. tujqu'mo'"
+	next "qulvam nagh tet."
 
-	page "Known to cause"
-	next "forest fires"
-	next "unintentionally"
+	page "bong ngem meQ"
+	next "#<m><a><n>vam net"
+	next "leghpu'"
 	dex
 
 _OddishDexEntry::
-	text "During the day,"
-	next "it keeps its face"
-	next "buried in the"
+	text "pem So''eghmoHmeH"
+	next "yavDaq qabDaj mol"
+	next "#<m><a><n>vam."
 
-	page "ground. At night,"
-	next "it wanders around"
-	next "sowing its seeds"
+	page "ram raS'ISmeyDaj"
+	next "pochmeH molHa''egh"
+	next "'ej HatlhDaq leng"
 	dex
 
 _GloomDexEntry::
-	text "The fluid that"
-	next "oozes from its"
-	next "mouth isn't drool."
+	text "bolDI' tlhepQe'"
+	next "'oHbe' betgham"
+	next "lIngbogh."
 
-	page "It is a nectar"
-	next "that is used to"
-	next "attract prey"
+	page "gheDDaj ngelmeH"
+	next "jutngev He'qu'"
+	next "leng 'e' qa'"
 	dex
 
 _VileplumeDexEntry::
-	text "The larger its"
-	next "petals, the more"
-	next "toxic pollen it"
+	text "Suntay' SuQ ngaS"
+	next "'uma'Du'Daj tIn."
+	next "lu'ughmoHmo'"
 
-	page "contains. Its big"
-	next "head is heavy and"
-	next "hard to hold up"
+	page "bIH pIj nachDaj"
+	next "pep #<m><a><n>vam"
+	next "'e' Qatlh"
 	dex
 
 _BellsproutDexEntry::
-	text "A carnivorous"
-	next "#MON that traps"
-	next "and eats bugs."
+	text "ghewmey Sopbogh"
+	next "'InSong 'oH"
+	next "#<m><a><n>vam'e'."
 
-	page "It uses its root"
-	next "feet to soak up"
-	next "needed moisture"
+	page "tlhutlhmeH"
+	next "yavvo' betgham"
+	next "bum 'oQqarDaj"
 	dex
 
 _WeepinbellDexEntry::
-	text "It spits out"
-	next "POISONPOWDER to"
-	next "immobilize the"
+	text "ghungDI' gheDDaj"
+	next "vIHbe'laHmoHmeH"
+	next "Suntay'Daj SuQ"
 
-	page "enemy and then"
-	next "finishes it with"
-	next "a spray of ACID"
+	page "peDmoH ghIq"
+	next "Soppa' ngoSbogh"
+	next "pey ghIt"
 	dex
 
 _VictreebelDexEntry::
-	text "Said to live in"
-	next "huge colonies"
-	next "deep in jungles,"
+	text "ngemmey tlhab"
+	next "Dab mIDmey tIn"
+	next "net Har vabDot"
 
-	page "although no one"
-	next "has ever returned"
-	next "from there"
+	page "mIDmeyvam "
+	next "leghchugh vay'"
+	next "vaj ja'laHbe'law'"
 	dex
