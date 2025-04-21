@@ -1,62 +1,64 @@
 SilphCo9FNurseYouLookTiredText::
-	text "You look tired!"
-	line "You should take a"
-	cont "quick nap!"
+	text "bIDoy'law'!"
+	line "nom yIDum!"
+	cont "vItlheb!"
 	prompt
 
 SilphCo9FNurseDontGiveUpText::
-	text "Don't give up!"
+	text "yIjeghQo'!"
 	done
 
 SilphCo9FNurseThankYouText::
-	text "Thank you so"
-	line "much!"
+	text "juQaHqu'!"
+	line "majQa'!"
 	done
 
 _SilphCo9FRocket1BattleText::
-	text "Your #MON seem"
-	line "to adore you, kid!"
+	text "DuHo'qu'law'"
+	line "#<m><a><n>lIj, puq!"
 	done
 
 _SilphCo9FRocket1EndBattleText::
-	text "Ghaaah!"
+	text "vaaaaaa!"
 	prompt
 
 _SilphCo9FRocket1AfterBattleText::
-	text "If I had started"
-	line "as a trainer at"
-	cont "your age..."
+	text "jIQuptaHvIS;"
+	line "SoH qarur,"
+	cont "#<m><a><n> chojwI'"
+	cont "vImojlaHpu'chugh"
+	cont "chaq..."
 	done
 
 _SilphCo9FScientistBattleText::
-	text "Your #MON have"
-	line "weak points! I"
-	cont "can nail them!"
+	text "pujmey ghaj"
+	line "#<m><a><n>lIj. bIH"
+	cont "vImuplaH!"
 	done
 
 _SilphCo9FScientistEndBattleText::
-	text "You"
-	line "hammered me!"
+	text "va mumupta'"
+	line "'e' qa'!"
 	prompt
 
 _SilphCo9FScientistAfterBattleText::
-	text "Exploiting weak"
-	line "spots does work!"
-	cont "Think about"
-	cont "element types!"
+	text "pujmey mup 'e'"
+	line "'oH Dup vaQ!"
+	cont "#<m><a><n> buv"
+	cont "DaqelnIS!!"
 	done
 
 _SilphCo9FRocket2BattleText::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "loS <p><e><n><g><D><u><j> loDnI'"
+	line "maH!"
 	done
 
 _SilphCo9FRocket2EndBattleText::
-	text "Warg!"
-	line "Brothers, I lost!"
+	text "Hu'tegh!"
+	line "loDnI'pu', jIluj!"
 	prompt
 
 _SilphCo9FRocket2AfterBattleText::
-	text "My brothers will"
-	line "avenge me!"
+	text "jIDItlhtaH 'e'"
+	line "luchaw'Qo' loDnI'!"
 	done
