@@ -1,42 +1,42 @@
 _SilphCo10FSilphWorkerFImScaredText::
-	text "Waaaaa!"
-	cont "I'm scared!"
+	text "'aaaaa!"
+	para "vIghIjlu'!"
 	done
 
 _SilphCo10FSilphWorkerFQuietAboutMyCryingText::
-	text "Please keep quiet"
-	line "about my crying!"
+	text "jISaQqu' 'e'"
+	line "yIja'Qo'! qaqoy'."
 	done
 
 _SilphCo10FRocketBattleText::
-	text "Welcome to the"
-	line "10F! So good of"
-	cont "you to join me!"
+	text "S10 Dapaw'!"
+	line "tagha' chomuvpu'."
+	cont "'qaloSlI'!"
 	done
 
 _SilphCo10FRocketEndBattleText::
-	text "I'm"
-	line "stunned!"
+	text "Hu..."
+	line "jIyay'!"
 	prompt
 
 _SilphCo10FRocketAfterBattleText::
-	text "Nice try, but the"
-	line "boardroom is up"
-	cont "one more floor!"
+	text "wej rIn may'lIj."
+	line "ghom pa' DaSammeH"
+	cont "DatoStaHnIS!"
 	done
 
 _SilphCo10FScientistBattleText::
-	text "Enough of your"
-	line "silly games!"
+	text "QujlIj Dogh"
+	line "vIQujqangbe'!"
 	done
 
 _SilphCo10FScientistEndBattleText::
-	text "No"
-	line "continues left!"
+	text "jIQujqa'laH"
+	line "'e' Dachaw''a'?"
 	prompt
 
 _SilphCo10FScientistAfterBattleText::
-	text "Are you satisfied"
-	line "with beating me?"
-	cont "Then go on home!"
+	text "chojeypu'mo'"
+	line "bIyonbe''a'?"
+	cont "juHlIj yIchegh!"
 	done
