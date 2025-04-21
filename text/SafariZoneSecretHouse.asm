@@ -1,45 +1,40 @@
 _SafariZoneSecretHouseFishingGuruYouHaveWonText::
-	text "Ah! Finally!"
+	text "toH! tagha'!"
 
-	para "You're the first"
-	line "person to reach"
-	cont "the SECRET HOUSE!"
+	para "qach pegh SuchwI'"
+	line "wa'DIch SoH!"
 
-	para "I was getting"
-	line "worried that no"
-	cont "one would win our"
-	cont "campaign prize."
+	para "not tevvam Suqlu'"
+	line "'e' vIjalchoH."
 
-	para "Congratulations!"
-	line "You have won!"
+	para "qaHoy'!"
+	line "bIQapta'!"
 	prompt
 
 _SafariZoneSecretHouseFishingGuruReceivedHM03Text::
-	text "<PLAYER> received"
-	line "@"
 	text_ram wStringBuffer
-	text "!@"
+	line "Hev <PLAYER>!@"
 	text_end
 
 _SafariZoneSecretHouseFishingGuruHM03ExplanationText::
-	text "HM03 is SURF!"
+	text "<Q><a><l> Ho'DoS ngaS"
+	line "<H><j>03."
 
-	para "#MON will be"
-	line "able to ferry you"
-	cont "across water!"
+	para "bIQ DachIqmeH"
+	line "DuqenglaH bIQ"
+	cont "#<m><a><n>!"
 
-	para "And, this HM isn't"
-	line "disposable! You"
-	cont "can use it over"
-	cont "and over!"
+	para "rutbe' luchvam!"
+	line "Dalo'laH 'ej "
+	cont "Dalo'qa'laH!"
 
-	para "You're super lucky"
-	line "for winning this"
-	cont "fabulous prize!"
+	para "tevvam Dunqu'"
+	line "Dabajta'mo'"
+	cont "bIDo'qu'bej!"
 	done
 
 _SafariZoneSecretHouseFishingGuruHM03NoRoomText::
-	text "You don't have"
-	line "room for this"
-	cont "fabulous prize!"
+	text "DaH DatlhaplaHbe'!"
+	line "wejHa' buy' luch"
+	cont "buqlIj!"
 	done
