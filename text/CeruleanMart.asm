@@ -1,19 +1,18 @@
 _CeruleanMartCooltrainerMText::
-	text "Use REPEL to keep"
-	line "bugs and weak"
-	cont "#MON away."
+	text "#<m><a><n> puj"
+	line "Daghombe'meH"
+	cont "<D><o><H><m><o><H><w><I><'> yIlo'."
 
-	para "Put your strongest"
-	line "#MON at the"
-	cont "top of the list"
-	cont "for best results!"
+	para "Qapqu'moHmeH"
+	line "ghomlIj Dev"
+	cont "#<m><a><n> HoS 'e'"
+	cont "yIchaw'!"
 	done
 
 _CeruleanMartCooltrainerFText::
-	text "Have you seen any"
-	line "RARE CANDY?"
+	text "<y><u><c><h> <q><u><b>"
+	line "DaSampu''a'?"
 
-	para "It's supposed to"
-	line "make #MON go"
-	cont "up one level!"
+	para "wa'logh #<m><a><n>"
+	line "numlaH 'oH."
 	done
