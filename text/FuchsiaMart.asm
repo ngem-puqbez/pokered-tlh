@@ -1,14 +1,14 @@
 _FuchsiaMartMiddleAgedManText::
-	text "Do you have a"
-	line "SAFARI ZONE flag?"
+	text "<c><h><o><n> <y><o><t><l><h> joqwI'"
+	line "Dangev'a'?"
 
-	para "What about cards"
-	line "or calendars?"
+	para "'echletHommey?"
+	line "'ISjaHmey? vay'?"
 	done
 
 _FuchsiaMartCooltrainerFText::
-	text "Did you try X"
-	line "SPEED? It speeds"
-	cont "up a #MON in"
-	cont "battle!"
+	text "wejHa' <D><o> <'><e><n><t><e><D>"
+	line "Dalo'pu'a'? "
+	cont "SuvtaHvIS #<m><a><n>"
+	cont "luchunglaH bIH!"
 	done
