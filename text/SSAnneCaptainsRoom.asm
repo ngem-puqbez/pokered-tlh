@@ -1,64 +1,61 @@
 _SSAnneCaptainsRoomRubCaptainsBackText::
-	text "CAPTAIN: Ooargh..."
-	line "I feel hideous..."
-	cont "Urrp! Seasick..."
+	text "<H><o><D>: 'ughgh..."
+	line "'oy' burghwIj..."
+	cont "'em! vIH bIQ..."
 
-	para "<PLAYER> rubbed"
-	line "the CAPTAIN's"
-	cont "back!"
+	para "<H><o><D> Dub QoH"
+	line "<PLAYER>!"
 
-	para "Rub-rub..."
-	line "Rub-rub...@"
+	para "QoH-QoH..."
+	line "QoH-QoH...@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainIFeelMuchBetterText::
-	text "CAPTAIN: Whew!"
-	line "Thank you! I"
-	cont "feel much better!"
+	text "<H><o><D>: maj!"
+	line "qatlho'nIS! DaH"
+	cont "jIpIvlaw'qa'!"
 
-	para "You want to see"
-	line "my CUT technique?"
+	para "<p><e><'> Ho'DoS Daghoj"
+	line "DaneH'a'?"
 
-	para "I could show you"
-	line "if I wasn't ill..."
+	para "jIropbe'chugh "
+	line "vI'aghlaH..."
 
-	para "I know! You can"
-	line "have this!"
+	para "toH, jISov! "
+	line "luchvam yItlhap!"
 
-	para "Teach it to your"
-	line "#MON and you"
-	cont "can see it CUT"
-	cont "any time!"
+	para "Ho'DoS ghojchugh"
+	line "#<m><a><n>lIj vaj"
+	cont "reH lavmey magh"
+	cont "je <p><e><'>laH 'oH!"
 	prompt
 
 _SSAnneCaptainsRoomCaptainReceivedHM01Text::
-	text "<PLAYER> got"
-	line "@"
+	text "@"
 	text_ram wStringBuffer
-	text "!@"
+	text "Hev <PLAYER>!@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainNotSickAnymoreText::
-	text "CAPTAIN: Whew!"
+	text "<H><o><D>: maj!"
 
-	para "Now that I'm not"
-	line "sick any more, I"
-	cont "guess it's time."
+	para "DaH jIropqu'be'mo'"
+	line "jIvumnISlaw'!"
 	done
 
 _SSAnneCaptainsRoomCaptainHM01NoRoomText::
-	text "Oh no! You have"
-	line "no room for this!"
+	text "yIloS! wejHa' buy'"
+	line "luch buqlIj!"
 	done
 
 _SSAnneCaptainsRoomTrashText::
-	text "Yuck! Shouldn't"
-	line "have looked!"
+	text "'upqu'! jIghanbe'"
+	line "net tlhebqu'!"
 	done
 
 _SSAnneCaptainsRoomSeasickBookText::
-	text "How to Conquer"
-	line "Seasickness..."
-	cont "The CAPTAIN's"
-	cont "reading this!"
+	text "[bIQ'a'rop"
+	line "charghmeH paq] 'oH"
+	cont "paq pong'e'. 'oH"
+	cont "laDtaH HoD!"
 	done
