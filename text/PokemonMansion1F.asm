@@ -1,29 +1,29 @@
 _PokemonMansion1FScientistBattleText::
-	text "Who are you? There"
-	line "shouldn't be"
-	cont "anyone here."
+	text "SoH 'Iv? naDev"
+	line "pagh ghot tu'lu'"
+	cont "net tlheb."
 	done
 
 _PokemonMansion1FScientistEndBattleText::
-	text "Ouch!"
+	text "'oy'!"
 	prompt
 
 _PokemonMansion1FScientistAfterBattleText::
-	text "A key? I don't"
-	line "know what you're"
-	cont "talking about."
+	text "chaw'? chaw'"
+	line "bopbogh De'"
+	cont "vISovbe'."
 	done
 
 _PokemonMansion1FSwitchText::
-	text "A secret switch!"
+	text "leQ pegh!"
 
-	para "Press it?"
+	para "Dachu''a'?"
 	done
 
 _PokemonMansion1FSwitchPressedText::
-	text "Who wouldn't?"
+	text "lajQo' 'Iv?"
 	prompt
 
 _PokemonMansion1FSwitchNotPressedText::
-	text "Not quite yet!"
+	text "wej bIruch!"
 	done
