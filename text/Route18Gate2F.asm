@@ -1,15 +1,15 @@
 _Route18Gate2FLeftBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Hov tut chang'eng"
+	line "Dalo'."
 
-	para "PALLET TOWN is in"
-	line "the west!"
+	para "'evDaq <y><u><t><l><h><e><g><h>"
+	line "<v><e><n><g> Dalegh!"
 	done
 
 _Route18Gate2FRightBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Hov tut chang'eng"
+	line "Dalo'."
 
-	para "There are people"
-	line "swimming!"
+	para "QaltaH 'op"
+	line "ghotpu'!"
 	done
