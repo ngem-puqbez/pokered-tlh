@@ -1,145 +1,139 @@
 _VermilionGymLTSurgePostBattleAdviceText::
-	text "A little word of"
-	line "advice, kid!"
+	text "qeSHomvam"
+	line "qanob, puq!"
 
-	para "Electricity is"
-	line "sure powerful!"
+	para "HoSghajbej"
+	line "'ul tonSaw'mey!"
 
-	para "But, it's useless"
-	line "against ground-"
-	cont "type #MON!"
+	para "'a yav #<m><a><n>"
+	line "QIHlaHbe'chu'!"
 	done
 
 _VermilionGymLTSurgeThunderBadgeInfoText::
-	text "The THUNDERBADGE"
-	line "cranks up your"
-	cont "#MON's SPEED!"
+	text "#<m><a><n>lIj Do"
+	line "ghur <p><e><'><b><I><l><D><e><g><h>!"
 
-	para "It also lets your"
-	line "#MON FLY any"
-	cont "time, kid!"
+	para "reH puv #<m><a><n>"
+	line "'e' chaw' je, puq!"
 
-	para "You're special,"
-	line "kid! Take this!"
+	para "bIle'bej, puq!"
+	line "luchvam yItlhap'!"
 	done
 
 _VermilionGymLTSurgeReceivedTM24Text::
-	text "<PLAYER> received "
-	line "@"
-	text_ram wStringBuffer
-	text "!@"
+	text "@"
+	text_ram wcf4b
+	text_start
+	line "Suq <PLAYER>!@"
 	text_end
 
 _TM24ExplanationText::
 	text_start
 
-	para "TM24 contains"
-	line "THUNDERBOLT!"
+	para "<p><e><'><b><I><l> tonSaw'"
+	line "ghojmoH <t><j>24!"
 
-	para "Teach it to an"
-	line "electric #MON!"
+	para "'ul #<m><a><n>vaD"
+	line "yIghojmoH!"
 	done
 
 _VermilionGymLTSurgeTM24NoRoomText::
-	text "Yo kid, make room"
-	line "in your pack!"
+	text "toH puq, buqlIj"
+	line "yIbuy'Ha'moH!"
 	done
 
 _VermilionGymLTSurgeReceivedThunderBadgeText::
-	text "Whoa!"
+	text "jIyay'!"
 
-	para "You're the real"
-	line "deal, kid!"
+	para "chojwI'na'"
+	line "SoHbej, puq!"
 
-	para "Fine then, take"
-	line "the THUNDERBADGE!"
+	para "toH, <p><e><b><I><l><D><e><g><h>vam"
+	line "yItlhap!"
 	prompt
 
 _VermilionGymGentlemanBattleText::
-	text "When I was in the"
-	line "Army, LT.SURGE"
-	cont "was my strict CO!"
+	text "mang jIHtaHvIS"
+	line "ra'wI'wI' ghaH"
+	cont "<t><e><m><I><'> <D><a><'>! yItlh!"
 	done
 
 _VermilionGymGentlemanEndBattleText::
-	text "Stop!"
-	line "You're very good!"
+	text "mev!"
+	line "bIQaQqu'!"
 	prompt
 
 _VermilionGymGentlemanAfterBattleText::
-	text "The door won't"
-	line "open?"
+	text "poSchoHbe''a'"
+	line "lojmIt tIn?"
 
-	para "LT.SURGE always"
-	line "was cautious!"
+	para "reH Hoj"
+	line "<t><e><m><I><'> <D><a><'>!"
 	done
 
 _VermilionGymSuperNerdBattleText::
-	text "I'm a lightweight,"
-	line "but I'm good with"
-	cont "electricity!"
+	text "jIHoSqu'be' 'a 'ul"
+	line "vIlo'laHqu'!"
 	done
 
 _VermilionGymSuperNerdEndBattleText::
-	text "Fried!"
+	text "chomup!"
 	prompt
 
 _VermilionGymSuperNerdAfterBattleText::
-	text "OK, I'll talk!"
+	text "va, jIjatlhqang!"
 
-	para "LT.SURGE said he"
-	line "hid door switches"
-	cont "inside something!"
+	para "vay' qoDDaq leQmey"
+	line "So' <t><e><m><I><'> <S><o><g><h>"
+	cont "'e' muja' ghaH!"
 	done
 
 _VermilionGymSailorBattleText::
-	text "This is no place"
-	line "for kids!"
+	text "puq Daq 'oHbe'"
+	line "qaDqachvam'e'!"
 	done
 
 _VermilionGymSailorEndBattleText::
-	text "Wow!"
-	line "Surprised me!"
+	text "toH!"
+	line "chomer!"
 	prompt
 
 _VermilionGymSailorAfterBattleText::
-	text "LT.SURGE set up"
-	line "double locks!"
-	cont "Here's a hint!"
+	text "cha' Durghang"
+	line "ngaQmoH <t><e><m><I><'> <D><a><'>!"
 
-	para "When you open the"
-	line "1st lock, the 2nd"
-	cont "lock is right"
-	cont "next to it!"
+	para "reH Durghang leQ"
+	line "wa'DIch retlhDaq"
+	cont "'oH Durghang leQ"
+	cont "cha'DIch'e'!"
 	done
 
 _VermilionGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "toH! charghwI'"
+	line "mojlaHbogh puq!"
 
-	para "LT.SURGE has a"
-	line "nickname. People"
-	cont "refer to him as"
-	cont "the Lightning"
-	cont "American!"
+	para "latlh pong ghaj"
+	line "<t><e><m><I><'> <D><a><'>."
+	cont "ghaHvaD pe'bIl"
+	cont "nov ponglu'."
 
-	para "He's an expert on"
-	line "electric #MON!"
+	para "'ul #<m><a><n>"
+	line "po'wI' ghaH!"
 
-	para "Birds and water"
-	line "#MON are at"
-	cont "risk! Beware of"
-	cont "paralysis too!"
+	para "bo'Deghmey"
+	line "bIQ #<m><a><n> je"
+	cont "buQ ghaH!"
 
-	para "LT.SURGE is very"
-	line "cautious!"
+	para "Hojqu' <t><e><m><I><'>"
+	line "<D><a><'>!"
 
-	para "You'll have to"
-	line "break a code to"
-	cont "get to him!"
+	para "ghaH qaDpa'"
+	line "Qay'mol"
+	cont "DapannIS!"
 	done
 
 _VermilionGymGymGuideBeatLTSurgeText::
-	text "Whew! That match"
-	line "was electric!"
+	text "maj! wov"
+	line "may'vam;"
+	cont "'ul rur!"
 	done
