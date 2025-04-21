@@ -515,14 +515,14 @@ ShowPokedexDataInternal:
 	jp z, .waitForButtonPress ; if the pokemon has not been owned, don't print the height, weight, or description
 	inc de ; de = address of feet (height)
 	ld a, [de] ; reads feet, but a is overwritten without being used
-	hlcoord 12, 6
+	hlcoord 8, 6
 	lb bc, 1, 2
 	call PrintNumber ; print feet (height)
-	ld a, "′"
+	ld a, "."
 	ld [hl], a
 	inc de
 	inc de ; de = address of inches (height)
-	hlcoord 15, 6
+	hlcoord 11, 6
 	lb bc, LEADING_ZEROES | 1, 2
 	call PrintNumber ; print inches (height)
 	ld a, "″"
