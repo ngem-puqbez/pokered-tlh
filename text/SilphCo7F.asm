@@ -1,209 +1,201 @@
 _SilphCo7FSilphWorkerM1HaveThisPokemonText::
-	text "Oh! Hi! You're"
-	line "not a ROCKET! You"
-	cont "came to save us?"
-	cont "Why, thank you!"
+	text "Qo'! vImev!"
+	
+	para "...toH. <p><e><n><g><D><u><j>"
+	line "SoHbe'. jutoDmeH"
+	cont "naDev Dave''a'?"
+	cont "maj! bIchong!"
 
-	para "I want you to"
-	line "have this #MON"
-	cont "for saving us."
+	para "jutoDta'mo'"
+	line "#<m><a><n> Datlhap"
+	cont "'e' vIchup."
 	prompt
 
 _SilphCo7FSilphWorkerM1LaprasDescriptionText::
-	text "It's LAPRAS. It's"
-	line "very intelligent."
+	text "<l><u><p><r><a><'> 'oH!"
+	line "val 'ej qubqu'."
 
-	para "We kept it in our"
-	line "lab, but it will"
-	cont "be much better"
-	cont "off with you!"
+	para "Qulpa'wIj Dab"
+	line "'ach qo' but poQ"
+	cont "Ha'DIbaHvam 'IH."
 
-	para "I think you will"
-	line "be a good trainer"
-	cont "for LAPRAS!"
+	para "bIlengtaHvIS"
+	line "Dutlhej lupra'vam"
+	cont "'e' vItlhebqu'!"
 
-	para "It's a good"
-	line "swimmer. It'll"
-	cont "give you a lift!"
+	para "QalwI' Dun 'oH."
+	line "Duvoqchugh"
+	cont "DalIghlaH!"
 	done
 
 _SilphCo7FSilphWorkerM1IsOurPresidentOkText::
-	text "TEAM ROCKET's"
-	line "BOSS went to the"
-	cont "boardroom! Is our"
-	cont "PRESIDENT OK?"
+	text "ghom pa' jaH"
+	line "<p><e><n><g><D><u><j> ghom pIn!"
+	cont "QaD'a' <v><u><'><w><I><'><'><a><'>?"
 	done
 
 _SilphCo7FSilphWorkerM1SavedText::
-	text "Saved at last!"
-	line "Thank you!"
+	text "tagha' QobHa'!"
+	line "bIDun!"
 	done
 
 _SilphCo7FSilphWorkerM2AfterTheMasterBallText::
-	text "TEAM ROCKET was"
-	line "after the MASTER"
-	cont "BALL which will"
-	cont "catch any #MON!"
+	text "<p><I><n><'><a><'><m><o><Q> Suq"
+	line "<p><e><n><g><D><u><j> ghom 'e'"
+	cont "lunID. SIbI' ngIq"
+	cont "#<m><a><n> jonchu'!"
 	done
 
 _SilphCo7FSilphWorkerM2CancelledMasterBallText::
-	text "We canceled the"
-	line "MASTER BALL"
-	cont "project because"
-	cont "of TEAM ROCKET."
+	text "naDev <p><I><n><'><a><'><m><o><Q>"
+	line "wI'oghta' 'ach"
+	cont "<p><e><n><g><D><u><j> ghommo'"
+	cont "jInmol wImevmoH."
 	done
 
 _SilphCo7FSilphWorkerM3ItWouldBeBadText::
-	text "It would be bad"
-	line "if TEAM ROCKET"
-	cont "took over SILPH"
-	cont "or our #MON!"
+	text "<S><I><l><v><a><'> malja'"
+	line "SeHlaHchugh"
+	cont "<p><e><n><g><D><u><j> ghom"
+	cont "qabqu' ghu'!"
 	done
 
 _SilphCo7FSilphWorkerM3YouChasedOffTeamRocketText::
-	text "Wow! You chased"
-	line "off TEAM ROCKET"
-	cont "all by yourself?"
+	text "majQa'! nIteb"
+	line "<p><e><n><g><D><u><j> ghom Hoch"
+	cont "DaHeDmoH SoH!"
 	done
 
 _SilphCo7FSilphWorkerM4ItsReallyDangerousHereText::
-	text "You! It's really"
-	line "dangerous here!"
-	cont "You came to save"
-	cont "me? You can't!"
+	text "SoH! naDev vItlh"
+	line "Qob! mutoDmeH"
+	cont "bIpaw'a'? qItbe'!"
 	done
 
 _SilphCo7FSilphWorkerM4SafeAtLastText::
-	text "Safe at last!"
-	line "Oh thank you!"
+	text "tagha' jIQaD!"
+	line "SoH qatlho'!"
 	done
 
 _SilphCo7FRocket1BattleText::
-	text "Oh ho! I smell a"
-	line "little rat!"
+	text "HaHaghgh! petaQ"
+	line "mach vISam!"
 	done
 
 _SilphCo7FRocket1EndBattleText::
-	text "Lights"
-	line "out!"
+	text "Hu!"
+	line "jItaD!"
 	prompt
 
 _SilphCo7FRocket1AfterBattleText::
-	text "You won't find my"
-	line "BOSS by just"
-	cont "scurrying around!"
+	text "bIve'Ha'taHchugh"
+	line "pIn DaSambe'bej!"
 	done
 
 _SilphCo7FScientistBattleText::
-	text "Heheh!"
+	text "HghHgh!"
 
-	para "You mistook me for"
-	line "a SILPH worker?"
+	para "<S><I><l><v><a><'> vumwI' jIH"
+	line "'e' DaHar'a'?"
 	done
 
 _SilphCo7FScientistEndBattleText::
-	text "I'm"
-	line "done!"
+	text "va,"
+	line "jIrIn!"
 	prompt
 
 _SilphCo7FScientistAfterBattleText::
-	text "Despite your age,"
-	line "you are a skilled"
-	cont "trainer!"
+	text "bIQupba' 'ach"
+	line "wejHa' chojwI' po'"
+	cont "Damojbej!"
 	done
 
 _SilphCo7FRocket2BattleText::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "loS <p><e><n><g><D><u><j> loDnI'"
+	line "maH!"
 	done
 
 _SilphCo7FRocket2EndBattleText::
-	text "Aack!"
-	line "Brothers, I lost!"
+	text "ghuy'!"
+	line "loDnI'pu, jIluj!"
 	prompt
 
 _SilphCo7FRocket2AfterBattleText::
-	text "Doesn't matter."
-	line "My brothers will"
-	cont "repay the favor!"
+	text "qaybe'."
+	line "noDbej loDnI'wI'!"
 	done
 
 _SilphCo7FRocket3BattleText::
-	text "A child intruder?"
-	line "That must be you!"
+	text "yotwI' Qup?"
+	line "qoHvetlh SoHlaw'!"
 	done
 
 _SilphCo7FRocket3EndBattleText::
-	text "Fine!"
-	line "I lost!"
+	text "jIlaj!"
+	line "jIluj!"
 	prompt
 
 _SilphCo7FRocket3AfterBattleText::
-	text "Go on home"
-	line "before my BOSS"
-	cont "gets ticked off!"
+	text "juH yItatlh'egh,"
+	line "Qay'pa' pIn!"
 	done
 
 _SilphCo7FRivalText::
-	text "<RIVAL>: What"
-	line "kept you <PLAYER>?"
+	text "<RIVAL>: chay'"
+	line "bIpaS, <PLAYER>?"
 	done
 
 _SilphCo7FRivalWaitedHereText::
-	text "<RIVAL>: Hahaha!"
-	line "I thought you'd"
-	cont "turn up if I"
-	cont "waited here!"
+	text "<RIVAL>: HghHgh!"
+	line "pa' jIloSchugh"
+	cont "SIbI'Ha' bIpaw"
+	cont "'e' vIghutta'!"
 
-	para "I guess TEAM"
-	line "ROCKET slowed you"
-	cont "down! Not that I"
-	cont "care!"
+	para "Dubot <p><e><n><g><D><u><j>"
+	line "ghom 'e' vI'Ir."
+	cont "'a jISaHbe'."
 
-	para "I saw you in"
-	line "SAFFRON, so I"
-	cont "decided to see if"
-	cont "you got better!"
+	para "<n><a><'><r><a><n><y><u><b> <v><e><n><g>Daq"
+	line "qalegh 'ej bIDub"
+	cont "'e' vI'ol 'e'"
+	cont "vIwIv!"
 	done
 
 _SilphCo7FRivalDefeatedText::
-	text "Oh ho!"
-	line "So, you are ready"
-	cont "for BOSS ROCKET!"
+	text "toH!"
+	line "<p><e><n><g><D><u><j> pIn DaqaD"
+	cont "'e' DangIl'a'!"
 	prompt
 
 _SilphCo7FRivalVictoryText::
-	text "<RIVAL>: How can"
-	line "I put this?"
+	text "<RIVAL>: chay'"
+	line "qajalaH?"
 
-	para "You're not good"
-	line "enough to play"
-	cont "with us big boys!"
+	para "HoSwI'pu' maH"
+	line "'ej juSuvmeH wej"
+	cont "yap HoSlIj!"
 	prompt
 
 _SilphCo7FRivalGoodLuckToYouText::
-	text "Well, <PLAYER>!"
+	text "toH, <PLAYER>!"
 
-	para "I'm moving on up"
-	line "and ahead!"
+	para "jIruch 'ej"
+	line "jIDub'eghmoH!"
 
-	para "By checking my"
-	line "#DEX, I'm"
-	cont "starting to see"
-	cont "what's strong and"
-	cont "how they evolve!"
+	para "HoSwI' vIjonmeH"
+	line "#tamey vIlaD"
+	cont "ghIq vISamlaH 'ej"
+	cont "vIghe'moHlaH!"
 
-	para "I'm going to the"
-	line "#MON LEAGUE"
-	cont "to boot out the"
-	cont "ELITE FOUR!"
+	para "<l><o><S> <n><I><v><w><I><'><p><u><'>"
+	line "vIjeymeH #<m><a><n>"
+	cont "qaD vaS vIve'!"
 
-	para "I'll become the"
-	line "world's most"
-	cont "powerful trainer!"
+	para "qo' #<m><a><n> chojwI'"
+	line "nIvchu' vImoj!"
 
-	para "<PLAYER>, well"
-	line "good luck to you!"
-	cont "Don't sweat it!"
-	cont "Smell ya!"
+	para "<PLAYER>, "
+	line "bIDo'taHjaj!"
+	cont "rejmorgh mojQo'!"
+	cont "qalargh!"
 	done
