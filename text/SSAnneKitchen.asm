@@ -1,69 +1,70 @@
 _SSAnneKitchenCook1Text::
-	text "You, mon petit!"
-	line "We're busy here!"
-	cont "Out of the way!"
+	text "toH QupwI'!"
+	line "naDev mavumtaH!"
+	cont "ghobotQo'!"
 	done
 
 _SSAnneKitchenCook2Text::
-	text "I saw an odd ball"
-	line "in the trash."
+	text "veQDaq moQ taQ"
+	line "vIlegh."
 	done
 
 _SSAnneKitchenCook3Text::
-	text "I'm so busy I'm"
-	line "getting dizzy!"
+	text "jIvumqu'mo'"
+	line "jIverchoHtaH!"
 	done
 
 _SSAnneKitchenCook4Text::
-	text "Hum-de-hum-de-"
-	line "ho..."
+	text "bom-Qo-bom-Qo-"
+	line "bom..."
 
-	para "I peel spuds"
-	line "every day!"
-	cont "Hum-hum..."
+	para "Hoch jaj patat"
+	line "'oQqar vISurgh!"
+	cont "QoQ-bom..."
 	done
 
 _SSAnneKitchenCook5Text::
-	text "Did you hear about"
-	line "SNORLAX?"
+	text "<w><u><D><l><e><S> DaSov'a'?"
 
-	para "All it does is"
-	line "eat and sleep!"
+	para "Sop 'ej Qong 'ej"
+	line "pagh ta'nIS!"
 	done
 
 _SSAnneKitchenCook6Text::
-	text "Snivel...Sniff..."
+	text "jISa..."
+	line "jISaQtaHbe'..."
 
-	para "I only get to"
-	line "peel onions..."
-	cont "Snivel..."
+	para "'anyan 'oQqar"
+	line "vIpe'taH neH..."
+	cont "jIrotlh..."
 	done
 
 _SSAnneKitchenCook7MainCourseIsText::
-	text "Er-hem! Indeed I"
-	line "am le CHEF!"
+	text "toH!! vutpa'vamDaq"
+	line "vutwI' nIv jIH!"
 
-	para "Le main course is"
+	para "nay' veb wIvutnIS"
 	prompt
 
 SSAnneKitchenCook7SalmonDuSaladText::
-	text "Salmon du Salad!"
+	text "qagh naHmey je!"
 
-	para "Les guests may"
-	line "gripe it's fish"
-	cont "again, however!"
+	para "'ach loQ nonmo'"
+	line "ghevI'wIj "
+	cont "bep raQpo'!"
 	done
 
 SSAnneKitchenCook7EelsAuBarbecueText::
-	text "Eels au Barbecue!"
+	text "pIpyuS pach meQ!"
 
-	para "Les guests will"
-	line "mutiny, I fear."
+	para "'eybe'chugh nay'"
+	line "chaq qIQ raQpo'."
 	done
 
 SSAnneKitchenCook7PrimeBeefSteakText::
-	text "Prime Beef Steak!"
+	text "ronglu'pu'bogh"
+	line "targh tIq!"
 
-	para "But, have I enough"
-	line "fillets du beef?"
+	para "'ach targhmey"
+	line "yap DIghaj'a'?"
 	done
