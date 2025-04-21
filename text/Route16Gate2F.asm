@@ -1,26 +1,26 @@
 _Route16Gate2FLittleBoyText::
-	text "I'm going for a"
-	line "ride with my girl"
-	cont "friend!"
+	text "jIlengtaHvIS"
+	line "mutlhej bangwI'!"
 	done
 
 _Route16Gate2FLittleGirlText::
-	text "We're going"
-	line "riding together!"
+	text "nItebHa' maleng"
+	line "parmaqqay'wI'"
+	cont "jIH je! matIv!"
 	done
 
 _Route16Gate2FLeftBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Hov tut chang'eng"
+	line "Dalo'."
 
-	para "It's CELADON DEPT."
-	line "STORE!"
+	para "<n><g><o><p><w><a><g><h> <v><e><n><g>"
+	line "ngevwI' qach'a'!"
 	done
 
 _Route16Gate2FRightBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Hov tut chang'eng"
+	line "Dalo'."
 
-	para "There's a long"
-	line "path over water!"
+	para "bIQ DungDaq taw"
+	line "tIq tu'lu'!"
 	done
