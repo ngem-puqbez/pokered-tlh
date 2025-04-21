@@ -1,23 +1,24 @@
 _ViridianNicknameHouseBaldingGuyText::
-	text "Coming up with"
-	line "nicknames is fun,"
-	cont "but hard."
+	text "pongHommey"
+	line "vI'ogh 'e'"
+	cont "vItIv, 'a Qatlh."
 
-	para "Simple names are"
-	line "the easiest to"
-	cont "remember."
+	para "pongmey nap"
+	line "vIqawlaHqu'."
+	cont "Dun pongHom!"
 	done
 
 _ViridianNicknameHouseLittleGirlText::
-	text "My Daddy loves"
-	line "#MON too."
+	text "#<m><a><n> muSHa'"
+	line "vavoywI' je."
 	done
 
 _ViridianNicknameHouseSpearowText::
-	text "SPEARY: Tetweet!"
+	text "<Q><I><n><o><y>: tetwIyt!"
 	done
 
 _ViridianNicknameHouseSpearySignText::
-	text "SPEAROW"
-	line "Name: SPEARY"
+	text "<Q><I><n><q><I><t>"
+	line "pongHom: <Q><I><n><o><y>"
 	done
+
