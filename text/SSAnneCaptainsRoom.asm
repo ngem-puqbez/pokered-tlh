@@ -55,7 +55,7 @@ _SSAnneCaptainsRoomTrashText::
 
 _SSAnneCaptainsRoomSeasickBookText::
 	text "[bIQ'a'rop"
-	line "charghmeH paq] 'oH"
+	line "charghmeH mIw] 'oH"
 	cont "paq pong'e'. 'oH"
 	cont "laDtaH HoD!"
 	done
