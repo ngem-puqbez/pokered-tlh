@@ -1,97 +1,93 @@
 _Route6CooltrainerM1BattleText::
-	text "Who's there?"
-	line "Quit listening in"
-	cont "on us!"
+	text "toH, 'Iv SoH?"
+	line "ju'Ij 'e' yImev!"
 	done
 
 _Route6CooltrainerM1EndBattleText::
-	text "I"
-	line "just can't win!"
+	text "Huuu"
+	line "jIQaplaHbe'!"
 	prompt
 
 _Route6CooltrainerAfterBattleText::
-	text "Whisper..."
-	line "whisper..."
+	text "tlhup..."
+	line "tlhup..."
 	done
 
 _Route6CooltrainerF1BattleText::
-	text "Excuse me! This"
-	line "is a private"
-	cont "conversation!"
+	text "naDevvo' yIghoS!"
+	line "majatlhtaH ghaH"
+	cont "jIH je!"
 	done
 
 _Route6CooltrainerF1EndBattleText::
-	text "Ugh!"
-	line "I hate losing!"
+	text "va!"
+	line "jIluj 'e' vImuS!"
 	prompt
 
 _Route6Youngster1BattleText::
-	text "There aren't many"
-	line "bugs out here."
+	text "naDev puS ghew"
+	line "#<m><a><n>mey."
 	done
 
 _Route6Youngster1EndBattleText::
-	text "No!"
-	line "You're kidding!"
+	text "va!"
+	line "bISaghbe'!"
 	prompt
 
 _Route6Youngster1AfterBattleText::
-	text "I like bugs, so"
-	line "I'm going back to"
-	cont "VIRIDIAN FOREST."
+	text "ghew vIparHa'"
+	line "vaj <q><o><'><r><I><n> <n><g><e><m>"
+	cont "vIchegh."
 	done
 
 _Route6CooltrainerM2BattleText::
-	text "Huh? You want"
-	line "to talk to me?"
+	text "nuqneH? jIHvaD"
+	line "bIjatlh'a'?"
 	done
 
 _Route6CooltrainerM2EndBattleText::
-	text "I"
-	line "didn't start it!"
+	text "may'vam"
+	line "vItaghbe'!"
 	prompt
 
 _Route6CooltrainerM2AfterBattleText::
-	text "I should carry"
-	line "more #MON with"
-	cont "me for safety."
+	text "jIHub'eghmeH"
+	line "#<m><a><n> law'"
+	cont "vIqeng vIneH."
 	done
 
 _Route6CooltrainerF2BattleText::
-	text "Me? Well, OK."
-	line "I'll play!"
+	text "jIH? Huuu, jIlaj!"
+	line "jIQujrup!"
 	done
 
 _Route6CooltrainerF2EndBattleText::
-	text "Just"
-	line "didn't work!"
+	text " "
+	line "jIQapbe'law'!"
 	prompt
 
 _Route6CooltrainerF2AfterBattleText::
-	text "I want to get"
-	line "stronger! What's"
-	cont "your secret?"
+	text "jIHoSchoH vIneH!"
+	line "nuq 'oH pegh'e'?"
 	done
 
 _Route6Youngster2BattleText::
-	text "I've never seen"
-	line "you around!"
-	cont "Are you good?"
+	text "not qaleghpu'!"
+	line "bIpo''a'?"
 	done
 
 _Route6Youngster2EndBattleText::
-	text "You"
-	line "are too good!"
+	text "maj!"
+	line "tlhoy bIpo'!"
 	prompt
 
 _Route6Youngster2AfterBattleText::
-	text "Are my #MON"
-	line "weak? Or, am I"
-	cont "just bad?"
+	text "puj'a' #<m><a><n>wIj?"
+	line "jIpo'Ha''a' neH?"
 	done
 
 _Route6UndergroundPathSignText::
-	text "UNDERGROUND PATH"
-	line "CERULEAN CITY -"
-	cont "VERMILION CITY"
+	text "<w><u><t><l><h> <t><a><w>"
+	line "<c><h><a><l><H><o><m> <v><e><n><g> -"
+	cont "<b><e><q><p><u><j> <v><e><n><g>"
 	done
