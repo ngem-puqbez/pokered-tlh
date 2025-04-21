@@ -1,29 +1,29 @@
 _CinnabarLabFishingGuruText::
-	text "We study #MON"
-	line "extensively here."
+	text "naDev #<m><a><n>mey"
+	line "wIQulqu'."
 
-	para "People often bring"
-	line "us rare #MON"
-	cont "for examination."
+	para "ghaytan wIpojmeH"
+	line "maHvaD #<m><a><n>"
+	cont "qub qem nuv."
 	done
 
 _CinnabarLabPhotoText::
-	text "A photo of the"
-	line "LAB's founder,"
-	cont "DR.FUJI!"
+	text "Qulpa' cherwI'"
+	line "'agh mIllogh."
+	cont "<v><u><j><I> 'a'gen!"
 	done
 
 _CinnabarLabMeetingRoomSignText::
-	text "#MON LAB"
-	line "Meeting Room"
+	text "#<m><a><n> Qulpa'"
+	line "ghom pa'"
 	done
 
 _CinnabarLabRAndDSignText::
-	text "#MON LAB"
-	line "R-and-D Room"
+	text "#<m><a><n> Qulpa'"
+	line "'oghmeH pa'"
 	done
 
 _CinnabarLabTestingRoomSignText::
-	text "#MON LAB"
-	line "Testing Room"
+	text "#<m><a><n> Qulpa'"
+	line "ngong pa'"
 	done
