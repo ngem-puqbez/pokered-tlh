@@ -51,6 +51,3 @@ PokemonMansionName:  db "<Q><u><l><p><a><'> <c><h><I><m>@"
 SafariZoneName:      db "<c><h><o><n> <y><o><t><l><h>@"
 CeruleanCaveName:    db "<c><h><a><l><H><o><m> <D><I><S>@"
 PowerPlantName:      db "<H><o><S> <w><a><w><'>@"
-
-CeruleanCaveName:    db "CERULEAN CAVE@"
-PowerPlantName:      db "POWER PLANT@"
