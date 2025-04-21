@@ -45,7 +45,7 @@ _WardensHouseWardenThanksText::
 
 _WardensHouseWardenReceivedHM04Text::
 	text "@"
-	text_ram wcf4b
+	text_ram wStringBuffer
 	text_start
 	line "Suq <PLAYER>!@"
 	text_end
