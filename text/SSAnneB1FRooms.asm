@@ -1,114 +1,114 @@
 _SSAnneB1FRoomsMachokeText::
-	text "MACHOKE: Gwoh!"
-	line "Goggoh!@"
+	text "<m><a><'><v><a><y>: ghu!"
+	line "ghu'ghu!@"
 	text_end
 
 _SSAnneB1FRoomsSailor1BattleText::
-	text "You know what they"
-	line "say about sailors"
-	cont "and fighting!"
+	text "Suv 'e' tIv Hoch"
+	line "bIQ Duj beq net"
+	cont "Sov!"
 	done
 
 _SSAnneB1FRoomsSailor1EndBattleText::
-	text "Right!"
-	line "Good fight, mate!"
+	text "maj!"
+	line "pov may', jupwI'!"
 	prompt
 
 _SSAnneB1FRoomsSailor1AfterBattleText::
-	text "Haha! Want to be"
-	line "a sailor, mate?"
+	text "HghHgh! chIjwI'"
+	line "DaSuv DaneH'a',"
+	cont "jup Qup?"
 	done
 
 _SSAnneB1FRoomsSailor2BattleText::
-	text "My sailor's pride"
-	line "is at stake!"
+	text "jISuD! chIjwI'"
+	line "le'yo' vIweSqang!"
 	done
 
 _SSAnneB1FRoomsSailor2EndBattleText::
-	text "Your"
-	line "spirit sank me!"
+	text "va!"
+	line "mu'oqmoH qa'lIj!"
 	prompt
 
 _SSAnneB1FRoomsSailor2AfterBattleText::
-	text "Did you see the"
-	line "FISHING GURU in"
-	cont "VERMILION CITY?"
+	text "<b><e><q><p><u><j> <v><e><n><g>Daq"
+	line "ghotI' wamwI'"
+	cont "pIn'a' DaqIHpu''a'?"
 	done
 
 _SSAnneB1FRoomsSailor3BattleText::
-	text "Us sailors have"
-	line "#MON too!"
+	text "#<m><a><n>mey ghaj"
+	line "beqpu'!"
 	done
 
 _SSAnneB1FRoomsSailor3EndBattleText::
-	text "OK, "
-	line "you're not bad."
+	text "maj, "
+	line "bIpo'bej."
 	prompt
 
 _SSAnneB1FRoomsSailor3AfterBattleText::
-	text "We caught all our"
-	line "#MON while"
-	cont "out at sea!"
+	text "bIQ'a'Daq maleng"
+	line "'ej #<m><a><n>maj"
+	cont "DIjon!"
 	done
 
 _SSAnneB1FRoomsSailor4BattleText::
-	text "I like feisty"
-	line "kids like you!@"
+	text "tlhab  puqpu'"
+	line "net tlheb!@"
 	text_end
 
 _SSAnneB1FRoomsSailor4EndBattleText::
-	text "Argh!"
-	line "Lost it!"
+	text "va!"
+	line "yIweS!"
 	prompt
 
 _SSAnneB1FRoomsSailor4AfterBattleText::
-	text "Sea #MON live"
-	line "in deep water."
-	cont "You'll need a ROD!"
+	text "bIQ jaQ Dab bIQ'a'"
+	line "#<m><a><n>. DajonmeH"
+	cont "ngelwI' Dalo'nIS!"
 	done
 
 _SSAnneB1FRoomsSailor5BattleText::
-	text "Matey, you're"
-	line "walking the plank"
-	cont "if you lose!"
+	text "jupwI'! bIlujchugh"
+	line "Dujvamvo' qaghIm!"
 	done
 
 _SSAnneB1FRoomsSailor5EndBattleText::
-	text "Argh!"
-	line "Beaten by a kid!"
+	text "va!"
+	line "mujeypu' puq!"
 	prompt
 
 _SSAnneB1FRoomsSailor5AfterBattleText::
-	text "Jellyfish some-"
-	line "times drift into"
-	cont "the ship."
+	text "rut Sommaj lungeQ"
+	line "qeSnoDmaj"
+	cont "#<m><a><n>mey."
 	done
 
 _SSAnneB1FRoomsFisherBattleText::
-	text "Hello stranger!"
-	line "Stop and chat!"
+	text "toH, HujwI'!"
+	line "HIjaw!"
 
-	para "All my #MON"
-	line "are from the sea!"
+	para "bIQ'a' 'oH"
+	line "#<m><a><n>wIj mung!"
 	done
 
 _SSAnneB1FRoomsFisherEndBattleText::
-	text "Darn!"
-	line "I let that one"
-	cont "get away!"
+	text "va!"
+	line "nargh 'oH 'e'"
+	cont "vIchaw'!"
 	prompt
 
 _SSAnneB1FRoomsFisherAfterBattleText::
-	text "I was going to"
-	line "make you my"
-	cont "assistant too!"
+	text "boQwI'wI' Damoj"
+	line "vIneH 'a Qu' 'Iq"
+	cont "Data'nIS!"
 	done
 
 _SSAnneB1FRoomsSuperNerdText::
-	text "My buddy, MACHOKE,"
-	line "is super strong!"
+	text "HoSqu' <m><a><'><v><a><y>"
+	line "maqochwIj!"
 
-	para "He has enough"
-	line "STRENGTH to move"
-	cont "big rocks!"
+	para "HoSghajqu'mo'"
+	line "nagh tIn "
+	cont "vIHmoHlaH 'oH!"
 	done
