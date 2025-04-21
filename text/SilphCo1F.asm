@@ -1,7 +1,7 @@
 _SilphCo1FLinkReceptionistText::
-	text "Welcome!"
+	text "pIvan!"
 
-	para "The PRESIDENT is"
-	line "in the boardroom"
-	cont "on 11F!"
+	para "Su'roq wa'maH wa'"
+	line "ghom pa'Daq ghaH"
+	cont "<v><u><'><w><I><'><'><a><'>ma''e'!"
 	done
