@@ -1,31 +1,31 @@
 _CeladonMart1FReceptionistText::
-	text "Hello! Welcome to"
-	line "CELADON DEPT."
-	cont "STORE."
+	text "qavan! <n><g><o><p><w><a><g><h>"
+	line "ngevwI' qach'a'"
+	cont "DaSuchtaH."
 
-	para "The board on the"
-	line "right describes"
-	cont "the store layout."
+	para "nIHlIjDaq"
+	line "ngevwI' Qur Del"
+	cont "De' 'echlet."
 	done
 
 _CeladonMart1FDirectorySignText::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "S1: boQwI'"
+	line "     raS"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "S2: chojwI'"
+	line "    luchmey"
 
-	para "3F: TV GAME SHOP"
+	para "S3: HaSta Quj 'aH"
 
-	para "4F: WISEMAN GIFTS"
+	para "S4: <q><u><p><c><h><a><l> nobmey"
 
-	para "5F: DRUG STORE"
+	para "S5: 'enteD ngevwI'"
 
-	para "ROOFTOP SQUARE:"
-	line "VENDING MACHINES"
+	para "beb yotlh:"
+	line "ngevwI' janmey"
 	done
 
 _CeladonMart1FCurrentFloorSignText::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "S1: boQwI'"
+	line "     raS"
 	done
