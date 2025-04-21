@@ -1,240 +1,221 @@
 _ViridianGymGiovanniPreBattleText::
-	text "Fwahahaha! This is"
-	line "my hideout!"
+	text "vaHaghHgh! waw'wIj"
+	line "'oH Daqvam'e'!"
 
-	para "I planned to"
-	line "resurrect TEAM"
-	cont "ROCKET here!"
+	para "naDev <p><e><n><g><D><u><j> ghom"
+	line "vIghomqa'moH 'e'"
+	cont "vInabpu'!"
 
-	para "But, you have"
-	line "caught me again!"
-	cont "So be it! This"
-	cont "time, I'm not"
-	cont "holding back!"
+	para "'ach choSamqa'pu'!"
+	line "wejpuH! DaH pung"
+	cont "vI'aghQo'chu'"
 
-	para "Once more, you"
-	line "shall face"
-	cont "GIOVANNI, the"
-	cont "greatest trainer!"
+	para "wa'logh <j><I><v><v><o><'><n><I><'>"
+	line "chojwI' nIvqu'"
+	cont "DaqaDqa'!"
 	done
 
 _ViridianGymGiovanniReceivedEarthBadgeText::
-	text "Ha!"
-	line "That was a truly"
-	cont "intense fight!"
-	cont "You have won!"
-	cont "As proof, here is"
-	cont "the EARTHBADGE!@"
+	text "Hgh!"
+	line "may' vaQqu' 'oH"
+	cont "may'vetlh'e'!"
+	cont "bIQapta'!"
+	cont "QaplIj 'aghmeH"
+	cont "<y><a><v><D><e><g><h> qanob!@"
 	text_end
 
 _ViridianGymGiovanniPostBattleAdviceText::
-	text "Having lost, I"
-	line "cannot face my"
-	cont "underlings!"
-	cont "TEAM ROCKET is"
-	cont "finished forever!"
+	text "mujeypu'mo' puq"
+	line "bay'eSpu'wIj"
+	cont "vIbamlaHbe'!"
+	cont "ghomHa' <p><e><n><g><D><u><j>"
+	cont "ghom rIntaH!"
 
-	para "I will dedicate my"
-	line "life to the study"
-	cont "of #MON!"
+	para "DaH #<m><a><n>mey"
+	line "vIHaDchoH!"
 
-	para "Let us meet again"
-	line "some day!"
-	cont "Farewell!@"
+	para "maghomqa'jaj"
+	cont "Qapla'!@"
 	text_end
 
 _ViridianGymGiovanniEarthBadgeInfoText::
-	text "The EARTHBADGE"
-	line "makes #MON of"
-	cont "any level obey!"
+	text "SoHvaD #<m><a><n>"
+	line "Hoch lobmoH"
+	cont "<y><u><v><D><e><g><h>!"
 
-	para "It is evidence of"
-	line "your mastery as a"
-	cont "#MON trainer!"
+	para "qeqwI' po'qu' SoH"
+	line "'e' woq 'oH!"
 
-	para "With it, you can"
-	line "enter the #MON"
-	cont "LEAGUE!"
-
-	para "It is my gift for"
-	line "your #MON"
-	cont "LEAGUE challenge!"
+	para "Daghajmo' #<m><a><n>"
+	line "'obe' vaS'a'"
+	cont "Da'ellaH!"
 	done
 
 _ViridianGymGiovanniReceivedTM27Text::
-	text "<PLAYER> received"
-	line "TM27!@"
+	text "<t><j>27 Suq"
+	line "<PLAYER>!@"
 	text_end
 
 _ViridianGymGiovanniTM27ExplanationText::
 	text_start
 
-	para "TM27 is FISSURE!"
-	line "It will take out"
-	cont "#MON with just"
-	cont "one hit!"
+	para "<Q><a><r><g><h> tonSaw'"
+	line "ngaS <t><j>27!"
+	cont "SIbI' #<m><a><n>"
+	cont "vulmoHlaH!"
 
-	para "I made it when I"
-	line "ran the GYM here,"
-	cont "too long ago..."
+	para "'opben qaDqachvam"
+	line "vIvu'taHvIS 'oH"
+	cont "vI'ogh..."
 	done
 
 _ViridianGymGiovanniTM27NoRoomText::
-	text "You do not have"
-	line "space for this!"
+	text "buy'mo' buqlIj"
+	line "DatlhaplaHbe'!"
 	done
 
 _ViridianGymCooltrainerM1BattleText::
-	text "Heh! You must be"
-	line "running out of"
-	cont "steam by now!"
+	text "Hgh! wejHa'"
+	line "HoSlIj Danatlhpu'"
+	cont "'e' vIjal!"
 	done
 
 _ViridianGymCooltrainerM1EndBattleText::
-	text "I"
-	line "ran out of gas!"
+	text "..."
+	line "nIn vIHutlh!"
 	prompt
 
 _ViridianGymCooltrainerM1AfterBattleText::
-	text "You need power to"
-	line "keep up with our"
-	cont "GYM LEADER!"
+	text "qaDpIn DaqaDmeH"
+	line "HoS vItlh DapoQ!"
 	done
 
 _ViridianGymHiker1BattleText::
-	text "Rrrroar! I'm"
-	line "working myself"
-	cont "into a rage!"
+	text "beeeeeeyyy!"
+	line "SeymoH QeH!"
+	cont "jIQeH'eghmoHtaH!"
 	done
 
 _ViridianGymHiker1EndBattleText::
-	text "Wargh!"
+	text "jaaaaach!"
 	prompt
 
 _ViridianGymHiker1AfterBattleText::
-	text "I'm still not"
-	line "worthy!"
+	text "jIqotlhbe'taH!"
 	done
 
 _ViridianGymRocker1BattleText::
-	text "#MON and I, we"
-	line "make wonderful"
-	cont "music together!"
+	text "matay'taHvIS jIH"
+	text "#<m><a><n>wIj je QoQ "
+	cont "'ey wIbom!"
 	done
 
 _ViridianGymRocker1EndBattleText::
-	text "You are in"
-	line "perfect harmony!"
+	text "pupchu'ba'"
+	line "'ISQImlIj!"
 	prompt
 
 _ViridianGymRocker1AfterBattleText::
-	text "Do you know the"
-	line "identity of our"
-	cont "GYM LEADER?"
+	text "qaDpInmaj pong"
+	line "DaSov'a'?"
+	cont "qaSovmoHQo'!"
 	done
 
 _ViridianGymHiker2BattleText::
-	text "Karate is the"
-	line "ultimate form of"
-	cont "martial arts!"
+	text "may' Ho'DoS nIv"
+	line "'oH moQbara''e'!"
 	done
 
 _ViridianGymHiker2EndBattleText::
-	text "Atcho!"
+	text "'eQQuSngew!"
 	prompt
 
 _ViridianGymHiker2AfterBattleText::
-	text "If my #MON"
-	line "were as good at"
-	cont "Karate as I..."
+	text "may' tonSaw'wIj"
+	line "lo'laHchugh"
+	cont "#<m><a><n>wIj..."
 	done
 
 _ViridianGymCooltrainerM2BattleText::
-	text "The truly talented"
-	line "win with style!"
+	text "QapDI' po'wI'na'"
+	line "ngeDmoHlaw'!"
 	done
 
 _ViridianGymCooltrainerM2EndBattleText::
-	text "I"
-	line "lost my grip!"
+	text " "
+	line "jI'uchtaHlaHbe'!"
 	prompt
 
 _ViridianGymCooltrainerM2AfterBattleText::
-	text "The LEADER will"
-	line "scold me!"
+	text "muqun qaDpIn!
 	done
 
 _ViridianGymHiker3BattleText::
-	text "I'm the KARATE"
-	line "KING! Your fate"
-	cont "rests with me!"
+	text "vovwI' voDleH jIH!"
+	line "SanlIj vIwIv!"
 	done
 
 _ViridianGymHiker3EndBattleText::
-	text "Ayah!"
+	text "ya'!"
 	prompt
 
 _ViridianGymHiker3AfterBattleText::
-	text "#MON LEAGUE?"
-	line "You? Don't get"
-	cont "cocky!"
+	text "#<m><a><n> 'obe'?"
+	line "SoH? yInguqQo',"
+	cont "puq!"
 	done
 
 _ViridianGymRocker2BattleText::
-	text "Your #MON will"
-	line "cower at the"
-	cont "crack of my whip!"
+	text "#<m><a><n>lIj jelmoH"
+	line "HenjunwIj!"
 	done
 
 _ViridianGymRocker2EndBattleText::
-	text "Yowch!"
-	line "Whiplash!"
+	text "rIS!"
+	line "vIQachHa'!"
 	prompt
 
 _ViridianGymRocker2AfterBattleText::
-	text "Wait! I was just"
-	line "careless!"
+	text "yIloS! jIyepbe'"
+	line "neH!"
 	done
 
 _ViridianGymCooltrainerM3BattleText::
-	text "VIRIDIAN GYM was"
-	line "closed for a long"
-	cont "time, but now our"
-	cont "LEADER is back!"
+	text "poH nI' ngaQ"
+	line "<q><o><'><r><I><n> <v><e><n><g>"
+	cont "qaDqach lojmIt 'a"
+	cont "chegh qaDpIn!"
 	done
 
 _ViridianGymCooltrainerM3EndBattleText::
-	text "I"
-	line "was beaten?"
+	text "tagha'"
+	line "vIjeylu''a'?"
 	prompt
 
 _ViridianGymCooltrainerM3AfterBattleText::
-	text "You can go onto"
-	line "#MON LEAGUE"
-	cont "only by defeating"
-	cont "our GYM LEADER!"
+	text "qaDpInmaj Dajeypa'"
+	line "#<m><a><n> 'obe' DaSuch"
+	cont "net tuch!"
 	done
 
 _ViridianGymGuidePreBattleText::
-	text "Yo! Champ in"
-	line "making!"
+	text "toH! charghwI'"
+	line "mojlaHbogh puq!"
 
-	para "Even I don't know"
-	line "VIRIDIAN LEADER's"
-	cont "identity!"
+	para "vabDot <q><o><'><r><I><n>"
+	line "qaDqach qaDpIn"
+	cont "pong vISovbe'!"
 
-	para "This will be the"
-	line "toughest of all"
-	cont "the GYM LEADERs!"
+	para "qaDpInvam HoS"
+	line "law' latlhmey"
+	cont "HoS puS!"
 
-	para "I heard that the"
-	line "trainers here"
-	cont "like ground-type"
-	cont "#MON!"
+	para "naDev yav #<m><a><n>"
+	line "maSlaw' chojwI'pu'!"
 	done
 
 _ViridianGymGuidePostBattleText::
-	text "Blow me away!"
-	line "GIOVANNI was the"
-	cont "GYM LEADER here?"
+	text "vIHarQo'!"
+	line "qaDpIn ghaH "
+	cont "<j><I><v><v><o><'><n><I><'>'e'?"
 	done
