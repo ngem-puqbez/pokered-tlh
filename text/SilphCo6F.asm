@@ -1,107 +1,106 @@
 _SilphCo6FSilphWorkerM1TookOverTheBuildingText::
-	text "The ROCKETs came"
-	line "and took over the"
-	cont "building!"
+	text "pawDI' <p><e><n><g><D><u><j>"
+	line "qachvam weHchoH"
+	cont "'ej nura'choH!"
 	done
 
 _SilphCo6FSilphWorkerM1BackToWorkText::
-	text "Well, better get"
-	line "back to work!"
+	text "toH, jIvumqa'"
+	line "net tlheb!"
 	done
 
 _SilphCo6FSilphWorkerMHelpMePleaseText::
-	text "Oh dear, oh dear."
-	line "Help me please!"
+	text "Qo', Qo', Qo'."
+	line "qaqoy', HIQaH!"
 	done
 
 _SilphCo6FSilphWorkerMWeGotEngagedText::
-	text "We got engaged!"
-	line "Heheh!"
+	text "tugh vISaw!"
+	line "HghHgh!"
 	done
 
 _SilphCo6FSilphWorkerF1SuchACowardText::
-	text "Look at him! He's"
-	line "such a coward!"
+	text "loDvam yIpoj!"
+	line "nuchna' ghaH!"
 	done
 
 _SilphCo6FSilphWorkerF1HaveToMarryHimText::
-	text "I feel so sorry"
-	line "for him, I have"
-	cont "to marry him!"
+	text "vIvupqu'. vIHubmeH"
+	line "vInaynISqang."
+	cont "qabqu'be' ghaH!"
 	done
 
 _SilphCo6FSilphWorkerF2TeamRocketConquerWorldText::
-	text "TEAM ROCKET is"
-	line "trying to conquer"
-	cont "the world with"
-	cont "#MON!"
+	text "qo' charghmeH"
+	line "#<m><a><n>mey HoS"
+	cont "lo' <p><e><n><g><D><u><j> ghom!"
+	cont "HghHgh!"
 	done
 
 _SilphCo6FSilphWorkerF2TeamRocketRanText::
-	text "TEAM ROCKET ran"
-	line "because of you!"
+	text "SoHmo' HeD"
+	line "ghomvetlh mIgh!"
 	done
 
 _SilphCo6FSilphWorkerM3TargetedSilphText::
-	text "They must have"
-	line "targeted SILPH"
-	cont "for our #MON"
-	cont "products."
+	text "#<m><a><n> luchmaj"
+	line "vurmo' <p><e><n><g><D><u><j>"
+	cont "ghom DoS mojlaw'"
+	cont "<S><I><l><v><a><'> malja'."
 	done
 
 _SilphCo6FSilphWorkerM3WorkForSilphText::
-	text "Come work for"
-	line "SILPH when you"
-	cont "get older!"
+	text "bInenchoHDI'"
+	line "<S><I><l><v><a><'>Daq bIvum"
+	cont "'e' vIchup!"
 	done
 
 _SilphCo6FRocket1BattleText::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "loS <p><e><n><g><D><u><j> loDnI'"
+	line "maH!"
 	done
 
 _SilphCo6FRocket1EndBattleText::
-	text "Flame"
-	line "out!"
+	text "baQa'!"
+	line "tlhoy tuj!"
 	prompt
 
 _SilphCo6FRocket1AfterBattleText::
-	text "No matter!"
-	line "My brothers will"
-	cont "avenge me!"
+	text "ram!"
+	line "jIweb 'ach bortaS"
+	cont "chav loDnI'pu'wI'!"
 	done
 
 _SilphCo6FScientistBattleText::
-	text "That rotten"
-	line "PRESIDENT!"
+	text "<v><u><'><w><I><'><'><a><'> QaQbe'"
+	line "DapIchlaH!"
 
-	para "He shouldn't have"
-	line "sent me to the"
-	cont "TIKSI BRANCH!"
+	para "<'><o><r><e><'> Sep malja'"
+	line "qachDaq mungeHmo'"
+	cont "bortaSvam vIbaj!"
 	done
 
 _SilphCo6FScientistEndBattleText::
-	text "Shoot!"
+	text "ghuy'!"
 	prompt
 
 _SilphCo6FScientistAfterBattleText::
-	text "TIKSI BRANCH?"
-	line "It's in Russian"
-	cont "no man's land!"
+	text "<'><o><r><e><'> Sep! Deb"
+	line "chImDaq che'ron"
+	cont "'oH 'ore''e'!"
 	done
 
 _SilphCo6FRocket2BattleText::
-	text "You dare betray"
-	line "TEAM ROCKET?"
+	text "<p><e><n><g><D><u><j> ghom"
+	line "DaboltaH'a'?"
 	done
 
 _SilphCo6FRocket2EndBattleText::
-	text "You"
-	line "traitor!"
+	text "va!"
+	line "maghwI'!"
 	prompt
 
 _SilphCo6FRocket2AfterBattleText::
-	text "If you stand for"
-	line "justice, you"
-	cont "betray evil!"
+	text "ruv Dabajchugh vaj"
+	line "'urmang vIDam!"
 	done
