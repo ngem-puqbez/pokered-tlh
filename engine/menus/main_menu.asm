@@ -435,10 +435,11 @@ PrintPlayTime:
 	jp PrintNumber
 
 SaveScreenInfoText:
-	db   "PLAYER"
-	next "BADGES    "
-	next "#DEX    "
-	next "TIME@"
+	db   "QujwI'"
+	next "Deghmey  "
+	next "#<p><a><q>    "
+	next "poH @"
+
 
 DisplayOptionMenu:
 	hlcoord 0, 0
@@ -594,19 +595,19 @@ DisplayOptionMenu:
 	jp .eraseOldMenuCursor
 
 TextSpeedOptionText:
-	db   "TEXT SPEED"
-	next " FAST  MEDIUM SLOW@"
+	db   "ghItlh Do"
+	next " nom   motlh  QIt@"
 
 BattleAnimationOptionText:
-	db   "BATTLE ANIMATION"
-	next " ON       OFF@"
+	db   "may' Hasta"
+	next " cha'     So'@"
 
 BattleStyleOptionText:
-	db   "BATTLE STYLE"
-	next " SHIFT    SET@"
+	db   "may' Ho'DoS"
+	next " qa'moH   ratlh@"
 
 OptionMenuCancelText:
-	db "CANCEL@"
+	db "mej@"
 
 ; sets the options variable according to the current placement of the menu cursors in the options menu
 SetOptionsFromCursorPositions:
