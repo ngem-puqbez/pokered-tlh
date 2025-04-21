@@ -1,9 +1,9 @@
 _CinnabarLabTradeRoomSuperNerdText::
-	text "I found this very"
-	line "strange fossil in"
-	cont "MT.MOON!"
+	text "<m><a><S> <H><u><D>Daq"
+	line "'an'orvam taQ"
+	cont "vISam!"
 
-	para "I think it's a"
-	line "rare, prehistoric"
-	cont "#MON!"
+	para "qubbogh #<m><a><n>"
+	line "tIQqu' 'oH 'e'"
+	cont "vIHar!"
 	done
