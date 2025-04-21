@@ -60,25 +60,25 @@ DrawStartMenu::
 	ret
 
 StartMenuPokedexText:
-	db "POKéDEX@"
+	db "<pk><t><a><m><e><y>@"
 
 StartMenuPokemonText:
-	db "POKéMON@"
+	db "#<m><a><n>@"
 
 StartMenuItemText:
-	db "ITEM@"
+	db "<l><u><c><h>@"
 
 StartMenuSaveText:
-	db "SAVE@"
+	db "<t><a> <n><g><e><q>@"
 
 StartMenuResetText:
 	db "RESET@"
 
 StartMenuExitText:
-	db "EXIT@"
+	db "<m><e><j>@"
 
 StartMenuOptionText:
-	db "OPTION@"
+	db "<S><e><H><l><a><w>@"
 
 PrintStartMenuItem:
 	push hl
