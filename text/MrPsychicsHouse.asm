@@ -9,7 +9,7 @@ _MrPsychicsHouseMrPsychicReceivedTM29Text::
 	text "@"
 	text_ram wStringBuffer
 	text "Hev"
-	line <PLAYER>!@"
+	line "<PLAYER>!@"
 	text_end
 
 _MrPsychicsHouseMrPsychicTM29ExplanationText::
