@@ -1,63 +1,62 @@
 _VictoryRoad3FCooltrainerM1BattleText::
-	text "I heard rumors of"
-	line "a child prodigy!"
+	text "puq wIgh bopbogh"
+	line "joS vIQoypu'!"
 	done
 
 _VictoryRoad3FCooltrainerM1EndBattleText::
-	text "The"
-	line "rumors were true!"
+	text ""
+	line "teHbej joS!"
 	prompt
 
 _VictoryRoad3FCooltrainerM1AfterBattleText::
-	text "You beat GIOVANNI"
-	line "of TEAM ROCKET?"
+	text "<p><e><n><g><D><u><j> ghom"
+	line "<j><I><v><v><o><'><n><I><'> je Dajey'a'?"
 	done
 
 _VictoryRoad3FCooltrainerF1BattleText::
-	text "I'll show you just"
-	line "how good you are!"
+	text "laHlIj SovlIj je"
+	line "DIwaHjaj!"
 	done
 
 _VictoryRoad3FCooltrainerF1EndBattleText::
-	text "I'm"
-	line "furious!"
+	text "va!"
+	line "jIQeHqu'!"
 	prompt
 
 _VictoryRoad3FCooltrainerF1AfterBattleText::
-	text "You showed me just"
-	line "how good I was!"
+	text "laHwIj SovwIj je"
+	line "Datobpu'bej!"
 	done
 
 _VictoryRoad3FCooltrainerM2BattleText::
-	text "Only the chosen"
-	line "can pass here!"
+	text "naDev vegh"
+	line "wIvlu'wI'pu' neH!"
 	done
 
 _VictoryRoad3FCooltrainerM2EndBattleText::
-	text "I"
-	line "don't believe it!"
+	text "vI..."
+	line "vIHarlaHbe'!"
 	prompt
 
 _VictoryRoad3FCooltrainerM2AfterBattleText::
-	text "All trainers here"
-	line "are headed to the"
-	cont "#MON LEAGUE!"
-	cont "Be careful!"
+	text "naDev #<m><a><n>"
+	line "'obe' qaDrup Hoch"
+	cont "chojwI'! yIyep!"
 	done
 
 _VictoryRoad3FCooltrainerF2BattleText::
-	text "Trainers live to"
-	line "seek stronger"
-	cont "opponents!"
+	text "ghol HoS SammeH"
+	line "yIn #<m><a><n>"
+	cont "chojwI'pu'!"
 	done
 
 _VictoryRoad3FCooltrainerF2EndBattleText::
-	text "Oh!"
-	line "So strong!"
+	text "toH!"
+	line "bIHoSqu'ba'!"
 	prompt
 
 _VictoryRoad3FCooltrainerF2AfterBattleText::
-	text "By fighting tough"
-	line "battles, you get"
-	cont "stronger!"
+	text "may' Qatlh"
+	line "DaQapchugh"
+	cont "bIHoSchoHlaH!"
 	done
