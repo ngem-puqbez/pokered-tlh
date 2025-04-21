@@ -1,22 +1,25 @@
 _VermilionPidgeyHouseYoungsterText::
-	text "I'm getting my"
-	line "PIDGEY to fly a"
-	cont "letter to SAFFRON"
-	cont "in the north!"
+	text "<n><a><'><r><a><n><y><u><b> <v><e><n><g>Daq"
+	line "nav QIn HIj"
+	cont "cha'lISnuwIj"
+	cont "'e' vIghojmoH!"
 	done
 
 _VermilionPidgeyHousePidgeyText::
-	text "PIDGEY: Kurukkoo!@"
+	text "<c><h><a><'><l><I><S><n><u>:"
+	line "quruqquw!@"
 	text_end
 
 _VermilionPidgeyHouseLetterText::
-	text "Dear PIPPI, I hope"
-	line "to see you soon."
+	text "<p><I><p><p><I><y>, tugh"
+	line "maghomqa' 'e'"
+	cont "vIjIn."
 
-	para "I heard SAFFRON"
-	line "has problems with"
-	cont "TEAM ROCKET."
+	para "<n><a><'><r><a><n><y><u><b> nuQtaH"
+	line "<p><e><n><g><D><u><j> ghom 'e'"
+	cont "ja' joS."
 
-	para "VERMILION appears"
-	line "to be safe."
+	para "<b><e><q><p><u><j> <v><e><n><g>Daq"
+	line "HeSwI'pu'vetlh"
+	cont "tu'lu'be'law'."
 	done
