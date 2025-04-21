@@ -1,24 +1,23 @@
 _Route15Gate2FOaksAideExpAllText::
-	text "EXP.ALL gives"
-	line "EXP points to all"
-	cont "the #MON with"
-	cont "you, even if they"
-	cont "don't fight."
+	text "Hoch #<m><a><n>mey"
+	line "mutlhejboghvaD"
+	cont "HenwI' mIvwa' nob"
+	cont "Hoch HenmoH. ram"
+	cont "may jeStaHghach."
 
-	para "It does, however,"
-	line "reduce the amount"
-	cont "of EXP for each"
-	cont "#MON."
+	para "'ach mIvwa' Hen"
+	line "puS Hev Hoch"
+	cont "#<m><a><n>."
 
-	para "If you don't need"
-	line "it, you should "
-	cont "store it via PC."
+	para "Dalo' neHbe'chugh"
+	line "<D><e><'><w><I><'>Daq Dapol"
+	cont "net tlheb."
 	done
 
 _Route15Gate2FBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Hov tut chang'eng"
+	line "Dalo'."
 
-	para "It looks like a"
-	line "small island!"
+	para "'ambay'Hey nu'"
+	line "qalegh!"
 	done
