@@ -1,25 +1,25 @@
 _PewterNidoranHouseNidoranText::
-	text "NIDORAN: Bowbow!@"
+	text "<D><u><Q><u><c><h><l><o><D>: burewu!@"
 	text_end
 
 _PewterNidoranHouseLittleBoyText::
-	text "NIDORAN sit!"
+	text "ba'! <D><u><Q><u><c><h><l><o><D>!"
 	done
 
 _PewterNidoranHouseMiddleAgedManText::
-	text "Our #MON's an"
-	line "outsider, so it's"
-	cont "hard to handle."
+	text "nov 'oH #<m><a><n>"
+	line "wIghajbogh vaj"
+	cont "wIra'DI' lobHa'."
 
-	para "An outsider is a"
-	line "#MON that you"
-	cont "get in a trade."
+	para "#<m><a><n> Suqlu'meH"
+	line "mechlu'chugh nov"
+	cont "'oH #<m><a><n>vetlh."
 
-	para "It grows fast, but"
-	line "it may ignore an"
-	cont "unskilled trainer"
-	cont "in battle!"
+	para "nom nenchoH 'a"
+	line "po'be'chugh qeqwI'"
+	cont "chaq SuvtaHvIS"
+	cont "lobHa' 'e' wIv!"
 
-	para "If only we had"
-	line "some BADGEs..."
+	para "Deghmey 'op"
+	line "wIghajchugh..."
 	done
