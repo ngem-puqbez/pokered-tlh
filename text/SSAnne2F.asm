@@ -1,63 +1,66 @@
 _SSAnne2FWaiterText::
-	text "This ship, she is"
-	line "a luxury liner"
-	cont "for trainers!"
+	text "Dujvam!"
+	line "chojwI' lupDuj"
+	cont "Hoy 'oH!"
 
-	para "At every port, we"
-	line "hold parties with"
-	cont "invited trainers!"
+	para "Hoch verghDaq"
+	line "wISuch 'ej lop"
+	cont "qeqwI'pu' law'!"
 	done
 
 _SSAnne2FRivalText::
-	text "<RIVAL>: Bonjour!"
+	text "<RIVAL>: Hello!"
 	line "<PLAYER>!"
 
-	para "Imagine seeing"
-	line "you here!"
+	para "naDev qalegh 'e'"
+	line "vIpIHbe'chu'!"
 
-	para "<PLAYER>, were you"
-	line "really invited?"
+	para "DarItlu''a'!"
+	line "DuneH 'Iv,"
+	cont "<PLAYER>?"
 
-	para "So how's your"
-	line "#DEX coming?"
+	para "#<p><a><q>lIj Ser"
+	line "yIDel!"
 
-	para "I already caught"
-	line "40 kinds, pal!"
+	para "wejHa' loSmaH"
+	line "mut De' vIqonta'!"
 
-	para "Different kinds"
-	line "are everywhere!"
+	para "Dat #<m><a><n> chu'"
+	line "DaSamlaH!"
 
-	para "Crawl around in"
-	line "grassy areas!"
+	para "magh wochDaq"
+	line "DanejnIS!"
 	done
 
 _SSAnne2FRivalDefeatedText::
-	text "Humph!"
+	text "Hu...!"
 
-	para "At least you're"
-	line "raising your"
-	cont "#MON!"
+	para "toH... #<m><a><n>lIj"
+	line "DaQorghtaHlaw'."
+
 	prompt
 
 _SSAnne2FRivalVictoryText::
-	text "<PLAYER>! What are"
-	line "you, seasick?"
+	text "<PLAYER>! HghHgh!"
+	line "Du'emnISmoH'a'"
+	cont "bIQ'a'?"
 
-	para "You should shape"
-	line "up, pal!"
+	para "bIrotlh'eghmoHnIS,"
+	line "jupwI'!"
 	prompt
 
 _SSAnne2FRivalCutMasterText::
-	text "<RIVAL>: I heard"
-	line "there was a CUT"
-	cont "master on board."
+	text "<RIVAL>: DujvamDaq"
+	line "<p><e><'> Ho'DoS po'wI'"
+	cont "tu'lu' 'e' vIQoy."
 
-	para "But, he was just a"
-	line "seasick, old man!"
+	para "'ach ropbogh loD"
+	line "qan neH ghaH!"
 
-	para "But, CUT itself is"
-	line "really useful!"
+	para "vabDot lI'qu' <p><e><'>"
+	line "Ho'DoS'e'!"
 
-	para "You should go see"
-	line "him! Smell ya!"
+	para "DaqIH SoH je net"
+	line "tlheb! SIbI'Ha'"
+	cont "qalargh!"
 	done
