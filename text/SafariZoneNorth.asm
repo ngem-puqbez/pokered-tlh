@@ -1,33 +1,33 @@
 _SafariZoneNorthRestHouseSignText::
-	text "REST HOUSE"
+	text  "<l><e><S> <q><a><c><h>"
 	done
 
 _SafariZoneNorthTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "chojwI qeS"
 
-	para "The SECRET HOUSE"
-	line "is still ahead!"
+	para "qach pegh"
+	line "DaSuchmeH yIruch!"
 	done
 
 _SafariZoneNorthSignText::
-	text "AREA 2"
+	text "Daq 2"
 	done
 
 _SafariZoneNorthTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "#MON hide in"
-	line "tall grass!"
+	para "magh wochDaq"
+	line "So''egh #<m><a><n>!"
 
-	para "Zigzag through"
-	line "grassy areas to"
-	cont "flush them out."
+	para "DaSammeH He"
+	line "job yItlha' 'ej"
+	cont "mujunlaHbe'."
 	done
 
 _SafariZoneNorthTrainerTips3Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "Win a free HM for"
-	line "finding the"
-	cont "SECRET HOUSE!"
+	para "<H><j> yughbogh tev"
+	line "DaHevmeH qach"
+	cont "pegh yISam!"
 	done
