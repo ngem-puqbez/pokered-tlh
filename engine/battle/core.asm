@@ -2047,7 +2047,7 @@ DisplayBattleMenu::
 	ld a, $2 ; select the "ITEM" menu
 	jp .upperLeftMenuItemWasNotSelected
 .oldManName
-	db "OLD MAN@"
+	db "loD qan@"
 .handleBattleMenuInput
 	ld a, [wBattleAndStartSavedMenuItem]
 	ld [wCurrentMenuItem], a
@@ -2685,7 +2685,7 @@ MoveDisabledText:
 	text_end
 
 WhichTechniqueString:
-	db "WHICH TECHNIQUE?@"
+	db "tonSaw' yIwIv!@"
 
 SelectMenuItem_CursorUp:
 	ld a, [wCurrentMenuItem]
@@ -2905,10 +2905,10 @@ PrintMenuItem:
 	jp Delay3
 
 DisabledText:
-	db "disabled!@"
+	db "<Q><o><t><l><h><l><u><'>!@"
 
 TypeText:
-	db "TYPE@"
+	db "<b><u><v>@"
 
 SelectEnemyMove:
 	ld a, [wLinkState]
@@ -6837,15 +6837,11 @@ InitWildBattle:
 	ld [hli], a   ; write front sprite pointer
 	ld [hl], b
 	ld hl, wEnemyMonNick  ; set name to "GHOST"
-	ld a, "G"
+	ld a, "<q>"
 	ld [hli], a
-	ld a, "H"
+	ld a, "<a>"
 	ld [hli], a
-	ld a, "O"
-	ld [hli], a
-	ld a, "S"
-	ld [hli], a
-	ld a, "T"
+	ld a, "<'>"
 	ld [hli], a
 	ld [hl], "@"
 	ld a, [wCurPartySpecies]
