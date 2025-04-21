@@ -1,113 +1,113 @@
 _SSAnne2FRoomsGentleman3Text::
-	text "In all my travels"
-	line "I've never seen"
-	cont "any #MON sleep"
-	cont "like this one!"
+	text "QongtaHbogh"
+	line "#<m><a><n> tInqu'"
+	cont "vIlegh! not 'oH"
+	cont "rurbogh vay' 'e'"
+	cont "vIleghpu'!"
 
-	para "It was something"
-	line "like this!"
+	para "mIlloghvam "
+	line "vIDIjpu'!"
 	prompt
 
 _SSAnne2FRoomsGentleman4Text::
-	text "Ah yes, I have"
-	line "seen some #MON"
-	cont "ferry people"
-	cont "across the water!"
+	text "bIQ chIqmeH"
+	line "ghot lup #<m><a><n>"
+	cont "rut 'e' vIlegh!"
 	done
 
 _SSAnne2FRoomsGrampsText::
-	text "#MON can CUT"
-	line "down small bushes."
+	text "lavmey mach"
+	line "<p><e><'>laH #<m><a><n>."
 	done
 
 _SSAnne2FRoomsGentleman5Text::
-	text "Have you gone to"
-	line "the SAFARI ZONE"
-	cont "in FUCHSIA CITY?"
+	text "<t><a><r><D><e><H> <v><e><n><g>Daq"
+	line "<c><h><o><n> <y><o><t><l><h>"
+	cont "DaSuchpu''a'?"
 
-	para "It had many rare"
-	line "kinds of #MON!!"
+	para "pa' law' #<m><a><n>"
+	line "mut qub!!"
 	done
 
 _SSAnne2FRoomsLittleBoyText::
-	text "Me and my Daddy"
-	line "think the SAFARI"
-	cont "ZONE is awesome!"
+	text "Dunqu' <c><h><o><n> <y><o><t><l><h>"
+	line "'e' wIHar vavoy"
+	cont "jIH je!"
 	done
 
 _SSAnne2FRoomsBrunetteGirlText::
-	text "The CAPTAIN looked"
-	line "really sick and"
-	cont "pale!"
+	text "roplaw' HoD "
+	line "pIvbe'chugh"
+	cont "tlheDbe' DujDaj!"
 	done
 
 _SSAnne2FRoomsBeautyText::
-	text "I hear many people"
-	line "get seasick!"
+	text "'op nuv ropmoH"
+	line "bIQ'a'!"
 	done
 
 _SSAnne2FRoomsGentleman1BattleText::
-	text "Competing against"
-	line "the young keeps"
-	cont "me youthful."
+	text "QupwI'pu' vISuvmo'"
+	line "jIHoSlaHtaH."
 	done
 
 _SSAnne2FRoomsGentleman1EndBattleText::
-	text "Good"
-	line "fight! Ah, I feel"
-	cont "young again!"
+	text "pov"
+	line "may'! maj!"
+	cont "jIQupqa'law'!"
 	prompt
 
 _SSAnne2FRoomsGentleman1AfterBattleText::
-	text "15 years ago, I"
-	line "would have won!"
+	text "wa'maH vagh ben"
+	line "maSuvchuqchugh"
+	cont "jIQapta'bej!"
 	done
 
 _SSAnne2FRoomsFisherBattleText::
-	text "Check out what I"
-	line "fished up!"
+	text "'eQ #<m><a><n>vam"
+	line "vIjon! vIwaH!"
 	done
 
 _SSAnne2FRoomsFisherEndBattleText::
-	text "I'm"
-	line "all out!"
+	text "toH?"
+	line "DaH jISov!"
 	prompt
 
 _SSAnne2FRoomsFisherAfterBattleText::
-	text "Party?"
+	text "lop?"
 
-	para "The cruise ship's"
-	line "party should be"
-	cont "over by now."
+	para "wejHa' qaSpu'"
+	line "raQpo' lop."
+	cont "DaH jIleSnIS."
 	done
 
 _SSAnne2FRoomsGentleman2BattleText::
-	text "Which do you like,"
-	line "a strong or a"
-	cont "rare #MON?"
+	text "qayu'! #<m><a><n> HoS"
+	line "qaq law' #<m><a><n>"
+	cont "qub qaq puS. "
+	cont "bIQoch'a'?"
 	done
 
 _SSAnne2FRoomsGentleman2EndBattleText::
-	text "I must"
-	line "salute you!"
+	text "qavannIS!"
 	prompt
 
 _SSAnne2FRoomsGentleman2AfterBattleText::
-	text "I prefer strong"
-	line "and rare #MON."
+	text "HoSbogh #<m><a><n>"
+	line "qub vImaS."
 	done
 
 _SSAnne2FRoomsCooltrainerFBattleText::
-	text "I never saw you"
-	line "at the party."
+	text "jIloptaHvIS"
+	line "qaleghbe'!"
 	done
 
 _SSAnne2FRoomsCooltrainerFEndBattleText::
-	text "Take"
-	line "it easy!"
+	text "toH"
+	line "DochwI'!"
 	prompt
 
 _SSAnne2FRoomsCooltrainerFAfterBattleText::
-	text "Oh, I adore your"
-	line "strong #MON!"
+	text "#<m><a><n>lIj HoS"
+	line "vIHo'qu'!"
 	done
