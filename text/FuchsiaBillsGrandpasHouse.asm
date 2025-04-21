@@ -1,27 +1,27 @@
 _FuchsiaBillsGrandpasHouseMiddleAgedWomanText::
-	text "SAFARI ZONE's"
-	line "WARDEN is old,"
-	cont "but still active!"
+	text "qan <c><h><o><n> <y><o><t><l><h>"
+	line "<w><a><m><w><I><'><'><a><'> vabDot"
+	cont "pIvtaH!"
 
-	para "All his teeth are"
-	line "false, though."
+	para "'ach <H><o><'><D><u><'> <n><g><e><b>"
+	line "lo'nIS."
 	done
 
 _FuchsiaBillsGrandpasHouseBillsGrandpaText::
-	text "Hmm? You've met"
-	line "BILL?"
+	text "toH? <b><I><l> DaqIHpu',"
+	line "qar'a'?"
 
-	para "He's my grandson!"
+	para "puqnI'loD ghaH!"
 
-	para "He always liked"
-	line "collecting things"
-	cont "even as a child!"
+	para "Doch Sar boS reH"
+	line "'e' tIv. vabDot"
+	cont "puq ghaHtaHvIS!"
 	done
 
 _FuchsiaBillsGrandpasHouseYoungsterText::
-	text "BILL files his"
-	line "own #MON data"
-	cont "on his PC!"
+	text "De'wI'DajDaq"
+	line "#<m><a><n>meyDaj pol"
+	cont "<b><I><l>!"
 
-	para "Did he show you?"
+	para "Du'aghpu''a'?"
 	done
