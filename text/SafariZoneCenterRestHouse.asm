@@ -1,11 +1,12 @@
 _SafariZoneCenterRestHouseGirlText::
-	text "SARA: Where did"
-	line "my boy friend,"
-	cont "ERIK, go?"
+	text "<S><e><r><a><'>: nuqDaq"
+	line "jaHpu' <'><e><r><I><q>"
+	cont "parmaqqay'wI'?"
 	done
 
 _SafariZoneCenterRestHouseScientistText::
-	text "I'm catching"
-	line "#MON to take"
-	cont "home as gifts!"
+	text "juH vIchaghDI'"
+	line "jupwI'pu'vaD"
+	cont "nobmey vImuchmeH"
+	cont "#<m><a><n> vIboStaH!"
 	done
