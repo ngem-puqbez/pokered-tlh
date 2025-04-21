@@ -1,156 +1,155 @@
 _Route25Youngster1BattleText::
-	text "Local trainers"
-	line "come here to"
-	cont "practice!"
+	text "qeqmeH Hatlhvam"
+	line "luSuch qeqwI'pu'"
+	cont "law'!"
 	done
 
 _Route25Youngster1EndBattleText::
-	text "You're"
-	line "decent."
+	text "toH!"
+	line "bIpujbe'ba'."
 	prompt
 
 _Route25Youngster1AfterBattleText::
-	text "All #MON have"
-	line "weaknesses. It's"
-	cont "best to raise"
-	cont "different kinds."
+	text "puj tlhIn ghaj Hoch"
+	line "#<m><a><n>. "
+	cont "bIQapqu'meH Sar"
+	cont "law' DaQorghnIS."
 	done
 
 _Route25Youngster2BattleText::
-	text "Dad took me to a"
-	line "great party on"
-	cont "S.S.ANNE at"
-	cont "VERMILION CITY!"
+	text "<b><e><q><p><u><j> <v><e><n><g>Daq"
+	line "<b><I><Q><D><u><j> <H><o><y><q><u><'>Daq"
+	cont "lop Dun muSIQmoH"
+	cont "vavwI'!"
 	done
 
 _Route25Youngster2EndBattleText::
-	text "I'm"
-	line "not mad!"
+	text "jIQeHbe'!"
 	prompt
 
 _Route25Youngster2AfterBattleText::
-	text "On S.S.ANNE, I"
-	line "saw trainers from"
-	cont "around the world."
+	text "<b><I><Q><D><u><j> <H><o><y><q><u><'>Daq"
+	line "Dat Dabbogh "
+	cont "chojwI'pu' vIqIH."
 	done
 
 _Route25CooltrainerMBattleText::
-	text "I'm a cool guy."
-	line "I've got a girl"
-	cont "friend!"
+	text "loD qu' jIH."
+	line "parmaqqay vIghaj!"
 	done
 
 _Route25CooltrainerMEndBattleText::
-	text "Aww,"
-	line "darn..."
+	text " "
+	line "Hu'ma va..."
 	prompt
 
 _Route25CooltrainerMAfterBattleText::
-	text "Oh well. My girl"
-	line "will cheer me up."
+	text "va. muQuchqa'moH"
+	line "bangwI'."
 	done
 
 _Route25CooltrainerF1BattleText::
-	text "Hi! My boy"
-	line "friend is cool!"
+	text "qavan! qu'"
+	line "parmaqqaywI'!"
 	done
 
 _Route25CooltrainerF1EndBattleText::
-	text "I was in"
-	line "bad condition!"
+	text "qablaw'"
+	line "DotlhwIj!"
 	prompt
 
 _Route25CooltrainerF1AfterBattleText::
-	text "I wish my guy was"
-	line "as good as you!"
+	text "qu'qu' bangwI';"
+	line "SoH rur..."
+	cont "'e' vIjIn."
 	done
 
 _Route25Youngster3BattleText::
-	text "I knew I had to"
-	line "fight you!"
+	text "qaSuvnIS 'e'"
+	line "vISov!"
 	done
 
 _Route25Youngster3EndBattleText::
-	text "I knew"
-	line "I'd lose too!"
+	text "jIluj 'e'"
+	line "vISov je!"
 	prompt
 
 _Route25Youngster3AfterBattleText::
-	text "If your #MON"
-	line "gets confused or"
-	cont "falls asleep,"
-	cont "switch it!"
+	text "mISchoHchugh"
+	line "#<m><a><n>lIj pagh"
+	cont "QongchoHchugh"
+	cont "yIHeDmoH!"
 	done
 
 _Route25CooltrainerF2BattleText::
-	text "My friend has a"
-	line "cute #MON."
-	cont "I'm so jealous!"
+	text "'IHbogh #<m><a><n>"
+	line "mach ghaj jupwI'."
+	cont "vIghalqu'!"
 	done
 
 _Route25CooltrainerF2EndBattleText::
-	text "I'm"
-	line "not so jealous!"
+	text "chaq"
+	line "vIghalqu'be'!"
 	prompt
 
 _Route25CooltrainerF2AfterBattleText::
-	text "You came from MT."
-	line "MOON? May I have"
-	cont "a CLEFAIRY?"
+	text "<m><a><S> <H><u><D>vo' bIleng,"
+	line "qar'a'? <j><a><g><h><'><I><v>"
+	cont "chonob'a'?"
 	done
 
 _Route25Hiker1BattleText::
-	text "I just got down"
-	line "from MT.MOON,"
-	cont "but I'm ready!"
+	text "'eQ <m><a><S> <H><u><D>vo'"
+	line "jIchegh,"
+	cont "'a jISuvruptaH!"
 	done
 
 _Route25Hiker1EndBattleText::
-	text "You"
-	line "worked hard!"
+	text " "
+	line "bIchojqu'ta'."
 	prompt
 
 _Route25Hiker1AfterBattleText::
-	text "Drat!"
-	line "A ZUBAT bit me"
-	cont "back in there."
+	text "va!"
+	line "DIS vISuchtaHvIS"
+	cont "muchop <v><a><l><q><e><D>."
 	done
 
 _Route25Hiker2BattleText::
-	text "I'm off to see a"
-	line "#MON collector"
-	cont "at the cape!"
+	text "puHley'Daq"
+	line "#<m><a><n> boSwI'"
+	cont "vISuchmeH vIve'!"
 	done
 
 _Route25Hiker2EndBattleText::
-	text "You"
-	line "got me."
+	text "yay"
+	line "Dabajpu'."
 	prompt
 
 _Route25Hiker2AfterBattleText::
-	text "The collector has"
-	line "many rare kinds"
-	cont "of #MON."
+	text "qubbogh #<m><a><n>mey"
+	line "Sar law' ghaj"
+	cont "boSwI'."
 	done
 
 _Route25Hiker3BattleText::
-	text "You're going to"
-	line "see BILL? First,"
-	cont "let's fight!"
+	text "<b><I><l> DaSuch"
+	line "DaneH'a'? "
+	cont "DajaHpa' HISuv!"
 	done
 
 _Route25Hiker3EndBattleText::
-	text "You're"
-	line "something."
+	text "po'wI'"
+	line "SoHba'!"
 	prompt
 
 _Route25Hiker3AfterBattleText::
-	text "The trail below"
-	line "is a shortcut to"
-	cont "CERULEAN CITY."
+	text "<c><h><a><l><H><o><m> <v><e><n><g>Daq"
+	line "jaHlu'meH qIgh"
+	cont "'oH tawvam'e'."
 	done
 
 _Route25BillSignText::
-	text "SEA COTTAGE"
-	line "BILL lives here!"
+	text "<b><I><Q><'><a><'> <H><e><H> <j><u><H>"
+	line "qachvam Dab <b><I><l>!"
 	done
