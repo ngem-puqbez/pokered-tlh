@@ -1,5 +1,6 @@
 _UndergroundPathRoute8GirlText::
-	text "The dept. store"
-	line "in CELADON has a"
-	cont "great selection!"
+	text "ngopwagh veng"
+	line "ngevwI'Daq "
+	cont "HochHom luch"
+	cont "ngevlu'."
 	done
