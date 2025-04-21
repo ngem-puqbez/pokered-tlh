@@ -1,26 +1,26 @@
 _CeladonMart4FSuperNerdText::
-	text "I'm getting a"
-	line "# DOLL for my"
-	cont "girl friend!"
+	text "bangwI'vaD"
+	line "<r><a><g><h><g><h><a><n> vIje'"
+	cont "vInIDtaH!"
 	done
 
 _CeladonMart4FYoungsterText::
-	text "I heard something"
-	line "useful."
+	text "'eQ De'vam lI'"
+	line "vIghojpu'."
 
-	para "You can run from"
-	line "wild #MON by"
-	cont "distracting them"
-	cont "with a # DOLL!"
+	para "#<m><a><n> tlhabvo'"
+	line "DaHeDmeH <r><a><g><h><g><h><a><n>"
+	cont "yIvo'. 'oH"
+	cont "yutlu'chu'!"
 	done
 
 _CeladonMart4FCurrentFloorSignText::
-	text "Express yourself"
-	line "with gifts!"
+	text "bI'agh'eghmoH"
+	line "nobmey yImuch!"
 
-	para "4F: WISEMAN GIFTS"
+	para "S4: <q><u><p><c><h><a><l> nobmey"
 
-	para "Evolution Special!"
-	line "Element STONEs on"
-	cont "sale now!"
+	para "ghe'moHmeH wanI'!"
+	line "DaH ghe'moHbogh"
+	cont "naghmey DIngev!"
 	done
