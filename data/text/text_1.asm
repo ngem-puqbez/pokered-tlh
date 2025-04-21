@@ -1,16 +1,16 @@
 _CardKeySuccessText1::
-	text "Bingo!@"
+	text "Qapla'!@"
 	text_end
 
 _CardKeySuccessText2::
 	text_start
-	line "The CARD KEY"
-	cont "opened the door!"
+	line "lojmIt poSmoH"
+	cont "yaS chaw'!"
 	done
 
 _CardKeyFailText::
-	text "Darn! It needs a"
-	line "CARD KEY!"
+	text "va! yaS chaw'"
+	line "poQ lojmItvam!"
 	done
 
 _TrainerNameText::
@@ -19,17 +19,17 @@ _TrainerNameText::
 	text_end
 
 _NoNibbleText::
-	text "Not even a nibble!"
+	text "noSpu' pagh!"
 	prompt
 
 _NothingHereText::
-	text "Looks like there's"
-	line "nothing here."
+	text "naDev pagh"
+	line "tu'lu'law'."
 	prompt
 
 _ItsABiteText::
-	text "Oh!"
-	line "It's a bite!"
+	text "toH!"
+	line "choppu'!"
 	prompt
 
 _ExclamationText::
@@ -37,113 +37,113 @@ _ExclamationText::
 	done
 
 _GroundRoseText::
-	text "Ground rose up"
-	line "somewhere!"
+	text "vogh Salpu'"
+	line "yav!"
 	done
 
 _BoulderText::
-	text "This requires"
-	line "STRENGTH to move!"
+	text "naghvam vIHmoHmeH"
+	line "<y><u><v> Ho'DoS poQlu'!"
 	done
 
 _MartSignText::
-	text "All your item"
-	line "needs fulfilled!"
-	cont "#MON MART"
+	text "luch DapoQchugh"
+	line "naDev yIje'!"
+	cont "#<n><g><e><v><w><I><'>"
 	done
 
 _PokeCenterSignText::
-	text "Heal Your #MON!"
-	line "#MON CENTER"
+	text "#<m><a><n> DIrach!"
+	line "#<r><o><p><y><a><H>"
 	done
 
 _FoundItemText::
-	text "<PLAYER> found"
-	line "@"
+	text "@"
 	text_ram wStringBuffer
-	text "!@"
+	text_start
+	line "Suq <PLAYER>!@"
 	text_end
 
 _NoMoreRoomForItemText::
-	text "No more room for"
-	line "items!"
+	text "buy' buqlIj."
+	line "luch 'Iq Daghaj!"
 	done
 
 _OaksAideHiText::
-	text "Hi! Remember me?"
-	line "I'm PROF.OAK's"
-	cont "AIDE!"
+	text "van! muqaw'a'?"
+	line "<'><o><Q> 'aghen boQ"
+	cont "jIH!"
 
-	para "If you caught @"
+	para "toH @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "kinds of #MON,"
-	cont "I'm supposed to"
-	cont "give you an"
+	line "#<m><a><n> mut"
+	cont "Dajonta'chugh"
+	cont "luch qanobnIS!"
 	cont "@"
 	text_ram wOaksAideRewardItemName
-	text "!"
+	text " 'oH!"
 
-	para "So, <PLAYER>! Have"
-	line "you caught at"
-	cont "least @"
+	para "toH, <PLAYER>!"
+	line "#<m><a><n> mut 'ar"
+	cont "Dajon? @"
 	text_decimal hOaksAideRequirement, 1, 3
-	text " kinds of"
-	cont "#MON?"
+	text " mutmey"
+	cont "Dajonta''a'?"
 	done
 
 _OaksAideUhOhText::
-	text "Let's see..."
-	line "Uh-oh! You have"
-	cont "caught only @"
+	text "Hu'ma..."
+	line "Do'Ha'! @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
-	text_start
-	cont "kinds of #MON!"
+	text " mut"
+	cont "neH Dajonta'."
 
-	para "You need @"
-	text_decimal hOaksAideRequirement, 1, 3
-	text " kinds"
-	line "if you want the"
-	cont "@"
+	para "SoHvaD @"
 	text_ram wOaksAideRewardItemName
-	text "."
+	text_start
+	line "vInobmeH @"
+	text_decimal hOaksAideRequirement, 1, 3
+	text_start
+	cont "mut DajonnISta'."
 	done
 
 _OaksAideComeBackText::
-	text "Oh. I see."
+	text "jIyaj!"
 
-	para "When you get @"
+	para "@"
 	text_decimal hOaksAideRequirement, 1, 3
-	text_start
-	line "kinds, come back"
-	cont "for @"
+	text " #<m><a><n> mut"
+	line "DajonDI'"
+	cont "@"
 	text_ram wOaksAideRewardItemName
-	text "."
+	text_start
+	cont "qanoblaH."
 	done
 
 _OaksAideHereYouGoText::
-	text "Great! You have"
-	line "caught @"
+	text "maj! wejHa' @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
-	text " kinds "
-	cont "of #MON!"
-	cont "Congratulations!"
+	text_start
+	line "#<m><a><n> mutmey"
+	cont "Dajonta'!"
+	cont "qaHoy'!"
 
-	para "Here you go!"
+	para "Dochvam yItlhap!"
 	prompt
 
 _OaksAideGotItemText::
-	text "<PLAYER> got the"
-	line "@"
 	text_ram wOaksAideRewardItemName
-	text "!@"
+	text " "
+	line "Hev <PLAYER>!@"
 	text_end
 
 _OaksAideNoRoomText::
-	text "Oh! I see you"
-	line "don't have any"
-	cont "room for the"
-	cont "@"
+	text "toH! luch 'Iq"
+	line "Daghaj."
+	para "@"
 	text_ram wOaksAideRewardItemName
-	text "."
+	text_start
+	line "DaHevmeH paqlIj"
+	cont "yIbuy'Ha'moH."
 	done
