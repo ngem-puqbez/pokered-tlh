@@ -1,105 +1,105 @@
 _SSAnne1FRoomsWigglytuffText::
-	text "WIGGLYTUFF: Puup"
-	line "pupuu!@"
+	text "<v><o><v><o><n><g>: pu'Ip"
+	line "pu'Ipu!@"
 	text_end
 
 _SSAnne1FRoomsGentleman1BattleText::
-	text "I travel alone"
-	line "on my journeys!"
+	text "jIlengtaHvIS jImob"
+	line "'ach jI'ubbe'!"
 
-	para "My #MON are my"
-	line "only friends!"
+	para "jupwIj bIH"
+	line "#<m><a><n>meywIj!"
 	done
 
 _SSAnne1FRoomsGentleman1EndBattleText::
-	text "My, my"
-	line "friends..."
+	text "jup..."
+	line "mey...wIj..."
 	prompt
 
 _SSAnne1FRoomsGentleman1AfterBattleText::
-	text "You should be"
-	line "nice to friends!"
+	text "jupvaD DochHa'"
+	line "net tlheb!"
 	done
 
 _SSAnne1FRoomsGentleman2BattleText::
-	text "You pup! How dare"
-	line "you barge in!"
+	text "pa'wIj tlhIn 'oH"
+	line "Daqvam'e'!"
+	cont "Ha'DIbaH tlhab"
+	cont "SoH'a'?"
 	done
 
 _SSAnne1FRoomsGentleman2EndBattleText::
-	text "Humph!"
-	line "You rude child!"
+	text "va! puq"
+	line "Dochqu' SoHbej!"
 	prompt
 
 _SSAnne1FRoomsGentleman2AfterBattleText::
-	text "I wish to be left"
-	line "alone! Get out!"
+	text "jImobtaH vIneH!"
+	line "jIHvo' yIghoS!"
 	done
 
 _SSAnne1FRoomsYoungsterBattleText::
-	text "I love #MON!"
-	line "Do you?"
+	text "#<m><a><n> vIQej!"
+	line "bIrap'a'?"
 	done
 
 _SSAnne1FRoomsYoungsterEndBattleText::
-	text "Wow! "
-	line "You're great!"
+	text "maj!"
+	line "bIDun!"
 	prompt
 
 _SSAnne1FRoomsYoungsterAfterBattleText::
-	text "Let me be your"
-	line "friend, OK?"
+	text "juplI' jIH 'e'"
+	line "yIchaw'! laj'a'?"
 
-	para "Then we can trade"
-	line "#MON!"
+	para "ghIq #<m><a><n>mey"
+	line "DImechlaH!"
 	done
 
 _SSAnne1FRoomsCooltrainerFBattleText::
-	text "I collected these"
-	line "#MON from all"
-	cont "around the world!"
+	text "Sepmey Hopqu'Daq"
+	line "#<m><a><n>wIj vIjon!"
 	done
 
 _SSAnne1FRoomsCooltrainerFEndBattleText::
-	text "Oh no!"
-	line "I went around the"
-	cont "world for these!"
+	text "qItbe'!"
+	line "vISuqmeH qo'"
+	cont "naQ vIchIq!"
 	prompt
 
 _SSAnne1FRoomsCooltrainerFAfterBattleText::
-	text "You hurt my poor"
-	line "worldly #MON!"
+	text "#<m><a><n>wIj Hen"
+	line "DarIQmoHpu'!"
 
-	para "I demand that you"
-	line "heal them at a"
-	cont "#MON CENTER!"
+	para "#<r><o><p><y><a><H>Daq"
+	line "Daqem SoH 'e'"
+	cont "vIpoQ!"
 	done
 
 _SSAnne1FRoomsGirl1Text::
-	text "Waiter, I would"
-	line "like a cherry pie"
-	cont "please!"
+	text "jabwI'! tapqej"
+	line "chab HIqem!"
 	done
 
 _SSAnne1FRoomsMiddleAgedManText::
-	text "A cruise is so"
-	line "elegant yet cozy!"
+	text "Hoy lengvam 'ej"
+	line "muchurHa'moH!"
 	done
 
 _SSAnne1FRoomsLittleGirlText::
-	text "I always travel"
-	line "with WIGGLYTUFF!"
+	text "jIlengtaHvIS reH"
+	line "mutlhej <v><o><v><o><n><g>!"
 	done
 
 _SSAnne1FRoomsGirl2Text::
-	text "We are cruising"
-	line "around the world."
+	text "qo' naQ wIchIqmeH"
+	line "maqughtaH."
 	done
 
 _SSAnne1FRoomsGentleman3Text::
-	text "Ssh! I'm a GLOBAL"
-	line "POLICE agent!"
+	text "yItam! qo' ghanIq"
+	line "yaS jIH!"
 
-	para "I'm on the trail"
-	line "of TEAM ROCKET!"
+	para "<p><e><n><g><D><u><j> ghom mIgh"
+	line "vItlha'taH!"
 	done
