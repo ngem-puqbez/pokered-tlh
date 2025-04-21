@@ -1,27 +1,26 @@
 _SafariZoneNorthRestHouseScientistText::
-	text "You can keep any"
-	line "item you find on"
-	cont "the ground here."
+	text "yavDaq luchmey"
+	line "DaSamchugh"
+	cont "DatlhaplaH."
 
-	para "But, you'll run"
-	line "out of time if"
-	cont "you try for all"
-	cont "of them at once!"
+	para "'ach Hoch DaboS"
+	line "'e' DanIDchugh"
+	cont "Hoch poHlIj "
+	cont "Danatlhbej!"
 	done
 
 _SafariZoneNorthRestHouseSafariZoneWorkerText::
-	text "Go to the deepest"
-	line "part of the"
-	cont "SAFARI ZONE. You"
-	cont "will win a prize!"
+	text "<c><h><o><n> <y><o><t><l><h> 'ay'"
+	line "Hopqu' DaSuchDI'"
+	cont "tev DaHev!"
 	done
 
 _SafariZoneNorthRestHouseGentlemanText::
-	text "My EEVEE evolved"
-	line "into FLAREON!"
+	text "ghe'DI' <c><h><o><H><o><c><h>wIj"
+	line "<m><u><t><t><u><j> moj!"
 
-	para "But, a friend's"
-	line "EEVEE turned into"
-	cont "a VAPOREON!"
-	cont "I wonder why?"
+	para "'ach ghe'DI'"
+	line "jupwI' <c><h><o><H><o><c><h>"
+	cont "<m><u><t><y><I><Q> moj!"
+	cont "meq vISIv..."
 	done
