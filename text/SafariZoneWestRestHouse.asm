@@ -1,19 +1,19 @@
 _SafariZoneWestRestHouseScientistText::
-	text "Tossing ROCKs at"
-	line "#MON might"
-	cont "make them run,"
-	cont "but they'll be"
-	cont "easier to catch."
+	text "#<m><a><n>Daq naghmey"
+	line "Davo'chugh chaq"
+	cont "DaHeDmoH 'a"
+	cont "HeDbe'chugh"
+	cont "ghaytan DajjonlaH."
 	done
 
 _SafariZoneWestRestHouseCooltrainerMText::
-	text "Using BAIT will"
-	line "make #MON"
-	cont "easier to catch."
+	text "#<m><a><n> DajonmeH"
+	line "rut ngelwI' "
+	cont "Dalo'nIS."
 	done
 
 _SafariZoneWestRestHouseSilphWorkerFText::
-	text "I hiked a lot, but"
-	line "I didn't see any"
-	cont "#MON I wanted."
+	text "jIyItqu' 'a Do'Ha'"
+	line "#<m><a><n> vIneHbogh"
+	cont "vISamta'be'."
 	done
