@@ -1,239 +1,235 @@
 _SaffronGymSabrinaText::
-	text "I had a vision of"
-	line "your arrival!"
+	text "bIpaw wejHa' 'e'"
+	line "vIleghta'!"
+	cont"tuch vIrIt!"
 
-	para "I have had psychic"
-	line "powers since I"
-	cont "was a child."
+	para "naH jajmey"
+	line "'erwI'Daq"
+	cont "vIlo'choHlaH."
 
-	para "I first learned"
-	line "to bend spoons"
-	cont "with my mind."
+	para "HojnIy vImojpa'"
+	line "baghneQmey"
+	cont "SIHmoHlaH yabwIj."
 
-	para "I dislike fight-"
-	line "ing, but if you"
-	cont "wish, I will show"
-	cont "you my powers!"
+	para "jISuv 'e' vIpar"
+	line "'ach DaneHchugh"
+	cont "laHmey ngar"
+	cont "qa'aghqang!"
 	done
 
 _SaffronGymSabrinaReceivedMarshBadgeText::
-	text "I'm"
-	line "shocked!"
-	cont "But, a loss is a"
-	cont "loss."
+	text "jI..."
+	line "mer!"
+	cont "'a lujchugh luj."
 
-	para "I admit I didn't"
-	line "work hard enough"
-	cont "to win!"
+	para "nargh QapmeH 'eb"
+	line "vIbajqu'be'mo'!"
 
-	para "You earned the"
-	line "MARSHBADGE!@"
+	para "<q><o><l><'><o><m><D><e><g><h>"
+	line "qanob!@"
 	text_end
 
 _SaffronGymSabrinaPostBattleAdviceText::
-	text "Everyone has"
-	line "psychic power!"
-	cont "People just don't"
-	cont "realize it!"
+	text "relleghDaq"
+	line "lo'laH Hoch!"
+	cont "ngoDvam tlhojbe'"
+	cont "nov law'!"
 	done
 
 _SaffronGymSabrinaMarshBadgeInfoText::
-	text "The MARSHBADGE"
-	line "makes #MON up"
-	cont "to L70 obey you!"
+	text "<q><o><l><'><o><m><D><e><g><h>"
+	line "DaghajDI' lobbej"
+	cont "#<m><a><n>mey "
+	cont "'aqroS p70!"
 
-	para "Stronger #MON"
-	line "will become wild,"
-	cont "ignoring your"
-	cont "orders in battle!"
+	para "tlhoy HoSchoHchugh"
+	line "#<m><a><n> nov"
+	cont "DaSuqbogh"
+	cont "pIj DulobHa'!"
 
-	para "Just don't raise"
-	line "your #MON too"
-	cont "much!"
+	para "vaj tlhoy"
+	line "#<m><a><n>lIj"
+	cont "tIHoSmoHQo'!"
 
-	para "Wait, please take"
-	line "this TM with you!"
+	para "yIloS, <t><j>vam "
+	line "yItlhap je!"
 	done
 
 _SaffronGymSabrinaReceivedTM46Text::
-	text "<PLAYER> received"
-	line "TM46!@"
+	text "<t><j>46 Suq"
+	line "<PLAYER>!@"
 	text_end
 
 _TM46ExplanationText::
 	text_start
 
-	para "TM46 is PSYWAVE!"
-	line "It uses powerful"
-	cont "psychic waves to"
-	cont "inflict damage!"
+	para "<y><a><b> <y><u><'><e><g><h> ngaS!"
+	line "jagh QIHmeH"
+	cont "relleghDaq yu'egh"
+	cont "HoS lIng yab!"
 	done
 
 _SaffronGymSabrinaTM46NoRoomText::
-	text "Your pack is full"
-	line "of other items!"
+	text "buqlIj buy'moH"
+	line "latlh luch!"
 	done
 
 _SaffronGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "toH! charghwI'"
+	line "mojlaHbogh puq!"
 
-	para "SABRINA's #MON"
-	line "use psychic power"
-	cont "instead of force!"
+	para "relleghDaq HoS"
+	line "lo' <r><I><l><'><e><g><h>"
+	cont "#<m><a><n>mey;"
+	cont "Somraw' 'e' qa'."
 
-	para "Fighting #MON"
-	line "are weak against"
-	cont "psychic #MON!"
+	para "yab tonSaw'"
+	line "'oH vaj #<m><a><n>"
+	cont "puj'e'!"
 
-	para "They get creamed"
-	line "before they can"
-	cont "even aim a punch!"
+	para "rochaj QeqmoHpa'"
+	line "wejHa' lujpu'!"
 	done
 
 _SaffronGymGuideBeatSabrinaText::
-	text "Psychic power,"
-	line "huh?"
+	text "relleghDaq"
+	line "Dalo'laH'a'?"
 
-	para "If I had that,"
-	line "I'd make a bundle"
-	cont "at the slots!"
+	para "vIlo'laHchugh"
+	line "jISuDtaHvIS pIj"
+	cont "jIQaplaH!"
 	done
 
 _SaffronGymChanneler1BattleText::
-	text "SABRINA is younger"
-	line "than I, but I"
-	cont "respect her!"
+	text "<r><I><l><'><e><g><h> Qup law'"
+	line "jIH Qup puS 'ach"
+	cont "vIvuvqu'!"
 	done
 
 _SaffronGymChanneler1EndBattleText::
-	text "Not"
-	line "good enough!"
+	text "Qo'."
+	line "jIyapbe'!"
 	prompt
 
 _SaffronGymChanneler1AfterBattleText::
-	text "In a battle of"
-	line "equals, the one"
-	cont "with the stronger"
-	cont "will wins!"
+	text "rapchugh cha' HoS"
+	line "may'chaj Qap"
+	cont "vawwI' nIv!"
 
-	para "If you wish"
-	line "to beat SABRINA,"
-	cont "focus on winning!"
+	para "<r><I><l><'><e><g><h> Dajey"
+	line "'e' DaHechchugh"
+	cont "yay DabuSnIS!"
 	done
 
 _SaffronGymYoungster1BattleText::
-	text "Does our unseen"
-	line "power scare you?"
+	text "DughIj'a' HoSmaj"
+	line "leghbe'lu'bogh?"
 	done
 
 _SaffronGymYoungster1EndBattleText::
-	text "I never"
-	line "foresaw this!"
+	text "not"
+	line "gher'IDvam vI'aq!"
 	prompt
 
 _SaffronGymYoungster1AfterBattleText::
-	text "Psychic #MON"
-	line "fear only ghosts"
-	cont "and bugs!"
+	text "yab chIwbogh"
+	line "#<m><a><n> ghIj qa'"
+	cont "ghew je neH!"
 	done
 
 _SaffronGymChanneler2BattleText::
-	text "#MON take on"
-	line "the appearance of"
-	cont "their trainers."
+	text "chojwI'chaj rurchoH"
+	line "#<m><a><n>mey."
 
-	para "Your #MON must"
-	line "be tough, then!"
+	para "vaj rotlhlaw'"
+	line "#<m><a><n>lIj!"
 	done
 
 _SaffronGymChanneler2EndBattleText::
-	text "I knew"
-	line "it!"
+	text "qaS"
+	line "'e' vISov!"
 	prompt
 
 _SaffronGymChanneler2AfterBattleText::
-	text "I must teach"
-	line "better techniques"
-	cont "to my #MON!"
+	text "#<m><a><n>wIjvaD "
+	line "tonSaw'mey nIv "
+	cont "vIghojmoHnISlaw'!"
 	done
 
 _SaffronGymYoungster2BattleText::
-	text "You know that"
-	line "power alone isn't"
-	cont "enough!"
+	text "yapbe' HoS neH"
+	line "'e' DaSov!"
 	done
 
 _SaffronGymYoungster2EndBattleText::
-	text "I don't"
-	line "believe this!"
+	text "'oH"
+	line "vIHarlaHbe'!"
 	prompt
 
 _SaffronGymYoungster2AfterBattleText::
-	text "SABRINA just wiped"
-	line "out the KARATE"
-	cont "MASTER next door!"
+	text "qen moQbara'"
+	line "pIn'a' jeychu'"
+	cont "<r><I><l><'><e><g><h>!"
 	done
 
 _SaffronGymChanneler3BattleText::
-	text "You and I, our"
-	line "#MON shall"
-	cont "fight!"
+	text "SoH'e' jIH'e' je,"
+	line "Suvchuqjaj"
+	cont "#<m><a><n>meymaj!"
 	done
 
 _SaffronGymChanneler3EndBattleText::
-	text "I lost"
-	line "after all!"
+	text " "
+	line "vabDot jIluj!"
 	prompt
 
 _SaffronGymChanneler3AfterBattleText::
-	text "I knew that this"
-	line "was going to take"
-	cont "place."
+	text "wejHa' wanI'vam"
+	line "vIleghpu'."
 	done
 
 _SaffronGymYoungster3BattleText::
-	text "SABRINA is young,"
-	line "but she's also"
-	cont "our LEADER!"
+	text "Qup <r><I><l><'><e><g><h>"
+	line "vabDot qaDpInmaj"
+	cont "ghaH!"
 
-	para "You won't reach"
-	line "her easily!"
+	para "DaSIch 'e' 'oH"
+	line "Qu' ngeDbe''e'!"
 	done
 
 _SaffronGymYoungster3EndBattleText::
-	text "I lost"
-	line "my concentration!"
+	text "jIbuS"
+	line "'e' chomevmoH!"
 	prompt
 
 _SaffronGymYoungster3AfterBattleText::
-	text "There used to be"
-	line "2 #MON GYMs in"
-	cont "SAFFRON."
+	text "'op ret <n><a><'><r><a><n><y><u><b>"
+	line "<v><e><n><g>Daq cha'"
+	cont "qaDqach tu'lu'."
 
-	para "The FIGHTING DOJO"
-	line "next door lost"
-	cont "its GYM status"
-	cont "when we went and"
-	cont "creamed them!"
+	para "'ach chaH DIqaD"
+	line "qaDqachmaj 'ej"
+	cont "DIjeychu' vaj"
+	cont "chapHa'choH 'ej"
+	cont "<m><a><y><'> <'><a><m><p><a><S> moj!"
 	done
 
 _SaffronGymYoungster4BattleText::
-	text "SAFFRON #MON"
-	line "GYM is famous for"
-	cont "its psychics!"
+	text "relleghDaq lo'wI'"
+	line "po'mo' noy "
+	cont "<n><a><'><r><a><n><y><u><b> <v><e><n><g>!"
 
-	para "You want to see"
-	line "SABRINA!"
-	cont "I can tell!"
+	para "<r><I><l><'><e><g><h> DaqIH"
+	line "DaneH!"
+	cont "vISovlaH!"
 	done
 
 _SaffronGymYoungster4EndBattleText::
-	text "Arrrgh!"
+	text "va!"
 	prompt
 
 _SaffronGymYoungster4AfterBattleText::
-	text "That's right! I"
-	line "used telepathy to"
-	cont "read your mind!"
+	text "bIlugh! yablIj"
+	line "vIlaDmeH"
+	cont "'erwI'Daq vIlo'!"
 	done
