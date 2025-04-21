@@ -1,18 +1,17 @@
 _PewterGymBrockPreBattleText::
-	text "I'm BROCK!"
-	line "I'm PEWTER's GYM"
-	cont "LEADER!"
+	text "<r><o><t><l><h><I><l> 'oH"
+	line "pongwIj'e'!"
+	cont "<H><o><t><n><a><g><h> <v><e><n><g>"
+	cont "qaDpIn jIH!"
 
-	para "I believe in rock"
-	line "hard defense and"
-	cont "determination!"
+	para "nagh rurbogh"
+	line "Hub'e' Sub vIvoq!"
 
-	para "That's why my"
-	line "#MON are all"
-	cont "the rock-type!"
+	para "vaj nagh buv"
+	line "chIw #<m><a><n>wIj"
+	cont "Hoch!"
 
-	para "Do you still want"
-	line "to challenge me?"
-	cont "Fine then! Show"
-	cont "me your best!"
+	para "qaSuv DaneH'a'?"
+	line "maj! jIHvaD"
+	cont "HoSlIj yI'agh!"
 	done
