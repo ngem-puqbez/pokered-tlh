@@ -1,22 +1,21 @@
 _CeladonChiefHouseChiefText::
-	text "Hehehe! The slots"
-	line "just reel in the"
-	cont "dough, big time!"
+	text "HghHgh! Huch"
+	line "law' Suq SuD jan"
+	cont "jay'!"
 	done
 
 _CeladonChiefHouseRocketText::
-	text "CHIEF!"
+	text "<p><I><n>!"
 
-	para "We just shipped"
-	line "2000 #MON as"
-	cont "slot prizes!"
+	para "cha' SaD tev"
+	line "wIHIjta'."
+	cont "#<m><a><n> bIH!"
 	done
 
 _CeladonChiefHouseSailorText::
-	text "Don't touch the"
-	line "poster at the"
-	cont "GAME CORNER!"
+	text "<S><u><D><m><e><H> <q><a><c><h>Daq"
+	line "tlhIm yIHotQo'!"
 
-	para "There's no secret"
-	line "switch behind it!"
+	para "'oH 'emDaq"
+	line "pegh tu'lu'be'!"
 	done
