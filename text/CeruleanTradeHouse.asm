@@ -1,9 +1,8 @@
 _CeruleanTradeHouseGrannyText::
-	text "My husband likes"
-	line "trading #MON."
+	text "#<m><a><n> mechtaH"
+	line "'e' tIv loDnalwI'."
 
-	para "If you are a"
-	line "collector, would"
-	cont "you please trade"
-	cont "with him?"
+	para "bIboStaHchugh"
+	line "Sumech SoH ghaH"
+	cont "je 'e' yIqel!"
 	done
