@@ -1,21 +1,21 @@
 _CeladonHotelGrannyText::
-	text "#MON? No, this"
-	line "is a hotel for"
-	cont "people."
+	text "#<m><a><n>? ghobe'!"
+	line "mebpa'vam Dab"
+	cont "ghotpu'."
 
-	para "We're full up."
+	para "wejHa' mabuy'."
 	done
 
 _CeladonHotelBeautyText::
-	text "I'm on vacation"
-	line "with my brother"
-	cont "and boy friend."
+	text "maghIQtaH jIH"
+	line "parmaqqaywI'"
+	cont "loDnI'wI' je."
 
-	para "CELADON is such a"
-	line "pretty city!"
+	para "veng 'IHqu' 'oH"
+	line "ngopwagh, qar'a'?"
 	done
 
 _CeladonHotelSuperNerdText::
-	text "Why did she bring"
-	line "her brother?"
+	text "chay' loDnI'Daj"
+	line "rItnIS ghaH?"
 	done
