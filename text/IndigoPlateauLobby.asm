@@ -1,25 +1,26 @@
 _IndigoPlateauLobbyGymGuideText::
-	text "Yo! Champ in"
-	line "making!"
+	text "maj! charghwI'"
+	line "mojlaHbogh puq!"
 
-	para "At #MON LEAGUE,"
-	line "you have to face"
-	cont "the ELITE FOUR in"
-	cont "succession."
+	para "#<m><a><n> 'obe'Daq"
+	line "<l><o><S> <n><I><v><w><I><'><p><u><'>"
+	cont "Hoch Dajey 'e'"
+	cont "DanIDnIS."
 
-	para "If you lose, you"
-	line "have to start all"
-	cont "over again! This"
-	cont "is it! Go for it!"
+	para "bIlujchugh qaD"
+	line "DataghnISqa'."
+	cont "qaDlIj Qav 'oH!"
+	cont "batlh yIqaD!"
 	done
 
 _IndigoPlateauLobbyCooltrainerFText::
-	text "From here on, you"
-	line "face the ELITE"
-	cont "FOUR one by one!"
+	text "naDevvo' <l><o><S>"
+	line "<n><I><v><w><I><'> DaSuvlaH."
 
-	para "If you win, a"
-	line "door opens to the"
-	cont "next trainer!"
-	cont "Good luck!"
+	para "wa' DajeyDI'"
+	line "poSchoH lojmIt,"
+	cont "'ej vebwI'"
+	cont "DaqaDchoHlaH."
+
+	para "povjaj!"
 	done
