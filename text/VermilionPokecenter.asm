@@ -1,19 +1,17 @@
 _VermilionPokecenterFishingGuruText::
-	text "Even if they are"
-	line "the same level,"
-	cont "#MON can have"
-	cont "very different"
-	cont "abilities."
+	text "Suvlu'taHvIS"
+	line "yapbe' patlh neH!"
+	cont "laHmey pIm"
+	cont "ghaj #<m><a><n> rap!"
 
-	para "A #MON raised"
-	line "by a trainer is"
-	cont "stronger than one"
-	cont "in the wild."
+	para "ghaytan chojwI'"
+	line "#<m><a><n> HoS law'"
+	cont "#<m><a><n> tlhab HoS"
+	cont "puS."
 	done
 
 _VermilionPokecenterSailorText::
-	text "My #MON was"
-	line "poisoned! It"
-	cont "fainted while we"
-	cont "were walking!"
+	text "#<m><a><n>wIj ngejpu'"
+	line "tar! mayIttaHvIS"
+	cont "pay' vulchoH!"
 	done
