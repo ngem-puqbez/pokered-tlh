@@ -1,173 +1,176 @@
 _OaksLabRivalGrampsIsntAroundText::
-	text "<RIVAL>: Yo"
-	line "<PLAYER>! Gramps"
-	cont "isn't around!"
+	text "<RIVAL>: toH,"
+	line "<PLAYER>! DaH"
+	cont "naDev ghaHbe'"
+	cont "qanwI'."
 	done
 
 _OaksLabRivalGoAheadAndChooseText::
-	text "<RIVAL>: Heh, I"
-	line "don't need to be"
-	cont "greedy like you!"
+	text "<RIVAL>: nuqneH?"
+	line "jIqurbe'."
+	cont "bI'reS bIwIv 'e'"
+	cont "vIchaw'."
 
-	para "Go ahead and"
-	line "choose, <PLAYER>!"
+	para "ghIq jIwIv."
+	line "tugh, <PLAYER>!"
 	done
 
 _OaksLabRivalMyPokemonLooksStrongerText::
-	text "<RIVAL>: My"
-	line "#MON looks a"
-	cont "lot stronger."
+	text "<RIVAL>: #<m><a><n>"
+	line "vISuqpu'bogh HoS"
+	cont "law' #<m><a><n>lIj"
+	cont "HoS puS. teH 'e'"
+	cont "vISov."
 	done
 
 _OaksLabThoseArePokeBallsText::
-	text "Those are #"
-	line "BALLs. They"
-	cont "contain #MON!"
+	text "#<m><o><Q> bIH"
+	line "Dochmeyvam."
+	cont "#<m><a><n> ngaS!"
 	done
 
 _OaksLabYouWantCharmanderText::
-	text "So! You want the"
-	line "fire #MON,"
-	cont "CHARMANDER?"
+	text "qul #<m><a><n>"
+	line "ngaS <m><o><Q>vam."
+	cont "<m><e><Q><u><p> DaneH'a'?"
 	done
 
 _OaksLabYouWantSquirtleText::
-	text "So! You want the"
-	line "water #MON,"
-	cont "SQUIRTLE?"
+	text "bIQ #<m><a><n>"
+	line "ngaS <m><o><Q>vam."
+	cont "<l><a><'><g><h><I><t> DaneH'a'?"
 	done
 
 _OaksLabYouWantBulbasaurText::
-	text "So! You want the"
-	line "plant #MON,"
-	cont "BULBASAUR?"
+	text "magh #<m><a><n>"
+	line "ngaS <m><o><Q>vam."
+	cont "<g><h><u><b><l><u><n><g> DaneH'a'?"
 	done
 
 _OaksLabMonEnergeticText::
-	text "This #MON is"
-	line "really energetic!"
+	text "Seyqu'ba' 'ej ghan"
+	line "#<m><a><n>vam!"
 	prompt
 
 _OaksLabReceivedMonText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> muvpu'"
+	line "@"
 	text_ram wNameBuffer
 	text "!@"
 	text_end
 
 _OaksLabLastMonText::
-	text "That's PROF.OAK's"
-	line "last #MON!"
+	text "#<m><a><n>vam neH"
+	line "ghaj <'><o><Q> 'a'ghen!"
 	done
 
 _OaksLabOak1WhichPokemonDoYouWantText::
-	text "OAK: Now, <PLAYER>,"
-	line "which #MON do"
-	cont "you want?"
+	text "<'><o><Q>: DaH, <PLAYER>,"
+	line "#<m><a><n>lIj"
+	cont "wa'DIch yIwIv!"
 	done
 
 _OaksLabOak1YourPokemonCanFightText::
-	text "OAK: If a wild"
-	line "#MON appears,"
-	cont "your #MON can"
-	cont "fight against it!"
+	text "<'><o><Q>: HIvchugh"
+	line "#<m><a><n> tlhab"
+	cont "Suv #<m><a><n>lIj"
+	cont "'ej DuQan!"
 	done
 
 _OaksLabOak1RaiseYourYoungPokemonText::
-	text "OAK: <PLAYER>,"
-	line "raise your young"
-	cont "#MON by making"
-	cont "it fight!"
+	text "<'><o><Q>: <PLAYER>,"
+	line "#<m><a><n>lIj Qup"
+	cont "HoSchoHmoHmeH Suv"
+	cont "'e' yIchaw'!"
 	done
 
 _OaksLabOak1DeliverParcelText::
-	text "OAK: Oh, <PLAYER>!"
+	text "<'><o><Q>: toH, <PLAYER>!"
 
-	para "How is my old"
-	line "#MON?"
+	para "#<m><a><n>wIj Deq"
+	line "Dotlh HIDel."
 
-	para "Well, it seems to"
-	line "like you a lot."
+	para "maj!"
+	line "DuparHa'qu'ba'."
 
-	para "You must be"
-	line "talented as a"
-	cont "#MON trainer!"
+	para "#<m><a><n> qeqwI'"
+	line "po' DamojlaH."
+	cont "qavoqmo' jIlugh!"
 
-	para "What? You have"
-	line "something for me?"
+	para "toH! jIHvaD Doch"
+	line "DaqengtaH'a'?"
 
-	para "<PLAYER> delivered"
-	line "OAK's PARCEL.@"
+	para "<'><o><Q> <t><e><p>"
+	line "HIjta' <PLAYER>.@"
 	text_end
 
 _OaksLabOak1ParcelThanksText::
 	text_start
-	para "Ah! This is the"
-	line "custom # BALL"
-	cont "I ordered!"
-	cont "Thank you!"
+	para "maj! #<m><o><Q> SIr"
+	line "vIvunpu'bogh 'oH!"
+	cont "maj!"
+	cont "paw 'e' vIloS!"
 	done
 
 _OaksLabOak1PokemonAroundTheWorldText::
-	text "#MON around the"
-	line "world wait for"
-	cont "you, <PLAYER>!"
+	text "DaH Dat nIloStaH"
+	line "#<m><a><n>mey!"
+	cont "yIve', <PLAYER>!"
 	done
 
 _OaksLabOak1ReceivedPokeballsText::
-	text "OAK: You can't get"
-	line "detailed data on"
-	cont "#MON by just"
-	cont "seeing them."
+	text "<'><o><Q>: #<m><a><n> mut"
+	line "Daleghchugh neH"
+	cont "vaj De' pup"
+	cont "DaqonlaHbe'."
 
-	para "You must catch"
-	line "them! Use these"
-	cont "to capture wild"
-	cont "#MON."
+	para "bIH DajonnIS!"
+	line "#<m><a><n> tlhab"
+	cont "DajonmeH "
+	cont "#<m><o><Q> yIlo'.."
 
-	para "<PLAYER> got 5"
-	line "# BALLs!@"
+	para "5 #<m><o><Q> Suq"
+	line "<PLAYER>!"
 	text_end
 
 _OaksLabGivePokeballsExplanationText::
 	text_start
-	para "When a wild"
-	line "#MON appears,"
-	cont "it's fair game."
+	para "narghDI' #<m><a><n>"
+	line "tlhab jonmeH"
+	cont "'eb nargh je."
 
-	para "Just throw a #"
-	line "BALL at it and try"
-	line "to catch it!"
+	para "Dajon 'e' DanIDmeH"
+	line "#<m><o><Q> DajaD"
+	cont "neH!"
 
-	para "This won't always"
-	line "work, though."
+	para "vabDot DajaD neH"
+	line "rut 'e' Qapbe'."
 
-	para "A healthy #MON"
-	line "could escape. You"
-	cont "have to be lucky!"
+	para "narghlaH #<m><a><n>"
+	line "pIv."
+	cont "bIDo'nIS!"
 	done
 
 _OaksLabOak1ComeSeeMeSometimesText::
-	text "OAK: Come see me"
-	line "sometimes."
+	text "<'><o><Q>: naDev roD"
+	line "HISuch."
 
-	para "I want to know how"
-	line "your #DEX is"
-	cont "coming along."
+	para "#<t><a><m><e><y> Ser"
+	line "vIbejchoH vIneH."
 	done
 
 _OaksLabOak1HowIsYourPokedexComingText::
-	text "OAK: Good to see "
-	line "you! How is your "
-	cont "#DEX coming? "
-	cont "Here, let me take"
-	cont "a look!"
+	text "<'><o><Q>: choSuchmo'"
+	line "jIQuch! #<t><a><m><e><y>"
+	cont "DatlhetlhtaH'a'?"
+	cont "vIlegh vIneH."
+	cont "HI'ang!"
 	prompt
 
 _OaksLabPokedexText::
-	text "It's encyclopedia-"
-	line "like, but the"
-	cont "pages are blank!"
+	text "ghojmoHmeH paq"
+	line "rur Dochvam, 'a"
+	cont "De' Hutlhchu'!"
 	done
 
 _OaksLabOak2Text::
@@ -175,190 +178,194 @@ _OaksLabOak2Text::
 	done
 
 _OaksLabGirlText::
-	text "PROF.OAK is the"
-	line "authority on"
-	cont "#MON!"
+	text "#<m><a><n> po'wI'"
+	line "ghaH <'><o><Q> 'a'ghen!"
+	cont "wIgh ghaH!"
 
-	para "Many #MON"
-	line "trainers hold him"
-	cont "in high regard!"
+	para "ghaHvaD po'wI'"
+	line "nIv Dam chojwI'"
+	cont "law'!"
 	done
 
 _OaksLabRivalFedUpWithWaitingText::
-	text "<RIVAL>: Gramps!"
-	line "I'm fed up with"
-	cont "waiting!"
+	text "<RIVAL>: qanwI'!"
+	line "jIloStaH 'e'"
+	cont "vImev vIneH!"
 	done
 
 _OaksLabOakChooseMonText::
-	text "OAK: <RIVAL>?"
-	line "Let me think..."
+	text "<'><o><Q>: <RIVAL>?"
+	line "jIQubnIS..."
 
-	para "Oh, that's right,"
-	line "I told you to"
-	cont "come! Just wait!"
+	para "toH, jIqaw."
+	line "naDev bISaH 'e'"
+	cont "qara'. yIloS!"
 
-	para "Here, <PLAYER>!"
+	para "yIqIm, <PLAYER>!"
 
-	para "There are 3"
-	line "#MON here!"
+	para "raSDaq wej"
+	line "#<m><a><n> tu'lu'!"
 
-	para "Haha!"
+	para "HaHagh!"
 
-	para "They are inside"
-	line "the # BALLs."
+	para "#<m><o><Q>meyvamDaq"
+	line "bIH tu'lu'."
 
-	para "When I was young,"
-	line "I was a serious"
-	cont "#MON trainer!"
+	para "jIQuptaHvIS"
+	line "#<m><a><n> chojwI'"
+	cont "Sagh jIH!"
 
-	para "In my old age, I"
-	line "have only 3 left,"
-	cont "but you can have"
-	cont "one! Choose!"
+	para "DaH jIqan 'ej"
+	line "wej #<m><a><n> neH"
+	cont "vIghaj. wa' qanob"
+	cont "vIneH. yIwIv!"
 	done
 
+
 _OaksLabRivalWhatAboutMeText::
-	text "<RIVAL>: Hey!"
-	line "Gramps! What"
-	cont "about me?"
+	text "<RIVAL>: toH!"
+	line "qanwI'! jIH"
+	cont "cholIjqa''a'?"
 	done
 
 _OaksLabOakBePatientText::
-	text "OAK: Be patient!"
-	line "<RIVAL>, you can"
-	cont "have one too!"
+	text "<'><o><Q>: yItuv!"
+	line "<RIVAL>, wa'"
+	cont "DawIv vIneH je!"
 	done
 
 _OaksLabOakDontGoAwayYetText::
-	text "OAK: Hey! Don't go"
-	line "away yet!"
+	text "<'><o><Q>: <PLAYER>!"
+	line "wej yItlheD!"
 	done
 
 _OaksLabRivalIllTakeThisOneText::
-	text "<RIVAL>: I'll take"
-	line "this one, then!"
+	text "<RIVAL>: vaj"
+	line "<m><o><Q>vam vIwIv!"
 	done
 
 _OaksLabRivalReceivedMonText::
-	text "<RIVAL> received"
-	line "a @"
+	text "@"
 	text_ram wNameBuffer
-	text "!@"
+	text " tlhap"
+	line "<RIVAL>!@"
 	text_end
 
 _OaksLabRivalIllTakeYouOnText::
-	text "<RIVAL>: Wait"
+	text "<RIVAL>: yIloS"
 	line "<PLAYER>!"
-	cont "Let's check out"
-	cont "our #MON!"
+	cont "#<m><a><n>maj"
+	cont "yIpatlhmoH!"
 
-	para "Come on, I'll take"
-	line "you on!"
+	para "DaH HISuv!"
+	line "jIlujbe'ba'!"
 	done
 
 _OaksLabRivalIPickedTheWrongPokemonText::
-	text "WHAT?"
-	line "Unbelievable!"
-	cont "I picked the"
-	cont "wrong #MON!"
+	text "chay?"
+	line "jIluj. maybe'!"
+	cont "#<m><a><n> waS"
+	cont "vIwIvba'!"
 	prompt
 
 _OaksLabRivalAmIGreatOrWhatText::
-	text "<RIVAL>: Yeah! Am"
-	line "I great or what?"
+	text "<RIVAL>: toH!"
+	line "jIDunba', qar'a'?"
 	prompt
 
 _OaksLabRivalSmellYouLaterText::
-	text "<RIVAL>: Okay!"
-	line "I'll make my"
-	cont "#MON fight to"
-	cont "toughen it up!"
+	text "<RIVAL>: toH!"
+	line "#<m><a><n>wIj"
+	cont "vIHoSchoHmoHmeH"
+	cont "vISuvmoH!"
 
-	para "<PLAYER>! Gramps!"
-	line "Smell you later!"
+	para "<PLAYER>! qanwI'!"
+	line "SIbI'Ha' Salargh!"
 	done
 
 _OaksLabRivalGrampsText::
-	text "<RIVAL>: Gramps!"
+	text "<RIVAL>: qanwI'!"
 	done
 
 _OaksLabRivalWhatDidYouCallMeForText::
-	text "<RIVAL>: What did"
-	line "you call me for?"
+	text "<RIVAL>: qatlh"
+	line "chorItqa'?"
 	done
 
 _OaksLabOakIHaveARequestText::
-	text "OAK: Oh right! I"
-	line "have a request"
-	cont "of you two."
+	text "<'><o><Q>: toH! tlhIH"
+	line "SatlhobnIS."
+	cont "tlhoqtlhal 'oH."
 	done
 
 _OaksLabOakMyInventionPokedexText::
-	text "On the desk there"
-	line "is my invention,"
-	cont "#DEX!"
+	text "raSDaq luch"
+	line "vI'oghbogh"
+	cont "Datu'laH."
+	cont "#<t><a><m><e><y> 'oH!"
 
-	para "It automatically"
-	line "records data on"
-	cont "#MON you've"
-	cont "seen or caught!"
+	para "#<m><a><n> chu'"
+	line "leghDI' pagh"
+	cont "jonDI' SIbI'"
+	cont "De' qon janvam!"
 
-	para "It's a hi-tech"
-	line "encyclopedia!"
+	para "ghojmoHmeH paq"
+	line "rur, 'ach vur!"
 	done
 
 _OaksLabOakGotPokedexText::
-	text "OAK: <PLAYER> and"
-	line "<RIVAL>! Take"
-	cont "these with you!"
+	text "<'><o><Q>: <PLAYER>"
+	line "<RIVAL> je!"
+	cont "bIH tItlhap!"
 
-	para "<PLAYER> got"
-	line "#DEX from OAK!@"
+	para "<PLAYER>vaD"
+	line "#<t><a><m><e><y> nob <'><o><Q>!@"
 	text_end
 
 _OaksLabOakThatWasMyDreamText::
-	text "To make a complete"
-	line "guide on all the"
-	cont "#MON in the"
-	cont "world..."
+	text "qo' Dabbogh"
+	line "Hoch #<m><a><n>mey"
+	cont "Delbogh DevmeH"
+	cont "paq vIgher..."
 
-	para "That was my dream!"
+	para "'e' 'oH"
+	line "ngoQwIj'e'!"
 
-	para "But, I'm too old!"
-	line "I can't do it!"
+	para "'ach tlhoy jIqan!"
+	line "DaH vIta'laHbe'!"
 
-	para "So, I want you two"
-	line "to fulfill my"
-	cont "dream for me!"
+	para "vaj ngoQwIj bota'"
+	line "vIneH; jIH 'e' "
+	cont "qa'! tuyaj'a'?"
 
-	para "Get moving, you"
-	line "two!"
+	para "DaH yIlengchoH."
+	line "SuloStaHbe'nIS!"
 
-	para "This is a great"
-	line "undertaking in"
-	cont "#MON history!"
+	para "reH Qu'vam qaw"
+	line "Hoch #<m><a><n>"
+	cont "Qulbogh tej'e'!"
 	done
 
 _OaksLabRivalLeaveItAllToMeText::
-	text "<RIVAL>: Alright"
-	line "Gramps! Leave it"
-	cont "all to me!"
+	text "<RIVAL>: jIlaj,"
+	line "qanwI'! jIH neH"
+	cont "HIwuv!"
 
-	para "<PLAYER>, I hate to"
-	line "say it, but I"
-	cont "don't need you!"
+	para "<PLAYER>! "
+	line "qapoQbe' 'e'"
+	cont "vIchID 'e' vImuS!"
 
-	para "I know! I'll"
-	line "borrow a TOWN MAP"
-	cont "from my sis!"
+	para "jISov! <p><u><'><j><I><n>"
+	line "vIpoQ. DaH bIH"
+	cont "ghaj be'nI'wI'!"
 
-	para "I'll tell her not"
-	line "to lend you one,"
-	cont "<PLAYER>! Hahaha!"
+	para "SoHvaD <p><u><'><j><I><n>"
+	line "nobQo' ghaH 'e'"
+	cont "vIra'! HaghaHagh!"
 	done
 
 _OaksLabScientistText::
-	text "I study #MON as"
-	line "PROF.OAK's AIDE."
+	text "<'><o><Q> 'a'ghen boQwI'"
+	line "jIH. matay'taHvIS"
+	cont "#<m><a><n> wIHaD."
 	done
