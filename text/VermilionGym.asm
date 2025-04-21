@@ -1,21 +1,21 @@
 _VermilionGymLTSurgePreBattleText::
-	text "Hey, kid! What do"
-	line "you think you're"
-	cont "doing here?"
+	text "toH, puq! naDev"
+	line "ta' DanIDtaHbogh"
+	cont "yIngu'!"
 
-	para "You won't live"
-	line "long in combat!"
-	cont "That's for sure!"
+	para "poH nI' may'"
+	line "DaSIQlaHbe'"
+	cont "'e' vInoH!"
 
-	para "I tell you kid,"
-	line "electric #MON"
-	cont "saved me during"
-	cont "the war!"
+	para "SoHvaD jIja',"
+	line "qaStaHvIS veS"
+	cont "mutoD 'ul"
+	cont "#<m><a><n>mey!"
 
-	para "They zapped my"
-	line "enemies into"
-	cont "paralysis!"
+	para "jaghwI'pu'"
+	line "roSHa'moHmeH"
+	cont "mup pe'bIlchaj!"
 
-	para "The same as I'll"
-	line "do to you!"
+	para "SoHvaD wanI' rap"
+	line "vIqaSmoH!"
 	done
