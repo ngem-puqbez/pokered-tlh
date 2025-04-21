@@ -1,28 +1,27 @@
 _CeladonMart5FGentlemanText::
-	text "#MON ability"
-	line "enhancers can be"
-	cont "bought only here."
+	text "laH rachwI' ngev"
+	line "ngevwI'vam neH."
 
-	para "Use CALCIUM to"
-	line "increase SPECIAL"
-	cont "abilities."
+	para "<b><o><q><H><a><r> laH"
+	line "rachmeH <'><a><p><r><a><Q>"
+	cont "yIlo'."
 
-	para "Use CARBOS to"
-	line "increase SPEED."
+	para "<D><o> laH rachmeH"
+	line "<S><u><'><g><h><a><r> yIje'."
 	done
 
 _CeladonMart5FSailorText::
-	text "I'm here for"
-	line "#MON ability"
-	cont "enhancers."
+	text "#<m><a><n>wIj laH"
+	line "vIrachmeH ngevwI'"
+	cont "vISuch."
 
-	para "PROTEIN increases"
-	line "ATTACK power."
+	para "<H><I><v> laH rach"
+	line "<m><a><H><n><a><D>."
 
-	para "IRON increases"
-	line "DEFENSE!"
+	para "<H><u><b> laH rach"
+	line "<'><u><S><q><a><n>!"
 	done
 
 _CeladonMart5FCurrentFloorSignText::
-	text "5F: DRUG STORE"
+	text "S5: 'enteD ngevwI'"
 	done
