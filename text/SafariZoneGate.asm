@@ -1,97 +1,93 @@
 _SafariZoneGateSafariZoneWorker1Text::
-	text "Welcome to the"
-	line "SAFARI ZONE!"
+	text "<c><h><o><n> <y><o><t><l><h>Daq"
+	line "bIpaw'pu'!"
 	done
 
 _SafariZoneGateSafariZoneWorker1WouldYouLikeToJoinText::
-	text "For just ¥500,"
-	line "you can catch all"
-	cont "the #MON you"
-	cont "want in the park!"
+	text "yotlhDaq jonmeH"
+	line "HoqlIj tlhIn"
+	cont "DaSIQlaH!"
+	cont "¥500 'oH DIlmeH"
+	cont "Huch'e'."
 
-	para "Would you like to"
-	line "join the hunt?@"
+	para "DaH chon Damuv"
+	line "DaneH'a'?@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1ThatllBe500PleaseText::
-	text "That'll be ¥500"
-	line "please!"
+	text "¥500 HInob!"
 
-	para "We only use a"
-	line "special # BALL"
-	cont "here."
+	para "naDev #<m><o><Q>"
+	line "Sar lI' lo'lu' net"
+	cont "chaw'."
 
-	para "<PLAYER> received"
-	line "30 SAFARI BALLs!@"
+	para "30 <c><h><o><n><m><o><Q> Suq"
+	line "<PLAYER>!@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1CallYouOnThePAText::
 	text_start
 
-	para "We'll call you on"
-	line "the PA when you"
-	cont "run out of time"
-	cont "or SAFARI BALLs!"
+	para "natlhDI' <m><o><Q>mey"
+	line "poHlIj ghap"
+	cont "pIcheghmoHmeH"
+	cont "rI'wI' pat wIlo'!"
 	done
 
 _SafariZoneGateSafariZoneWorker1PleaseComeAgainText::
-	text "OK! Please come"
-	line "again!"
+	text "maj! bIcheghjaj!"
 	done
 
 _SafariZoneGateSafariZoneWorker1NotEnoughMoneyText::
-	text "Oops! Not enough"
-	line "money!"
+	text "Do'Ha'! yapbe' Huch!"
 	done
 
 _SafariZoneGateSafariZoneWorker1LeavingEarlyText::
-	text "Leaving early?@"
+	text "'eqtaHvIS"
+	line "Damej'a'?@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1ReturnSafariBallsText::
-	text "Please return any"
-	line "SAFARI BALLs you"
-	cont "have left."
+	text "jIHvaD <c><h><o><n><m><o><Q>"
+	line "Dalo'pu'be'bogh"
+	cont "yInob."
 	done
 
 _SafariZoneGateSafariZoneWorker1GoodLuckText::
-	text "Good Luck!"
+	text "yIruch!"
 	done
 
 _SafariZoneGateSafariZoneWorker1GoodHaulComeAgainText::
-	text "Did you get a"
-	line "good haul?"
-	cont "Come again!"
+	text "bIDo''a'?"
+	line "SIbI'Ha' yIchegh!"
 	done
 
 _SafariZoneGateSafariZoneWorker2FirstTimeHereText::
-	text "Hi! Is it your"
-	line "first time here?"
+	text "naDev chon Hoq"
+	line "bISIQpu'be''a'?"
 	done
 
 _SafariZoneGateSafariZoneWorker2SafariZoneExplanationText::
-	text "SAFARI ZONE has 4"
-	line "zones in it."
+	text "loS 'ay'mey yugh"
+	line "<c><h><o><n> <y><o><t><l><h>."
 
-	para "Each zone has"
-	line "different kinds"
-	cont "of #MON. Use"
-	cont "SAFARI BALLs to"
-	cont "catch them!"
+	para "Hoch 'ay' Dab"
+	line "#<m><a><n> mut pIm."
+	cont "mujonmeH"
+	cont "<c><h><o><n><m><o><Q>mey yIlo'."
 
-	para "When you run out"
-	line "of time or SAFARI"
-	cont "BALLs, it's game"
-	cont "over for you!"
+	para "<c><h><o><n><m><o><Q>lIj poHlIj"
+	line "ghap Danatlhchugh"
+	cont "rIn HoqlIj!"
 
-	para "Before you go,"
-	line "open an unused"
-	cont "#MON BOX so"
-	cont "there's room for"
-	cont "new #MON!"
+	para "taghpa' De'wI' ta"
+	line "chIm DawIv 'e'"
+	cont "vIchup. buy'bogh"
+	cont "ta Dalo'chugh"
+	cont "pagh DajonlaH!"
 	done
 
 _SafariZoneGateSafariZoneWorker2YoureARegularHereText::
-	text "Sorry, you're a"
-	line "regular here!"
+	text "toH, pIj naDev"
+	line "qaleghpu'!"
 	done
