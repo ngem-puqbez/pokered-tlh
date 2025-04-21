@@ -1,21 +1,19 @@
 _SSAnne1FWaiterText::
-	text "Bonjour!"
-	line "I am le waiter on"
-	cont "this ship!"
+	text "Hello!"
+	line "DujvamDaq Hoch"
+	cont "raQpo' vItoy'!"
 
-	para "I will be happy"
-	line "to serve you any-"
-	cont "thing you please!"
+	para "vay' DapoQchugh"
+	line "HIja' 'ej vIpeS!"
 
-	para "Ah! Le strong"
-	line "silent type!"
+	para "toH! bItamlaw'mo'"
+	line "HoSlIj vIghov!"
 	done
 
 _SSAnne1FSailorText::
-	text "The passengers"
-	line "are restless!"
+	text "ngoj raQpo'!"
 
-	para "You might be"
-	line "challenged by the"
-	cont "more bored ones!"
+	para "#<m><a><n> may'"
+	line "DaneHchugh"
+	cont "Suvqang 'op!"
 	done
