@@ -1,5 +1,5 @@
 _CeladonMansion1FMeowthText::
-	text "<'><I><m><><y><a><g><h><o><g><h>: 'Imya!@"
+	text "<'><I><m><y><a><g><h><o><g><h>: 'Imya!@"
 	text_end
 
 _CeladonMansion1FGrannyText::
