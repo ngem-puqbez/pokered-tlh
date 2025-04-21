@@ -1,22 +1,21 @@
 _CeladonMart2FMiddleAgedManText::
-	text "SUPER REPEL keeps"
-	line "weak #MON at"
-	cont "bay..."
+	text "#<m><a><n> puj DoHmoH"
+	line "<D><o><H><m><o><H><w><I><'> <D><u><n>..."
 
-	para "Hmm, it's a more"
-	line "powerful REPEL!"
+	para "Hu'ma, 'ej nI'"
+	line "gher'IDDaj!"
 	done
 
 _CeladonMart2FGirlText::
-	text "For long outings,"
-	line "you should buy"
-	cont "REVIVE."
+	text "lengmey nI'"
+	line "Dataghpa'"
+	cont "<D><o><H><m><o><H><w><I><'> yIje'!"
 	done
 
 _CeladonMart2FCurrentFloorSignText::
-	text "Top Grade Items"
-	line "for Trainers!"
+	text "qeqwI'vaD luch"
+	line "pov DIngev!"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "S2: chojwI'"
+	line "    luchmey"
 	done
