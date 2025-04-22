@@ -1,37 +1,36 @@
 _CinnabarIslandDoorIsLockedText::
-	text "The door is"
-	line "locked..."
+	text "ngaQ lojmIt..."
 	done
 
 _CinnabarIslandGirlText::
-	text "CINNABAR GYM's"
-	line "BLAINE is an odd"
-	cont "man who has lived"
-	cont "here for decades."
+	text "<m><e><Q><u><l> ghaH <n><a><g><h><q><u><l>"
+	line "'ambay' qaDpIn'e'."
+	cont "loD taQ ghaH, 'ej"
+	cont "DIS law' naDev"
+	cont "Dab ghaH."
 	done
 
 _CinnabarIslandGamblerText::
-	text "Scientists conduct"
-	line "experiments in"
-	cont "the burned out"
-	cont "building."
+	text "pa'logh meQpu'bogh"
+	line "qachvetlh chImDaq"
+	cont "ngong tejpu."
 	done
 
 _CinnabarIslandSignText::
-	text "CINNABAR ISLAND"
-	line "The Fiery Town of"
-	cont "Burning Desire"
+	text "<n><a><g><h><q><u><l> 'ambay'"
+	line "meQ chabal vengHom"
+	cont "tuj"
 	done
 
 _CinnabarIslandPokemonLabSignText::
-	text "#MON LAB"
+	text "#<m><a><n> Qulpa' qach"
 	done
 
 _CinnabarIslandGymSignText::
-	text "CINNABAR ISLAND"
-	line "#MON GYM"
-	cont "LEADER: BLAINE"
+	text "<n><a><g><h><q><u><l> 'ambay'"
+	line "#<m><a><n> qaDqach"
+	cont "qaDpIn: <m><e><Q><u><l>"
 
-	para "The Hot-Headed"
-	line "Quiz Master!"
+	para "ngoDHom wIgh"
+	line "naSqu'!"
 	done
