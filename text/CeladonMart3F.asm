@@ -1,99 +1,93 @@
 _CeladonMart3FClerkTM18PreReceiveText::
-	text "Oh, hi! I finally"
-	line "finished #MON!"
+	text "neqneH? #<m><a><n>"
+	line "Quj vIrInmoHta'!"
 
-	para "Not done yet?"
-	line "This might be"
-	cont "useful!"
+	para "wej DarInmoH'a'?"
+	line "SoHvam lI'mo'"
+	cont "luchvam qanob!"
 	prompt
 
 _CeladonMart3FClerkReceivedTM18Text::
-	text "<PLAYER> received"
-	line "@"
-	text_ram wStringBuffer
-	text "!@"
-	text_end
+	text "<t><j>18 Suq"
+	line "<PLAYER>!"
 
 _CeladonMart3FClerkTM18ExplanationText::
-	text "TM18 is COUNTER!"
-	line "Not like the one"
-	cont "I'm leaning on,"
-	cont "mind you!"
+	text "<n><o><D> tonSaw' ngaS"
+	line "tj18! QIH SIQbogh"
+	cont "nobHa' #<m><a><n>lIj!"
 	done
 
 _CeladonMart3FClerkTM18NoRoomText::
-	text "Your pack is full"
-	line "of items!"
+	text "buqlIj buy'moH"
+	line "luch 'Iq!"
 	done
 
 _CeladonMart3FGameBoyKid1Text::
-	text "Captured #MON"
-	line "are registered"
-	cont "with an ID No."
-	cont "and OT, the name"
-	cont "of the Original"
-	cont "Trainer that"
-	cont "caught it!"
+	text "#<m><a><n> jonlu'DI'"
+	line "De'Daj ngaSbogh"
+	cont "ta qonlu'. jonwI'"
+	cont "pong, jonwI' mI'"
+	cont "tlhIn ngaS tavam!"
 	done
 
 _CeladonMart3FGameBoyKid2Text::
-	text "All right!"
+	text "jISey!"
 
-	para "My buddy's going"
-	line "to trade me his"
-	cont "KANGASKHAN for my"
-	cont "GRAVELER!"
+	para "<q><a><y><t><u><'><t><a><'>Daj"
+	line "<y><I><n><a><g><h><a><m>wIj je"
+	cont "DImech maqochwI'"
+	cont "jIH je!"
 	done
 
 _CeladonMart3FGameBoyKid3Text::
-	text "Come on GRAVELER!"
+	text "HIghoS, <y><I><n><a><g><h><a><m>!"
 
-	para "I love GRAVELER!"
-	line "I collect them!"
+	para "<y><I><n><a><g><h><a><m> vIboS!"
+	line "vImuSHa'qu'!"
 
-	para "Huh?"
+	para "chay'?"
 
-	para "GRAVELER turned"
-	line "into a different"
-	cont "#MON!"
+	para "#<m><a><n> pIm moj"
+	line "<y><I><n><a><g><h><a><m>vam!"
 	done
 
 _CeladonMart3FLittleBoyText::
-	text "You can identify"
-	line "#MON you got"
-	cont "in trades by"
-	cont "their ID Numbers!"
+	text "#<m><a><n> ngu'meH"
+	line "jonwI' mI'Daj"
+	cont "tlhIn DalaDlaH!"
 	done
 
 _CeladonMart3FSNESText::
-	text "It's an SNES!"
+	text "Quj jan Dun 'oH!"
 	done
 
 _CeladonMart3FRPGText::
-	text "An RPG! There's"
-	line "no time for that!"
+	text "lut rorgh Quj! DaH"
+	line "QujvamvaD yapbe'"
+	cont "poHlIj."
 	done
 
 _CeladonMart3FSportsGameText::
-	text "A sports game!"
-	line "Dad'll like that!"
+	text "pIqcho' lIlwI'!"
+	line "tIvlaw' vavpu'!"
 	done
 
 _CeladonMart3FPuzzleGameText::
-	text "A puzzle game!"
-	line "Looks addictive!"
+	text "Qay'mol Quj!"
+	line "vIbuSqu'laH!"
 	done
 
 _CeladonMart3FFightingGameText::
-	text "A fighting game!"
-	line "Looks tough!"
+	text "may' lIlwI' Quj!"
+	line "Qatlhlaw'!"
 	done
 
 _CeladonMart3FCurrentFloorSignText::
-	text "3F: TV GAME SHOP"
+	text "S3: HaSta Quj 'aH"
 	done
 
 _CeladonMart3FPokemonPosterText::
-	text "Red and Blue!"
-	line "Both are #MON!"
+	text "ram Quj Sar!"
+	line "#<m><a><n> bIH!"
 	done
+
