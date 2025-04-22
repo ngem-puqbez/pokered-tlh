@@ -1,35 +1,38 @@
 _Route4CooltrainerF1Text::
-	text "Ouch! I tripped"
-	line "over a rocky"
-	cont "#MON, GEODUDE!"
+	text "'oy'! jIyIttaHvIS"
+	line "nagh rurbogh"
+	cont "#<m><a><n> vIpup!"
 	done
 
 _Route4CooltrainerF2BattleText::
-	text "I came to get my"
-	line "mushroom #MON!"
+	text "'atlhqam #<m><a><n>"
+	line "vISammeH"
+	cont "naDev vIjaH!"
 	done
 
 _Route4CooltrainerF2EndBattleText::
-	text "Oh! My cute"
-	line "mushroom #MON!"
+	text "toH! rIQ"
+	line "'atlhqam"
+	cont "#<m><a><n>wIj 'IH!"
 	prompt
 
 _Route4CooltrainerF2AfterBattleText::
-	text "There might not"
-	line "be any more"
-	cont "mushrooms here."
+	text "chaq naDev "
+	line "'atlhqammey"
+	cont " tu'lu'be'."
 
-	para "I think I got"
-	line "them all."
+	para "wejHa' Hoch"
+	line "vIboSta' 'e'"
+	cont "vIHar."
 	done
 
 _Route4MtMoonSignText::
-	text "MT.MOON"
-	line "Tunnel Entrance"
+	text "<m><a><S> <H><u><D>"
+	line "DIn"
 	done
 
 _Route4SignText::
-	text "ROUTE 4"
-	line "MT.MOON -"
-	cont "CERULEAN CITY"
+	text "He loS"
+	line "<m><a><S> <H><u><D> -"
+	cont "<c><h><a><l><H><o><m> <v><e><n><g>"
 	done
