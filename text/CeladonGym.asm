@@ -1,220 +1,219 @@
 _CeladonGymErikaPreBattleText::
-	text "Hello. Lovely"
-	line "weather isn't it?"
-	cont "It's so pleasant."
+	text "toH, DaH 'ey' muD"
+	line "Dotlh, qar'a'?"
+	cont "mubelmoHqu'!"
 
-	para "...Oh dear..."
-	line "I must have dozed"
-	cont "off. Welcome."
+	para "...Hutvagh..."
+	line "jIDumbejpu'."
+	cont "qavan!"
 
-	para "My name is ERIKA."
-	line "I am the LEADER"
-	cont "of CELADON GYM."
+	para "<'><e><r><I><q><a><'> 'oH"
+	line "pongwIj'e'."
+	cont "<n><g><o><p><w><a><g><h> <v><e><n><g>"
+	cont "qaDpIn jIH."
 
-	para "I teach the art of"
-	line "flower arranging."
-	cont "My #MON are of"
-	cont "the grass-type."
+	para "'InSong Qur"
+	line "'IH chenmoHbogh"
+	cont "Ho'DoS vIghojmoH."
+	cont "magh buv luchIw"
+	cont "#<m><a><n>meywIj."
 
-	para "Oh, I'm sorry, I"
-	line "had no idea that"
-	cont "you wished to"
-	cont "challenge me."
+	para "taH, jItlhIj,"
+	line "muqaD 'e' DaHech"
+	cont "'e' vItlhojbe'!"
 
-	para "Very well, but I"
-	line "shall not lose."
+	para "jIlaj, 'ach jIluj"
+	line "'e' vIHechbe'."
 	done
 
 _CeladonGymErikaReceivedRainbowBadgeText::
-	text "Oh!"
-	line "I concede defeat."
+	text "toH!"
+	line "jIlujpu' 'e'"
+	cont "vIDISnIS."
 
-	para "You are remarkably"
-	line "strong."
+	para "bIHoSqu'mo'"
+	line "loQ mumer."
 
-	para "I must confer you"
-	line "the RAINBOWBADGE."
+	para "<PLAYER>, SoHvaD"
+	line "<H><a><r><'><e><y><D><e><g><h>vam"
+	cont "vInob. Dabajta'."
 	prompt
 
 _CeladonGymErikaPostBattleAdviceText::
-	text "You are cataloging"
-	line "#MON? I must"
-	cont "say I'm impressed."
+	text "#<m><a><n> De' paq"
+	line "DagherlI''a'?"
+	cont "Dojqu' Qu'vam."
 
-	para "I would never"
-	line "collect #MON"
-	cont "if they were"
-	cont "unattractive."
+	para "'IHbe'chugh"
+	line "#<m><a><n> vaj"
+	cont "not vIboSqang."
 	done
 
 _CeladonGymRainbowBadgeInfoText::
-	text "The RAINBOWBADGE"
-	line "will make #MON"
-	cont "up to L50 obey."
+	text "<H><a><r><'><e><y><D><e><g><h>"
+	line "DaghajDI' lobbej"
+	cont "#<m><a><n>mey "
+	cont "'aqroS p50!"
 
-	para "It also allows"
-	line "#MON to use"
-	cont "STRENGTH in and"
-	cont "out of battle."
+	para "vabDot nIlob"
+	line "novmey!"
 
-	para "Please also take"
-	line "this with you."
+	para "De'chel"
+	line "Suvbe'taHvIS"
+	cont "<y><u><v> Ho'DoS lo'laH"
+	cont "#<m><a><n>lIj!"
+
+	para "luchvam Datlhap"
+	line "vIneH je."
 	done
 
 _CeladonGymReceivedTM21Text::
-	text "<PLAYER> received"
-	line "@"
+	text "@"
 	text_ram wStringBuffer
-	text "!@"
+	text_start
+	line "Hev <PLAYER>!@"
 	text_end
 
 _TM21ExplanationText::
 	text_start
 
-	para "TM21 contains"
-	line "MEGA DRAIN."
+	para "wa'logh #<m><a><n>vaD"
+	line "<b><u><m><q><u><'> tonSaw'"
+	cont "ghojmoH <t><j>21."
 
-	para "Half the damage"
-	line "it inflicts is"
-	cont "drained to heal"
-	cont "your #MON!"
+	para "jagh QIH 'ej ghIq"
+	line "QIHvam bID bum"
+	cont "lo'wI', yInDaj"
+	cont "mojmoH!"
 	done
 
 _CeladonGymTM21NoRoomText::
-	text "You should make"
-	line "room for this."
+	text "DaH Datlhapchugh"
+	line "'Iq Daqeng."
 	done
 
 _CeladonGymBattleText2::
-	text "Hey!"
+	text "toH!"
 
-	para "You are not"
-	line "allowed in here!"
+	para "bIghIHtaHvIS"
+	line "naDev Datuchlu'!"
 	done
 
 _CeladonGymEndBattleText2::
-	text "You're"
-	line "too rough!"
+	text "tlhoy"
+	line "bIDoch!"
 	prompt
 
 _CeladonGymAfterBattleText2::
-	text "Bleaah!"
-	line "I hope ERIKA"
-	cont "wipes you out!"
+	text "Hu'tegh!"
+	line "DuSang <'><e><r><I><q><a><'>"
+	cont "'e' vItul!"
 	done
 
 _CeladonGymBattleText3::
-	text "I was getting"
-	line "bored."
+	text "jISeyHa'choHtaH."
 	done
 
 _CeladonGymEndBattleText3::
-	text "My"
-	line "makeup!"
+	text "'a..."
+	line "cholammoHpu'!"
 	prompt
 
 _CeladonGymAfterBattleText3::
-	text "Grass-type #MON"
-	line "are tough against"
-	cont "the water-type!"
+	text "bIQ #<m><a><n>vaD"
+	line "rotlh magh buv"
+	cont "chIwbogh #<m><a><n>!"
 
-	para "They also have an"
-	line "edge on rock and"
-	cont "ground #MON!"
+	para "motlh nagh #<m><a><n>"
+	line "jeylaH bIH je."
 	done
 
 _CeladonGymBattleText4::
-	text "Aren't you the"
-	line "peeping Tom?"
+	text "bIlengtaH 'e'"
+	line "vInoH. jIlugh'a'?"
 	done
 
 _CeladonGymEndBattleText4::
-	text "I'm"
-	line "in shock!"
+	text "mumer!"
+	line "jIDuq!"
 	prompt
 
 _CeladonGymAfterBattleText4::
-	text "Oh, you weren't"
-	line "peeping? We get a"
-	cont "lot of gawkers!"
+	text "chay' jISov? ghIH"
+	line "SutlIj lam 'ej"
+	cont "bIHIDpu'ba'!"
 	done
 
 _CeladonGymBattleText5::
-	text "Look at my grass"
-	line "#MON!"
+	text "magh #<m><a><n>wIj"
+	line "yIlegh!"
 
-	para "They're so easy"
-	line "to raise!"
+	para "bIH vIQorgh!"
+	line "ngeD Qu'vam!"
 	done
 
 _CeladonGymEndBattleText5::
-	text "No!"
+	text "Qo'!"
 	prompt
 
 _CeladonGymAfterBattleText5::
-	text "We only use grass-"
-	line "type #MON at"
-	cont "our GYM!"
+	text "qaDqachvamDaq"
+	line "magh buv chIwbogh"
+	cont "#<m><a><n> neH DIlo'!"
 
-	para "We also use them"
-	line "for making flower"
-	cont "arrangements!"
+	para "'InSongmey Qur"
+	line "wIchenmoHtaHvIS"
+	cont "nuboQ je!"
 	done
 
 _CeladonGymBattleText6::
-	text "Don't bring any"
-	line "bugs or fire"
-	cont "#MON in here!"
+	text "naDev ghew qul"
+	line "ghap chIwbogh"
+	cont "#<m><a><n> yIqemQo'!"
 	done
 
 _CeladonGymEndBattleText6::
-	text "Oh!"
-	line "You!"
+	text "toH!"
+	line "SoH!"
 	prompt
 
 _CeladonGymAfterBattleText6::
-	text "Our LEADER, ERIKA,"
-	line "might be quiet,"
-	cont "but she's also"
-	cont "very skilled!"
+	text "tam <'><e><r><I><q><a><'> qaDpIn"
+	line "vabDot po'qu' je!"
 	done
 
 _CeladonGymBattleText7::
-	text "Pleased to meet"
-	line "you. My hobby is"
-	cont "#MON training."
+	text "maqIHchuqmo'"
+	line "jIbel. #<m><a><n>"
+	cont "vIchojs 'e' vItIv."
 	done
 
 _CeladonGymEndBattleText7::
-	text "Oh!"
-	line "Splendid!"
+	text "toH!"
+	line "Dunqu'!"
 	prompt
 
 _CeladonGymAfterBattleText7::
-	text "I have a blind"
-	line "date coming up."
-	cont "I have to learn"
-	cont "to be polite."
+	text "tugh parmaq qep"
+	line "wIlIn parmaqqay"
+	cont "chu' jIH je."
+	cont "jIDochHa'nIS."
 	done
 
 _CeladonGymBattleText8::
-	text "Welcome to"
-	line "CELADON GYM!"
+	text "<n><g><o><p><w><a><g><h> qaDqach"
+	line "Dapaw! pIvan!"
 
-	para "You better not"
-	line "underestimate"
-	cont "girl power!"
+	para "be'meyvam HoS"
+	line "yIHonQo'!"
 	done
 
 _CeladonGymEndBattleText8::
-	text "Oh!"
-	line "Beaten!"
+	text "Qo'!"
+	line "vIjeylu'!"
 	prompt
 
 _CeladonGymAfterBattleText8::
-	text "I didn't bring my"
-	line "best #MON!"
-
-	para "Wait 'til next"
-	line "time!"
+	text "#<m><a><n>wIj nIv"
+	line "vIqembe'!"
 	done
