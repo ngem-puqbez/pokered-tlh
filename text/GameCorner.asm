@@ -1,190 +1,190 @@
 _GameCornerBeauty1Text::
-	text "Welcome!"
+	text "pIvan!"
 
-	para "You can exchange"
-	line "your coins for"
-	cont "fabulous prizes"
-	cont "next door."
+	para "tevmey Dun"
+	line "DaHevmeH <t><e><v>"
+	cont "<t><a><m><w><I><'>Daq ngoplIj"
+	cont "yIqem."
+	
+	para "qachvam retlhDaq"
+	line "Datu'laH."
 	done
 
 _GameCornerClerk1DoYouNeedSomeGameCoinsText::
-	text "Welcome to ROCKET"
-	line "GAME CORNER!"
+	text "<p><e><n><g><D><u><j> <S><u><D><m><e><H>"
+	line "<q><a><c><h>Daq SoH!"
 
-	para "Do you need some"
-	line "game coins?"
+	para "naDev <Q><u><j> <n><g><o><p>"
+	line "ngevlu'."
 
-	para "It's ¥1000 for 50"
-	line "coins. Would you"
-	cont "like some?"
+	para "¥1000 'oH 50 <n><g><o><p>"
+	line "DIlmeH Huch'e'."
+	cont "Daje''a'?"
 	done
 
 _GameCornerClerk1ThanksHereAre50CoinsText::
-	text "Thanks! Here are"
-	line "your 50 coins!"
+	text "maj! 50 <n><g><o><p>"
+	line "yItlhap!"
 	done
 
 _GameCornerClerk1PleaseComePlaySometimeText::
-	text "No? Please come"
-	line "play sometime!"
+	text "ghobe'? poHlIj"
+	line "yI'anqa'Qo'!"
 	done
 
 _GameCornerClerk1CantAffordTheCoinsText::
-	text "You can't afford"
-	line "the coins!"
+	text "Daje'meH yapbe'"
+	line "HuchlIj!"
 	done
 
 _GameCornerClerk1CoinCaseIsFullText::
-	text "Oops! Your COIN"
-	line "CASE is full."
+	text "ghuy'! wejHa' buy'"
+	line "<n><g><o><p> <'><a><p><l><o><'>lIj."
 	done
 
 _GameCornerClerk1DontHaveCoinCaseText::
-	text "You don't have a"
-	line "COIN CASE!"
+	text "<n><g><o><p> <'><a><p><l><o><'>"
+	line "DaHutlh!"
 	done
 
 _GameCornerMiddleAgedMan1Text::
-	text "Keep this quiet."
+	text "ngoDvam yIpegh."
 
-	para "It's rumored that"
-	line "this place is run"
-	cont "by TEAM ROCKET."
+	para "malja'vam SeH"
+	line "<p><e><n><g><D><u><j> ghom 'e'"
+	cont "ja' joS."
 	done
 
 _GameCornerBeauty2Text::
-	text "I think these"
-	line "machines have"
-	cont "different odds."
+	text "jaS Haw janmeyvam"
+	line "'e' vIHarchoHtaH."
 	done
 
 _GameCornerFishingGuruWantToPlayText::
-	text "Kid, do you want"
-	line "to play?"
+	text "bIQuj DaneH'a',"
+	line "puq?"
 	prompt
 
 _GameCornerFishingGuruReceived10CoinsText::
-	text "<PLAYER> received"
-	line "10 coins!@"
+	text "10 <n><g><o><p> Hev"
+	line "<PLAYER>!@"
 	text_end
 
 _GameCornerFishingGuruDontNeedMyCoinsText::
-	text "You don't need my"
-	line "coins!"
+	text "DaH <n><g><o><p>wIj"
+	line "DapoQbe'!"
 	done
 
 _GameCornerFishingGuruWinsComeAndGoText::
-	text "Wins seem to come"
-	line "and go."
+	text "DaH <n><g><o><p>wIj"
+	line "DapoQbe'!"
 	done
 
 _GameCornerMiddleAgedWomanText::
-	text "I'm having a"
-	line "wonderful time!"
+	text "Daqvam vItIvtaH!"
 	done
 
 _GameCornerGymGuideChampInMakingText::
-	text "Hey!"
+	text "toH!"
 
-	para "You have better"
-	line "things to do,"
-	cont "champ in making!"
+	para "naDev pagh potlh"
+	line "Dachav, charghwI' "
+	cont "gheSlaHbogh puq."
 
-	para "CELADON GYM's"
-	line "LEADER is ERIKA!"
-	cont "She uses grass-"
-	cont "type #MON!"
+	para "<n><g><o><p><w><a><g><h> <v><e><n><g>"
+	line "qaDpIn ghaH"
+	cont "<'><e><r><I><q><a><'>'e'. magh"
+	cont "#<m><a><n>mey lo'!"
 
-	para "She might appear"
-	line "docile, but don't"
-	cont "be fooled!"
+	para "naHHa'law' 'ach"
+	line "DaSuvrupqu' 'e'"
+	cont "yImevQo'!"
 	done
 
 _GameCornerGymGuideTheyOfferRarePokemonText::
-	text "They offer rare"
-	line "#MON that can"
-	cont "be exchanged for"
-	cont "your coins."
+	text "#<m><a><n>mey qub"
+	line "vISuqmeH Quj"
+	cont "<n><g><o><p>wIj vItamlaH."
 
-	para "But, I just can't"
-	line "seem to win!"
+	para "vabDot DaHjaj"
+	line "jIQaplaHbe'law'!"
 	done
 
 _GameCornerGamblerText::
-	text "Games are scary!"
-	line "It's so easy to"
-	cont "get hooked!"
+	text "SeymoH Qujmey!"
+	line "yepbe'chugh vay'"
+	cont "tugh Quj buS!"
 	done
 
 _GameCornerClerk2WantSomeCoinsText::
-	text "What's up? Want"
-	line "some coins?"
+	text "nuqneH?"
+	line "<n><g><o><p> puS yIthap!"
 	prompt
 
 _GameCornerClerk2Received20CoinsText::
-	text "<PLAYER> received"
-	line "20 coins!@"
+	text "20 <n><g><o><p> Hev"
+	line "<PLAYER>!@"
 	text_end
 
 _GameCornerClerk2YouHaveLotsOfCoinsText::
-	text "You have lots of"
-	line "coins!"
+	text "wejHa' <n><g><o><p> law'"
+	line "Daghaj!"
 	done
 
 _GameCornerClerk2INeedMoreCoinsText::
-	text "Darn! I need more"
-	line "coins for the"
-	cont "#MON I want!"
+	text "ghuy'cha'!"
+	line "#<m><a><n> vIneHbogh "
+	cont "HevmeH <n><g><o><p>"
+	cont "latlh puS vIpoQ."
 	done
 
 _GameCornerGentlemanThrowingMeOffText::
-	text "Hey, what? You're"
-	line "throwing me off!"
-	cont "Here are some"
-	cont "coins, shoo!"
+	text "nuq DaneH?"
+	line "chonuQtaH! <n><g><o><p>"
+	cont "Datlhapchugh"
+	cont "chomejqang'a'!"
 	prompt
 
 _GameCornerGentlemanReceived20CoinsText::
-	text "<PLAYER> received"
-	line "20 coins!@"
+	text "20 <n><g><o><p> Hev"
+	line "<PLAYER>!@"
 	text_end
 
 _GameCornerGentlemanYouGotYourOwnCoinsText::
-	text "You've got your"
-	line "own coins!"
+	text "wejHa' tochmu'wIj"
+	line "Datlhappu'!"
 	done
 
 _GameCornerGentlemanCloselyWatchTheReelsText::
-	text "The trick is to"
-	line "watch the reels"
-	cont "closely!"
+	text "DIngtaHbogh"
+	line "mIllogh yIbejqu'."
+	cont "qaSvam pegh qanob!"
 	done
 
 _GameCornerRocketImGuardingThisPosterText::
-	text "I'm guarding this"
-	line "poster!"
-	cont "Go away, or else!"
+	text "tlhImvam vI'avtaH!"
+	line "naDevvo' yIjaH!"
 	done
 
 _GameCornerRocketBattleEndText::
-	text "Dang!"
+	text "Qu'vatlh!"
 	prompt
 
 _GameCornerRocketAfterBattleText::
-	text "Our hideout might"
-	line "be discovered! I"
-	cont "better tell BOSS!"
+	text "chaq waw'maj pegh"
+	line "Samlu'! pInvaD"
+	cont "vIja'nIS!"
 	done
 
 _GameCornerPosterSwitchBehindPosterText::
-	text "Hey!"
+	text "toH!"
 
-	para "A switch behind"
-	line "the poster!?"
-	cont "Let's push it!@"
+	para "tlhIm 'emDaq"
+	line "leQ tu'lu'!"
+	cont "yuv!@"
 	text_end
 
 _GameCornerOopsForgotCoinCaseText::
-	text "Oops! Forgot the"
-	line "COIN CASE!"
+	text "va! <n><g><o><p> <'><a><p><l><o><'>"
+	line "Daqembe'!"
 	done
