@@ -1,78 +1,77 @@
 _PokemonTower7FMrFujiRescueText::
-	text "MR.FUJI: Heh? You"
-	line "came to save me?"
+	text "<v><u><j><I><'> <j><a><w>: Hu? "
+	line "mutoDmeH bIve'!"
 
-	para "Thank you. But, I"
-	line "came here of my"
-	cont "own free will."
+	para "vItlho'. vabDot"
+	line "pe'vIl Daqvam"
+	cont "vIjaHbe'. vIwIv."
 
-	para "I came to calm"
-	line "the soul of"
-	cont "CUBONE's mother."
+	para "<m><I><v><H><o><m> SoS qa'"
+	line "ghanqu' vIjotmoH"
+	cont "vIneHpu'."
 
-	para "I think MAROWAK's"
-	line "spirit has gone"
-	cont "to the afterlife."
+	para "'ach qo' veb"
+	line "jaH <m><e><l><c><h><u><H> qa'"
+	cont "'e' vIloy."
 
-	para "I must thank you"
-	line "for your kind"
-	cont "concern!"
+	para "'a muQepmo'"
+	line "qatlho'qu'nIS!"
 
-	para "Follow me to my"
-	line "home, #MON"
-	cont "HOUSE at the foot"
-	cont "of this tower."
+	para "juHwIjDaq"
+	line "HItlha'! #<m><a><n>"
+	cont "QorghwI' qach 'oH."
+	cont "chalqachvam yav"
+	cont "Su'roq Sumqu' 'oH."
 	done
 
 _PokemonTower7FRocket1BattleText::
-	text "What do you want?"
-	line "Why are you here?"
+	text "nuqneH?"
+	line "chay' naDev DajaH?"
 	done
 
 _PokemonTower7FRocket1EndBattleText::
-	text "I give up!"
+	text "jIjegh!"
 	prompt
 
 _PokemonTower7FRocket1AfterBattleText::
-	text "I'm not going to"
-	line "forget this!"
+	text "muvuvHa'mo'"
+	line "qalIjQo'!"
 	done
 
 _PokemonTower7FRocket2BattleText::
-	text "This old guy came"
-	line "and complained"
-	cont "about us harming"
-	cont "useless #MON!"
+	text "nargh loDvetlh qan"
+	line "ghIq bepchoH,"
+	cont "#<m><a><n>mey lI'be'"
+	cont "DIrIQmoHlaw'mo'!"
 
-	para "We're talking it"
-	line "over as adults!"
+	para "'ach maja'chuq"
+	line "nenwI' maHmo'!"
 	done
 
 _PokemonTower7FRocket2EndBattleText::
-	text "Please!"
-	line "No more!"
+	text "qaqoy!"
+	line "mev! mev!"
 	prompt
 
 _PokemonTower7FRocket2AfterBattleText::
-	text "#MON are only"
-	line "good for making"
-	cont "money!"
+	text "Huch SuqmeH neH"
+	line "QaQ #<m><a><n>mey!"
 
-	para "Stay out of our"
-	line "business!"
+	para "Sojmaj 'oH!"
+	line "yInISQo'!"
 	done
 
 _PokemonTower7FRocket3BattleText::
-	text "You're not saving"
-	line "anyone, kid!"
+	text "pagh DataDtaH,"
+	line "puq QIp!"
 	done
 
 _PokemonTower7FRocket3EndBattleText::
-	text "Don't"
-	line "fight us ROCKETs!"
+	text "<p><e><n><g><D><u><j>"
+	line "ghom ghoSuvQo'!"
 	prompt
 
 _PokemonTower7FRocket3AfterBattleText::
-	text "You're not getting"
-	line "away with this!"
+	text "mubot 'e'"
+	line "DachavlaHbe'!"
 	done
