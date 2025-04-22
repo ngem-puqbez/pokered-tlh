@@ -1,120 +1,120 @@
 _Route16Biker1BattleText::
-	text "What do you want?"
+	text "nuqneH?"
 	done
 
 _Route16Biker1EndBattleText::
-	text "Don't you"
-	line "dare laugh!"
+	text "bIHagh"
+	line "'e' yIngIlQo'!"
 	prompt
 
 _Route16Biker1AfterBattleText::
-	text "We like just"
-	line "hanging here,"
-	cont "what's it to you?"
+	text "naDev vIlpu'"
+	line "wImoj 'e' wItIv."
+	cont "qatlh bISaH?"
 	done
 
 _Route16Biker2BattleText::
-	text "Nice BIKE!"
-	line "Hand it over!"
+	text "<q><a><m> <D><o> <D><u><j>lIj"
+	line "vIparHa'! HInob!"
 	done
 
 _Route16Biker2EndBattleText::
-	text "Knock"
-	line "out!"
+	text "tlhoS"
+	line "chovulmoH!"
 	prompt
 
 _Route16Biker2AfterBattleText::
-	text "Forget it, who"
-	line "needs your BIKE!"
+	text "yIlIj! <q><a><m> <D><o>"
+	line "<D><u><j>vetlh neH 'Iv?"
 	done
 
 _Route16Biker3BattleText::
-	text "Come out and play,"
-	line "little mouse!"
+	text "maQujmeH HIjaH,"
+	line "machwI'!"
 	done
 
 _Route16Biker3EndBattleText::
-	text "You"
-	line "little rat!"
+	text "bInu';"
+	line "chuSwI' Darur!"
 	prompt
 
 _Route16Biker3AfterBattleText::
-	text "I hate losing!"
-	line "Get away from me!"
+	text "jIluj 'e' vImuS!"
+	line "jIHvo' yIjaH!"
 	done
 
 _Route16biker4BattleText::
-	text "Hey, you just"
-	line "bumped me!"
+	text "chopaw'pu'!"
+	line "chomaw!"
 	done
 
 _Route16Biker4EndBattleText::
-	text "Kaboom!"
+	text "jIjor!"
 	prompt
 
 _Route16Biker4AfterBattleText::
-	text "You can also get"
-	line "to FUCHSIA from"
-	cont "VERMILION using a"
-	cont "coastal road."
+	text "<t><a><r><D><e><H> <v><e><n><g> <b><e><q><p><u><j>"
+	line "<v><e><n><g> je joj"
+	cont "qubbID vech taw."
+	cont "bIQ'a' HeHDaq Sup."
 	done
 
 _Route16Biker5BattleText::
-	text "I'm feeling"
-	line "hungry and mean!"
+	text "jIghung 'ej"
+	line "jIqej!"
 	done
 
 _Route16Biker5EndBattleText::
-	text "Bad,"
-	line "bad, bad!"
+	text "qab,"
+	line "qab, qab!"
 	prompt
 
 _Route16Biker5AfterBattleText::
-	text "I like my #MON"
-	line "ferocious! They"
-	cont "tear up enemies!"
+	text "qu' #<m><a><n>wIj"
+	line "'e' vItIv! jagh"
+	cont "SIjlaH bIH!"
 	done
 
 _Route16Biker6BattleText::
-	text "Sure, I'll go!"
+	text "Ha', jIruch!"
 	done
 
 _Route16Biker6EndBattleText::
-	text "Don't make"
-	line "me mad!"
+	text " "
+	cont "HIQeHmoHQo'!"
 	prompt
 
 _Route16Biker6AfterBattleText::
-	text "I like harassing"
-	line "people with my"
-	cont "vicious #MON!"
+	text "ghot DI'Irgh jIH"
+	line "#<m><a><n>wIj naS je"
+	cont "'e' vItIvqu'!"
 	done
 
 _Route16Text7::
-	text "A sleeping #MON"
-	line "blocks the way!"
+	text "He bot QongtaHbogh"
+	line "#<m><a><n>!"
 	done
 
 _Route16SnorlaxWokeUpText::
-	text "SNORLAX woke up!"
+	text "vem <w><u><D><l><e><S>!"
 
-	para "It attacked in a"
-	line "grumpy rage!"
+	para "berghmo' QeHchoH"
+	line "'ej DuHIv!"
 	done
 
 _Route16SnorlaxReturnedToMountainsText::
-	text "With a big yawn,"
-	line "SNORLAX returned"
-	cont "to the mountains!"
+	text "Hobqu' <w><u><D><l><e><S>"
+	line "'ej HuDmeyDaq"
+	cont "tatlh'egh!"
 	done
 
 _Route16CyclingRoadSignText::
-	text "Enjoy the slope!"
-	line "CYCLING ROAD"
+	text "bo'ghey DatIvjaj!"
+	line "<q><a><m> <D><o> <D><u><j> <H><e>"
 	done
 
 _Route16SignText::
-	text "ROUTE 16"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	text "He wa'maH jav"
+	line "<n><g><o><p><w><a><g><h> <v><e><n><g> -"
+	cont "<t><a><r><D><a><H> <v><e><n><g>"
 	done
