@@ -1,74 +1,72 @@
 _RocketHideoutB1FRocket5EndBattleText::
-	text "Why...?@"
+	text "qatlh...?@"
 	text_end
 
 _RocketHideoutB1FRocket1BattleText::
-	text "Who are you? How"
-	line "did you get here?"
+	text "'Iv SoH? chay'"
+	line "waw'vam Da'el?"
 	done
 
 _RocketHideoutB1FRocket1EndBattleText::
-	text "Oww!"
-	line "Beaten!"
+	text "'oy'!"
+	line "chojey!"
 	prompt
 
 _RocketHideoutB1FRocket1AfterBattleText::
-	text "Are you dissing"
-	line "TEAM ROCKET?"
+	text "<p><e><n><g><D><u><j> ghom"
+	line "DavaqtaH'a'?"
 	done
 
 _RocketHideoutB1FRocket2BattleText::
-	text "You broke into"
-	line "our operation?"
+	text "naDev malja'maj"
+	line "DaghoqtaH'a'?"
 	done
 
 _RocketHideoutB1FRocket2EndBattleText::
-	text "Burnt!"
+	text "vImeQlu'!"
 	prompt
 
 _RocketHideoutB1FRocket2AfterBattleText::
-	text "You're not going"
-	line "to get away with"
-	cont "this, brat!"
+	text "pagh Dachav 'e'"
+	line "vIqaSmoHqu',"
+	cont "maqDar!"
 	done
 
 _RocketHideoutB1FRocket3BattleText::
-	text "Intruder alert!"
+	text "yotwI' ghuH!"
 	done
 
 _RocketHideoutB1FRocket3EndBattleText::
-	text "I"
-	line "can't do it!"
+	text " "
+	line "vIchavlaHbe'!"
 	prompt
 
 _RocketHideoutB1FRocket3AfterBattleText::
-	text "SILPH SCOPE?"
-	line "I don't know"
-	cont "where it is!"
+	text "<S><o><'><H><a><'><m><o><H><w><I><'>?"
+	line "DaqDaj vISovbe'!"
 	done
 
 _RocketHideoutB1FRocket4BattleText::
-	text "Why did you come"
-	line "here?"
+	text "naDev nuq Data'?"
 	done
 
 _RocketHideoutB1FRocket4EndBattleText::
-	text "This"
-	line "won't do!"
+	text "qab"
+	line "ghu'vam!"
 	prompt
 
 _RocketHideoutB1FRocket4AfterBattleText::
-	text "OK, I'll talk!"
-	line "Take the elevator"
-	cont "to see my BOSS!"
+	text "pung! jIjatlh!"
+	line "pInwI' DaghommeH"
+	cont "tut Duj yIlIgh!"
 	done
 
 _RocketHideoutB1FRocket5BattleText::
-	text "Are you lost, you"
-	line "little rat?"
+	text "DaqlIj DachIl'a'"
+	line "QupwI'?"
 	done
 
 _RocketHideoutB1FRocket5AfterBattleText::
-	text "Uh-oh, that fight"
-	line "opened the door!"
+	text "ghay'! lojmIt ghor"
+	line "may'! poStaH!"
 	done
