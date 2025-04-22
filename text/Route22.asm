@@ -1,104 +1,105 @@
 _Route22RivalBeforeBattleText1::
-	text "<RIVAL>: Hey!"
+	text "<RIVAL>: HIqIm!"
 	line "<PLAYER>!"
 
-	para "You're going to"
-	line "#MON LEAGUE?"
+	para "#<m><a><n> qaD'a' vaS"
+	line "DaSuch DaneH'a'?"
 
-	para "Forget it! You"
-	line "probably don't"
-	cont "have any BADGEs!"
+	para "qaSbe'! ghaytan"
+	line "wej Deghmey"
+	cont "Dabajta'!"
 
-	para "The guard won't"
-	line "let you through!"
+	para "bIruchtaH 'e'"
+	line "tuch 'avwI'!"
 
-	para "By the way, did"
-	line "your #MON"
-	cont "get any stronger?"
+	para "toH! HoSchoH'a'"
+	line "#<m><a><n>lIj?"
+	cont "maSuvchuq vIneH!"
 	done
 
 _Route22RivalAfterBattleText1::
-	text "I heard #MON"
-	line "LEAGUE has many"
-	cont "tough trainers!"
+	text "law' #<m><a><n>"
+	line "<'><o><b><e><'> yughbogh"
+	cont "qeqwI' HoS'e'!"
 
-	para "I have to figure"
-	line "out how to get"
-	cont "past them!"
+	para "chaH vIjeymeH"
+	line "vIHoSchoHnIS."
+	cont "jIDub'eghmoH!"
 
-	para "You should quit"
-	line "dawdling and get"
-	cont "a move on!"
+	para "bIlum 'e' yImev!"
+	line "tlhetlh'eghmoHbe'"
+	cont "HoqlIj!"
 	done
 
 _Route22Rival1DefeatedText::
-	text "Awww!"
-	line "You just lucked"
-	cont "out!"
+	text "va!"
+	line "bIDo'ba' neH."
+	cont "maybe'!"
 	prompt
 
 _Route22Rival1VictoryText::
-	text "<RIVAL>: What?"
-	line "Why do I have 2"
-	cont "#MON?"
+	text "<RIVAL>: nuq"
+	line "Dayajbe'? DaH"
+	cont "cha' #<m><a><n>mey"
+	cont "vIghaj."
 
-	para "You should catch"
-	cont "some more too!"
+	para "latlh DajonnIS"
+	cont "je!"
 	prompt
 
 _Route22RivalBeforeBattleText2::
-	text "<RIVAL>: What?"
-	line "<PLAYER>! What a"
-	cont "surprise to see"
-	cont "you here!"
+	text "<RIVAL>: toH?"
+	line "<PLAYER>! naDev"
+	cont "qalegh 'e'"
+	cont "vIHechbe'qu'!"
 
-	para "So you're going to"
-	line "#MON LEAGUE?"
+	para "#<m><a><n> qaD'a' vaS"
+	line "DajaHtaH'a'?"
 
-	para "You collected all"
-	line "the BADGEs too?"
-	cont "That's cool!"
+	para "Hoch Deghmey"
+	line "Dabajta''a' je?"
+	cont "majQa'!"
 
-	para "Then I'll whip you"
-	line "<PLAYER> as a"
-	cont "warm up for"
-	cont "#MON LEAGUE!"
+	para "vaj #<m><a><n> qaD'a'"
+	line "vaS vIbampa'"
+	cont "jIqeqmeH"
+	cont "qajeyqu'!"
 
-	para "Come on!"
+	para "HISuv!"
 	done
 
 _Route22RivalAfterBattleText2::
-	text "That loosened me"
-	line "up! I'm ready for"
-	cont "#MON LEAGUE!"
+	text "DaH jIbaw'chu'!"
+	line "#<m><a><n> 'obe'"
+	cont "jISuvqu'rup!"
 
-	para "<PLAYER>, you need"
-	line "more practice!"
+	para "<PLAYER>,"
+	line "DaqeqnISba'taH!"
 
-	para "But hey, you know"
-	line "that! I'm out of"
-	cont "here. Smell ya!"
+	para "'a wejHa' ngoDvam"
+	line "DaSovba'. jImej!"
+	cont "SIbI'Ha' qalargh!"
 	done
 
 _Route22Rival2DefeatedText::
-	text "What!?"
+	text "chay!?"
 
-	para "I was just"
-	line "careless!"
+	para "jIyepHa'ba'"
+	line "neH!"
 	prompt
 
 _Route22Rival2VictoryText::
-	text "<RIVAL>: Hahaha!"
-	line "<PLAYER>! That's"
-	cont "your best? You're"
-	cont "nowhere near as"
-	cont "good as me, pal!"
+	text "<RIVAL>: Hagh!"
+	line "<PLAYER>! "
+	cont "bIpujtaH'a' neH?"
+	cont "jIH HoS law' SoH"
+	cont "HoS puS, jupwI'!"
 
-	para "Go train some"
-	line "more! You loser!"
+	para "yIchojtaH!"
+	line "lujwI' SoH!"
 	prompt
 
 _Route22PokemonLeagueSignText::
-	text "#MON LEAGUE"
-	line "Front Gate"
+	text "#<m><a><n> qaD'a' vaS"
+	line "tlhop lojmIt"
 	done
