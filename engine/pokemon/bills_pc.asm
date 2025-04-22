@@ -446,11 +446,11 @@ DisplayDepositWithdrawMenu:
 	call LoadGBPal
 	jr .loop
 
-DepositPCText:  db "DEPOSIT@"
-WithdrawPCText: db "WITHDRAW@"
+DepositPCText:  db "pol@"
+WithdrawPCText: db "Suqqa'@"
 StatsCancelPCText:
-	db   "STATS"
-	next "CANCEL@"
+	db   "Dotlh"
+	next "mej@"
 
 SwitchOnText:
 	text_far _SwitchOnText
