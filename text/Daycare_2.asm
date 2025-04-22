@@ -1,34 +1,35 @@
 _DaycareGentlemanAllRightThenText::
-	text "All right then,"
+	text "majQa',"
 	line "@"
 	text_end
 
 _DaycareGentlemanComeAgainText::
-	text "come again."
+	text "tugh yIchegh."
 	done
 
 _DaycareGentlemanNoRoomForMonText::
-	text "You have no room"
-	line "for this #MON!"
+	text "wejHa' jav #<m><a><n>"
+	line "Daqeng. latlh "
+	cont "DatlhaplaHbe'!"
 	done
 
 _DaycareGentlemanOnlyHaveOneMonText::
-	text "You only have one"
-	line "#MON with you."
+	text "'ach... wa' "
+	line "#<m><a><n> neH Daghaj."
 	done
 
 _DaycareGentlemanCantAcceptMonWithHMText::
-	text "I can't accept a"
-	line "#MON that"
-	cont "knows an HM move."
+	text "<H><j> Ho'DoS Sovmo'"
+	line "#<m><a><n>vam SoHvo'"
+	cont "vItlhapQo'."
 	done
 
 _DaycareGentlemanHeresYourMonText::
-	text "Thank you! Here's"
-	line "your #MON!"
+	text "maj! DaH"
+	line "#<m><a><n> vItatlh!"
 	prompt
 
 _DaycareGentlemanNotEnoughMoneyText::
-	text "Hey, you don't"
-	line "have enough ¥!"
+	text "toH, ¥ yap"
+	line "Daghajbe'!"
 	done
