@@ -1,45 +1,47 @@
 _Museum2FYoungsterText::
-	text "MOON STONE?"
+	text "<m><a><S> <n><a><g><h>"
 
-	para "What's so special"
-	line "about it?"
+	para "qatlh le'qu'"
+	line "Dochvam?"
 	done
 
 _Museum2FGrampsText::
-	text "July 20, 1969!"
+	text "DIS 1969, jar 7"
+	line "jaj 20"
 
-	para "The 1st lunar"
-	line "landing!"
+	para "maSDaq Saq Human"
+	line "Duj wa'DIch!"
 
-	para "I bought a color"
-	line "TV to watch it!"
+	para "leghmeH qalmuS"
+	line "cha'laHbogh HaSta"
+	cont "jIH vIje'ta'!"
 	done
 
 _Museum2FScientistText::
-	text "We have a space"
-	line "exhibit now."
+	text "DaH logh vIqraq"
+	line "DI'angtaH."
 	done
 
 _Museum2FBrunetteGirlText::
-	text "I want a PIKACHU!"
-	line "It's so cute!"
+	text "<p><I><y><q><a><'><c><h><u> vIneH!"
+	line "'IH 'ej machqu!"
 
-	para "I asked my Daddy"
-	line "to catch me one!"
+	para "jIHvaD 'oH jon"
+	line "vavoy 'e' vItlhob!"
 	done
 
 _Museum2FHikerText::
-	text "Yeah, a PIKACHU"
-	line "soon, I promise!"
+	text "HIja'. <p><I><y><q><a><'><c><h><u>."
+	line "tugh vIjon! vI'Ip."
 	done
 
 _Museum2FSpaceShuttleSignText::
-	text "SPACE SHUTTLE"
-	line "COLUMBIA"
+	text "<'><e><n><t><e><p><r><a><y><'>"
+	line "lupDujHom"
 	done
 
 _Museum2FMoonStoneSignText::
-	text "Meteorite that"
-	line "fell on MT.MOON."
-	cont "(MOON STONE?)"
+	text "<m><a><S> <H><u><D>Daq pumpu'"
+	line "chunDabvam"
+	cont "(maS nagh?)"
 	done
