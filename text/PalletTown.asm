@@ -1,56 +1,53 @@
 _PalletTownOakHeyWaitDontGoOutText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "<'><o><Q>: yIloS!"
+	line "yImejQo'!@"
 	text_end
 
 _PalletTownOakItsUnsafeText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "<'><o><Q>: pa' Qob!"
+	line "magh woch Dab"
+	cont "#<m><a><n> tlhab!"
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "DaHublu'meH"
+	line "#<m><a><n>lIj"
+	cont "tlhIn DapoQ."
+	cont "jItlhojta'!"
 
-	para "Here, come with"
-	line "me!"
+	para "DaH HItlhej!"
 	done
 
 _PalletTownGirlText::
-	text "I'm raising"
-	line "#MON too!"
+	text "#<m><a><n>mey"
+	line "vIQorgh je."
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "HoSchoHDI' bIH,"
+	line "muQanlaH."
 	done
 
 _PalletTownFisherText::
-	text "Technology is"
-	line "incredible!"
+	text "Dunqu' cham vur!"
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "DaH De'wI'Daq"
+	line "#<m><a><n> luch"
+	cont "je pollaH vay'."
+	cont "ghIq Suqqa'laH."
 	done
 
 _PalletTownOaksLabSignText::
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "<'><o><Q> 'a'ghen"
+	line "Qulpa' qach"
 	done
 
 _PalletTownSignText::
-	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	text "yutlhegh veng"
+	line "loStaH 'ebmey;"
+	cont "Har'ey rur!"
 	done
 
 _PalletTownPlayersHouseSignText::
-	text "<PLAYER>'s house "
+	text "<PLAYER> juH qach "
 	done
 
 _PalletTownRivalsHouseSignText::
-	text "<RIVAL>'s house "
+	text "<RIVAL> juH qach "
 	done
