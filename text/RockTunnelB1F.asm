@@ -1,108 +1,104 @@
 _RockTunnelB1FCooltrainerF1BattleText::
-	text "Hikers leave twigs"
-	line "as trail markers."
+	text "He permeH naQmey"
+	line "mach lan lengwI'."
 	done
 
 _RockTunnelB1FCooltrainerF1EndBattleText::
-	text "Ohhh!"
-	line "I did my best!"
+	text "maj!"
+	line "vInIDqu'ta'!"
 	prompt
 
 _RockTunnelB1FCooltrainerF1AfterBattleText::
-	text "I want to go "
-	line "home!"
+	text "juHwIj vIchegh"
+	line "vIneH!"
 	done
 
 _RockTunnelB1FHiker1BattleText::
-	text "Hahaha! Can you"
-	line "beat my power?"
+	text "HghHgh! HoSwIj"
+	line "Dajey'laH'a'?"
 	done
 
 _RockTunnelB1FHiker1EndBattleText::
-	text "Oops!"
-	line "Out-muscled!"
+	text "va!"
+	line "Somrawna' Daghaj!"
 	prompt
 
 _RockTunnelB1FHiker1AfterBattleText::
-	text "I go for power"
-	line "because I hate"
-	cont "thinking!"
+	text "jIQub vIneHbe'mo'"
+	line "HoS neH vInej."
 	done
 
 _RockTunnelB1FSuperNerd1BattleText::
-	text "You have a"
-	line "#DEX?"
-	cont "I want one too!"
+	text "#<t><a><m><e><y> Daghaj'a'?"
+	line "'oH vIneH je!"
 	done
 
 _RockTunnelB1FSuperNerd1EndBattleText::
-	text "Shoot!"
-	line "I'm so jealous!"
+	text "ghuy'!"
+	line "jIghalqu'!"
 	prompt
 
 _RockTunnelB1FSuperNerd1AfterBattleText::
-	text "When you finish"
-	line "your #DEX, can"
-	cont "I have it?"
+	text "#<t><a><m><e><y> DarInmoHDI'"
+	line "'oH vIghajlaH'a'?"
 	done
 
 _RockTunnelB1FSuperNerd2BattleText::
-	text "Do you know about"
-	line "costume players?"
+	text "jech reHwI'"
+	line "DaSov'a'?"
 	done
 
 _RockTunnelB1FSuperNerd2EndBattleText::
-	text "Well,"
-	line "that's that."
+	text "toH,"
+	line "qaSchugh qaS."
 	prompt
 
 _RockTunnelB1FSuperNerd2AfterBattleText::
-	text "Costume players"
-	line "dress up as"
-	cont "#MON for fun."
+	text "tIvmo' #<m><a><n>"
+	line "rurbogh jech"
+	cont "tuQ jech reHwI'."
 	done
 
 _RockTunnelB1FHiker2BattleText::
-	text "My #MON"
-	line "techniques will"
-	cont "leave you crying!"
+	text "muSaQmoH"
+	line "#<m><a><n> tonSaw'!"
 	done
 
 _RockTunnelB1FHiker2EndBattleText::
-	text "I give!"
-	line "You're a better"
-	cont "technician!"
+	text "jIjegh!"
+	line "tonSaw' pIn'a'"
+	cont "nIv SoH!"
 	prompt
 
 _RockTunnelB1FHiker2AfterBattleText::
-	text "In mountains,"
-	line "you'll often find"
-	cont "rock-type #MON."
+	text "HuDDaq pIj"
+	line "nagh chIwbogh"
+	cont "#<m><a><n> Samlu'."
 	done
 
 _RockTunnelB1FCooltrainerF2BattleText::
-	text "I don't often"
-	line "come here, but I"
-	cont "will fight you."
+	text "pIj naDev vISuch"
+	line "'ach qaSuvqang!"
 	done
 
 _RockTunnelB1FCooltrainerF2EndBattleText::
-	text "Oh!"
-	line "I lost!"
+	text "toH!"
+	line "jIluj!"
 	prompt
 
 _RockTunnelB1FCooltrainerF2AfterBattleText::
-	text "I like tiny"
-	line "#MON, big ones"
-	cont "are too scary!"
+	text "#<m><a><n> mach"
+	line "vImaS. tlhoy'"
+	cont "mughIj tInwI'mey!"
 	done
 
 _RockTunnelB1FHiker3BattleText::
-	text "Hit me with your"
-	line "best shot!"
+	text "maHoS! malughbe'"
+	line "nuja'laH pagh!"
 	done
 
 _RockTunnelB1FHiker3EndBattleText::
-	text "Fired"
-	line "away!"
+	text "wISov!"
+	line "che'ron 'oH"
+	cont "parmaq'e'!"
 	prompt
