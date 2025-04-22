@@ -1,235 +1,227 @@
 _CeruleanCityRivalPreBattleText::
-	text "<RIVAL>: Yo!"
+	text "<RIVAL>: toH!"
 	line "<PLAYER>!"
 
-	para "You're still"
-	line "struggling along"
-	cont "back here?"
+	para "naDev bIlengtaH"
+	line "'e' vItu'qu''a'?"
 
-	para "I'm doing great!"
-	line "I caught a bunch"
-	cont "of strong and"
-	cont "smart #MON!"
+	para "jIQaptaH!"
+	line "HoS #<m><a><n>mey"
+	cont "vIjonbogh 'ej"
+	cont "val!"
 
-	para "Here, let me see"
-	line "what you caught,"
-	cont "<PLAYER>!"
+	para "DaH, #<m><a><n>"
+	line "Dajonpu'bogh"
+ 	cont "HI'agh, <PLAYER>!"
 	done
 
 _CeruleanCityRivalDefeatedText::
-	text "Hey!"
-	line "Take it easy!"
-	cont "You won already!"
+	text "toH!"
+	line "DaH yIleS!"
+	cont "wejHa' bIQap!"
 	prompt
 
 _CeruleanCityRivalVictoryText::
-	text "Heh!"
-	line "You're no match"
-	cont "for my genius!"
+	text "Hagh!"
+	line "wIgh jIHmo'"
+	cont "chojeylaHbe'!"
 	prompt
 
 _CeruleanCityRivalIWentToBillsText::
-	text "<RIVAL>: Hey,"
-	line "guess what?"
+	text "<RIVAL>: toH,"
+	line "De' yIloy!"
 
-	para "I went to BILL's"
-	line "and got him to"
-	cont "show me his rare"
-	cont "#MON!"
+	para "<b><I><l> juH vIjaH 'ej"
+	line "#<m><a><n>Daj qub"
+	cont "vIlegh 'e' chaw'."
 
-	para "That added a lot"
-	line "of pages to my"
-	cont "#DEX!"
+	para "#<p><a><q>wIj tenwal"
+	line "naQmoH wanI'vam."
 
-	para "After all, BILL's"
-	line "world famous as a"
-	cont "#MANIAC!"
+	para "quSDaq bIba'."
+	line "#<m><a><n> Qulmo'"
+	cont "<b><I><l> Dat noy!"
 
-	para "He invented the"
-	line "#MON Storage"
-	cont "System on PC!"
+	para "'ej #<m><a><n>"
+	line "polbogh <D><e><'><w><I><'>"
+	cont "pat 'ogh <b><I><l> je!"
 
-	para "Since you're using"
-	line "his system, go"
-	cont "thank him!"
+	para "patDaj Dalo'mo'"
+	line "ghaH Datlho' 'e'"
+	cont "qachup!"
 
-	para "Well, I better"
-	line "get rolling!"
-	cont "Smell ya later!"
+	para "Hu'ma..."
+	line "jIlengtaHnIS!"
+	cont "SIbI'Ha' Salargh!"
 	done
 
 _CeruleanCityRocketText::
-	text "Hey! Stay out!"
-	line "It's not your"
-	cont "yard! Huh? Me?"
+	text "toH! HIghoSQo'!"
+	line "magh yotlhlIj"
+	cont "'oHbe'! nuqneH?"
+	cont "jIH 'Iv?"
 
-	para "I'm an innocent"
-	line "bystander! Don't"
-	cont "you believe me?"
+	para "chunwI' jIH neH."
+	line "..."
+	cont "DaHarbe''a'?"
 	done
 
 _CeruleanCityRocketReceivedTM28Text::
-	text "<PLAYER> recovered"
-	line "TM28!@"
+	text "<t><j>28 Suq"
+	line "<PLAYER>!@"
 	text_end
 
 _CeruleanCityRocketIBetterGetMovingText::
 	text_start
 
-	para "I better get"
-	line "moving! Bye!@"
+	para "DaH jImejnIS!"
+	line "HItlha'Qo'!@"
 	text_end
 
 _CeruleanCityRocketTM28NoRoomText::
-	text "Make room for"
-	line "this!"
+	text "buqlIj"
+	line "DabuyHa'moHnIS!"
 
-	para "I can't run until"
-	line "I give it to you!"
+	para "SoHvaD vInobpa'"
+	line "jIHeDlaHbe'!"
 	done
 
 _CeruleanCityRocketIGiveUpText::
-	text "Stop!"
-	line "I give up! I'll"
-	cont "leave quietly!"
+	text "yImev!"
+	line "jIjagh! jISuv 'e'"
+	cont "vImev 'ej jIHaw'!"
 	prompt
 
 _CeruleanCityRocketIllReturnTheTMText::
-	text "OK! I'll return"
-	line "the TM I stole!"
+	text "va! <t><j> vInIHbogh"
+	line "vInobHa'qang!"
 	prompt
 
 _CeruleanCityCooltrainerMText::
-	text "You're a trainer"
-	line "too? Collecting,"
-	cont "fighting, it's a"
-	cont "tough life."
+	text "chojwI' SoH'a' je?"
+	line "Sujon, SuSuv,"
+	cont "yIn rotlh boyIn."
 	done
 
 _CeruleanCitySuperNerd1Text::
-	text "That bush in"
-	line "front of the shop"
-	cont "is in the way."
+	text "Hoch bot ngevwI'"
+	line "Sumbogh lav'e'."
 
-	para "There might be a"
-	line "way around."
+	para "chaq pummoHlaH"
+	line "vay'."
 	done
 
 _CeruleanCitySuperNerd2Text::
-	text "You're making an"
-	line "encyclopedia on"
-	cont "#MON? That"
-	cont "sounds amusing."
+	text "#<m><a><n> bopbogh"
+	line "paq'e' Daqon'a'?"
+	cont "tlhaQ Qu'lIj."
 	done
 
 _CeruleanCityGuardText::
-	text "The people here"
-	line "were robbed."
+	text "qachvam Dabbogh"
+	line "nuvpu''e' Hejlu'."
 
-	para "It's obvious that"
-	line "TEAM ROCKET is"
-	cont "behind this most"
-	cont "heinous crime!"
+	para "naDev HeSba'ta'"
+	line "<p><e><n><g><D><u><j> ghom"
+	cont "luponglu'bogh"
+	cont "HeSwI'pu' mIgh!"
 
-	para "Even our POLICE"
-	line "force has trouble"
-	cont "with the ROCKETs!"
+	para "vabDot"
+	line "ghan'IqmajvaD"
+	cont "Seng <p><e><n><g><D><u><j> ghom!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroUseSonicboomText::
-	text "OK! SLOWBRO!"
-	line "Use SONICBOOM!"
-	cont "Come on, SLOWBRO"
-	cont "pay attention!"
+	text "'eH! <t><a><r><g><h><u><r><o><j>!"
+	line "<c><h><u><S> <w><a><b><D><o> yIlo'!"
+	cont "yIghuH, Qo'!"
+	cont "HIqIm!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroPunchText::
-	text "SLOWBRO punch!"
-	line "No! You blew it"
-	cont "again!"
+	text "<t><a><r><g><h><u><r><o><j>, yIHIv!"
+	line "va! bIlujqa'!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroWithdrawText::
-	text "SLOWBRO, WITHDRAW!"
-	line "No! That's wrong!"
+	text "<t><a><r><g><h><u><r><o><j>!"
+	line "<n><a><g><h> <D><I><r> <'><e><l>!"
+	cont "bIwaS! bIQapbe'!"
 
-	para "It's so hard to"
-	line "control #MON!"
+	para "#<m><a><n>vam"
+	line "vISeHlaHbe'!"
 
-	para "Your #MON's"
-	line "obedience depends"
-	cont "on your abilities"
-	cont "as a trainer!"
+	para "bI'umbe' 'e'"
+	line "Harchugh #<m><a><n>"
+	cont "vaj rut lobQo'!"
 	done
 
 _CeruleanCitySlowbroTookASnoozeText::
-	text "SLOWBRO took a"
-	line "snooze..."
+	text "DumchoH"
+	line "<t><a><r><g><h><u><r><o><j>..."
 	done
 
 _CeruleanCitySlowbroIsLoafingAroundText::
-	text "SLOWBRO is"
-	line "loafing around..."
+	text "leStaH"
+	line "<t><a><r><g><h><u><r><o><j>..."
 	done
 
 _CeruleanCitySlowbroTurnedAwayText::
-	text "SLOWBRO turned"
-	line "away..."
+	text "buSHa'"
+	line "<t><a><r><g><h><u><r><o><j>..."
 	done
 
 _CeruleanCitySlowbroIgnoredOrdersText::
-	text "SLOWBRO"
-	line "ignored orders..."
+	text "lobHa'"
+	line "<t><a><r><g><h><u><r><o><j>..."
 	done
 
 _CeruleanCityCooltrainerF2Text::
-	text "I want a bright"
-	line "red BICYCLE!"
+	text "<q><a><m> <D><o> <D><u><j>"
+	line "Doqqu' vIneH!"
 
-	para "I'll keep it at"
-	line "home, so it won't"
-	cont "get dirty!"
+	para "Say'moHtaHmeH"
+	line "juHwIjDaq vIpol."
 	done
 
 _CeruleanCitySuperNerd3Text::
-	text "This is CERULEAN"
-	line "CAVE! Horribly"
-	cont "strong #MON"
-	cont "live in there!"
+	text "<c><h><a><l><H><o><m> <D><I><S> 'oH"
+	line "Daqvam'e'! HoSqu'"
+	cont "DISvam Dabbogh"
+	cont "#<m><a><n>mey'e'!"
 
-	para "The #MON LEAGUE"
-	line "champion is the"
-	cont "only person who"
-	cont "is allowed in!"
+	para "naDev 'el "
+	line "#<m><a><n> 'obe'"
+	cont "pIn'a' neH"
+	cont "net chaw'."
 	done
 
 _CeruleanCitySignText::
-	text "CERULEAN CITY"
-	line "A Mysterious,"
-	cont "Blue Aura"
-	cont "Surrounds It"
+	text "<c><h><a><l><H><o><m> <v><e><n><g>"
+	para "'oH Dech taQbogh"
+	line "vI'laS SuDqu'."
 	done
 
 _CeruleanCityTrainerTipsText::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "Pressing B Button"
-	line "during evolution"
-	cont "cancels the whole"
-	cont "process."
+	para "ghe'taHvIS #<m><a><n>"
+	line "[b]leQ Da'uychugh"
+	cont "mIw DaqIlmoH"
 	done
 
 _CeruleanCityBikeShopSign::
-	text "Grass and caves"
-	line "handled easily!"
-	cont "BIKE SHOP"
+	text "bIyIttaHchugh neH"
+	line "bIchunglaH!"
+	cont "<q><a><m> <D><o> <D><u><j> ngevwI'"
 	done
 
 _CeruleanCityGymSign::
-	text "CERULEAN CITY"
-	line "#MON GYM"
-	cont "LEADER: MISTY"
+	text "<c><h><a><l><H><o><m> <v><e><n><g>"
+	line "#<m><a><n> qaD qach"
+	cont "qaDpIn: <v><I><'><l><a><S><o><y>"
 
-	para "The Tomboyish"
-	line "Mermaid!"
+	para "QalDI' be'vam"
+	line "mIjDangDu' rur"
+	cont "'uSDu'Daj!"
 	done
