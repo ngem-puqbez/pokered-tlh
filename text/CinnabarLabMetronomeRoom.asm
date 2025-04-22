@@ -1,64 +1,65 @@
 _CinnabarLabMetronomeRoomScientist1Text::
-	text "Tch-tch-tch!"
-	line "I made a cool TM!"
+	text "rIS-rIS-rIS!"
+	line "<t><j> Daj vI'ogh!"
 
-	para "It can cause all"
-	line "kinds of fun!"
+	para "tonSaw'Daj DatIv"
+	line "'e' vItul!"
 	prompt
 
 _CinnabarLabMetronomeRoomScientist1ReceivedTM35Text::
-	text "<PLAYER> received "
-	line "@"
+	text "@"
 	text_ram wStringBuffer
-	text "!@"
+	text " Suq"
+	line "<PLAYER>!@"
 	text_end
 
 _CinnabarLabMetronomeRoomScientist1TM35ExplanationText::
-	text "Tch-tch-tch!"
-	line "That's the sound"
-	cont "of a METRONOME!"
+	text "rIS-rIS-rIS!"
+	line "wabvam tlhen"
+	cont "<l><e><r><c><h><u><'> tonSaw'!"
 
-	para "It tweaks your"
-	line "#MON's brain"
-	cont "into using moves"
-	cont "it doesn't know!"
+	para "tonSaw' Sovbe'bogh"
+	line "#<m><a><n> lo'meH yab"
+	cont "toj wabvetlh taQ!"
 	done
 
 _CinnabarLabMetronomeRoomScientist1TM35NoRoomText::
-	text "Your pack is"
-	line "crammed full!"
+	text "buqlIj buy'moH"
+	line "luch 'Iq!"
 	done
 
 _CinnabarLabMetronomeRoomScientist2Text::
-	text "EEVEE can evolve"
-	line "into 1 of 3 kinds"
-	cont "of #MON."
+	text "ghe'DI' <c><h><o><H><o><c><h>"
+	line "rav wej #<m><a><n>"
+	cont "mut pIm mojlaH."
 	done
 
 _CinnabarLabMetronomeRoomPCText::
-	text "There's an e-mail"
-	line "message!"
+	text "HaStaDaq QIn"
+	line "cha'lu'!"
 
 	para "..."
 
-	para "The 3 legendary"
-	line "bird #MON are"
-	cont "ARTICUNO, ZAPDOS"
-	cont "and MOLTRES."
+	para "<c><h><u><c><h><w><a><'>,"
+	line "<p><e><'><b><I><l><c><h><a><'>,"
+	cont "<q><u><l><w><e><j> je bIH"
+	cont "wIch bo'Degh'e'."
 
-	para "Their whereabouts"
-	line "are unknown."
+	para "Daqmeychaj"
+	line "Sovlu'be'."
 
-	para "We plan to explore"
-	line "the cavern close"
-	cont "to CERULEAN."
+	para "<c><h><a><l><H><o><m> <v><e><n><g>Daq"
+	line "Sumbogh DIS'e'"
+	cont "wItlhargh 'e'"
+	cont "wInabtaH."
 
-	para "From: #MON"
-	line "RESEARCH TEAM"
+	para "ngeHwI':#<m><a><n>"
+	line "QulwI' ghom"
 
 	para "..."
 	done
 
 _CinnabarLabMetronomeRoomAmberPipeText::
-	text "An amber pipe!"
+	text "rebmugh tIQ"
+	line "yugh mIrSamvam!"
 	done
