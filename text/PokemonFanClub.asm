@@ -1,145 +1,141 @@
 _PokemonFanClubPikachuFanNormalText::
-	text "Won't you admire"
-	line "my PIKACHU's"
-	cont "adorable tail?"
+	text "<p><I><y><q><a><'><c><h><u>wIj"
+	line "tlhuQ 'IH"
+	cont "DaHo'be''a'?"
 	done
 
 _PokemonFanClubPikachuFanBetterText::
-	text "Humph! My PIKACHU"
-	line "is twice as cute"
-	cont "as that one!"
+	text "baQa'! <p><I><y><q><a><'><c><h><u>"
+	line "'IH law'qu'"
+	cont "#<m><a><n>vetlh 'IH"
+	cont "puSqu'!
 	done
 
 _PokemonFanClubSeelFanNormalText::
-	text "I just love my"
-	line "SEEL!"
+	text "<n><o><r><I><g><h>wIj"
+	line "vImuSHa'qu'!"
 
-	para "It squeals when I"
-	line "hug it!"
+	para "vI'uchDI' HaS!"
 	done
 
 _PokemonFanClubSeelFanBetterText::
-	text "Oh dear!"
+	text "toH!"
 
-	para "My SEEL is far"
-	line "more attractive!"
+	para "<n><o><r><I><g><h> 'IH law'qu'"
+	line "<p><I><y><q><a><'><c><h><u> 'IH"
+	cont "puSqu'!"
 	done
 
 _PokemonFanClubPikachuText::
-	text "PIKACHU: Chu!"
-	line "Pikachu!"
+	text "<p><I><y><q><a><'><c><h><u>: chu!"
+	line "pIyqa'chu!"
 	done
 
 _PokemonFanClubSeelText::
-	text "SEEL: Kyuoo!"
+	text "<n><o><r><I><g><h>: qIyu'u!"
 	done
 
 _PokemonFanClubChairmanIntroText::
-	text "I chair the"
-	line "#MON Fan Club!"
+	text "#<m><a><n> ngotlhwI'"
+	line "ghom vIDev!"
 
-	para "I have collected"
-	line "over 100 #MON!"
+	para "wa'vatlh #<m><a><n>"
+	line "vIboSta'!"
 
-	para "I'm very fussy"
-	line "when it comes to"
-	cont "#MON!"
+	para "#<m><a><n> vIqelDI'"
+	line "Segh vImaSbogh"
+	cont "vISovchu'!"
 
-	para "So..."
+	para "vaj..."
 
-	para "Did you come"
-	line "visit to hear"
-	cont "about my #MON?"
+	para "#<m><a><n>wIj"
+	line "vIDel 'e' "
+	cont "Da'Ij DaneH'a'?"
 	done
 
 _PokemonFanClubChairmanStoryText::
-	text "Good!"
-	line "Then listen up!"
+	text "maj!"
+	line "vaj HIQoy!"
 
-	para "My favorite"
-	line "RAPIDASH..."
+	para "<n><o><m><q><e><t><q><u><'>"
+	line "vImaSqu'..."
 
-	para "It...cute..."
-	line "lovely...smart..."
-	cont "plus...amazing..."
-	cont "you think so?..."
-	cont "oh yes...it..."
-	cont "stunning..."
-	cont "kindly..."
-	cont "love it!"
+	para "'IH...'oH..."
+	line "QaQ...val..."
+	cont "'ej...Dunqu'..."
+	cont "DaHar'a'?..."
+	cont "majQa'...'oH..."
+	cont "DuqmoH..."
+	cont "DochHa'..."
+	cont "muSHa'!"
 
-	para "Hug it...when..."
-	cont "sleeping...warm"
-	cont "and cuddly..."
-	cont "spectacular..."
-	cont "ravishing..."
-	cont "...Oops! Look at"
-	cont "the time! I kept"
-	cont "you too long!"
+	para "vI'uch...Qong..."
+	line "maQongDI'...ghun"
+	cont "'ej tun..."
+	cont "Dunqu'..."
+	cont "Dun...qu'..."
+	cont "...va! rep"
+	cont "yIngu'! poH nI'"
+	cont "jIjatlhpu'!"
 
-	para "Thanks for hearing"
-	line "me out! I want"
-	cont "you to have this!"
+	para "choQoypu' 'e'"
+	line "vItlho'qu'! pop"
+	cont "Daqotlh!"
 	prompt
 
 _PokemonFanClubReceivedBikeVoucherText::
-	text "<PLAYER> received"
-	line "a @"
-	text_ram wStringBuffer
-	text "!@"
+	text "<D><u><j> <g><h><u><n><t><a>"
+	line "Hev <PLAYER>!"
 	text_end
 
 _PokemonFanClubExplainBikeVoucherText::
 	text_start
 
-	para "Exchange that for"
-	line "a BICYCLE!"
+	para "<q><a><m> <D><o> <D><u><j> SuqmeH"
+	line "'oH mechlu'!"
 
-	para "Don't worry, my"
-	line "FEAROW will FLY"
-	cont "me anywhere!"
+	para "HIQepQo', Dat"
+	line "vIjaHmeH muqeng"
+	cont "<g><h><I><j><q><I><t>wIj!"
 
-	para "So, I don't need a"
-	line "BICYCLE!"
+	para "vaj <q><a><m> <D><o> <D><u><j>"
+	line "vIpoQbe'!"
 
-	para "I hope you like"
-	line "cycling!"
+	para "HoS 'uSDu'lIj"
+	line "'e' vIvoq!"
 	done
 
 _PokemonFanClubNoStoryText::
-	text "Oh. Come back"
-	line "when you want to"
-	cont "hear my story!"
+	text "vaj... lutwIj"
+	line "DaQoyqangDI'"
+	cont "yIchegh!"
 	done
 
 _PokemonFanClubChairFinalText::
-	text "Hello, <PLAYER>!"
+	text "qavan, <PLAYER>!"
 
-	para "Did you come see"
-	line "me about my"
-	cont "#MON again?"
+	para "#<m><a><n> DIrIchmeH"
+	line "bIcheghpu''a'?"
 
-	para "No? Too bad!"
+	para "ghobe'? Do'Ha'!"
 	done
 
 _PokemonFanClubBagFullText::
-	text "Make room for"
-	line "this!"
+	text "luchvamvaD buqlIj"
+	line "yIbuy'Ha'moH!"
 	done
 
 _PokemonFanClubReceptionistText::
-	text "Our Chairman is"
-	line "very vocal about"
-	cont "#MON."
+	text "#<m><a><n> rIch 'e'"
+	line "tIvqu' DevwI'ma'!"
 	done
 
 _PokemonFanClubSign1Text::
-	text "Let's all listen"
-	line "politely to other"
-	cont "trainers!"
+	text "reH qeqwI' yI'Ij!"
+	line "yIDochHa'!"
 	done
 
 _PokemonFanClubSign2Text::
-	text "If someone brags,"
-	line "brag right back!"
+	text "mIychugh vay'"
+	line "mIymeH yIjach!"
 	done
