@@ -1,71 +1,69 @@
 _BikeShopClerkWelcomeText::
-	text "Hi! Welcome to"
-	line "our BIKE SHOP."
+	text "nuqneH? <q><a><m> <D><o> <D><u><j>"
+	line "vIngev."
 
-	para "Have we got just"
-	line "the BIKE for you!"
+	para "SoHvaD <q><a><m> <D><o> <D><u><j>"
+	line "mItchu' wIghajbej!"
 	prompt
 
 _BikeShopClerkDoYouLikeItText::
-	text "It's a cool BIKE!"
-	line "Do you want it?"
+	text "qu' <q><a><m> <D><o> <D><u><j>vam!"
+	line "DaneH'a'?"
 	done
 
 _BikeShopCantAffordText::
-	text "Sorry! You can't"
-	line "afford it!"
+	text "DaDIllaHbelaw'!"
+	line "yImej!"
 	prompt
 
 _BikeShopClerkOhThatsAVoucherText::
-	text "Oh, that's..."
+	text "toH, Dochvam..."
 
-	para "A BIKE VOUCHER!"
+	para "<D><u><j> <g><h><u><n><t><a> 'oH!"
 
-	para "OK! Here you go!"
+	para "maj! DatlhaplaH!"
 	prompt
 
 _BikeShopExchangedVoucherText::
-	text "<PLAYER> exchanged"
-	line "the BIKE VOUCHER"
-	cont "for a BICYCLE.@"
+	text "<q><a><m> <D><o> <D><u><j> je'meH"
+	line "<D><u><j> <g><h><u><n><t><a> "
+	cont "nob <PLAYER>.@"
 	text_end
 
 _BikeShopComeAgainText::
-	text "Come back again"
-	line "some time!"
+	text "tugh yIchegh!"
 	done
 
 _BikeShopClerkHowDoYouLikeYourBicycleText::
-	text "How do you like"
-	line "your new BICYCLE?"
+	text "<q><a><m> <D><o> <D><u><j>lIj"
+	line "DatIv'a'?"
 
-	para "You can take it"
-	line "on CYCLING ROAD"
-	cont "and in caves!"
+	para "DISDaq bIlengmeH"
+	line "'oH Dalo'laH!"
+	cont "qam Do Duj tawDaq"
+	cont "bIlenglaH je!"
 	done
 
 _BikeShopBagFullText::
-	text "You better make"
-	line "room for this!"
+	text "luchvam DaSuqmeH"
+	line "buqlIj yIchImmoH!"
 	done
 
 _BikeShopMiddleAgedWomanText::
-	text "A plain city BIKE"
-	line "is good enough"
-	cont "for me!"
+	text "jIHvaD yap <q><a><m> <D><o>"
+	line "<D><u><j> nap."
 
-	para "You can't put a"
-	line "shopping basket"
-	cont "on an MTB!"
+	para "'unwat qenglu'meH"
+	line "<q><a><m> <D><o> <D><u><j> Hoy "
+	cont "lIghnISbe'lu'!"
 	done
 
 _BikeShopYoungsterTheseBikesAreExpensiveText::
-	text "These BIKEs are"
-	line "cool, but they're"
-	cont "way expensive!"
+	text "qu' <q><a><m> <D><o> <D><u><j>mey"
+	line "'ach waghqu'!"
 	done
 
 _BikeShopYoungsterCoolBikeText::
-	text "Wow. Your BIKE is"
-	line "really cool!"
+	text "toH. qu'qu' <q><a><m>"
+	line "<D><o> <D><u><j>lIj!"
 	done
