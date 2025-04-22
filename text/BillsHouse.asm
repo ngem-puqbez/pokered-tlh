@@ -1,88 +1,90 @@
 _BillsHouseBillImNotAPokemonText::
-	text "Hiya! I'm a"
-	line "#MON..."
-	cont "...No I'm not!"
+	text "qavan! #<m><a><n>"
+	line "jIH..."
+	cont "...loS... qarbe'!"
 
-	para "Call me BILL!"
-	line "I'm a true blue"
-	cont "#MANIAC! Hey!"
-	cont "What's with that"
-	cont "skeptical look?"
+	para "<b><I><l> HIpong!"
+	line "#<n><g><o><t><l><h><w><I><'>na'"
+	cont "jIHqu'bej! toH!"
+	cont "qatlh mu'wIj"
+	cont "DaHarbe'law'?"
 
-	para "I'm not joshing"
-	line "you, I screwed up"
-	cont "an experiment and"
-	cont "got combined with"
-	cont "a #MON!"
+	para "jIqIDtaHbe'!"
+	line "qen jIngongtaH"
+	cont "'ej waSqu' vay'!"
+	cont "ghIq mamergh. DaH"
+	cont "wa' yagh mamojpu'!"
 
-	para "So, how about it?"
-	line "Help me out here!"
+	para "nIteb vIlo'laHbe'!"
+	line "choQaH'a'?"
 	done
 
 _BillsHouseBillUseSeparationSystemText::
-	text "When I'm in the"
-	line "TELEPORTER, go to"
-	cont "my PC and run the"
-	cont "Cell Separation"
-	cont "System!"
+	text "jolpat vI'elDI'"
+	line "De'wI'wIj yIlo'"
+	cont "'ej HanDI'"
+	cont "chevwI' pat"
+	cont "yIchu'!"
 	done
 
 _BillsHouseBillNoYouGottaHelpText::
-	text "No!? Come on, you"
-	line "gotta help a guy"
-	cont "in deep trouble!"
+	text "ghobe'!? qatlh?"
+	line "QaH vIpoQ!"
+	cont "choQaHnIS!"
 
-	para "What do you say,"
-	line "chief? Please?"
-	cont "OK? All right!"
+	para "ghu'vam Dalaj'a'?"
+	line "qatlhob. qaqoy'!"
+	cont "HIja'? maj!"
 	prompt
 
 _BillsHouseBillThankYouText::
-	text "BILL: Yeehah!"
-	line "Thanks, bud! I"
-	cont "owe you one!"
+	text "<b><I><l>: majQa'!"
+	line "qatlho'nIS!"
+	cont "qawelqu'!"
 
-	para "So, did you come"
-	line "to see my #MON"
-	cont "collection?"
-	cont "You didn't?"
-	cont "That's a bummer."
+	para "toH, #<m><a><n>"
+	line "vIboSta'bogh"
+	cont "Daleng DaneH'a'?"
+	cont "ghobe'?"
+	cont "chobelHa'moH."
 
-	para "I've got to thank"
-	line "you... Oh here,"
-	cont "maybe this'll do."
+	para "qatlho'nISqu'..."
+	line "toH! chaq yap"
+	cont "nobvam."
 	prompt
 
 _SSTicketReceivedText::
-	text "<PLAYER> received"
-	line "an @"
+	text "@"
 	text_ram wStringBuffer
-	text "!@"
+	text " Suq"
+	line "<PLAYER>!@"
 	text_end
 
 _SSTicketNoRoomText::
-	text "You've got too"
-	line "much stuff, bud!"
+	text "wejHa' buy'"
+	line "buqlIj, jup!"
 	done
 
 _BillsHouseBillWhyDontYouGoInsteadOfMeText::
-	text "That cruise ship,"
-	line "S.S.ANNE, is in"
-	cont "VERMILION CITY."
-	cont "Its passengers"
-	cont "are all trainers!"
+	text "<b><e><q><p><u><j> <v><e><n><g>Daq"
+	line "Duj tu'lu'. <b><I><Q><D><u><j>"
+	cont "<H><o><y><q><u><'> 'oH"
+	cont "Dujvetlh pong'e'."
+	cont "#<m><a><n> qeqwI'"
+	cont "chaH Hoch"
+	cont "raQpo'Dajpu'!"
 
-	para "They invited me"
-	line "to their party,"
-	cont "but I can't stand"
-	cont "fancy do's. Why"
-	cont "don't you go"
-	cont "instead of me?"
+	para "lopchaj vISuchmeH"
+	line "murIt, 'ach"
+	cont "qepmey Hoy"
+	cont "vIcherghlaHbe'."
+	cont "vaj, DaSaH 'e'"
+	cont "vIchup. choqa'laH!"
 	done
 
 _BillsHouseBillCheckOutMyRarePokemonText::
-	text "BILL: Look, bud,"
-	line "just check out"
-	cont "some of my rare"
-	cont "#MON on my PC!"
+	text "<b><I><l>: toH, bImejpa'"
+	line "#<m><a><n>wIj qub"
+	cont "yIghan. DaleghmeH"
+	cont "De'wI'wIj yInaw'!"
 	done
