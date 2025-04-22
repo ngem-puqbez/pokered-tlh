@@ -1,45 +1,44 @@
 _PokemonTower3FChanneler1BattleText::
-	text "Urrg...Awaa..."
-	line "Huhu...graa.."
+	text "'urugh...'awa'..."
+	line "HghHgh...gha'a..."
 	done
 
 _PokemonTower3FChanneler1EndBattleText::
-	text "Hwa!"
-	line "I'm saved!"
+	text "Hu!"
+	line "vItoDlu'!"
 	prompt
 
 _PokemonTower3FChanneler1AfterBattleText::
-	text "The GHOSTs can be"
-	line "identified by the"
-	cont "SILPH SCOPE."
+	text "qa'mey ngu'laH"
+	line "<S><o><'><H><a><'><m><o><H><w><I><'>."
 	done
 
 _PokemonTower3FChanneler2BattleText::
-	text "Kekeke...."
-	line "Kwaaah!"
+	text "qIqIqIqI...."
+	line "Quwa!"
 	done
 
 _PokemonTower3FChanneler2EndBattleText::
-	text "Hmm?"
-	line "What am I doing?"
+	text "Huu?"
+	line "qaStaH nuq?"
 	prompt
 
 _PokemonTower3FChanneler2AfterBattleText::
-	text "Sorry! I was"
-	line "possessed!"
+	text "jIQuSqu'! muSeH"
+	line "qa' mIgh!"
 	done
 
 _PokemonTower3FChanneler3BattleText::
-	text "Be gone!"
-	line "Evil spirit!"
+	text "yImej!"
+	line "yImej, qa'!"
 	done
 
 _PokemonTower3FChanneler3EndBattleText::
-	text "Whew!"
-	line "The spirit left!"
+	text "Dul!"
+	line "tlheDpu' qa'!"
 	prompt
 
 _PokemonTower3FChanneler3AfterBattleText::
-	text "My friends were"
-	line "possessed too!"
+	text "juppu'wI' SeH"
+	line "qa'mey je!"
 	done
