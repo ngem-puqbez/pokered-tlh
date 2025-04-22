@@ -1,37 +1,37 @@
 _RedsHouse1FMomWakeUpText::
-	text "MOM: Right."
-	line "All boys leave"
-	cont "home some day."
-	cont "It said so on TV."
+	text "<S><o><S>: toH."
+	line "SIbI'Ha' juH"
+	cont "tlheD puq Hoch."
+	cont "ngoDvam Sov Hoch."
 
-	para "PROF.OAK, next"
-	line "door, is looking"
-	cont "for you."
+	para "DunejtaH <'><o><Q>."
+	line "tugh DaSuch net"
+	cont "tlheb."
 	done
 
 _RedsHouse1FMomYouShouldRestText::
-	text "MOM: <PLAYER>!"
-	line "You should take a"
-	cont "quick rest."
+	text "<S><o><S>: <PLAYER>!"
+	line "bIDoy'ba'. DaH"
+	cont "nom yIleS."
 	prompt
 
 _RedsHouse1FMomLookingGreatText::
-	text "MOM: Oh good!"
-	line "You and your"
-	cont "#MON are"
-	cont "looking great!"
-	cont "Take care now!"
+	text "<S><o><S>: maj!"
+	line "DaH SuDunbej SoH"
+	cont "#<m><a><n>lIj je."
+	cont "DaH bItaHlaH!"
+	cont "yIyeptaH!"
 	done
 
 _RedsHouse1FTVStandByMeMovieText::
-	text "There's a movie"
-	line "on TV. Four boys"
-	cont "are walking on"
-	cont "railroad tracks."
+	text "logh torSIv HaSta"
+	line "much cha'lu'."
+	cont "verghvo' tenlI'"
+	cont "Duj chu'."
 
-	para "I better go too."
+	para "DaH jImejnIS je."
 	done
 
 _RedsHouse1FTVWrongSideText::
-	text "Oops, wrong side."
+	text "Dopvam yIbejQo'."
 	done
