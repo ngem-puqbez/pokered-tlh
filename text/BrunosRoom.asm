@@ -1,37 +1,35 @@
 _BrunoBeforeBattleText::
-	text "I am BRUNO of"
-	line "the ELITE FOUR!"
+	text "<S><o><m><r><o><'> jIH!"
+	line "<l><o><S> <n><I><v><w><I><'> vI'oS!"
 
-	para "Through rigorous"
-	line "training, people"
-	cont "and #MON can"
-	cont "become stronger!"
+	para "qeqqu'chugh"
+	line "HoSchoH ghotpu'"
+	cont "#<m><a><n>mey je."
 
-	para "I've weight"
-	line "trained with"
-	cont "my #MON!"
+	para "maqeqmeH luch"
+	line "'ugh DIpep jIH"
+	cont "#<m><a><n>wIj je!"
 
 	para "<PLAYER>!"
 
-	para "We will grind you"
-	line "down with our"
-	cont "superior power!"
+	para "ghoqaDchugh vaj"
+	line "rebeQmoHchu'!"
 
-	para "Hoo hah!"
+	para "batlh yISuv!"
 	done
 
 _BrunoEndBattleText::
-	text "Why?"
-	line "How could I lose?"
+	text "ghuy'!"
+	line "chay' maluj?"
 	prompt
 
 _BrunoAfterBattleText::
-	text "My job is done!"
-	line "Go face your next"
-	cont "challenge!"
+	text "rIn Qu'wIj!"
+	line "qaDlIj veb bammeH"
+	cont "yIruch!"
 	done
 
 _BrunosRoomBrunoDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "vay' ghogh:"
+	line "DaH yIHeDQo'!"
 	done
