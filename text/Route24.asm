@@ -1,67 +1,66 @@
 _Route24CooltrainerM1YouBeatOurContestText::
-	text "Congratulations!"
-	line "You beat our 5"
-	cont "contest trainers!@"
+	text "majQa'!"
+	line "vagh chojwI'"
+	cont "qaDmaj Dajeyta'!@"
 	text_end
 
 _Route24CooltrainerM1YouJustEarnedAPrizeText::
 	text_start
 
-	para "You just earned a"
-	line "fabulous prize!"
+	para "vaj tev Dun"
+	line "Dabajpu'!"
 	prompt
 
 _Route24CooltrainerM1ReceivedNuggetText::
-	text "<PLAYER> received"
-	line "a @"
+	text "@"
 	text_ram wStringBuffer
-	text "!@"
+	text " Suq"
+	line "<PLAYER>!@"
 	text_end
 
 _Route24CooltrainerM1NoRoomText::
-	text "You don't have"
-	line "any room!"
+	text "buy' buqlIj."
+	line "Doch DatlhaplaHbe'!"
 	done
 
 _Route24CooltrainerM1JoinTeamRocketText::
-	text "By the way, would"
-	line "you like to join"
-	cont "TEAM ROCKET?"
+	text "Dechel... "
+	line "<p><e><n><g><D><u><j> ghom"
+	cont "Damuv DaneH'a'?"
 
-	para "We're a group"
-	line "dedicated to evil"
-	cont "using #MON!"
+	para "Qu'mey mIgh ta'meH"
+	line "#<m><a><n> lo' "
+	cont "ghommaj!"
 
-	para "Want to join?"
+	para "jumuv'a'?"
 
-	para "Are you sure?"
+	para "bIna''a'?"
 
-	para "Come on, join us!"
+	para "chay? ghomuv!"
 
-	para "I'm telling you"
-	line "to join!"
+	para "jumuv 'e' "
+	line "qara'taH!"
 
-	para "OK, you need"
-	line "convincing!"
+	para "toH, qaponnISlaw'!"
 
-	para "I'll make you an"
-	line "offer you can't"
-	cont "refuse!"
+	para "qajeychugh vaj"
+	line "bImuvnISbej!"
 	done
 
 _Route24CooltrainerM1DefeatedText::
-	text "Arrgh!"
-	line "You are good!"
+	text "Hu'tegh!"
+	line "bIpo'ba'!"
 	prompt
 
 _Route24CooltrainerM1YouCouldBecomeATopLeaderText::
-	text "With your ability,"
-	line "you could become"
-	cont "a top leader in"
-	cont "TEAM ROCKET!"
+	text "laHlIj Dalo'chugh"
+	line "<p><e><n><g><D><u><j> ghom"
+	cont "DevwI' potlh"
+	cont "DagheSlaH!"
 	done
 
 _Route24CooltrainerM2BattleText::
-	text "I saw your feat"
-	line "from the grass!"
+	text "maghvamDaq"
+	line "jISo'taHvIS"
+	cont "ta'lIj vIlegh!"
 	done
