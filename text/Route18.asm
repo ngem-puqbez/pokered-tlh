@@ -1,58 +1,56 @@
 _Route18CooltrainerM1BattleText::
-	text "I always check"
-	line "every grassy area"
-	cont "for new #MON."
+	text "magh woch chu'"
+	line "vIleghDI' 'oHDaq"
+	cont "#<m><a><n> vInejchoH."
 	done
 
 _Route18CooltrainerM1EndBattleText::
-	text "Tch!"
+	text "toH!"
 	prompt
 
 _Route18CooltrainerM1AfterBattleText::
-	text "I wish I had a"
-	line "BIKE!"
+	text "<q><a><m> <D><o> <D><u><j> vIghaj"
+	line "'e' vIjIn!"
 	done
 
 _Route18CooltrainerM2BattleText::
-	text "Kurukkoo!"
-	line "How do you like"
-	cont "my bird call?"
+	text "bo'bo'bo'Degh!"
+	line "bo'Degh bom rur"
+	cont "ghoghwIj, qar'a'?"
 	done
 
 _Route18CooltrainerM2EndBattleText::
-	text "I"
-	line "had to bug you!"
+	text " "
+	line "qanuQpu'nIS!"
 	prompt
 
 _Route18CooltrainerM2AfterBattleText::
-	text "I also collect sea"
-	line "#MON on"
-	cont "weekends!"
+	text "jIvumnISbe'chugh"
+	line "naDev jIjaH 'ej"
+	cont "#<m><a><n> vInej!"
 	done
 
 _Route18CooltrainerM3BattleText::
-	text "This is my turf!"
-	line "Get out of here!"
+	text "Daq'a'wIj 'oH"
+	line "naDev'e'! yImej!"
 	done
 
 _Route18CooltrainerM3EndBattleText::
-	text "Darn!"
+	text "va!
 	prompt
 
 _Route18CooltrainerM3AfterBattleText::
-	text "This is my fave"
-	line "#MON hunting"
-	cont "area!"
+	text "naDev vIwam"
+	line "'e' vImaSqu'!"
 	done
 
 _Route18SignText::
-	text "ROUTE 18"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	text "He wa'maH chorgh"
+	line "<n><g><o><p><w><a><g><h> <v><e><n><g> -"
+	cont "<t><a><r><D><e><H> <v><e><n><g>"
 	done
 
 _Route18CyclingRoadSignText::
-	text "CYCLING ROAD"
-	line "No pedestrians"
-	cont "permitted!"
+	text "<q><a><m> <D><o> <D><u><j> <t><a><w>"
+	line "yItwI' lutuchlu'!"
 	done
