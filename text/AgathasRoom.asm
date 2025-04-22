@@ -1,44 +1,42 @@
 _AgathaBeforeBattleText::
-	text "I am AGATHA of"
-	line "the ELITE FOUR!"
+	text "<q><a><'><r><a><n><a> jIH!"
+	line "<l><o><S> <n><I><v><w><I><'> vI'oS!"
 
-	para "OAK's taken a lot"
-	line "of interest in"
-	cont "you, child!"
+	para "<'><o><Q> 'a'genvaD"
+	line "bIDajbej, puq!"
 
-	para "That old duff was"
-	line "once tough and"
-	cont "handsome! That"
-	cont "was decades ago!"
+	para "'op ret 'IH"
+	line "qoHvam qan, 'ej"
+	cont "rotlh! 'ach"
+	cont "'opmaH ben!"
 
-	para "Now he just wants"
-	line "to fiddle with"
-	cont "his #DEX! He's"
-	cont "wrong! #MON"
-	cont "are for fighting!"
+	para "DaH #<p><a><q> 'urgh"
+	line "neH ghaH!"
+	cont "'a lughbe'qu'!"
+	cont "Suv #<m><a><n>mey"
+	cont "net tlheb!"
 
-	para "<PLAYER>! I'll show"
-	line "you how a real"
-	cont "trainer fights!"
+	para "<PLAYER>! DaH"
+	line "SoHvaD qeqwI'na'"
+	cont "may' vI'ang!"
 	done
 
 _AgathaEndBattleText::
-	text "Oh ho!"
-	line "You're something"
-	cont "special, child!"
+	text "HaHagh!"
+	line "bIle'bej, puq."
 	prompt
 
 _AgathaAfterBattleText::
-	text "You win! I see"
-	line "what the old duff"
-	cont "sees in you now!"
+	text "bIQap! DaH"
+	line "buvlIj'e'"
+	cont "leghbogh <'><o><Q>"
+	cont "vIlegh je!"
 
-	para "I have nothing"
-	line "else to say! Run"
-	cont "along now, child!"
+	para "pagh vIjatlhnIS!"
+	line "yIruch, puq!"
 	done
 
 _AgathasRoomAgathaDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "vay' ghogh:"
+	line "DaH yIHeDQo'!"
 	done
