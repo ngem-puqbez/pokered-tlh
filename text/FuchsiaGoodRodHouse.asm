@@ -1,44 +1,43 @@
 _FuchsiaGoodRodHouseFishingGuruText::
-	text "I'm the FISHING"
-	line "GURU's older"
-	cont "brother!"
+	text "ghotI' wamwI'"
+	line "pIn'a' loDnI' qan"
+	cont "jIH!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "ghotI' vIwam 'e'"
+	line "vIparHa'qu'!"
 
-	para "Do you like to"
-	line "fish?"
+	para "ghotI Dawam 'e'"
+	line "DaparHa''a'?"
 	done
 
 _FuchsiaGoodRodHouseFishingGuruReceivedGoodRodText::
-	text "Grand! I like"
-	line "your style!"
+	text "maj! butlhlIj"
+	line "vIparHa'!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "luchvam yItlhap"
+	line "'ej yIwam, QupwI'!"
 
-	para "<PLAYER> received"
-	line "a @"
+	para "@"
 	text_ram wStringBuffer
-	text "!@"
+	text_start
+	line "Suq <PLAYER>!@"
+	text_end
 	text_end
 
 _FuchsiaGoodRodHouseFishingGuruThatsSoDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Hu... "
+	line "chobelHa'moHqu'..."
 	done
 
 _FuchsiaGoodRodHouseFishingGuruHowAreTheFishText::
-	text "Hello there,"
-	line "<PLAYER>!"
+	text "qavan, <PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "ngelwI' choptaH'a'"
+	line "ghotI'mey?"
 	done
 
 _FuchsiaGoodRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "va'!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "nobwIj DalajlaHbe'!"
 	done
