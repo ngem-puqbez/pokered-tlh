@@ -1,117 +1,118 @@
 _PewterCityCooltrainerFText::
-	text "It's rumored that"
-	line "CLEFAIRYs came"
-	cont "from the moon!"
+	text "maS 'oH <j><a><g><h><'><I><v>"
+	line "mung 'e' ja'"
+	cont "joS vIQoybogh!"
 
-	para "They appeared "
-	line "after MOON STONE"
-	cont "fell on MT.MOON."
+	para "<m><a><S> <H><u><D>Daq pumDI'"
+	line "<m><a><S> <n><a><g><h>, nargh"
+	cont "<j><a><g><h><'><I><v>mey je."
 	done
 
 _PewterCityCooltrainerMText::
-	text "There aren't many"
-	line "serious #MON"
-	cont "trainers here!"
+	text "naDev puS"
+	line "#<m><a><n> qeqwI'"
+	cont "Sagh!"
 
-	para "They're all like"
-	line "BUG CATCHERs,"
-	cont "but PEWTER GYM's"
-	cont "BROCK is totally"
-	cont "into it!"
+	para "ghew jonwI'pu'"
+	line "chaHlaw' Hoch,"
+	cont "'ach Saghchu'"
+	cont "<r><o><t><l><h><I><l>. vengvam"
+	cont "qaDpIn ghaH!"
 	done
 
 _PewterCitySuperNerd1DidYouCheckOutMuseumText::
-	text "Did you check out"
-	line "the MUSEUM?"
+	text "wejHa' 'angweD"
+	line "DaSuch'a'?"
 	done
 
 _PewterCitySuperNerd1WerentThoseFossilsAmazingText::
-	text "Weren't those"
-	line "fossils from MT."
-	cont "MOON amazing?"
+	text "Dun 'an'or"
+	line "'angbogh 'e'"
+	cont "DaQochbe''a'?"
 	done
 
 _PewterCitySuperNerd1YouHaveToGoText::
-	text "Really?"
-	line "You absolutely"
-	cont "have to go!"
+	text "teH'a'?"
+	line "DaSuchnIS 'e'"
+	cont "vIqapbej!"
 	done
 
 _PewterCitySuperNerd1ItsRightHereText::
-	text "It's right here!"
-	line "You have to pay"
-	cont "to get in, but"
-	cont "it's worth it!"
-	cont "See you around!"
+	text "naDev 'oH!"
+	line "bI'elmeH DaDIlnIS"
+	cont "'ach Huch qotlh"
+	cont "Dochmey"
+	cont "DaleghlaHbogh!"
 	done
 
 _PewterCitySuperNerd2DoYouKnowWhatImDoingText::
-	text "Psssst!"
-	line "Do you know what"
-	cont "I'm doing?"
+	text "toH!"
+	line "Qu' vIturtaHbogh"
+	cont "DaSov'a'?"
 	done
 
 _PewterCitySuperNerd2ThatsRightText::
-	text "That's right!"
-	line "It's hard work!"
+	text "bIlugh!"
+	line "Qatlh ghIgh 'oH!"
 	done
 
 _PewterCitySuperNerd2ImSprayingRepelText::
-	text "I'm spraying REPEL"
-	line "to keep #MON"
-	cont "out of my garden!"
+	text "#<m><a><n> vIbotmeH"
+	line "Du'HomwIjDaq"
+	cont "<D><o><H><m><o><H><w><I><'> vIghay."
 	done
 
 _PewterCityYoungsterYoureATrainerFollowMeText::
-	text "You're a trainer"
-	line "right? BROCK's"
-	cont "looking for new"
-	cont "challengers!"
-	cont "Follow me!"
+	text "chojwI' SoH, "
+	line "qar'a'? qaDwI'"
+	cont "chu' Suv neH"
+	cont "<r><o><t><l><h><I><l>!"
+	cont "HItlha'!"
 	done
 
 _PewterCityYoungsterGoTakeOnBrockText::
-	text "If you have the"
-	line "right stuff, go"
-	cont "take on BROCK!"
+	text "yap HoSlIj 'e'"
+	line "DaHarchugh, vaj"
+	cont "<r><o><t><l><h><I><l> yIqaD!"
 	done
 
 _PewterCityTrainerTipsText::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "Any #MON that"
-	line "takes part in"
-	cont "battle, however"
-	cont "short, earns EXP!"
+	para "may' qaStaHvIS"
+	line "SaHchugh #<m><a><n>"
+	cont "HenwI' mIvwa' Suq,"
+	cont "vabDot"
+	cont "HIvbe'chugh!"
 	done
 
 _PewterCityPoliceNoticeSignText::
-	text "NOTICE!"
+	text "peqIm!"
 
-	para "Thieves have been"
-	line "stealing #MON"
-	cont "fossils at MT."
-	cont "MOON! Please call"
-	cont "PEWTER POLICE"
-	cont "with any info!"
+	para "<m><a><S> <H><u><D>Daq"
+	line "#<m><a><n>mey nIHtaH"
+	cont "nIHwI'pu'!"
+	cont "chaH bopbogh De'"
+	cont "Daghajchugh,"
+	cont "ghan'IqvaD yIja'!"
 	done
 
 _PewterCityMuseumSignText::
-	text "PEWTER MUSEUM"
-	line "OF SCIENCE"
+	text "<H><o><t><n><a><g><h> <v><e><n><g>"
+	line "QeD 'angweD"
 	done
 
 _PewterCityGymSignText::
-	text "PEWTER CITY"
-	line "#MON GYM"
-	cont "LEADER: BROCK"
+	text "<H><o><t><n><a><g><h> <v><e><n><g>"
+	line "#<m><a><n> qaDqach"
+	cont "qaDpIn: <r><o><t><l><h><I><l>"
 
-	para "The Rock Solid"
-	line "#MON Trainer!"
+	para "Sub qeqwI'vam;"
+	line "nagh rur!"
 	done
 
 _PewterCitySignText::
-	text "PEWTER CITY"
-	line "A Stone Gray"
-	cont "City"
+	text "<H><o><t><n><a><g><h> veng"
+	line "qIj veng'e' 'ej"
+	cont "wov; nagh rur"
 	done
