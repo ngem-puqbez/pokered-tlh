@@ -1,60 +1,57 @@
 _NameRatersHouseNameRaterWantMeToRateText::
-	text "Hello, hello!"
-	line "I am the official"
-	cont "NAME RATER!"
+	text "toH! qavan!"
+	line "pong pojwI'"
+	cont "chap jIH!"
 
-	para "Want me to rate"
-	line "the nicknames of"
-	cont "your #MON?"
+	para "#<m><a><n>lIj pongHom"
+	line "vIpoj DaneH'a'?"
 	done
 
 _NameRatersHouseNameRaterWhichPokemonText::
-	text "Which #MON"
-	line "should I look at?"
+	text "#<m><a><n> pong"
+	line "vIpojbogh yIwIv!"
 	prompt
 
 _NameRatersHouseNameRaterGiveItANiceNameText::
 	text_ram wNameBuffer
-	text ", is it?"
-	line "That is a decent"
-	cont "nickname!"
+	text ","
+	line "qar'a'? qabbe'"
+	cont "pongHom!"
 
-	para "But, would you"
-	line "like me to give"
-	cont "it a nicer name?"
-
-	para "How about it?"
+	para "'a pongHom"
+	line "qaq Danob"
+	cont "DaneH'a'?"
 	done
 
 _NameRatersHouseNameRaterWhatShouldWeNameItText::
-	text "Fine! What should"
-	line "we name it?"
+	text "maj! nuq wIpong"
+	line "'e' Datlheb?"
 	prompt
 
 _NameRatersHouseNameRaterPokemonHasBeenRenamedText::
-	text "OK! This #MON"
-	line "has been renamed"
-	cont "@"
+	text "pItlh! DaH"
+	line "#<m><a><n>vam pong"
+	cont "'oH @"
 	text_ram wBuffer
-	text "!"
+	text "'e'!"
 
-	para "That's a better"
-	line "name than before!"
+	para "toH, pongvam"
+	line "QaQ law' DeqwI'"
+	cont "QaQ puS!"
 	done
 
 _NameRatersHouseNameRaterComeAnyTimeYouLikeText::
-	text "Fine! Come any"
-	line "time you like!"
+	text "maj! reH choSuch"
+	line "'e' vIchaw'!"
 	done
 
 _NameRatersHouseNameRaterATrulyImpeccableNameText::
 	text_ram wNameBuffer
-	text ", is it?"
-	line "That is a truly"
-	cont "impeccable name!"
+	text " Dapong!"
+	line "pong pup 'oHbej!"
 
-	para "Take good care of"
-	line "@"
+	para "@"
 	text_ram wNameBuffer
-	text "!"
+	text " "
+	line "yIQorghtaH!"
 	done
