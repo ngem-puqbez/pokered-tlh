@@ -1,100 +1,97 @@
 _CopycatsHouse2FCopycatDoYouLikePokemonText::
-	text "<PLAYER>: Hi! Do"
-	line "you like #MON?"
+	text "<PLAYER>: qavan!"
+	line "#<m><a><n> Dapar'a'?"
 
-	para "<PLAYER>: Uh no, I"
-	line "just asked you."
+	para "<PLAYER>: Hu? Qo'!"
+	line "'eQ qayu'."
 
-	para "<PLAYER>: Huh?"
-	line "You're strange!"
+	para "<PLAYER>: nuq?"
+	line "bItaQ!"
 
-	para "COPYCAT: Hmm?"
-	line "Quit mimicking?"
+	para "<l><I><l><o><y>: nuqjatlh?"
+	line "qalIl 'e' vImev'a'?"
 
-	para "But, that's my"
-	line "favorite hobby!"
+	para "... Qo'? 'ach bel"
+	line "Qu'vam vImaSqu'!"
 	prompt
 
 _CopycatsHouse2FCopycatTM31PreReceiveText::
-	text "Oh wow!"
-	line "A # DOLL!"
+	text "povqu'!"
+	line "<r><a><g><h><g><h><a><n>!"
 
-	para "For me?"
-	line "Thank you!"
+	para "jIHvaD?"
+	line "qatlho'nIS!"
 
-	para "You can have"
-	line "this, then!"
+	para "vaj luchvam"
+	line "yItlhap!"
 	prompt
 
 _CopycatsHouse2FCopycatReceivedTM31Text::
-	text "<PLAYER> received"
-	line "@"
 	text_ram wStringBuffer
-	text "!@"
+	text " Suq"
+	cont "<PLAYER>."
 	text_end
 
 _CopycatsHouse2FCopycatTM31Explanation1Text::
 	text_start
 
-	para "TM31 contains my"
-	line "favorite, MIMIC!"
+	para "<l><I><l> tonSaw'"
+	line "ghojmoH tj31!"
+	cont "'oH vImaSqu'!"
 
-	para "Use it on a good"
-	line "#MON!@"
+	para "#<m><a><n> QaQvaD"
+	line "yIghojmoH!@"
 	text_end
 
 _CopycatsHouse2FCopycatTM31Explanation2Text::
-	text "<PLAYER>: Hi!"
-	line "Thanks for TM31!"
+	text "<PLAYER>: qavan!"
+	line "<t><j>31 vItlho'!"
 
-	para "<PLAYER>: Pardon?"
+	para "<PLAYER>: nuqjatlh?"
 
-	para "<PLAYER>: Is it"
-	line "that fun to mimic"
-	cont "my every move?"
+	para "<PLAYER>: cholIl"
+	line "'ej cholIl 'e'"
+	cont "DatIvqu''a'?"
 
-	para "COPYCAT: You bet!"
-	line "It's a scream!"
+	para "<l><I><l><o><y>: HIja'!"
+	line "chong 'oH!"
 	done
 
 _CopycatsHouse2FCopycatTM31NoRoomText::
-	text "Don't you want"
-	line "this?@"
+	text "DaneHbe''a'?@"
 	text_end
 
 _CopycatsHouse2FDoduoText::
-	text "DODUO: Giiih!"
+	text "<c><h><a><'><b><I><p>: ghI'Iq!"
 
-	para "MIRROR MIRROR ON"
-	line "THE WALL, WHO IS"
-	cont "THE FAIREST ONE"
-	cont "OF ALL?"
+	para "latlh nach:"
+	line "ghI'Iq!"
 	done
 
 _CopycatsHouse2FRareDollText::
-	text "This is a rare"
-	line "#MON! Huh?"
-	cont "It's only a doll!"
+	text "qubqu' #<m><a><n>vam!"
+	line "nuq?"
+	cont "<r><a><g><h><g><h><a><n> neH 'oH!"
 	done
 
 _CopycatsHouse2FSNESText::
-	text "A game with MARIO"
-	line "wearing a bucket"
-	cont "on his head!"
+	text "HaSta Quj 'oH!"
+	line "nachDaqDaq HaySIn"
+	cont "tuQtaH Sub!"
 	done
 
 _CopycatsHouse2FPCMySecretsText::
 	text "..."
 
-	para "My Secrets!"
+	para "peghmeywIj!"
 
-	para "Skill: Mimicry!"
-	line "Hobby: Collecting"
-	cont "dolls!"
-	cont "Favorite #MON:"
-	cont "CLEFAIRY!"
+	para "laHwIj: lIltaHghach!"
+	line "bel Qu': <r><a><g><h><g><h><a><n>mey"
+	cont "vIboS!"
+	cont "#<m><a><n> vImaSqu':"
+	cont "jagh'Iv!"
 	done
 
 _CopycatsHouse2FPCCantSeeText::
-	text "Huh? Can't see!"
+	text "nuq 'oH? jIleghlaHbe'!"
 	done
