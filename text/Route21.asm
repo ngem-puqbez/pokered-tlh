@@ -1,137 +1,139 @@
 _Route21Fisher1BattleText::
-	text "You want to know"
-	line "if the fish are"
-	cont "biting?"
+	text "ngelwI' choptaH'a'"
+	line "ghotI'? jISov"
+	cont "vIneH!"
 	done
 
 _Route21Fisher1EndBattleText::
-	text "Dang!"
+	text "ghuy'!"
 	prompt
 
 _Route21Fisher1AfterBattleText::
-	text "I can't catch"
-	line "anything good!"
+	text "vay' QaQ"
+	line "vIjonlaHbe'!"
 	done
 
 _Route21Fisher2BattleText::
-	text "I got a big haul!"
-	line "Wanna go for it?"
+	text "ghotI' law' vIjon!"
+	line "DaqaD DaneH'a'?"
 	done
 
 _Route21Fisher2EndBattleText::
-	text "Darn"
-	line "MAGIKARP!"
+	text "va!"
+	line "<g><h><o><t><I><D><n><a><r>wIj!"
 	prompt
 
 _Route21Fisher2AfterBattleText::
-	text "I seem to only"
-	line "catch MAGIKARP!"
+	text "nIteb <g><h><o><t><I><D><n><a><r>"
+	line "vIjonlaHlaw'!"
 	done
 
 _Route21Swimmer1BattleText::
-	text "The sea cleanses"
-	line "my body and soul!"
+	text "porghwIj qa'wIj je"
+	line "Say'moH bIQ'a'!"
 	done
 
 _Route21Swimmer1EndBattleText::
-	text "Ayah!"
+	text "'oy'!"
 	prompt
 
 _Route21Swimmer1AfterBattleText::
-	text "I like the"
-	line "mountains too!"
+	text "HuDmey vIparHa'"
+	line "je!"
 	done
 
 _Route21Swimmer2BattleText::
-	text "What's wrong with"
-	line "me swimming?"
+	text "jIQal net chaw'be'"
+	line "'e' DaHar'a'?"
 	done
 
 _Route21Swimmer2EndBattleText::
-	text "Cheap"
-	line "shot!"
+	text "bach"
+	line "Do'!"
 	prompt
 
 _Route21Swimmer2AfterBattleText::
-	text "I look like what?"
-	line "A studded inner"
-	cont "tube? Get lost!"
+	text "bIQ'a' tIv nuvmey"
+	line "law'. qa' je' bIQ"
+	cont "but."
 	done
 
 _Route21Swimmer3BattleText::
-	text "I caught all my"
-	line "#MON at sea!"
+	text "bIQ'a'Daq Hoch"
+	line "#<m><a><n>meywIj"
+	cont "vIjonpu'!"
 	done
 
 _Route21Swimmer3EndBattleText::
-	text "Diver!!"
-	line "Down!!"
+	text "tlhoS"
+	line "cho'oqmoH!!"
 	prompt
 
 _Route21Swimmer3AfterBattleText::
-	text "Where'd you catch"
-	line "your #MON?"
+	text "nuqDaq #<m><a><n>lIj"
+	line "Dajon?"
 	done
 
 _Route21Swimmer4BattleText::
-	text "Right now, I'm in"
-	line "a triathlon meet!"
+	text "wej Ho'DoS pIqcho'"
+	line "qaD qaStaH!"
+	cont "jI'ovtaH!"
 	done
 
 _Route21Swimmer4EndBattleText::
-	text "Pant..."
-	line "pant...pant..."
+	text "rech..."
+	line "por...rech..."
 	prompt
 
 _Route21Swimmer4AfterBattleText::
-	text "I'm beat!"
-	line "But, I still have"
-	cont "the bike race and"
-	cont "marathon left!"
+	text "wejHa' jIDoy'!"
+	line "'a qam Do Duj qaD"
+	cont "qetwI' qaD je"
+	cont "vIbamtaH!"
 	done
 
 _Route21Swimmer5BattleText::
-	text "Ahh! Feel the sun"
-	line "and the wind!"
+	text "maj! SuS jul je"
+	line "yIjem!"
 	done
 
 _Route21Swimmer5EndBattleText::
-	text "Yow!"
-	line "I lost!"
+	text "'oy'!"
+	line "jIluj!"
 	prompt
 
 _Route21Swimmer5AfterBattleText::
-	text "I'm sunburnt to a"
-	line "crisp!"
+	text "DIrwIj Doqqu'moH"
+	line "jul tamghay!"
 	done
 
 _Route21Fisher3BattleText::
-	text "Hey, don't scare"
-	line "away the fish!"
+	text "toH! ghotI'"
+	line "tIDoHmoHQo'!"
 	done
 
 _Route21Fisher3EndBattleText::
-	text "Sorry!"
-	line "I didn't mean it!"
+	text "jIQoS."
+	line "jIjach 'e'"
+	cont "vIHechbe'."
 	prompt
 
 _Route21Fisher3AfterBattleText::
-	text "I was just angry"
-	line "that I couldn't"
-	cont "catch anything."
+	text "pagh vIjonpu'mo'"
+	line "neH jIQeHchoH."
 	done
 
 _Route21Fisher4BattleText::
-	text "Keep me company"
-	line "'til I get a hit!"
+	text "ghotI' vIloStaHvIS"
+	line "naDev HItlhej!"
 	done
 
 _Route21Fisher4EndBattleText::
-	text "That"
-	line "burned some time."
+	text "poH"
+	line "DaDalHa'moHta'."
 	prompt
 
 _Route21Fisher4AfterBattleText::
-	text "Oh wait! I got a"
-	line "bite! Yeah!"
+	text "toH! ngelwI' chop"
+	line "ghotI'! maj!"
 	done
