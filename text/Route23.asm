@@ -1,41 +1,39 @@
 _Route23YouDontHaveTheBadgeYetText::
-	text "You can pass here"
-	line "only if you have"
-	cont "the @"
-	text_ram wNameBuffer
-	text "!"
-
-	para "You don't have the"
+	text "naDev juSmeH"
 	line "@"
 	text_ram wNameBuffer
-	text " yet!"
+	text " DapoQ!"
 
-	para "You have to have"
-	line "it to get to"
-	cont "#MON LEAGUE!@"
+	para "wej @"
+	text_ram wNameBuffer
+	text_start
+	line "DaSuqta'!"
+
+	para "#<m><a><n> 'obe'"
+	line "DaghoSmeH"
+	cont "Deghvam DapoQ!@"
 	text_end
 
 _Route23OhThatIsTheBadgeText::
-	text "You can pass here"
-	line "only if you have"
-	cont "the @"
-	text_ram wNameBuffer
-	text "!"
-
-	para "Oh! That is the"
+	text "naDev juSmeH"
 	line "@"
 	text_ram wNameBuffer
-	text "!@"
+	text " DapoQ!"
+
+	para "toH @"
+	text_ram wNameBuffer
+	text_start
+	line "Daghaj!@"
 	text_end
 
 _Route23GoRightAheadText::
 	text_start
 
-	para "OK then! Please,"
-	line "go right ahead!"
+	para "maj! yIruch!"
+	line "Dachaw'lu'bej!"
 	done
 
 _Route23VictoryRoadGateSignText::
-	text "VICTORY ROAD GATE"
-	line "- #MON LEAGUE"
+	text "<y><a><y> <t><a><w> lojmIt'a'"
+	line "- #<m><a><n> <'><o><b><e><'>"
 	done
