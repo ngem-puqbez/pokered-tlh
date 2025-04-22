@@ -1,89 +1,91 @@
 _MrFujisHouseSuperNerdMrFujiIsntHereText::
-	text "That's odd, MR.FUJI"
-	line "isn't here."
-	cont "Where'd he go?"
+	text "taQ... SaHbe'"
+	line "<v><u><j><I><'> <j><a><w>."
+	cont "nuqDaq jaHpu'?"
 	done
 
 _MrFujisHouseSuperNerdMrFujiHadBeenPrayingText::
-	text "MR.FUJI had been"
-	line "praying alone for"
-	cont "CUBONE's mother."
+	text "nIteb <m><I><v><H><o><m>"
+	line "SoS Hegh quvmoH"
+	cont "ghaH."
 	done
 
 _MrFujisHouseLittleGirlThisIsMrFujisHouseText::
-	text "This is really"
-	line "MR.FUJI's house."
+	text "<v><u><j><I><'> <j><a><w> juH"
+	line "'oHqu' qachvam'e'."
 
-	para "He's really kind!"
+	para "DochHa'qu' ghaH!"
 
-	para "He looks after"
-	line "abandoned and"
-	cont "orphaned #MON!"
+	para "qaytu' qeqwI' je"
+	line "Hutlhbogh"
+	cont "#<m><a><n> Qorgh!"
 	done
 
 _MrFujisHouseLittleGirlPokemonAreNiceToHugText::
-	text "It's so warm!"
-	line "#MON are so"
-	cont "nice to hug!"
+	text "ghunqu'!"
+	line "gheplu'meH QaQ"
+	cont "#<m><a><n>mey!"
 	done
 
 _MrFujisHousePsyduckText::
-	text "PSYDUCK: Gwappa!@"
+	text "<'><e><r><a><w><'><I><D><a><q>:"
+	line "ghuwaa!@"
 	text_end
 
 _MrFujisHouseNidorinoText::
-	text "NIDORINO: Gaoo!@"
+	text "<t><a><r><t><o><'><l><o><D>: gha'ow!@"
 	text_end
 
 _MrFujisHouseMrFujiIThinkThisMayHelpYourQuestText::
-	text "MR.FUJI: <PLAYER>."
+	text "<v><u><j><I><'>: <PLAYER>."
 
-	para "Your #DEX quest"
-	line "may fail without"
-	cont "love for your"
-	cont "#MON."
+	para "chaq luj #<p><a><q>"
+	line "naQmoHmeH Qu'lIj"
+	cont "#<m><a><n>mey Hoch"
+	cont "DaSaHbe'chugh."
 
-	para "I think this may"
-	line "help your quest."
+	para "Qu'vaD lI' luchvam"
+	line "'e' vIHar."
 	prompt
 
 _MrFujisHouseMrFujiReceivedPokeFluteText::
-	text "<PLAYER> received"
-	line "a @"
+	text "@"
 	text_ram wStringBuffer
-	text "!@"
+	text_start
+	line "Suq <PLAYER>!@"
 	text_end
 
 _MrFujisHouseMrFujiPokeFluteExplanationText::
 	text_start
 
-	para "Upon hearing #"
-	line "FLUTE, sleeping"
-	cont "#MON will"
-	cont "spring awake."
+	para "#<D><o><v><'><a><g><h> QoyDI'"
+	line "QongtaHbogh"
+	cont "#<m><a><n> SIbI'"
+	cont "vemchu'."
 
-	para "It works on all"
-	line "sleeping #MON."
+	para "QongtaHbogh"
+	line "#<m><a><n> HochvaD"
+	cont "vaQ QoQDaj"
 	done
 
 _MrFujisHouseMrFujiPokeFluteNoRoomText::
-	text "You must make"
-	line "room for this!"
+	text "DatlhaplaHpa'"
+	line "buy'be'nIS buqlIj!"
 	done
 
 _MrFujisHouseMrFujiHasMyFluteHelpedYouText::
-	text "MR.FUJI: Has my"
-	line "FLUTE helped you?"
+	text "<v><u><j><I><'> <j><a><w>: toH,"
+	line "DuboQ'a' Do'vagh?"
 	done
 
 _MrFujisHouseMrFujiPokedexText::
-	text "#MON Monthly"
-	line "Grand Prize"
-	cont "Drawing!"
+	text "#<m><a><n> De' chu'"
+	line "paqHom tev'a'"
+	cont "qaD!"
 
-	para "The application"
-	line "form is..."
+	para "jeSmeH yu'muD"
+	line "nej <PLAYER> ..."
 
-	para "Gone! It's been"
-	line "clipped out!"
+	para "loj! chevmeH"
+	line "pe'lu'pu'!"
 	done
