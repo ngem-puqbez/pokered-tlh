@@ -1,67 +1,64 @@
 _CeladonMansion3FProgrammerText::
-	text "Me? I'm the"
-	line "programmer!"
+	text "nuqneH? Qujvam"
+	line "ghunwI' jIH!"
 	done
 
 _CeladonMansion3FGraphicArtistText::
-	text "I'm the graphic"
-	line "artist!"
-	cont "I drew you!"
+	text "Quj DIjwI' jIH."
+	line "qanarghmoH!"
 	done
 
 _CeladonMansion3FWriterText::
-	text "I wrote the story!"
-	line "Isn't ERIKA cute?"
+	text "lut vIqon!"
+	line "povqu' <'><e><r><I><q><a><'>!"
 
-	para "I like MISTY a"
-	line "lot too!"
+	para "<v><I><l><'><a><S><o><y> vIparHa'"
+	line "je!"
 
-	para "Oh, and SABRINA,"
-	line "I like her!"
+	para "toH 'ej <r><I><l><'><e><g><h>"
+	line "ghaH vIparHa'!"
 	done
 
 _CeladonMansion3FGameDesignerText::
-	text "Is that right?"
+	text "nuqjatlh?"
 
-	para "I'm the game"
-	line "designer!"
+	para "Quj renwI' jIH!"
 
-	para "Filling up your"
-	line "#DEX is tough,"
-	cont "but don't quit!"
+	para "Qu' qatlh 'oH 'e'"
+	line "vISov 'ach not"
+	cont "yIjegh!"
 
-	para "When you finish,"
-	line "come tell me!"
+	para "buy'DI' #<t><a><m><e><y>"
+	line "HIja'!"
 	done
 
 _CeladonMansion3FGameDesignerCompletedDexText::
-	text "Wow! Excellent!"
-	line "You completed"
-	cont "your #DEX!"
-	cont "Congratulations!"
+	text "bIDun! bIpov!"
+	line "#<t><a><m><e><y> naQ"
+	cont "Dabuy'moHta'!"
+	cont "qaHoy'qu'!"
 	cont "...@"
 	text_end
 
 _CeladonMansion3FGameProgramPCText::
-	text "It's the game"
-	line "program! Messing"
-	cont "with it could bug"
-	cont "out the game!"
+	text "Quj nIqHom 'oH!"
+	line "choHlu'chugh"
+	cont "ghay'tan chen"
+	cont "Qaghmey!"
 	done
 
 _CeladonMansion3FPlayingGamePCText::
-	text "Someone's playing"
-	line "a game instead of"
-	cont "working!"
+	text "QujtaH vay';"
+	line "vumtaH 'e' qa'!"
 	done
 
 _CeladonMansion3FGameScriptPCText::
-	text "It's the script!"
-	line "Better not look"
-	cont "at the ending!"
+	text "lut ghItlh 'oH!"
+	line "wej bertlham"
+	cont "laDlu' net tlheb!"
 	done
 
 _CeladonMansion3FDevRoomSignText::
 	text "GAME FREAK"
-	line "Development Room"
+	line "vummeH pa'"
 	done
