@@ -1,154 +1,152 @@
 _CeladonCityLittleGirlText::
-	text "I got my KOFFING"
-	line "in CINNABAR!"
+	text "<n><a><g><h><q><u><l> <'><a><m><b><a><y>Daq"
+	line "<t><u><S><t><u><S>wIj vIjon!"
 
-	para "It's nice, but it"
-	line "breathes poison"
-	cont "when it's angry!"
+	para "DochHa', 'a"
+	line "QeHtaHvIS tar"
+	cont "rech!"
 	done
 
 _CeladonCityGramps1Text::
-	text "Heheh! This GYM"
-	line "is great! It's"
-	cont "full of women!"
+	text "HghHghH!"
+	line "Dun qaDqachvam."
+	cont "naDev vum be' 'IH!"
+
 	done
 
 _CeladonCityGirlText::
-	text "The GAME CORNER"
-	line "is bad for our"
-	cont "city's image!"
+	text "vengmaj quvHa'moH"
+	line "<S><u><D><m><e><H> <q><a><c><h>!"
 	done
 
 _CeladonCityGramps2Text::
-	text "Moan! I blew it"
-	line "all at the slots!"
+	text "jIqIn! <S><u><D><m><e><H>"
+	line "<q><a><c><h>Daq HuchwIj"
+	cont "Hoch vI'anmoH."
 
-	para "I knew I should"
-	line "have cashed in my"
-	cont "coins for prizes!"
+	para "tev vISuqmeH"
+	line "<Q><u><j> <n><g><o><p>wIj vIlo'"
+	cont "net tlheb!"
 	done
 
 _CeladonCityGramps3Text::
-	text "Hello, there!"
+	text "toH, qavan!"
 
-	para "I've seen you,"
-	line "but I never had a"
-	cont "chance to talk!"
+	para "qaleghpu' 'a not"
+	line "majawchuqlaHpu'!"
 
-	para "Here's a gift for"
-	line "dropping by!"
+	para "choSuchmo' luch"
+	line "qanob vIneH!"
 	prompt
 
 _CeladonCityGramps3ReceivedTM41Text::
-	text "<PLAYER> received"
-	line "@"
-	text_ram wStringBuffer
-	text "!@"
+	text "<t><j>41 Suq"
+	line "<PLAYER>!@"
 	text_end
 
 _CeladonCityGramps3TM41ExplanationText::
-	text "TM41 teaches"
-	line "SOFTBOILED!"
+	text "<Q><I><m> <v><u><t> tonSaw'"
+	line "ghojmoH <t><j>41!"
 
-	para "Only one #MON"
-	line "can use it!"
+	para "'oH ghojlaH wa'"
+	line "#<m><a><n> neH!"
 
-	para "That #MON is"
-	line "CHANSEY!"
+	para "<'><I><j><Q><I><m> 'oH"
+	line "#<m><a><n>vetlh'e'!"
 	done
 
 _CeladonCityGramps3TM41NoRoomText::
-	text "Oh, your pack is"
-	line "full of items!"
+	text "toH, wejHa' buy'"
+	line "buqlIj!"
 	done
 
 _CeladonCityFisherText::
-	text "This is my trusted"
-	line "pal, POLIWRATH!"
+	text "jupwI' matlh 'oH"
+	line "<m><I><r><e><g><h>vam'e'!"
 
-	para "It evolved from"
-	line "POLIWHIRL when I"
-	cont "used WATER STONE!"
+	para "<b><I><Q> <n><a><g><h> vIlo'DI'"
+	line "ghe' 'oH. 'oH "
+	cont "moj <m><I><r><e><b>!"
 	done
 
 _CeladonCityPoliwrathText::
-	text "POLIWRATH: Ribi"
-	line "ribit!@"
+	text "<m><I><r><e><g><h>: rIbI"
+	line "rIbIgh!@"
 	text_end
 
 _CeladonCityRocket1Text::
-	text "What are you"
-	line "staring at?"
+	text "nuq DachotlhtaH?"
 	done
 
 _CeladonCityRocket2Text::
-	text "Keep out of TEAM"
-	line "ROCKET's way!"
+	text "<p><e><n><g><D><u><j> ghom"
+	line "yIbotQo'!"
 	done
 
 _CeladonCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "X ACCURACY boosts"
-	line "the accuracy of"
-	cont "techniques!"
+	para "SIbI' tonSaw'"
+	line "pupqu'moH"
+	cont "<p><u><p> <'><e><n><t><e><D>!"
 
-	para "DIRE HIT jacks up"
-	line "the likelihood of"
-	cont "critical hits!"
+	para "qIpqu' tonSaw'"
+	line "'e' qaSmoH"
+	cont "qIpqu'moHwI'!"
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "<n><g><o><p><w><a><g><h> <n><g><e><v><w><I><'>"
+	line "<q><a><c><h><'><a><'>Daq luch"
+	cont "yIje'!"
 	done
 
 _CeladonCitySignText::
-	text "CELADON CITY"
-	line "The City of"
-	cont "Rainbow Dreams"
+	text "<n><g><o><p><w><a><g><h> <v><e><n><g>"
+	line "Har'ey ngoQ"
+	cont "Harbogh veng'e'"
 	done
 
 _CeladonCityGymSignText::
-	text "CELADON CITY"
-	line "#MON GYM"
-	cont "LEADER: ERIKA"
+	text "<n><g><o><p><w><a><g><h> <v><e><n><g>"
+	line "#<m><a><n> qaDqach"
+	cont "qaDpIn: <'><e><r><I><q><a><'>"
 
-	para "The Nature Loving"
-	line "Princess!"
+	para "qa' but Ho'bogh"
+	line "choQun be'!"
 	done
 
 _CeladonCityMansionSignText::
-	text "CELADON MANSION"
+	text "<n><g><o><p><w><a><g><h> <q><a><v><'><a><p>"
+	line "<j><u><H> <q><a><c><h>"
 	done
 
 _CeladonCityDeptStoreSignText::
-	text "Find what you"
-	line "need at CELADON"
-	cont "DEPT. STORE!"
+	text "<n><g><o><p><w><a><g><h> <n><g><e><v><w><I><'>"
+	line "<q><a><c><h><'><a><'>Daq Doch"
+	cont "DapoQbogh DaSam!"
 	done
 
 _CeladonCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "GUARD SPEC."
-	line "protects #MON"
-	cont "against SPECIAL"
-	cont "attacks such as"
-	cont "fire and water!"
+	para "<D><o><t><l><h> <Q><a><n><w><I><'>"
+	line "lo'lu'chugh "
+	cont "#<m><a><n> HoS Hub"
+	cont "Do je nupmoHbe'"
+	cont "#<m><a><n> latlh!"
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "<n><g><o><p><w><a><g><h> <n><g><e><v><w><I><'>"
+	line "<q><a><c><h><'><a><'>Daq luch"
+	cont "yIje'!"
 	done
 
 _CeladonCityPrizeExchangeSignText::
-	text "Coins exchanged"
-	line "for prizes!"
-	cont "PRIZE EXCHANGE"
+	text "tev SuqmeH"
+	line "Quj ngop yItam!"
+	cont "<t><e><v> <t><a><m><w><I><'>"
 	done
 
 _CeladonCityGameCornerSignText::
-	text "ROCKET GAME CORNER"
-	line "The playground"
-	cont "for grown-ups!"
+	text "<S><u><D><m><e><H> <q><a><c><h>"
+	line "naDev Quj "
+	cont "nenwI'pu'!"
 	done
