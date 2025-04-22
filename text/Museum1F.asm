@@ -1,108 +1,109 @@
 _Museum1FScientist1ComeAgainText::
-	text "Come again!"
+	text "bIcheghjaj!"
 	done
 
 _Museum1FScientist1WouldYouLikeToComeInText::
-	text "It's ¥50 for a"
-	line "child's ticket."
+	text "'elmeH chaw'"
+	line "DaDIlmeH ¥50"
+	cont "chonobnIS."
 
-	para "Would you like to"
-	line "come in?"
+	para "bI'el'a'?"
 	done
 
 _Museum1FScientist1ThankYouText::
-	text "Right, ¥50!"
-	line "Thank you!"
+	text "maj, ¥50!"
+	line "bI'ellaH!"
 	done
 
 _Museum1FScientist1DontHaveEnoughMoneyText::
-	text "You don't have"
-	line "enough money."
+	text "yapbe' HuchlIj!"
+	line "HItojQo'."
 	prompt
 
 _Museum1FScientist1DoYouKnowWhatAmberIsText::
-	text "You can't sneak"
-	line "in the back way!"
+	text "'em lojmItDaq"
+	line "yI'elQo'!"
 
-	para "Oh, whatever!"
-	line "Do you know what"
-	cont "AMBER is?"
+	para "toH... jISaHbe'!"
+	line "rebmugh DaSov'a'?"
 	done
 
 _Museum1FScientist1TheresALabSomewhereText::
-	text "There's a lab"
-	line "somewhere trying"
-	cont "to resurrect"
-	cont "ancient #MON"
-	cont "from AMBER."
+	text "vogh poqe'man"
+	line "tIQ yInqa'moH"
+	cont "QulwI'pu' 'e'"
+	cont "nIDmeH rebmugh"
+	cont "lo'taH."
 	done
 
 _Museum1FScientist1AmberIsFossilizedTreeSapText::
-	text "AMBER is fossil-"
-	line "ized tree sap."
+	text "vIychorgh yughbogh"
+	line "'an'or 'oH"
+	cont "rebmughvam'e'."
 	done
 
 _Museum1FScientist1GoToOtherSideText::
-	text "Please go to the"
-	line "other side!"
+	text "latlh DopDaq"
+	line "yIjuH!"
 	done
 
 _Museum1FScientist1TakePlentyOfTimeText::
-	text "Take plenty of"
-	line "time to look!"
+	text "'angweDDaq"
+	line "bItlhoghtaHvIS"
+	cont "bImoDnISbe'."
 	done
 
 _Museum1FGamblerText::
-	text "That is one"
-	line "magnificent"
-	cont "fossil!"
+	text "'an'or Dun"
+	line "'oH Dochvam'e'!"
+	cont "bIQoch'a'?"
 	done
 
 _Museum1FScientist2TakeThisToAPokemonLabText::
-	text "Ssh! I think that"
-	line "this chunk of"
-	cont "AMBER contains"
-	cont "#MON DNA!"
+	text "tam! #<m><a><n>"
+	line "roSghaH ngaS"
+	cont "rebmugh ngoghvam"
+	cont "'e' vIHar!"
 
-	para "It would be great"
-	line "if #MON could"
-	cont "be resurrected"
-	cont "from it!"
+	para "'oHvo' #<m><a><n>"
+	line "yInqa'moHlu'chugh"
+	cont "Dun Qapla'vetlh!"
 
-	para "But, my colleagues"
-	line "just ignore me!"
+	para "'a mubuSHa' neH"
+	line "ghomwIj!"
 
-	para "So I have a favor"
-	line "to ask!"
+	para "vaj jIHvaD"
+	line "tlhoqtlhal Datur"
+	cont "vIneH."
 
-	para "Take this to a"
-	line "#MON LAB and"
-	cont "get it examined!"
+	para "Qulpa'Daq rebmugh"
+	line "yIHIj. ghIq "
+	cont "nuDlaH tejpu'!"
 	prompt
 
 _Museum1FScientist2ReceivedOldAmberText::
-	text "<PLAYER> received"
-	line "OLD AMBER!@"
+	text "<r><e><b><m><u><g><h> <t><I><Q> Hev"
+	line "<PLAYER>!@"
 	text_end
 
 _Museum1FScientist2GetTheOldAmberCheckText::
-	text "Ssh! Get the OLD"
-	line "AMBER checked!"
+	text "yIchuSQo'! rebmugh"
+	line "tIQ yIHIj!"
 	done
 
 _Museum1FScientist2YouDontHaveSpaceText::
-	text "You don't have"
-	line "space for this!"
+	text "paqlIjDaq wejHa'"
+	line "'Iq luch tu'lu'!"
 	done
 
 _Museum1FScientist3Text::
-	text "We are proud of 2"
-	line "fossils of very"
-	cont "rare, prehistoric"
-	cont "#MON!"
+	text "cha' #<m><a><n> tIQ"
+	line "'an'or qub"
+	cont "wI'anglaHmo'"
+	cont "maHem!"
 	done
 
 _Museum1FOldAmberText::
-	text "The AMBER is"
-	line "clear and gold!"
+	text "gha rebmugh"
+	line "'ej Doq!"
 	done
