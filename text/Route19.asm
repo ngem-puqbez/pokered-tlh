@@ -1,157 +1,162 @@
 _Route19CooltrainerM1BattleText::
-	text "Have to warm up"
-	line "before my swim!"
+	text "jIQalchoHpa'"
+	line "Somraw'Du'wIj"
+	cont "vImormoHnIS."
 	done
 
 _Route19CooltrainerM1EndBattleText::
-	text "All"
-	line "warmed up!"
+	text "maj!"
+	line "DaH jImorqu'!"
 	prompt
 
 _Route19CooltrainerM1AfterBattleText::
-	text "Thanks, kid! I'm"
-	line "ready for a swim!"
+	text "majQa'! DaH"
+	line "jIQalrupchu'!"
 	done
 
 _Route19CooltrainerM2BattleText::
-	text "Wait! You'll have"
-	line "a heart attack!"
+	text "yIloS! "
+	line "bIQ DawaHnIS!"
 	done
 
 _Route19CooltrainerM2EndBattleText::
-	text "Ooh!"
-	line "That's chilly!"
+	text "toH!"
+	line "bIrqu'!"
 	prompt
 
 _Route19CooltrainerM2AfterBattleText::
-	text "Watch out for"
-	line "TENTACOOL!"
+	text "<n><o><v><r><o><D>mey"
+	line "yIghuHtaH!"
 	done
 
 _Route19Swimmer1BattleText::
-	text "I love swimming!"
-	line "What about you?"
+	text "bIQ'a'Daq jIQaltaH"
+	line "'e' vIparHa'qu'!"
+	cont "DaparHa''a'?"
 	done
 
 _Route19Swimmer1EndBattleText::
-	text "Belly"
-	line "flop!"
+	text "bIQ"
+	line "vIngeQ!"
 	prompt
 
 _Route19Swimmer1AfterBattleText::
-	text "I can beat #MON"
-	line "at swimming!"
+	text "QalwI' po' jIH!"
+	line "reH jIQalrup!"
 	done
 
 _Route19Swimmer2BattleText::
-	text "What's beyond the"
-	line "horizon?"
+	text "ghangwI' HayDaq"
+	line "nuq tu'lu'?"
 	done
 
 _Route19Swimmer2EndBattleText::
-	text "Glub!"
+	text "ghagh!"
 	prompt
 
 _Route19Swimmer2AfterBattleText::
-	text "I see a couple of"
-	line "islands!"
+	text "'ambay' puS"
+	line "vIlegh!"
 	done
 
 _Route19Swimmer3BattleText::
-	text "I tried diving"
-	line "for #MON, but"
-	cont "it was a no go!"
+	text "#<m><a><n> vInejmeH"
+	line "bIQDaq jIghIr 'e'"
+	cont "vInID 'a jIQapbe'!"
 	done
 
 _Route19Swimmer3EndBattleText::
-	text "Help!"
+	text "boQ!"
 	prompt
 
 _Route19Swimmer3AfterBattleText::
-	text "You have to fish"
-	line "for sea #MON!"
+	text "bIQ'a' Dabbogh"
+	line "#<m><a><n> SammeH"
+	cont "rItwI' Dalo'nIS."
 	done
 
 _Route19Swimmer4BattleText::
-	text "I look at the"
-	line "sea to forget!"
+	text "SengwIj vIlIjmeH"
+	line "yu'eghmey vIbej!"
 	done
 
 _Route19Swimmer4EndBattleText::
-	text "Ooh!"
-	line "Traumatic!"
+	text "toH!"
+	line "Sengmey!"
 	prompt
 
 _Route19Swimmer4AfterBattleText::
-	text "I'm looking at the"
-	line "sea to forget!"
+	text "qalIjmeH bIQ'a'"
+	line "yu'egh vIbejtaH!"
 	done
 
 _Route19Swimmer5BattleText::
-	text "Oh, I just love"
-	line "your ride! Can I"
-	cont "have it if I win?"
+	text "'IHqu' #<m><a><n>lIj"
+	line "DalIghtaHbogh!"
+	cont "qajeychugh vIneH!"
 	done
 
 _Route19Swimmer5EndBattleText::
-	text "Oh!"
-	line "I lost!"
+	text "va!"
+	line "jIluj!"
 	prompt
 
 _Route19Swimmer5AfterBattleText::
-	text "It's still a long"
-	line "way to go to"
-	cont "SEAFOAM ISLANDS."
+	text "<'><o><'><n><I><'> <'><a><m><b><e><y>mey"
+	line "Dapawpa' He tIq"
+	cont "DachIqnIS."
 	done
 
 _Route19Swimmer6BattleText::
-	text "Swimming's great!"
-	line "Sunburns aren't!"
+	text "QaQqu' bIQ'a'!"
+	line "'oH qaq law'qu'"
+	cont "QalmeH DoQmIv'a'"
+	cont "qaq puSqu'!"
 	done
 
 _Route19Swimmer6EndBattleText::
-	text "Shocker!"
+	text "chomer!"
 	prompt
 
 _Route19Swimmer6AfterBattleText::
-	text "My boy friend"
-	line "wanted to swim to"
-	cont "SEAFOAM ISLANDS."
+	text "<'><o><'><n><I><'> <'><a><m><b><a><y>mey"
+	line "jaHmeH Qal 'e'"
+	cont "neH parmaqqaywI'."
 	done
 
 _Route19Swimmer7BattleText::
-	text "These waters are"
-	line "treacherous!"
+	text "naDev Qobqu'"
+	line "bIQ'a'!"
 	done
 
 _Route19Swimmer7EndBattleText::
-	text "Ooh!"
-	line "Dangerous!"
+	text "toH!"
+	line "bIQobqu' je!"
 	prompt
 
 _Route19Swimmer7AfterBattleText::
-	text "I got a cramp!"
-	line "Glub, glub..."
+	text "'oy'choH Somraw'!"
+	line "bob...Dar..."
 	done
 
 _Route19Swimmer8BattleText::
-	text "I swam here, but"
-	line "I'm tired."
+	text "naDev vIjaHmeH"
+	line "jIQal, 'a jIDoy'."
 	done
 
 _Route19Swimmer8EndBattleText::
-	text "I'm"
-	line "exhausted..."
+	text ""
+	line "jIDoy'qu'bej..."
 	prompt
 
 _Route19Swimmer8AfterBattleText::
-	text "LAPRAS is so big,"
-	line "it must keep you"
-	cont "dry on water."
+	text "tInqu' lupra'..."
+	line "lIghwI'Daj"
+	cont "QaDmoHlaw'taH."
 	done
 
 _Route19SignText::
-	text "SEA ROUTE 19"
-	line "FUCHSIA CITY -"
-	cont "SEAFOAM ISLANDS"
+	text "He wa'maH Hut"
+	line "<t><a><r><D><e><H> <v><e><n><g> -"
+	cont "<'><o><'><n><I><'> <'><a><m><b><a><y><m><e><y>"
 	done
