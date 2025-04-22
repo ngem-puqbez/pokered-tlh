@@ -1,62 +1,62 @@
 _DaycareGentlemanIntroText::
-	text "I run a DAYCARE."
-	line "Would you like me"
-	cont "to raise one of"
-	cont "your #MON?"
+	text "naDev #<m><a><n>mey"
+	line "vIQorgh 'ej"
+	cont "vIHoSchoHmoH."
+	para "#<m><a><n>lIj vIQorgh"
+	line "DaneH'a'?"
 	done
 
 _DaycareGentlemanWhichMonText::
-	text "Which #MON"
-	line "should I raise?"
+	text "#<m><a><n>"
+	line "vIQorghbogh yIwIv!"
 	prompt
 
 _DaycareGentlemanWillLookAfterMonText::
-	text "Fine, I'll look"
-	line "after @"
+	text "maj! @"
 	text_ram wNameBuffer
-	text_start
-	cont "for a while."
+	text " "
+	line "vIQorgh! "
 	prompt
 
 _DaycareGentlemanComeSeeMeInAWhileText::
-	text "Come see me in"
-	line "a while."
+	text "tugh HoS 'ej"
+	line "DatlhaplaH."
 	done
 
 _DaycareGentlemanMonHasGrownText::
-	text "Your @"
+	text "toH! @"
 	text_ram wNameBuffer
-	text_start
-	line "has grown a lot!"
+	text "lIj"
+	line "vIHoSqu'moHta'!"
 
-	para "By level, it's"
-	line "grown by @"
+	para "@"
 	text_decimal wDayCareNumLevelsGrown, 1, 3
-	text "!"
+	text " patlh chu'"
+	line "chavta' 'oH!"
 
-	para "Aren't I great?"
+	para "jIDunbe''a'?"
 	prompt
 
 _DaycareGentlemanOweMoneyText::
-	text "You owe me ¥@"
+	text "DaH vItatlhpa'"
+	line "yIDIl. ¥@"
 	text_bcd wDayCareTotalCost, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text_start
-	line "for the return"
-	cont "of this #MON."
+	cont "HInob."
 	done
 
 _DaycareGentlemanGotMonBackText::
-	text "<PLAYER> got"
-	line "@"
+	text "@"
 	text_ram wDayCareMonName
-	text " back!"
+	text " Suqqa'"
+	line "<PLAYER>!"
 	done
 
 _DaycareGentlemanMonNeedsMoreTimeText::
-	text "Back already?"
-	line "Your @"
+	text "yItuvbe'Qo'!"
+	line "@"
 	text_ram wNameBuffer
 	text_start
-	cont "needs some more"
-	cont "time with me."
+	cont "vIHoSmoHmeH"
+	cont "poH wIpotlh."
 	prompt
