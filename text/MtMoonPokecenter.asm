@@ -1,46 +1,47 @@
 _MtMoonPokecenterYoungsterText::
-	text "I've 6 # BALLs"
-	line "set in my belt."
+	text "qoghwIjDaq jav"
+	line "#<m><o><Q> tu'lu'."
 
-	para "At most, you can"
-	line "carry 6 #MON."
+	para "jav #<m><a><n> neH"
+	line "qenglaH qeqwI'."
 	done
 
 _MtMoonPokecenterGentlemanText::
-	text "TEAM ROCKET"
-	line "attacks CERULEAN"
-	cont "citizens..."
+	text "<c><h><a><l><H><o><m> <v><e><n><g>"
+	line "rewve' luHIv"
+	cont "<p><e><n><g><D><u><j> ghom..."
 
-	para "TEAM ROCKET is"
-	line "always in the"
-	cont "news!"
+	para "reH <p><e><n><g><D><u><j> ghom"
+	line "rIch joS "
+	cont "vIQoybogh!"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanIGotADealText::
-	text "MAN: Hello, there!"
-	line "Have I got a deal"
-	cont "just for you!"
+	text "qavan!"
+	line "SoHvaD tlhoqtlhal"
+	cont "vItur!"
 
-	para "I'll let you have"
-	line "a swell MAGIKARP"
-	cont "for just ¥500!"
-	cont "What do you say?"
+	para "<g><h><o><t><I><D><n><a><r>vam "
+	line "vIngev 'ej "
+	cont "Daje'chugh SoH"
+	cont "¥500 neH vIneH."
+
+	para "Daje''a'?"
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoText::
-	text "No? I'm only"
-	line "doing this as a"
-	cont "favor to you!"
+	text "bIlajQo'! SoHvaD"
+	line "vIchup neH."
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoMoneyText::
-	text "You'll need more"
-	line "money than that!"
+	text "yapbe' HuchlIj!"
+	line "¥500 neH vIneH."
 	done
 
 _MtMoonPokecenterMagikarpSalesmanNoRefundsText::
-	text "MAN: Well, I don't"
-	line "give refunds!"
+	text "Hu'ma'... Huch"
+	line "vInobHa'be'!"
 	done
 
 _MtMoonPokecenterClipboardText::
