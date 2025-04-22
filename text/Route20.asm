@@ -1,155 +1,157 @@
 _Route20Swimmer1BattleText::
-	text "The water is"
-	line "shallow here."
+	text "naDev jaQHa'"
+	line "bIQ."
 	done
 
 _Route20Swimmer1EndBattleText::
-	text "Splash!"
+	text "bobDar!"
 	prompt
 
 _Route20Swimmer1AfterBattleText::
-	text "I wish I could"
-	line "ride my #MON."
+	text "#<m><a><n> vIlIghlaH"
+	line "'e' vIjIn."
 	done
 
 _Route20Swimmer2BattleText::
-	text "SEAFOAM is a"
-	line "quiet getaway!"
+	text "lu'lIgh tam bIH"
+	line "<'><o><'><n><I><'> <'><a><m><b><a><y><m><e><y>!"
 	done
 
 _Route20Swimmer2EndBattleText::
-	text "Quit it!"
+	text "yImev!"
 	prompt
 
 _Route20Swimmer2AfterBattleText::
-	text "There's a huge"
-	line "cavern underneath"
-	cont "this island."
+	text "'ambayvam bIngDaq"
+	line "DIS tIn tu'lu'."
 	done
 
 _Route20Swimmer3BattleText::
-	text "I love floating"
-	line "with the fishes!"
+	text "jI'aytaHvIS"
+	line "mutlhej ghotI'!"
 	done
 
 _Route20Swimmer3EndBattleText::
-	text "Yowch!"
+	text "'oy'!"
 	prompt
 
 _Route20Swimmer3AfterBattleText::
-	text "Want to float"
-	line "with me?"
+	text "nItebHa' ma'ay"
+	line "DaneH'a'?"
 	done
 
 _Route20Swimmer4BattleText::
-	text "Are you on"
-	line "vacation too?"
+	text "bIghIQtaH'a'"
+	line "SoH je?"
 	done
 
 _Route20Swimmer4EndBattleText::
-	text "No"
-	line "mercy at all!"
+	text "pung"
+	line "Da'agh net tlheb!"
 	prompt
 
 _Route20Swimmer4AfterBattleText::
-	text "SEAFOAM used to"
-	line "be one island!"
+	text "pa'logh wa' 'ambay"
+	line "bIH <'><o><n><I><'> <'><a><m><b><a><y>!"
 	done
 
 _Route20Swimmer5BattleText::
-	text "Check out my buff"
-	line "physique!"
+	text "Somraw'Du'wIj tIn"
+	line "yIlegh!"
 	done
 
 _Route20Swimmer5EndBattleText::
-	text "Wimpy!"
+	text "pujwI'!"
 	prompt
 
 _Route20Swimmer5AfterBattleText::
-	text "I should've been"
-	line "buffing up my"
-	cont "#MON, not me!"
+	text "#<m><a><n>meywIj"
+	line "vIHoSnISmoH;"
+	cont "jIHoS'eghmoH"
+	cont "'e' qa'!"
 	done
 
 _Route20Swimmer6BattleText::
-	text "Why are you"
-	line "riding a #MON?"
-	cont "Can't you swim?"
+	text "qatlh #<m><a><n>"
+	line "DalIghtaH?"
+	cont "bIQallaHbe''a'?"
 	done
 
 _Route20Swimmer6EndBattleText::
-	text "Ouch!"
-	line "Torpedoed!"
+	text "cha!"
+	line "jIHDaq baHlu'!"
 	prompt
 
 _Route20Swimmer6AfterBattleText::
-	text "Riding a #MON"
-	line "sure looks fun!"
+	text "#<m><a><n> vIlIgh"
+	line "loQ vIneH!"
 	done
 
 _Route20CooltrainerMBattleText::
-	text "I rode my bird"
-	line "#MON here!"
+	text "naDev bo'Degh"
+	line "#<m><a><n> vIlIgh!"
 	done
 
 _Route20CooltrainerMEndBattleText::
-	text "Oh"
-	line "no!"
+	text "Hu..."
+	line "va!"
 	prompt
 
 _Route20CooltrainerMAfterBattleText::
-	text "My birds can't"
-	line "FLY me back!"
+	text "DaH puvlaHbe'mo'"
+	line "juHmajDaq"
+	cont "muqemlaHbe'!"
 	done
 
 _Route20Swimmer7BattleText::
-	text "My boy friend gave"
-	line "me big pearls!"
+	text "ghIghvam Hoy"
+	line "munob bangwI'!"
 	done
 
 _Route20Swimmer7EndBattleText::
-	text "Don't"
-	line "touch my pearls!"
+	text "toH!"
+	line "ghIgh yIHotQo'!"
 	prompt
 
 _Route20Swimmer7AfterBattleText::
-	text "Will my pearls"
-	line "grow bigger"
-	cont "inside CLOYSTER?"
+	text "ghIgh moQ"
+	line "tInmoH naghDIragh"
+	cont "'e' vISIv..."
 	done
 
 _Route20Swimmer8BattleText::
-	text "I swam here from"
-	line "CINNABAR ISLAND!"
+	text "<q><u><l><n><a><g><h> <'><a><m><b><a><y>vo'"
+	line "vIQalpu'!"
 	done
 
 _Route20Swimmer8EndBattleText::
-	text "I'm"
-	line "so disappointed!"
+	text "..."
+	line "jIbelHa'qu'!"
 	prompt
 
 _Route20Swimmer8AfterBattleText::
-	text "#MON have"
-	line "taken over an"
-	cont "abandoned mansion"
-	cont "on CINNABAR!"
+	text "<q><u><l><n><a><g><h> <'><a><m><b><a><y>Daq"
+	line "chImbogh qach tIn"
+	cont "DabchoHpu'"
+	cont "#<m><a><n> tlhab!"
 	done
 
 _Route20Swimmer9BattleText::
-	text "CINNABAR, in the"
-	line "west, has a LAB"
-	cont "for #MON."
+	text "'ev tIngDaq 'oH"
+	line "<q><u><l><n><a><g><h> <'><a><m><b><a><y>'e'."
+	cont "'oHDaq #<m><a><n>"
+	cont "Qulpa' tu'lu'."
 	done
 
 _Route20Swimmer9EndBattleText::
-	text "Wait!"
+	text "loS!"
 	prompt
 
 _Route20Swimmer9AfterBattleText::
-	text "CINNABAR is a "
-	line "volcanic island!"
+	text "<q><u><l><n><a><g><h> <'><a><m><b><a><y>"
+	line "chenmoH qulHuD!"
 	done
 
 _Route20SeafoamIslandsSignText::
-	text "SEAFOAM ISLANDS"
+	text "<'><o><'><n><I><'> <'><a><m><b><a><y><m><e><y>"
 	done
