@@ -1,133 +1,135 @@
 _CeruleanGymMistyPreBattleText::
-	text "Hi, you're a new"
-	line "face!"
+	text "nuqneH, qablIj"
+	line "vIghovbe'!"
 
-	para "Trainers who want"
-	line "to turn pro have"
-	cont "to have a policy"
-	cont "about #MON!"
+	para "bIpo'choH"
+	line "DaneHchugh "
+	cont "#<m><a><n> bopbogh"
+	cont "ngoch'e' DapoQ!"
 
-	para "What is your"
-	line "approach when you"
-	cont "catch #MON?"
+	para "#<m><a><n> DajonDI'"
+	line "chay' bIwIv?"
 
-	para "My policy is an"
-	line "all-out offensive"
-	cont "with water-type"
-	cont "#MON!"
+	para "pe'vIl HIv bIQ"
+	line "#<m><a><n>meywIj"
+	cont "'e' 'oH"
+	cont "ngochwIj'e'!"
 	done
-
 _CeruleanGymMistyTM11ExplanationText::
-	text "TM11 teaches"
-	line "BUBBLEBEAM!"
+	text "<b><a><'><S><u><q> <t><I><H> "
+	line "ghojmoH <t><j>11!"
 
-	para "Use it on an"
-	line "aquatic #MON!"
+	para "bIQ chIwbogh"
+	line "#<m><a><n>vaD"
+	cont "yIghojmoH."
 	done
 
 _CeruleanGymMistyCascadeBadgeInfoText::
-	text "The CASCADEBADGE"
-	line "makes all #MON"
-	cont "up to L30 obey!"
+	text "<b><I><Q><t><I><q><D><e><g><h>"
+	line "DaghajDI' 'aqroS"
+	cont "#<m><a><n> patlh"
+	cont "DaSeHlaHbogh"
+	cont "moj p30'e'."
 
-	para "That includes"
-	line "even outsiders!"
+	para "vabDot nIlob"
+	line "novmey!"
 
-	para "There's more, you"
-	line "can now use CUT"
-	cont "any time!"
+	para "De'chel"
+	line "Suvbe'taHvIS"
+	cont "<p><e><'> Ho'DoS lo'laH"
+	cont "#<m><a><n>lIj!"
 
-	para "You can CUT down"
-	line "small bushes to"
-	cont "open new paths!"
+	para "HemeyDaq DajaHmeH"
+	line "lavmey SanglaH"
+	cont "Ho'DoSvam!"
 
-	para "You can also have"
-	line "my favorite TM!"
+	para "<t><j> vImaSqu'bogh"
+	line "DaSuqlaH je!"
 	done
 
 _CeruleanGymMistyReceivedTM11Text::
-	text "<PLAYER> received"
-	line "TM11!@"
+	text "<t><j>11 Hev"
+	line "<PLAYER>!@"
 	text_end
 
 _CeruleanGymMistyTM11NoRoomText::
-	text "You better make"
-	line "room for this!"
+	text "DaH DatlhaplaHbe'."
+	line "luch 'Iq Daqeng."
 	done
 
 _CeruleanGymMistyReceivedCascadeBadgeText::
-	text "Wow!"
-	line "You're too much!"
+	text "majQa'!"
+	line "bIHoSqu'!"
 
-	para "All right!"
+	para "toH!"
 
-	para "You can have the"
-	line "CASCADEBADGE to"
-	cont "show you beat me!@"
+	para "mujey'ta'mo'"
+	line "<b><I><Q><t><I><q><D><e><g><h>vam"
+	cont "qanoblaH!@"
 	text_end
 
 _CeruleanGymBattleText1::
-	text "I'm more than good"
-	line "enough for you!"
+	text "SoHvaD tlhoy"
+	line "jIpo'!"
 
-	para "MISTY can wait!"
+	para "leSlaH <v><I><'><l><a><S><o><y>!"
 	done
 
 _CeruleanGymEndBattleText1::
-	text "You"
-	line "overwhelmed me!"
+	text " "
+	line "mujeychu'!"
 	prompt
 
 _CeruleanGymAfterBattleText1::
-	text "You have to face"
-	line "other trainers to"
-	cont "find out how good"
-	cont "you really are."
+	text "HoSna'lIj DatobmeH"
+	line "qeqwIpu' latlh"
+	cont "DaqaDnIS."
 	done
 
 _CeruleanGymBattleText2::
-	text "Splash!"
+	text "bobDar!"
 
-	para "I'm first up!"
-	line "Let's do it!"
+	para "qaqaD!"
+	line "maSuvchuqnIS!"
 	done
 
 _CeruleanGymEndBattleText2::
-	text "That"
-	line "can't be!"
+	text "qItbe'..."
+	line "jIlujlaHbe'!"
 	prompt
 
 _CeruleanGymAfterBattleText2::
-	text "MISTY is going to"
-	line "keep improving!"
+	text "Dub'eghtaH"
+	line "<v><I><'><l><a><S><o><y>!"
 
-	para "She won't lose to"
-	line "someone like you!"
+	para "ghaH jeylaHbe'"
+	line "Dururbogh puSwI'."
 	done
 
 _CeruleanGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "toH! charghwI'"
+	line "mojlaHbogh puq!"
 
-	para "Here's my advice!"
+	para "qeSwIj qanob!"
 
-	para "The LEADER, MISTY,"
-	line "is a pro who uses"
-	cont "water #MON!"
+	para "naDev qaDpIn ghaH"
+	line "<v><I><'><l><a><S><o><y>'e'. bIQ"
+	cont "#<m><a><n> lo'!"
 
-	para "You can drain all"
-	line "their water with"
-	cont "plant #MON!"
+	para "bIQchaj DabummeH"
+	line "magh #<m><a><n>"
+	cont "Dalo'laH!"
 
-	para "Or, zap them with"
-	line "electricity!"
+	para "SetqIn, bIHvaD"
+	line "pe'bIl mupmoH"
+	cont "'ul #<m><a><n>!"
 	done
 
 _CeruleanGymGymGuideBeatMistyText::
-	text "You beat MISTY!"
-	line "What'd I tell ya?"
+	text "<v><I><'><l><a><S><o><y> Dajey!"
+	line "bIQaplaH 'e' vISov!"
 
-	para "You and me kid,"
-	line "we make a pretty"
-	cont "darn good team!"
+	para "matay'taHvIS"
+	line "SoH jIH je"
+	cont "nuyugh ghom Dun!"
 	done
