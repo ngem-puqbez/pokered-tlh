@@ -1,30 +1,30 @@
 _LavenderMartBaldingGuyText::
-	text "I'm searching for"
-	line "items that raise"
-	cont "the abilities of"
-	cont "#MON during a"
-	cont "single battle."
+	text "qaStaHvIS ngIq"
+	line "may' #<m><a><n> laH"
+	cont "ghurqu'moH"
+	cont "luchmey vInejtaH."
 
-	para "X ATTACK, X"
-	line "DEFEND, X SPEED"
-	cont "and X SPECIAL are"
-	cont "what I'm after."
+	para "<H><o><S> <'><e><n><t><e><D>,"
+	line "<H><u><b> <'><e><n><t><e><D>,"
+	cont "<D><o> <'><e><n><t><e><D>,"
+	cont "<b><o><q><H><a><r> <'><e><n><t><e><D> je"
+	cont "vInejtaH."
 
-	para "Do you know where"
-	line "I can get them?"
+	para "nuqDaq vISuqlaH?"
 	done
 
 _LavenderMartCooltrainerMReviveText::
-	text "You know REVIVE?"
-	line "It revives any"
-	cont "fainted #MON!"
+	text "<v><u><l><H><a><'><m><o><H><w><I><'>"
+	line "DaSov'a'?"
+	cont "#<m><a><n> SuvmoHlaH!"
 	done
 
 _LavenderMartCooltrainerMNuggetText::
-	text "I found a NUGGET"
-	line "in the mountains."
+	text "HuDDaq <n><a><g><h><b><o><c><h>"
+	line "vISam."
 
-	para "I thought it was"
-	line "useless, but it"
-	cont "sold for ¥5000!"
+	para "lo'laHbe' 'e'"
+	line "vIHar 'ach 'oH"
+	cont "vIngevDI' ¥5000"
+	cont "vIHev!"
 	done
