@@ -1,146 +1,138 @@
 _PewterGymBrockPostBattleAdviceText::
-	text "There are all"
-	line "kinds of trainers"
-	cont "in the world!"
+	text "qo'Daq qeqwI'"
+	line "Sar law' tu'lu'!"
 
-	para "You appear to be"
-	line "very gifted as a"
-	cont "#MON trainer!"
+	para "qeqwI' po'"
+	line "SoHlaw'."
 
-	para "Go to the GYM in"
-	line "CERULEAN and test"
-	cont "your abilities!"
+	para "DaH laHmeylIj"
+	line "DatobmeH <c><h><a><l><H><o><m>"
+	cont "<v><e><n><g> DajaH 'e'"
+	cont "vIchup!"
 	done
 
 _PewterGymBrockWaitTakeThisText::
-	text "Wait! Take this"
-	line "with you!"
+	text "yIloS! luchvam"
+	line "yItlhap!"
 	done
 
 _PewterGymReceivedTM34Text::
-	text "<PLAYER> received"
-	line "TM34!@"
+	text "<t><j>34 Hev"
+	line "<PLAYER>!@"
+	text_end
 	text_end
 
 _TM34ExplanationText::
 	text_start
 
-	para "A TM contains a"
-	line "technique that"
-	cont "can be taught to"
-	cont "#MON!"
+	para "tonSaw''e'"
+	line "ghojlaHbogh"
+	cont "#<m><a><n> ngaS <t><j>!"
 
-	para "A TM is good only"
-	line "once! So when you"
-	cont "use one to teach"
-	cont "a new technique,"
-	cont "pick the #MON"
-	cont "carefully!"
+	para "wa'logh Qap <t><j>!"
+	line "vaj <t><j> Dalo'pa'"
+	cont "#<m><a><n>lIj"
+	cont "DaghojmoHbogh"
+	cont "yIqelqu'!"
 
-	para "TM34 contains"
-	line "BIDE!"
+	para "<n><o><D><r><u><p><c><h><o><H>"
+	line "ghojmoH <t><j>34!"
 
-	para "Your #MON will"
-	line "absorb damage in"
-	cont "battle then pay"
-	cont "it back double!"
+	para "loS #<m><a><n>lIj"
+	line "'ej QIH laj"
+	cont "ghIq cha'logh"
+	cont "boq'egh QIHvam"
+	cont "noD #<m><a><n>!"
 	done
 
 _PewterGymTM34NoRoomText::
-	text "You don't have"
-	line "room for this!"
+	text "buy' buqlIj."
+	line "DalajlaHbe'!"
 	done
 
 _PewterGymBrockReceivedBoulderBadgeText::
-	text "I took"
-	line "you for granted."
+	text "qatlhIj."
+	line "qachovHa'bejpu'."
+	cont "yap HoSlIj"
+	cont "laHlIj je."
 
-	para "As proof of your"
-	line "victory, here's"
-	cont "the BOULDERBADGE!"
+	para "Qapla'lIj woqmeH"
+	line "DaH SoHvaD"
+	cont "<n><a><g><h><'><a><'><D><e><g><h>"
+	cont "vInob!"
 
-	para "<PLAYER> received"
-	line "the BOULDERBADGE!@"
+	para "<n><a><g><h><'><a><'><D><e><g><h>"
+	line "Suq <PLAYER>!@"
 	text_end
 
 _PewterGymBrockBoulderBadgeInfoText::
 	text_start
 
-	para "That's an official"
-	line "#MON LEAGUE"
-	cont "BADGE!"
+	para "#<m><a><n> <'><o><b><e><'>"
+	line "Degh chap"
+	cont "'oH Dochvam'e'!"
 
-	para "Its bearer's"
-	line "#MON become"
-	cont "more powerful!"
+	para "'oH ghajchugh"
+	line "qeqwI' HoSchoH"
+	cont "Hoch #<m><a><n>Daj!"
 
-	para "The technique"
-	line "FLASH can now be"
-	cont "used any time!"
-	prompt
-
-_PewterGymCooltrainerMBattleText::
-	text "Stop right there,"
-	line "kid!"
-
-	para "You're still light"
-	line "years from facing"
-	cont "BROCK!"
+	para "DaH bISuvbe'chugh"
+	line "<g><h><o><n> Ho'DoS"
+	cont "Dalo'laH je!"
 	done
 
 _PewterGymCooltrainerMEndBattleText::
-	text "Darn!"
+	text "va!"
 
-	para "Light years isn't"
-	line "time! It measures"
-	cont "distance!"
+	para "waqmey tuQbe'"
+	line "loghqam! chuq"
+	cont "juv 'oH!"
 	prompt
 
 _PewterGymCooltrainerMAfterBattleText::
-	text "You're pretty hot,"
-	line "but not as hot"
-	cont "as BROCK!"
+	text "bIchongba' 'ach"
+	line "<r><o><t><l><h><I><l> chong law'"
+	cont "SoH chong puS!"
 	done
 
 _PewterGymGuidePreAdviceText::
-	text "Hiya! I can tell"
-	line "you have what it"
-	cont "takes to become a"
-	cont "#MON champ!"
+	text "qavan! #<m><a><n>"
+	line "'obe' DacharghlaH"
+	cont "'e' vInoH!"
 
-	para "I'm no trainer,"
-	line "but I can tell"
-	cont "you how to win!"
+	para "qeqwI' jIHbe' 'ach"
+	line "bIQap DaneHchugh"
+	cont "qeSwIj yIQoy!"
 
-	para "Let me take you"
-	line "to the top!"
+	para "qapo'choHmoH 'e'"
+	line "yIchaw'!"
 	done
 
 _PewterGymGuideBeginAdviceText::
-	text "All right! Let's"
-	line "get happening!"
+	text "toH!"
+	line "maja'chuqtaHchugh"
+	cont "mavanglaHbe'!"
 	prompt
 
 _PewterGymGuideAdviceText::
-	text "The 1st #MON"
-	line "out in a match is"
-	cont "at the top of the"
-	cont "#MON LIST!"
+	text "may' taghDI' SIbI'"
+	line "Suv #<m><a><n> ghom"
+	cont "tetlhlIj ghu'lIS"
+	cont "wa'DIch!"
 
-	para "By changing the"
-	line "order of #MON,"
-	cont "matches could be"
-	cont "made easier!"
+	para "may' DangeDmoHmeH"
+	line "#<m><a><n>meylIj"
+	cont "DapatlhmoHlaH 'e'"
+	cont "yIqel!"
 	done
 
 _PewterGymGuideFreeServiceText::
-	text "It's a free"
-	line "service! Let's"
-	cont "get happening!"
+	text "qeSwIj DaDIlnISbe'."
+	line "maja'chuqtaHvIS"
+	cont "mavanglaHbe'!"
 	prompt
 
 _PewterGymGuidePostBattleText::
-	text "Just as I thought!"
-	line "You're #MON"
-	cont "champ material!"
+	text "vISov!"
+	line "bIcharghlaH!"
 	done
