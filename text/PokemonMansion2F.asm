@@ -1,47 +1,48 @@
 _PokemonMansion2FSuperNerdBattleText::
-	text "I can't get out!"
-	line "This old place is"
-	cont "one big puzzle!"
+	text "jImejlaHbe'!"
+	line "chen'ong tIn rur"
+	cont "qachvam ngo'!"
 	done
 
 _PokemonMansion2FSuperNerdEndBattleText::
-	text "Oh no!"
-	line "My bag of loot!"
+	text "ghay'!"
+	line "qengHoD buqwIj!"
 	prompt
 
 _PokemonMansion2FSuperNerdAfterBattleText::
-	text "Switches open and"
-	line "close alternating"
-	cont "sets of doors!"
+	text "leQ Da'uy'chugh"
+	line "poSchoH lojmIt "
+	cont "'op 'ej SoQchoH"
+	cont "latlh!"
 	done
 
 _PokemonMansion2FDiary1Text::
-	text "Diary: July 5"
-	line "Guyana,"
-	cont "South America"
+	text "QulwI' QonoS:"
+	line "jar 7, jaj 5"
+	cont "tIng yuwey"
 
-	para "A new #MON was"
-	line "discovered deep"
-	cont "in the jungle."
+	para "ngem HopDaq"
+	line "#<m><a><n> mut chu'"
+	cont "wItu'."
 	done
 
 _PokemonMansion2FDiary2Text::
-	text "Diary: July 10"
-	line "We christened the"
-	cont "newly discovered"
-	cont "#MON, MEW."
+	text "QulwI' QonoS:"
+	line "jar 7, jaj 10"
+	cont "#<m><a><n>vam chu'vaD"
+	cont "<'><I><m><y><a><g><h><o><y><'> wIpong."
 	done
 
 _PokemonMansion2FSwitchText::
-	text "A secret switch!"
+	text "leQ pegh!"
 
-	para "Press it?"
+	para "Dachu''a'?"
 	done
 
 _PokemonMansion2FSwitchPressedText::
-	text "Who wouldn't?"
+	text "lajQo' 'Iv?"
 	prompt
 
 _PokemonMansion2FSwitchNotPressedText::
-	text "Not quite yet!"
+	text "wej bIruch!"
 	done
