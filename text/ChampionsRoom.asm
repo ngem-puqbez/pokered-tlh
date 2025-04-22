@@ -1,146 +1,139 @@
 _ChampionsRoomRivalIntroText::
-	text "<RIVAL>: Hey!"
+	text "<RIVAL>: toH!"
 
-	para "I was looking"
-	line "forward to seeing"
-	cont "you, <PLAYER>!"
+	para "naDev qaghom 'e'"
+	line "vIpIH, <PLAYER>!"
+	cont "jISey!"
 
-	para "My rival should"
-	line "be strong to keep"
-	cont "me sharp!"
+	para "mupo'qu'moHmeH"
+	line "po'nIS gholwI'!"
 
-	para "While working on"
-	line "#DEX, I looked"
-	cont "all over for"
-	cont "powerful #MON!"
+	para "#<p><a><q>wIj"
+	line "vIghertaHvIS Dat"
+	cont "#<m><a><n> HoS vInej!"
 
-	para "Not only that, I"
-	line "assembled teams"
-	cont "that would beat"
-	cont "any #MON type!"
+	para "'ej #<m><a><n> Sar"
+	line "jeylaHbogh ghom"
+	cont "vImutlh je!"
 
-	para "And now!"
+	para "DaH!"
 
-	para "I'm the #MON"
-	line "LEAGUE champion!"
+	para "#<m><a><n> 'obe'"
+	line "charghwI''a' jIH!"
 
-	para "<PLAYER>! Do you"
-	line "know what that"
-	cont "means?"
+	para "<PLAYER>! ngoDvam"
+	line "gher'ID Dayaj'a'?"
 
-	para "I'll tell you!"
+	para "qaja'!"
 
-	para "I am the most"
-	line "powerful trainer"
-	cont "in the world!"
+	para "qo'vam naQDaq"
+	line "qeqwI''e' jIH HoS"
+	cont "law' Hoch HoS puS!"
 	done
 
 _RivalDefeatedText::
-	text "NO!"
-	line "That can't be!"
-	cont "You beat my best!"
+	text "Qo'!"
+	line "qItbe'qu'!"
+	cont "ghomwIj nIv"
+	cont "Dajey!"
 
-	para "After all that"
-	line "work to become"
-	cont "LEAGUE champ?"
+	para "'ej 'eQ 'obe'"
+	line "vIcharghta'!"
 
-	para "My reign is over"
-	line "already?"
-	cont "It's not fair!"
+	para "wejHa' rIn'a'"
+	line "che'meH poH?"
+	cont "maybe'!"
 	prompt
 
 _RivalVictoryText::
-	text "Hahaha!"
-	line "I won, I won!"
+	text "HghHghHgh!"
+	line "jIQap, jIQap!"
 
-	para "I'm too good for"
-	line "you, <PLAYER>!"
+	para "SoHvaD tlhoy"
+	line "jIHoS, <PLAYER>!"
 
-	para "You did well to"
-	line "even reach me,"
-	cont "<RIVAL>, the"
-	cont "#MON genius!"
+	para "<RIVAL>, #<m><a><n> wIgh"
+	line " jIH! mughoSlaH"
+	cont "'e' 'oH ta'"
+	cont "Dojqu''e'!"
 
-	para "Nice try, loser!"
-	line "Hahaha!"
+	para "bInID 'ach yapbe'!"
+	line "lujwI'! HghHghHgh!"
 	prompt
 
 _ChampionsRoomRivalAfterBattleText::
-	text "Why?"
-	line "Why did I lose?"
+	text "chay?"
+	line "chay jIluj?"
 
-	para "I never made any"
-	line "mistakes raising"
-	cont "my #MON..."
+	para "#<m><a><n>meywIj"
+	line "vIqeqmoHtaHvIS"
+	cont "not jIQagh..."
 
-	para "Darn it! You're"
-	line "the new #MON"
-	cont "LEAGUE champion!"
+	para "va! #<m><a><n>"
+	line "'obe' charghwI'"
+	cont "chu' SoH!"
 
-	para "Although I don't"
-	line "like to admit it."
+	para "vIDIS 'e' vIpar."
 	done
 
 _ChampionsRoomOakText::
-	text "OAK: <PLAYER>!"
+	text "<'><o><Q>: <PLAYER>!"
 	done
 
 _ChampionsRoomOakCongratulatesPlayerText::
-	text "OAK: So, you won!"
-	line "Congratulations!"
-	cont "You're the new"
-	cont "#MON LEAGUE"
-	cont "champion!"
+	text "<'><o><Q>: bIQapta'!"
+	line "qaHoy'qu'!"
+	cont "#<m><a><n> 'obe'"
+	cont "charghwI''a' SoH!"
 
-	para "You've grown up so"
-	line "much since you"
-	cont "first left with"
-	cont "@"
+	para "SutlheDDI' SoH"
+	line "@"
 	text_ram wNameBuffer
-	text "!"
+	text " je"
+	cont "bIQupbej 'ach"
+	cont "DaH bInenchoHba'!"
 
-	para "<PLAYER>, you have"
-	line "come of age!"
+	para "<PLAYER>, puq"
+	line "SoHtaHbe'bej!"
 	done
 
 _ChampionsRoomOakDisappointedWithRivalText::
-	text "OAK: <RIVAL>! I'm"
-	line "disappointed!"
+	text "<'><o><Q>: <RIVAL>!"
+	line "jIbelHa'!"
 
-	para "I came when I"
-	line "heard you beat"
-	cont "the ELITE FOUR!"
+	para "loS nIvwI'pu'"
+	line "Dajeyta' 'e'"
+	cont "vIQoyDI' SIbI'"
+	cont "naDev vIghoS."
 
-	para "But, when I got"
-	line "here, you had"
-	cont "already lost!"
+	para "'a jIpawpa'"
+	line "bIlujpu'!"
 
-	para "<RIVAL>! Do you"
-	line "understand why"
-	cont "you lost?"
+	para "<RIVAL>! "
+	line "DulujmoHbogh meq"
+	cont "DaSov'a'?"
 
-	para "You have forgotten"
-	line "to treat your"
-	cont "#MON with"
-	cont "trust and love!"
+	para "#<m><a><n>lIj HoS"
+	line "DabuSpu' 'ach"
+	cont "DavoqnIS 'ej"
+	cont "DamuSHa'nIS!"
 
-	para "Without them, you"
-	line "will never become"
-	cont "a champ again!"
+	para "charghwI' Damojqa'"
+	line "DaneHchugh"
+	cont "DaSaHnISchoHbej!"
 	done
 
 _ChampionsRoomOakComeWithMeText::
-	text "OAK: <PLAYER>!"
+	text "<'><o><Q>: <PLAYER>!"
 
-	para "You understand"
-	line "that your victory"
-	cont "was not just your"
-	cont "own doing!"
+	para "nIteb Qapla'vam"
+	line "Dachavpu'be' 'e'"
+	cont "Dayajbej!"
 
-	para "The bond you share"
-	line "with your #MON"
-	cont "is marvelous!"
+	para "povqu' ruSna'"
+	line "bolInbogh SoH"
+	cont "#<m><a><n>lIj je!"
 
 	para "<PLAYER>!"
-	line "Come with me!"
+	line "HItlha'!"
 	done
