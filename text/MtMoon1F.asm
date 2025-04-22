@@ -1,119 +1,112 @@
 _MtMoon1FHikerBattleText::
-	text "WHOA! You shocked"
-	line "me! Oh, you're"
-	cont "just a kid!"
+	text "va! muyay'!"
+	line "toH, puq SoH neH!"
 	done
 
 _MtMoon1FHikerEndBattleText::
-	text "Wow!"
-	line "Shocked again!"
+	text "Hutvagh!"
+	line "vIyay'qa'lu'!"
 	prompt
 
 _MtMoon1FHikerAfterBattleText::
-	text "Kids like you"
-	line "shouldn't be"
-	cont "here!"
+	text "puq Daq 'oHbe'"
+	line "Daqvam'e'."
 	done
 
 _MtMoon1FYoungster1BattleText::
-	text "Did you come to"
-	line "explore too?"
+	text "bItlharghmeH"
+	line "naDev DajaH'a'?"
 	done
 
 _MtMoon1FYoungster1EndBattleText::
-	text "Losing"
-	line "stinks!"
+	text "jIlujchugh"
+	line "jItIvbe'!"
 	prompt
 
 _MtMoon1FYoungster1AfterBattleText::
-	text "I came down here"
-	line "to show off to"
-	cont "girls."
+	text "be'pu'vaD jIDojmeH"
+	line "DISvam vIjaH."
 	done
 
 _MtMoon1FCooltrainerF1BattleText::
-	text "Wow! It's way"
-	line "bigger in here"
-	cont "than I thought!"
+	text "Hu! tInqu' DISvam"
+	line "'e' vIpIHbe'."
 	done
 
 _MtMoon1FCooltrainerF1EndBattleText::
-	text "Oh!"
-	line "I lost it!"
+	text "toH!"
+	line "may' vIluj!"
 	prompt
 
 _MtMoon1FCooltrainerF1AfterBattleText::
-	text "How do you get"
-	line "out of here?"
+	text "chay' Daqvam"
+	line "wImejlaH?"
 	done
 
 _MtMoon1FSuperNerdBattleText::
-	text "What! Don't sneak"
-	line "up on me!"
+	text "nuq! yIghachQo'!"
+	line "HImerQo' je!"
 	done
 
 _MtMoon1FSuperNerdEndBattleText::
-	text "My"
-	line "#MON won't do!"
+	text "Qapbe'"
+	line "#<m><a><n>meywIj!"
 	prompt
 
 _MtMoon1FSuperNerdAfterBattleText::
-	text "I have to find"
-	line "stronger #MON."
+	text "#<m><a><n> HoS"
+	line "vISamnISbej."
 	done
 
 _MtMoon1FCooltrainerF2BattleText::
-	text "What? I'm waiting"
-	line "for my friends to"
-	cont "find me here."
+	text "nuqneH? naDev"
+	line "jupwI'pu' vIloStaH."
 	done
 
 _MtMoon1FCooltrainerF2EndBattleText::
-	text "I lost?"
+	text "jIluj'a'?"
 	prompt
 
 _MtMoon1FCooltrainerF2AfterBattleText::
-	text "I heard there are"
-	line "some very rare"
-	cont "fossils here."
+	text "naDev 'an'or qub"
+	line "tu'lu' 'e' ja'lu'."
 	done
 
 _MtMoon1FYoungster2BattleText::
-	text "Suspicious men"
-	line "are in the cave."
-	cont "What about you?"
+	text "DISvamDaq loDpu'"
+	line "pIH leghlu'."
+	cont "bIpIH'a'?"
 	done
 
 _MtMoon1FYoungster2EndBattleText::
-	text "You"
-	line "got me!"
+	text " "
+	line "mujeyta'!"
 	prompt
 
 _MtMoon1FYoungster2AfterBattleText::
-	text "I saw them! I'm"
-	line "sure they're from"
-	cont "TEAM ROCKET!"
+	text "chaH vIlegh!"
+	line "<p><e><n><g><D><u><j> ghom "
+	cont "'oSbej chaH!"
 	done
 
 _MtMoon1FYoungster3BattleText::
-	text "Go through this"
-	line "cave to get to"
-	cont "CERULEAN CITY!"
+	text "<c><h><a><l><H><o><m> <v><e><n><g>"
+	line "jaHmeH vay'"
+	cont "DISvam veghnIS!"
 	done
 
 _MtMoon1FYoungster3EndBattleText::
-	text "I"
-	line "lost."
+	text " "
+	line "jIluj."
 	prompt
 
 _MtMoon1FYoungster3AfterBattleText::
-	text "ZUBAT is tough!"
-	line "But, it can be"
-	cont "useful if you"
-	cont "catch one."
+	text "rotlh <v><a><l><Q><e><D>!"
+	line "'a DajonlaHchugh"
+	cont "lI'choHlaH."
 	done
 
 _MtMoon1FBewareZubatSign::
-	text "Beware! ZUBAT is"
-	line "a blood sucker!"
+	text "yIghuH! 'Iw remwI'"
+	line "bIH <v><a><l><Q><e><D>'e'!"
 	done
