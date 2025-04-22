@@ -1,36 +1,36 @@
 _CeruleanTrashedHouseFishingGuruTheyStoleATMText::
-	text "Those miserable"
-	line "ROCKETs!"
+	text "quvHa' <p><e><n><g><D><u><j>"
+	line "ghomvetlh!"
 
-	para "Look what they"
-	line "did here!"
+	para "QIH qaSmoHbogh"
+	line "yIlegh!"
 
-	para "They stole a TM"
-	line "for teaching"
-	cont "#MON how to"
-	cont "DIG holes!"
+	para "QemjIq ghawmeH"
+	line "Ho'DoS ngaSbogh"
+	cont "<t><j> nIHlu'ta'!"
 
-	para "That cost me a"
-	line "bundle, it did!"
+	para "'oH vIDIlmeH"
+	line "Huch Doj vIbajnIS!"
 	done
 
 _CeruleanTrashedHouseFishingGuruWhatsLostIsLostText::
-	text "I figure what's"
-	line "lost is lost!"
+	text "vay' chIllu'chugh"
+	line "vaj chIllu' 'e'"
+	cont "vIHar."
 
-	para "I decided to teach"
-	line "DIGLETT how to"
-	cont "DIG without a TM!"
+	para "<g><h><a><w><g><h><u>wIjvaD"
+	line "<g><h><a><w> Ho'DoS"
+	cont "vIghojmoH!"
+	cont "<t><j> vIlo'be'!"
 	done
 
 _CeruleanTrashedHouseGirlText::
-	text "TEAM ROCKET must"
-	line "be trying to DIG"
-	cont "their way into no"
-	cont "good!"
+	text "mIghmeH QemjIq"
+	line "luveghnISlaw'"
+	cont "HeSwI'vetlh!"
 	done
 
 _CeruleanTrashedHouseWallHoleText::
-	text "TEAM ROCKET left"
-	line "a way out!"
+	text "narghmeH reD"
+	line "ghID <p><e><n><g><D><u><j> beq!"
 	done
