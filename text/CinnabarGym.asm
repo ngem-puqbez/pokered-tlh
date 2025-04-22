@@ -1,212 +1,206 @@
 _CinnabarGymBlainePreBattleText::
-	text "Hah!"
+	text "Hgh!"
 
-	para "I am BLAINE! I"
-	line "am the LEADER of"
-	cont "CINNABAR GYM!"
+	para "<m><e><Q><u><l> jIH! <n><a><g><h><q><u><l>"
+	line "<'><a><m><b><a><y><'> qaDpIn"
+	cont "jIH!!"
 
-	para "My fiery #MON"
-	line "will incinerate"
-	cont "all challengers!"
+	para "qaDwI'pu' Hoch"
+	line "meQchu' qul"
+	cont "#<m><a><n>wIj!"
 
-	para "Hah! You better"
-	line "have BURN HEAL!"
+	para "Hgh! <m><e><Q><H><a><'><w><I><'>"
+	line "Daqeng 'e' vItul!"
 	done
 
 _CinnabarGymBlaineReceivedVolcanoBadgeText::
-	text "I have"
-	line "burnt out!"
+	text "jImeQ jIH;"
+	line "bImeQ 'e' qa'!"
 
-	para "You have earned"
-	line "the VOLCANOBADGE!@"
+	para "<q><u><l><H><u><D><D><e><g><h>"
+	line "Dabajta'!@"
 	text_end
 
 _CinnabarGymBlainePostBattleAdviceText::
-	text "FIRE BLAST is the"
-	line "ultimate fire"
-	cont "technique!"
+	text "qul tonSaw' nIv"
+	line "'oH <q><u><l> <g><h><a><y>'e'!"
 
-	para "Don't waste it on"
-	line "water #MON!"
+	para "bIQ #<m><a><n> HIvmeH"
+	line "yIlo'Qo'!"
 	done
 
 _CinnabarGymBlaineVolcanoBadgeInfoText::
-	text "Hah!"
+	text "Hgh!"
 
-	para "The VOLCANOBADGE"
-	line "heightens the"
-	cont "SPECIAL abilities"
-	cont "of your #MON!"
+	para "#<m><a><n>lIj boqHar"
+	line "laHmey ghur"
+	cont "<q><u><l><H><u><D><D><e><g><h>!"
 
-	para "Here, you can"
-	line "have this too!"
+	para "'ej luchvam"
+	line "yItlhap je!"
 	done
 
 _CinnabarGymBlaineReceivedTM38Text::
-	text "<PLAYER> received"
-	line "@"
+	text "@"
 	text_ram wStringBuffer
-	text "!@"
+	text_start
+	line "Suq <PLAYER>!@"
 	text_end
 
 _CinnabarGymBlaineTM38ExplanationText::
 	text_start
 
-	para "TM38 contains"
-	line "FIRE BLAST!"
+	para "<q><u><l> <g><h><a><y> tonSaw'"
+	line "ngaS <t><j>38!"
 
-	para "Teach it to fire-"
-	line "type #MON!"
+	para "qul #<m><a><n>vaD"
+	line "yIghojmoH!"
 
-	para "CHARMELEON or"
-	line "PONYTA would be"
-	cont "good bets!"
+	para "<m><e><Q><a><y><'> <n><o><m><q><e><t><S><u><'>"
+	line "ghap vIchup!"
 	done
 
 _CinnabarGymBlaineTM38NoRoomText::
-	text "Make room for my"
-	line "gift!"
+	text "toH! buy' buqmo'"
+	line "nobwIj Datlhapbe'!"
 	done
 
 _CinnabarGymSuperNerd1BattleText::
-	text "Do you know how"
-	line "hot #MON fire"
-	cont "breath can get?"
+	text "qul tonSaw'mey"
+	line "Hat DaSov'a'?"
 	done
 
 _CinnabarGymSuperNerd1EndBattleText::
-	text "Yow!"
-	line "Hot, hot, hot!"
+	text "'oy'!"
+	line "tuj, tuj, tuj!"
 	prompt
 
 _CinnabarGymSuperNerd1AfterBattleText::
-	text "Fire, or to be"
-	line "more precise,"
-	cont "combustion..."
+	text "Hat vItlh gheH"
+	line "qul lIngbogh qul"
+	cont "chIwbogh tonSaw..."
 
-	para "Blah, blah, blah,"
-	line "blah..."
+	para "toH! Dal'a'"
+	line "SoQwIj? Da'Ijbe'!"
 	done
 
 _CinnabarGymSuperNerd2BattleText::
-	text "I was a thief, but"
-	line "I became straight"
-	cont "as a trainer!"
+	text "pa'logh Huch"
+	line "SuqmeH vInIHnIS"
+	cont "DaH naDev jIvum!"
 	done
 
 _CinnabarGymSuperNerd2EndBattleText::
-	text "I"
-	line "surrender!"
+	text "Qo'!"
+	line "jIjeghrup!"
 	prompt
 
 _CinnabarGymSuperNerd2AfterBattleText::
-	text "I can't help"
-	line "stealing other"
-	cont "people's #MON!"
+	text "yIn chu' vIyIntaH."
+	line "'ebvam munob"
+	cont "<m><e><Q><u><l>! chong!"
 	done
 
 _CinnabarGymSuperNerd3BattleText::
-	text "You can't win!"
-	line "I have studied"
-	cont "#MON totally!"
+	text "bIQaplaHbe'!"
+	line "#<m><a><n>QeD vIHaD!"
 	done
 
 _CinnabarGymSuperNerd3EndBattleText::
-	text "Waah!"
-	line "My studies!"
+	text "va!"
+	line "SovwIj!"
 	prompt
 
 _CinnabarGymSuperNerd3AfterBattleText::
-	text "My theories are"
-	line "too complicated"
-	cont "for you!"
+	text "SoHvaD tlhoy"
+	line "qatlh ngermeywIj!"
 	done
 
 _CinnabarGymSuperNerd4BattleText::
-	text "I just like using"
-	line "fire #MON!"
+	text "qul #<m><a><n>mey"
+	line "vIparHa' neH!"
 	done
 
 _CinnabarGymSuperNerd4EndBattleText::
-	text "Too hot"
-	line "to handle!"
+	text "tujqu'mo'"
+	line "vIraQlaHbe'!"
 	prompt
 
 _CinnabarGymSuperNerd4AfterBattleText::
-	text "I wish there was"
-	line "a thief #MON!"
-	cont "I'd use that!"
+	text "nIHwI' rurbogh"
+	line "#<m><a><n> tu'lu'"
+	cont "'e' vIjIn! vIlo'!"
 	done
 
 _CinnabarGymSuperNerd5BattleText::
-	text "I know why BLAINE"
-	line "became a trainer!"
+	text "chojwI'vaD <m><e><Q><u><l>"
+	line "mojmoHbogh meq"
+	cont "vISov!"
 	done
 
 _CinnabarGymSuperNerd5EndBattleText::
-	text "Ow!"
+	text "'oy'!"
 	prompt
 
 _CinnabarGymSuperNerd5AfterBattleText::
-	text "BLAINE was lost"
-	line "in the mountains"
-	cont "when a fiery bird"
-	cont "#MON appeared."
+	text "HuDDaq DaqDaj"
+	line "Sovbe'choH <m><e><Q><u><l>"
+	cont "Qup 'ej ghaH toD"
+	cont "qul bo'Degh"
+	cont "#<m><a><n>!"
 
-	para "Its light enabled"
-	line "BLAINE to find"
-	cont "his way down!"
+	para "wovqu'mo' <m><e><Q><u><l>"
+	line "Dev tamghayDaj!"
 	done
 
 _CinnabarGymSuperNerd6BattleText::
-	text "I've been to many"
-	line "GYMs, but this is"
-	cont "my favorite!"
+	text "qaDqachmey law'"
+	line "vISuchpu' 'ach"
+	cont "qaDqachvam vImaS!"
 	done
 
 _CinnabarGymSuperNerd6EndBattleText::
-	text "Yowza!"
-	line "Too hot!"
+	text "'oy'qu'!"
+	line "tlhoy tuj!"
 	prompt
 
 _CinnabarGymSuperNerd6AfterBattleText::
-	text "Us fire #MON"
-	line "fans like PONYTA"
-	cont "and NINETALES!"
+	text "<n><o><m><q><e><t><S><u><'> <q><u><l><H><o><S>"
+	line "je DIparHa' qul"
+	cont "#<m><a><n> Ho'wI'pu'!"
 	done
 
 _CinnabarGymSuperNerd7BattleText::
-	text "Fire is weak"
-	line "against H2O!"
+	text "qul #<m><a><n> pujmoH"
+	line "bIQ!"
 	done
 
 _CinnabarGymSuperNerd7EndBattleText::
-	text "Oh!"
-	line "Snuffed out!"
+	text "va!"
+	line "chetlhay'moH!"
 	prompt
 
 _CinnabarGymSuperNerd7AfterBattleText::
-	text "Water beats fire!"
-	line "But, fire melts"
-	cont "ice #MON!"
+	text "qul jey bIQ!"
+	line "'a chuch #<m><a><n>"
+	cont "tet qul!"
 	done
 
 _CinnabarGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "toH! charghwI'"
+	line "mojlaHbogh puq!"
 
-	para "The hot-headed"
-	line "BLAINE is a fire"
-	cont "#MON pro!"
+	para "qul #<m><a><n> po'wI'"
+	line "ghaH <m><e><Q><u><l>'e'!"
 
-	para "Douse his spirits"
-	line "with water!"
+	para "qulDaj QongmoHmeH"
+	line "bIQ tonSaw' yIlo'!"
 
-	para "You better take"
-	line "some BURN HEALs!"
+	para "'ej <m><e><Q><H><a><'><w><I><'>"
+	line "yIqem je!"
 	done
 
 _CinnabarGymGymGuideBeatBlaineText::
-	text "<PLAYER>! You beat"
-	line "that fire brand!"
+	text "<PLAYER>! tejvetlh"
+	line "qan Dajeyta'!"
 	done
