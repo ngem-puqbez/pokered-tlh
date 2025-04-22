@@ -1,78 +1,78 @@
 _CinnabarLabFossilRoomScientist1Text::
-	text "Hiya!"
+	text "nuqneH?"
 
-	para "I am important"
-	line "doctor!"
+	para "tej potlhqu'"
+	line "jIH!"
 
-	para "I study here rare"
-	line "#MON fossils!"
+	para "naDev #<m><a><n>"
+	line "'an'ormey vIQul!"
 
-	para "You! Have you a"
-	line "fossil for me?"
+	para "toH! jIHvaD 'an'or"
+	line "Daghaj'a'?"
 	prompt
 
 _CinnabarLabFossilRoomScientist1NoFossilsText::
-	text "No! Is too bad!"
+	text "ghobe'! lo'laH"
+	line "poHwIj! yI'anQo'!"
 	done
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText::
-	text "I take a little"
-	line "time!"
+	text "ngongwIj vIturmeH"
+	line "poH vIpoQ!"
 
-	para "You go for walk a"
-	line "little while!"
+	para "bIloStaHvIS leng"
+	line "ngaj yItagh!"
 	done
 
 _CinnabarLabFossilRoomScientist1FossilIsBackToLifeText::
-	text "Where were you?"
+	text "nuqDaq DajaH?"
 
-	para "Your fossil is"
-	line "back to life!"
+	para "yInqa'choH"
+	line "'an'orlIj!"
 
-	para "It was @"
+	para "jIlugh! @"
 	text_ram wStringBuffer
 	text_start
-	line "like I think!"
+	line "'oH!"
 	prompt
 
 _CinnabarLabFossilRoomScientist1SeesFossilText::
-	text "Oh! That is"
-	line "@"
+	text "toH!@"
 	text_ram wNameBuffer
-	text "!"
+	text ""
+	line "choqem!"
 
-	para "It is fossil of"
+	para "'an'orvamDaq"
 	line "@"
 	text_ram wStringBuffer
-	text ", a"
-	cont "#MON that is"
-	cont "already extinct!"
+	text " tu'lu'!"
+	cont "bIv tIQqu' loqchoH"
+	cont "#<m><a><n> mutvam!"
 
-	para "My Resurrection"
-	line "Machine will make"
-	cont "that #MON live"
-	cont "again!"
+	para "#<m><a><n>vetlh"
+	line "yInqa'moHmeH"
+	cont "poH puS poQ"
+	cont "roSghaH velqa'"
+	cont "mutlhwI' patwIj."
 	done
 
 _CinnabarLabFossilRoomScientist1TakesFossilText::
-	text "So! You hurry and"
-	line "give me that!"
+	text "toH! nom 'an'or"
+	line "HInob!"
 
-	para "<PLAYER> handed"
-	line "over @"
+	para "@"
 	text_ram wNameBuffer
-	text "!"
+	text " nob"
+	line "<PLAYER>!"
 	prompt
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText2::
-	text "I take a little"
-	line "time!"
+	text "poH ngaj vIpoQ!"
 
-	para "You go for walk a"
-	line "little while!"
+	para "HurDaq yIjaH!"
 	done
 
 _CinnabarLabFossilRoomScientist1ComeAgainText::
-	text "Aiyah! You come"
-	line "again!"
+	text "va! SIbI'Ha'"
+	line "yIchegh!"
 	done
