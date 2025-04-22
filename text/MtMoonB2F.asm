@@ -1,125 +1,122 @@
 _MtMoonB2FDomeFossilYouWantText::
-	text "You want the"
-	line "DOME FOSSIL?"
+	text "<'><a><n><'><o><r> <r><u><t><l><h>"
+	line "DaneH'a'?"
 	done
 
 _MtMoonB2FHelixFossilYouWantText::
-	text "You want the"
-	line "HELIX FOSSIL?"
+	text "<'><a><n><'><o><r> <v><e><r>"
+	line "DaneH'a'?"
 	done
 
 _MtMoonB2FReceivedFossilText::
-	text "<PLAYER> got the"
-	line "@"
 	text_ram wStringBuffer
-	text "!@"
+	text " Suq"
+	line "<PLAYER>!@"
 	text_end
 
 _MtMoonB2FYouHaveNoRoomText::
-	text "Look, you've got"
-	line "no room for this.@"
+	text "'Iq luchlIj."
+	line "DaH DawoHlaHbe'.@"
 	text_end
 
 _MtMoonB2FSuperNerdTheyreBothMineText::
-	text "Hey, stop!"
+	text "toH, yItaD!"
 
-	para "I found these"
-	line "fossils! They're"
-	cont "both mine!"
+	para "'an'ormeyvam"
+	line "vISam! bIH"
+	cont "vIghaj jIH!"
 	done
 
 _MtMoonB2FSuperNerdOkIllShareText::
-	text "OK!"
-	line "I'll share!"
+	text "bIQap"
+	line "'e' vIchID!"
+	cont "vIlInrup!"
 	prompt
 
 _MtMoonB2fSuperNerdEachTakeOneText::
-	text "We'll each take"
-	line "one!"
-	cont "No being greedy!"
+	text "wa' vItlhap 'ej"
+	line "wa' Datlhap!"
+	cont "yIqurQo'!"
 	done
 
 _MtMoonB2FSuperNerdTheresAPokemonLabText::
-	text "Far away, on"
-	line "CINNABAR ISLAND,"
-	cont "there's a #MON"
-	cont "LAB."
+	text "<n><a><g><h><q><u><l> <'><a><m><b><a><y>"
+	line "HopDaq #<m><a><n>"
+	cont "Qulpa' tu'lu'."
 
-	para "They do research"
-	line "on regenerating"
-	cont "fossils."
+	para "'an'or #<m><a><n>"
+	line "yInmoHmeH Ho'DoS"
+	cont "QultaH."
 	done
 
 _MtMoonB2FSuperNerdThenThisIsMineText::
-	text "All right. Then"
-	line "this is mine!@"
+	text "jIlaj. vaj"
+	line "'an'orvam vItlhap!@"
 	text_end
 
 _MtMoonB2FRocket1BattleText::
-	text "TEAM ROCKET will"
-	line "find the fossils,"
-	cont "revive and sell"
-	cont "them for cash!"
+	text "'an'or nejtaH"
+	line "<p><e><n><g><D><u><j> ghom."
+	cont "#<m><a><n> qun "
+	cont "wIyInqa'moH"
+	cont "'ej wIngev!"
 	done
 
 _MtMoonB2FRocket1EndBattleText::
-	text "Urgh!"
-	line "Now I'm mad!"
+	text "Qu'vatlh!"
+	line "DaH jIQeH!"
 	prompt
 
 _MtMoonB2FRocket1AfterBattleText::
-	text "You made me mad!"
-	line "TEAM ROCKET will"
-	cont "blacklist you!"
+	text "muQeHmoHpu'!"
+	line "not <p><e><n><g><D><u><j> ghom"
+	cont "DamuvlaH!"
 	done
 
 _MtMoonB2FRocket2BattleText::
-	text "We, TEAM ROCKET,"
-	line "are #MON"
-	cont "gangsters!"
+	text "<p><e><n><g><D><u><j> ghom maH!"
+	line "jIvvo' mIgh maH!"
+	cont "taHjaj!"
 	done
 
 _MtMoonB2FRocket2EndBattleText::
-	text "I blew"
-	line "it!"
+	text "jIQagh."
+	line "ghuy'!"
 	prompt
 
 _MtMoonB2FRocket2AfterBattleText::
-	text "Darn it all! My"
-	line "associates won't"
-	cont "stand for this!"
+	text "ghuy'cha'! lajbe'"
+	line "ghomwIj!"
 	done
 
 _MtMoonB2FRocket3BattleText::
-	text "We're pulling a"
-	line "big job here!"
-	cont "Get lost, kid!"
+	text "Qu' potlh wItur!"
+	line "ghomej, puq!"
 	done
 
 _MtMoonB2FRocket3EndBattleText::
-	text "So, you"
-	line "are good."
+	text "vaj..."
+	line "bIpo'."
 	prompt
 
 _MtMoonB2FRocket3AfterBattleText::
-	text "If you find a"
-	line "fossil, give it"
-	cont "to me and scram!"
+	text "'an'or DaSamchugh"
+	line "jIHvaD yInob ghIq"
+	cont "yImej!"
 	done
 
 _MtMoonB2FRocket4BattleText::
-	text "Little kids"
-	line "should leave"
-	cont "grown-ups alone!"
+	text "qup nuQbe' puq"
+	line "net tlheb."
 	done
 
 _MtMoonB2FRocket4EndBattleText::
-	text "I'm"
-	line "steamed!"
+	text "quvwIj"
+	line "DaQaw'ta'."
 	prompt
 
 _MtMoonB2FRocket4AfterBattleText::
-	text "#MON lived"
-	line "here long before"
-	cont "people came."
+	text "pawpa' ghotpu'"
+	line "DISvam Dabpu'"
+	cont "#<m><a><n>mey."
 	done
