@@ -1,60 +1,55 @@
 _CeladonDinerCookText::
-	text "Hi!"
+	text "nuqneH!"
 
-	para "We're taking a"
-	line "break now."
+	para "DaH maleStaH."
 	done
 
 _CeladonDinerMiddleAgedWomanText::
-	text "My #MON are"
-	line "weak, so I often"
-	cont "have to go to the"
-	cont "DRUG STORE."
+	text "puj #<m><a><n>wIj"
+	line "vaj pIj <H><e><r><g><h>"
+	cont "ngevwI' vISuch."
 	done
 
 _CeladonDinerMiddleAgedManText::
-	text "Psst! There's a"
-	line "basement under"
-	cont "the GAME CORNER."
+	text "tam! <S><u><D><m><e><H> <q><a><c><h>"
+	line "bIngDaq qach DIS"
+	cont "tu'lu'."
 	done
 
 _CeladonDinerFisherText::
-	text "Munch..."
+	text "chop..."
 
-	para "The man at that"
-	line "table lost it all"
-	cont "at the slots."
+	para "raSvetlh retlhDaq"
+	line "loD tu'lu'. SuD"
+	cont "'ej Hoch lujpu'."
 	done
 
 _CeladonDinerGymGuideImFlatOutBustedText::
-	text "Go ahead! Laugh!"
+	text "bIruchlaH! yIHagh!"
 
-	para "I'm flat out"
-	line "busted!"
+	para "HuchwIj Hoch"
+	line "vInatlhpu'!"
 
-	para "No more slots for"
-	line "me! I'm going"
-	cont "straight!"
+	para "tuch jISuDQo'!"
+	line "DaH vI'Ip!"
 
-	para "Here! I won't be"
-	line "needing this any-"
-	cont "more!"
+	para "yItlhap! DaH"
+	line "Dochvam"
+	cont "vIpoQbe'choH!"
 	prompt
 
 _CeladonDinerGymGuideReceivedCoinCaseText::
-	text "<PLAYER> received"
-	line "a @"
-	text_ram wStringBuffer
-	text "!@"
+	text "<n><g><o><p> <'><a><p><l><o><'>"
+	line "Suq <PLAYER>."
 	text_end
 
 _CeladonDinerGymGuideCoinCaseNoRoomText::
-	text "Make room for"
-	line "this!"
+	text "wejHa' buy'"
+	line "buqlIj!"
 	done
 
 _CeladonDinerGymGuideWinItBackText::
-	text "I always thought"
-	line "I was going to"
-	cont "win it back..."
+	text "jIQaplaH 'e' "
+	line "vIHar. vISuqqa'"
+	cont "'e' vIHar..."
 	done
