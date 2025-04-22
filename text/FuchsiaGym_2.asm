@@ -1,194 +1,183 @@
 _FuchsiaGymKogaPostBattleAdviceText::
-	text "When afflicted by"
-	line "TOXIC, #MON"
-	cont "suffer more and"
-	cont "more as battle"
-	cont "progresses!"
+	text "#<m><a><n> qIpchugh"
+	line "<n><g><e><j><q><u><'> tonSaw'"
+	cont "nI'choHtaHvIS"
+	cont "may' bechchoH"
+	cont "ghIq bechqu'choH!"
 
-	para "It will surely"
-	line "terrorize foes!"
+	para "jagh ghIjchu'laH!"
 	done
 
 _FuchsiaGymKogaSoulBadgeInfoText::
-	text "Now that you have"
-	line "the SOULBADGE,"
-	cont "the DEFENSE of"
-	cont "your #MON"
-	cont "increases!"
+	text "<q><o><l><q><o><S><D><e><g><h> ghajDI'"
+	line "vay' #<m><a><n>Daj"
+	cont "Hub ghur 'oH."
 
-	para "It also lets you"
-	line "SURF outside of"
-	cont "battle!"
+	para "may' qaSbe'taHvIS"
+	line "Qal Ho'DoS lo'"
+	cont "'e' chaw' je!"
 
-	para "Ah! Take this"
-	line "too!"
+	para "toH! luchvam"
+	line "yItlhap je!"
 	done
 
 _FuchsiaGymKogaReceivedTM06Text::
-	text "<PLAYER> received"
-	line "@"
+	text "@"
 	text_ram wStringBuffer
-	text "!@"
+	text_start
+	line "Suq <PLAYER>!@"
 	text_end
 
 _FuchsiaGymKogaTM06ExplanationText::
 	text_start
-	para "TM06 contains"
-	line "TOXIC!"
+	para "<n><g><e><j><q><u><'> tonSaw'"
+	line "ngaS <t><j>06!"
 
-	para "It is a secret"
-	line "technique over"
-	cont "400 years old!"
+	para "tonSaw' pegh 'oH."
+	line "rav loSvatlh ben"
+	cont "'ogh!"
 	done
 
 _FuchsiaGymKogaTM06NoRoomText::
-	text "Make space for"
-	line "this, child!"
+	text "tlhoy buy'mo' buq"
+	line "luch tlhapbe' puq!"
 	done
 
 _FuchsiaGymRocker1BattleText::
-	text "Strength isn't"
-	line "the key for"
-	cont "#MON!"
+	text "SuvtaHvIS #<m><a><n>"
+	line "yapbe' HoS neH!"
 
-	para "It's strategy!"
+	para "potlh Dup!"
 
-	para "I'll show you how"
-	line "strategy can beat"
-	cont "brute strength!"
+	para "HoS jey Dup 'e'"
+	line "vI'agh!"
 	done
 
 _FuchsiaGymRocker1EndBattleText::
-	text "What?"
-	line "Extraordinary!"
+	text "nuq?"
+	line "bIpovqu'!"
 	prompt
 
 _FuchsiaGymRocker1AfterBattleText::
-	text "So, you mix brawn"
-	line "with brains?"
-	cont "Good strategy!"
+	text "Hu'ma... yab HoS"
+	line "je Dalo''a'?"
+	cont "Dun Dup!"
 	done
 
 _FuchsiaGymRocker2BattleText::
-	text "I wanted to become"
-	line "a ninja, so I"
-	cont "joined this GYM!"
+	text "SuvwI' pegh vImoj"
+	line "vIneH vaj "
+	cont "qaDqachvam vImuv!"
 	done
 
 _FuchsiaGymRocker2EndBattleText::
-	text "I'm done"
-	line "for!"
+	text "jIrIn!"
 	prompt
 
 _FuchsiaGymRocker2AfterBattleText::
-	text "I will keep on"
-	line "training under"
-	cont "KOGA, my ninja"
-	cont "master!"
+	text "jIchojtaH!"
+	line "mughojmoHtaH"
+	cont "<q><o><'><g><h><a> pIn'a'!"
 	done
 
 _FuchsiaGymRocker3BattleText::
-	text "Let's see you"
-	line "beat my special"
-	cont "techniques!"
+	text "tonSaw'wIj lI'"
+	line "DaSIQlaHbe' 'e'"
+	cont "vISov!"
 	done
 
 _FuchsiaGymRocker3EndBattleText::
-	text "You"
-	line "had me fooled!"
+	text "Hu'ma"
+	line "mutobpu'!"
 	prompt
 
 _FuchsiaGymRocker3AfterBattleText::
-	text "I like poison and"
-	line "sleep techniques,"
-	cont "as they linger"
-	cont "after battle!"
+	text "tar tonSaw'mey"
+	line "vImaS. rInDI' may'"
+	cont "DoSchaj QIHtaH!"
 	done
 
 _FuchsiaGymRocker4BattleText::
-	text "Stop right there!"
+	text "bIvIH 'e' yImev!"
 
-	para "Our invisible"
-	line "walls have you"
-	cont "frustrated?"
+	para "DumoghmoHpu'a'"
+	line "tlhoy'meymaj"
+	cont "Demchu'?"
 	done
 
 _FuchsiaGymRocker4EndBattleText::
-	text "Whoa!"
-	line "He's got it!"
+	text "toH!"
+	line "pov laHlIj!"
 	prompt
 
 _FuchsiaGymRocker4AfterBattleText::
-	text "You impressed me!"
-	line "Here's a hint!"
+	text "bIDojbej!"
+	line "qeS vImuch!"
 
-	para "Look very closely"
-	line "for gaps in the"
-	cont "invisible walls!"
+	para "'olQanmey law'"
+	line "ghaj tlhoy'mey"
+	cont "Demchu'!"
 	done
 
 _FuchsiaGymRocker5BattleText::
-	text "I also study the"
-	line "way of the ninja"
-	cont "with master KOGA!"
+	text "SuvwI' pegh tIgh"
+	line "mughojmoH <q><o><'><g><h><a>"
+	cont "pIn'a'!"
 
-	para "Ninja have a long"
-	line "history of using"
-	cont "animals!"
+	para "poH nI' Ha'DIbaH"
+	line "lo' SuvwI' pegh!"
 	done
 
 _FuchsiaGymRocker5EndBattleText::
-	text "Awoo!"
+	text " "
+	line "baQa'!"
 	prompt
 
 _FuchsiaGymRocker5AfterBattleText::
-	text "I still have much"
-	line "to learn!"
+	text "wej Sov law'"
+	line "vISov!"
 	done
 
 _FuchsiaGymRocker6BattleText::
-	text "Master KOGA comes"
-	line "from a long line"
-	cont "of ninjas!"
+	text "SuvwI' pegh chaH"
+	line "<q><o><'><g><h><a> 'emrIgh"
+	cont "law'!"
 
-	para "What did you"
-	line "descend from?"
+	para "'Iv chaH"
+	line "'emrIghlIj'e'?"
 	done
 
 _FuchsiaGymRocker6EndBattleText::
-	text "Dropped"
-	line "my balls!"
+	text "moQwIj"
+	line "vIchagh!"
 	prompt
 
 _FuchsiaGymRocker6AfterBattleText::
-	text "Where there is"
-	line "light, there is"
-	cont "shadow!"
+	text "tamghay"
+	line "tu'lu'chugh QIb"
+	cont "tu'lu' je!"
 
-	para "Light and shadow!"
-	line "Which do you"
-	cont "choose?"
+	para "tamghay QIb je!"
+	line "ngIq yIwIv!"
 	done
 
 _FuchsiaGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "toH! charghwI'"
+	line "mojlaHbogh puq!"
 
-	para "FUCHSIA GYM is"
-	line "riddled with"
-	cont "invisible walls!"
+	para "naDev tlhoy'mey"
+	line "Demchu' yughbogh"
+	cont "chen'ong tu'lu'!"
 
-	para "KOGA might appear"
-	line "close, but he's"
-	cont "blocked off!"
+	para "Sumlaw' <q><o><'><g><h><a>"
+	line "'ach Suchevlu'!"
 
-	para "You have to find"
-	line "gaps in the walls"
-	cont "to reach him!"
+	para "ghaH SIchmeH"
+	line "tlhoy'Daq qung"
+	cont "DaSamnIS!"
 	done
 
 _FuchsiaGymGymGuideBeatKogaText::
-	text "It's amazing how"
-	line "ninja can terrify"
-	cont "even now!"
+	text "Dun SuvwI' pegh"
+	line "'ej ghIjqu'laH je!"
 	done
