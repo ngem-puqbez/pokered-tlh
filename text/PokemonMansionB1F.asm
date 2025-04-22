@@ -1,39 +1,39 @@
 _PokemonMansionB1FBurglarBattleText::
-	text "Uh-oh. Where am"
-	line "I now?"
+	text "DaH nuqDaq jIH?"
 	done
 
 _PokemonMansionB1FBurglarEndBattleText::
-	text "Awooh!"
+	text "wuuuu!"
 	prompt
 
 _PokemonMansionB1FBurglarAfterBattleText::
-	text "You can find stuff"
-	line "lying around."
+	text "yavDaq 'ej DIDaq"
+	line "luch Samlu'laH."
 	done
 
 _PokemonMansionB1FScientistBattleText::
-	text "This place is"
-	line "ideal for a lab."
+	text "QulmeH pup"
+	line "Daqvam."
 	done
 
 _PokemonMansionB1FScientistEndBattleText::
-	text "What"
-	line "was that for?"
+	text "naDev"
+	line "nuq Qul? jISIv."
 	prompt
 
 _PokemonMansionB1FScientistAfterBattleText::
-	text "I like it here!"
-	line "It's conducive to"
-	cont "my studies!"
+	text "Daqvam vIparHa'!"
+	line "naDev jIQul 'e'"
+	cont "vIwIvpu'!"
 	done
 
 _PokemonMansionB1FDiaryText::
-	text "Diary; Sept. 1"
-	line "MEWTWO is far too"
-	cont "powerful."
+	text "QulwI' QonoS:"
+	line  "jar 9, jaj 1"
+	
+	para "tlhoy vItlhchoH"
+	line "<'><I><m><y><a><g><h><q><a><'> HoS."
 
-	para "We have failed to"
-	line "curb its vicious"
-	cont "tendencies..."
+	para "DI'onDaj naSqu'"
+	line "wISeHchoHlaHbe'..."
 	done
