@@ -1,97 +1,102 @@
 _CeruleanBadgeHouseMiddleAgedManText::
-	text "#MON BADGEs"
-	line "are owned only by"
-	cont "skilled trainers."
+	text "qaDpIn DeghHom"
+	line "Suq #<m><a><n>"
+	cont "chojwI' po' neH."
 
-	para "I see you have"
-	line "at least one."
+	para "Deghvam Daghaj"
+	line "'e' vItu'."
 
-	para "Those BADGEs have"
-	line "amazing secrets!"
+	para "peghmey Dun ghaj"
+	line "Deghmeyvam!"
 	prompt
 
 _CeruleanBadgeHouseMiddleAgedManWhichBadgeText::
-	text "Now then..."
+	text "DaH..."
 
-	para "Which of the 8"
-	line "BADGEs should I"
-	cont "describe?"
+	para "SoHvaD DeghHom"
+	line "vIDellaH. DeghHom"
+	cont "yIwIv."
 	done
 
 _CeruleanBadgeHouseMiddleAgedManVisitAnyTimeText::
-	text "Come visit me any"
-	line "time you wish."
+	text "choSuch DaneHchugh"
+	line "reH 'elI'jaH"
+	cont "vIchaw'."
 	done
 
 _CeruleanBadgeHouseBoulderBadgeText::
-	text "The ATTACK of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "loQ ghur Hoch"
+	line "#<m><a><n>lIj <H><o><S>."
 
-	para "It also lets you"
-	line "use FLASH any"
-	cont "time you desire."
+	para "Suvbe'taHvIS"
+	line "<g><h><o><n> Ho'DoS lo'"
+	cont "#<m><a><n>lIj 'e'"
+	cont "chaw' DeghHom."
 	prompt
 
 _CeruleanBadgeHouseCascadeBadgeText::
-	text "#MON up to L30"
-	line "will obey you."
+	text "'aqroS #<m><a><n>"
+	line "patlh DaSeHlaHbogh"
+	line "'oH p30'e'."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "tlhoy HoSchugh"
+	line "ngIj!"
 
-	para "It also lets you"
-	line "use CUT outside"
-	cont "of battle."
+	para "Suvbe'taHvIS"
+	line "<p><e><'> Ho'DoS lo'"
+	cont "#<m><a><n>lIj 'e'"
+	cont "chaw' DeghHom."
 	prompt
 
 _CeruleanBadgeHouseThunderBadgeText::
-	text "The SPEED of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "loQ ghur Hoch"
+	line "#<m><a><n>lIj <D><o>."
 
-	para "It also lets you"
-	line "use FLY outside"
-	cont "of battle."
+	para "Suvbe'taHvIS"
+	line "<p><u><v> Ho'DoS lo'"
+	cont "#<m><a><n>lIj 'e'"
+	cont "chaw' DeghHom."
 	prompt
 
 _CeruleanBadgeHouseRainbowBadgeText::
-	text "#MON up to L50"
-	line "will obey you."
+	text "'aqroS #<m><a><n>"
+	line "patlh DaSeHlaHbogh"
+	line "'oH p50'e'."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "tlhoy HoSchugh"
+	line "ngIj!"
 
-	para "It also lets you"
-	line "use STRENGTH out-"
-	cont "side of battle."
+	para "Suvbe'taHvIS"
+	line "<y><u><v> Ho'DoS lo'"
+	cont "#<m><a><n>lIj 'e'"
+	cont "chaw' DeghHom."
 	prompt
 
 _CeruleanBadgeHouseSoulBadgeText::
-	text "The DEFENSE of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "loQ rach Hoch"
+	line "#<m><a><n>lIj <H><u><b>."
 
-	para "It also lets you"
-	line "use SURF outside"
-	cont "of battle."
+	para "Suvbe'taHvIS"
+	line "<Q><a><l> Ho'DoS lo'"
+	cont "#<m><a><n>lIj 'e'"
+	cont "chaw' DeghHom."
 	prompt
 
 _CeruleanBadgeHouseMarshBadgeText::
-	text "#MON up to L70"
-	line "will obey you."
+	text "'aqroS #<m><a><n>"
+	line "patlh DaSeHlaHbogh"
+	line "'oH p70'e'."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "tlhoy HoSchugh"
+	line "ngIj!"
 	prompt
 
 _CeruleanBadgeHouseVolcanoBadgeText::
-	text "Your #MON's"
-	line "SPECIAL abilities"
-	cont "increase a bit."
+	text "loQ rach Hoch"
+	line "#<m><a><n> <b><o><q><H><a><r>."
 	prompt
 
 _CeruleanBadgeHouseEarthBadgeText::
-	text "All #MON will"
-	line "obey you!"
+	text "lob Hoch"
+	line "#<m><a><n>lIj!"
 	prompt
