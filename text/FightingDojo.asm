@@ -1,130 +1,123 @@
 _FightingDojoKarateMasterText::
-	text "Grunt!"
+	text "'eH!"
 
-	para "I am the KARATE"
-	line "MASTER! I am the"
-	cont "LEADER here!"
+	para "SuvwI' pIn'a'"
+	line "jIH! naDev qaDpIn"
+	cont "vIgheS!"
 
-	para "You wish to"
-	line "challenge us?"
-	cont "Expect no mercy!"
+	para "ghoqaD DaneH'a'?"
+	line "pung yIpIHQo'!"
 
-	para "Fwaaa!"
+	para "Ha'!"
 	done
 
 _FightingDojoKarateMasterDefeatedText::
-	text "Hwa!"
-	line "Arrgh! Beaten!"
+	text "va!"
+	line "majQa'! chojey!"
 	prompt
 
 _FightingDojoKarateMasterIWillGiveYouAPokemonText::
-	text "Indeed, I have"
-	line "lost!"
+	text "teH, jIlujpu'."
 
-	para "But, I beseech"
-	line "you, do not take"
-	cont "our emblem as"
-	cont "your trophy!"
+	para "'ach qaqoy',"
+	line "poplIj'e' Deghmaj"
+	cont "yItlhapQo'!"
 
-	para "In return, I will"
-	line "give you a prized"
-	cont "fighting #MON!"
+	para "'e' qa', vaj"
+	line "ngIq #<m><a><n>maj"
+	cont "Datlhap 'e'"
+	cont "vIchup!"
 
-	para "Choose whichever"
-	line "one you like!"
+	para "ngIq DamaSbogh"
+	line "yIwIv!"
 	done
 
 _FightingDojoKarateMasterStayAndTrainWithUsText::
-	text "Ho!"
+	text "Ha'!"
 
-	para "Stay and train at"
-	line "Karate with us!"
+	para "naDev yIratlh"
+	line "'ej mataytaHvIS"
+	cont "yIqeq!"
 	done
 
 _FightingDojoBlackbelt1BattleText::
-	text "Hoargh! Take your"
-	line "shoes off!"
+	text "Ha'! waqlIj"
+	line "tItuQHa'moH!"
 	done
 
 _FightingDojoBlackbelt1EndBattleText::
-	text "I give"
-	line "up!"
+	text "jIjegh!"
 	prompt
 
 _FightingDojoBlackbelt1AfterBattleText::
-	text "You wait 'til you"
-	line "see our Master!"
+	text "tugh pIn'a' DaqaD?"
 
-	para "I'm a small fry"
-	line "compared to him!"
+	para "ghaH HoS law'"
+	line "jIH HoS puS!"
 	done
 
 _FightingDojoBlackbelt2BattleText::
-	text "I hear you're"
-	line "good! Show me!"
+	text "bIpo' 'e' vIQoy'!"
+	line "cho'agh!"
 	done
 
 _FightingDojoBlackbelt2EndBattleText::
-	text "Judge!"
-	line "1 point!"
+	text "noHwI'!"
+	line "wa' mIvwa'!"
 	prompt
 
 _FightingDojoBlackbelt2AfterBattleText::
-	text "Our Master is a"
-	line "pro fighter!"
+	text "SuvwI' Hen ghaH"
+	line "pIn'a'ma''e'!"
 	done
 
 _FightingDojoBlackbelt3BattleText::
-	text "Nothing tough"
-	line "frightens me!"
+	text "mughIjlaH pagh!"
 
-	para "I break boulders"
-	line "for training!"
+	para "jIqeqmeH nagh"
+	line "tInqu vIghor!"
 	done
 
 _FightingDojoBlackbelt3EndBattleText::
-	text "Yow!"
-	line "Stubbed fingers!"
+	text "'oy'!"
+	line "qanwI'wI'!"
 	prompt
 
 _FightingDojoBlackbelt3AfterBattleText::
-	text "The only thing"
-	line "that frightens us"
-	cont "is psychic power!"
+	text "SuvwI'na' maH!"
+	line "nughIjlaH"
+	cont "relleghDaq neH!"
 	done
 
 _FightingDojoBlackbelt4BattleText::
-	text "Hoohah!"
+	text "Ha', Ha'!"
 
-	para "You're trespassing"
-	line "in our FIGHTING"
-	cont "DOJO!"
+	para "<m><a><y> <'><a><m><p><a><S>majDaq"
+	line "bIwoghtaH!"
 	done
 
 _FightingDojoBlackbelt4EndBattleText::
-	text "Oof!"
-	line "I give up!"
+	text "va!"
+	line "jIjeghnIS!"
 	prompt
 
 _FightingDojoBlackbelt4AfterBattleText::
-	text "The prime fighters"
-	line "across the land"
-	cont "train here."
+	text "Sepmey Hopvo'"
+	line "naDev jaH ghobwI'"
+	cont "po'. machoj!"
 	done
 
 _FightingDojoHitmonleePokeBallText::
-	text "You want the"
-	line "hard kicking"
-	cont "HITMONLEE?"
+	text "<q><I><p><q><I><p><Q><a><p>, nanwI'"
+	line "naS DaneH'a'?"
 	done
 
 _FightingDojoHitmonchanPokeBallText::
-	text "You want the"
-	line "piston punching"
-	cont "HITMONCHAN?"
+	text "<q><I><p><q><I><p><y><a><y>, ro'"
+	line "lo'wI' po'"
+	cont "DaneH'a'?"
 	done
 
 _FightingDojoBetterNotGetGreedyText::
-	text "Better not get"
-	line "greedy..."
+	text "yIqurchoHQo'..."
 	done
