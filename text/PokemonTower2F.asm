@@ -1,57 +1,56 @@
 _PokemonTower2FRivalWhatBringsYouHereText::
-	text "<RIVAL>: Hey,"
-	line "<PLAYER>! What"
-	cont "brings you here?"
-	cont "Your #MON"
-	cont "don't look dead!"
+	text "<RIVAL>: toH,"
+	line "<PLAYER>! chay'"
+	cont "naDev DaSuch?"
+	cont "Heghbe'law'"
+	cont "#<m><a><n>meylIj!"
 
-	para "I can at least"
-	line "make them faint!"
-	cont "Let's go, pal!"
+	para "vabDot bIH"
+	line "vIvulmoHlaH!"
+	cont "Ha', jupwI'!"
 	done
 
 _PokemonTower2FRivalDefeatedText::
-	text "What?"
-	line "You stinker!"
+	text "chay'?"
+	line "He'So'wI' SoH!"
 
-	para "I took it easy on"
-	line "you too!"
+	para "SoHvaD pung"
+	line "vI'aghpu'ba'!"
 	prompt
 
 _PokemonTower2FRivalVictoryText::
-	text "<RIVAL>: Well,"
-	line "look at all your"
-	cont "wimpy #MON!"
+	text "<RIVAL>: Hgh,"
+	line "#<m><a><n>meylIj pujmo'"
+	cont "jIHaghqu'nIS!"
 
-	para "Toughen them up a"
-	line "bit more!"
+	para "pujwI'pu'lIj"
+	line "tIHoSmoHtaH!"
 	prompt
 
 _PokemonTower2FRivalHowsYourDexText::
-	text "How's your #DEX"
-	line "coming, pal?"
-	cont "I just caught a"
-	cont "CUBONE!"
+	text "#<t><a><m><e><y>lIj"
+	line "Dotlh yIDel, jup."
+	cont "'eQ <m><I><v><H><o><m> Qup"
+	cont "vIjonta'!"
 
-	para "I can't find the"
-	line "grown-up MAROWAK"
-	cont "yet!"
+	para "wej <m><e><l><c><h><u><H> nen"
+	line "vISamlaH!"
 
-	para "I doubt there are"
-	line "any left! Well, I"
-	cont "better get going!"
-	cont "I've got a lot to"
-	cont "accomplish, pal!"
+	para "naDev lutu'lu'"
+	line "'e' vIHon! toH,"
+	cont "jImejnISbej!"
+	cont "chavmey law'"
+	cont "vIturnIS, jupwI'!"
 
-	para "Smell ya later!"
+	para "SIbI'Ha' qalargh!"
 	done
 
 _PokemonTower2FChannelerText::
-	text "Even we could not"
-	line "identify the"
-	cont "wayward GHOSTs!"
+	text "vabDot qa'mey"
+	line "ngIj DIngu'laHbe'"
+	cont "maH!"
 
-	para "A SILPH SCOPE"
-	line "might be able to"
-	cont "unmask them."
+	para "chaq jechchaj"
+	line "nge'laH vurbogh"
+	cont "So'Ha'moHwI' jan."
 	done
