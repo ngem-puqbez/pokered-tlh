@@ -1,71 +1,72 @@
 _PokemonTower5FChanneler1Text::
-	text "Come, child! I"
-	line "sealed this space"
-	cont "with white magic!"
+	text "naDev ghoS, puq!"
+	line "DaqvamvaD 'IDnar"
+	cont "mIghHa' vIHubmoH!"
 
-	para "You can rest here!"
+	para "naDev bIleSlaH!"
 	done
 
 _PokemonTower5FChanneler2BattleText::
-	text "Give...me..."
-	line "your...soul..."
+	text "jIH...vaD..."
+	line "qa'...nob..."
 	done
 
 _PokemonTower5FChanneler2EndBattleText::
-	text "Gasp!"
+	text "pur!"
 	prompt
 
 _PokemonTower5FChanneler2AfterBattleText::
-	text "I was under"
-	line "possession!"
+	text "porghwIj SeH"
+	line "mIghwI'!"
 	done
 
 _PokemonTower5FChanneler3BattleText::
-	text "You...shall..."
-	line "join...us..."
+	text "maH...muv..."
+	line "nIS...SoH..."
 	done
 
 _PokemonTower5FChanneler3EndBattleText::
-	text "What"
-	line "a nightmare!"
+	text "mIgh"
+	line "wanI', robwIl rur!"
 	prompt
 
 _PokemonTower5FChanneler3AfterBattleText::
-	text "I was possessed!"
+	text "jatyIn vISIQ!"
 	done
 
 _PokemonTower5FChanneler4BattleText::
-	text "Zombies!"
+	text "yInbogh lom!"
 	done
 
 _PokemonTower5FChanneler4EndBattleText::
-	text "Ha?"
+	text " "
+	line "ghghgh?"
 	prompt
 
 _PokemonTower5FChanneler4AfterBattleText::
-	text "I regained my"
-	line "senses!"
+	text "qo'vam"
+	line "vIcheghta'!"
 	done
 
 _PokemonTower5FChanneler5BattleText::
-	text "Urgah..."
-	line "Urff...."
+	text "'ughgh..."
+	line "'urghghgh...."
 	done
 
 _PokemonTower5FChanneler5EndBattleText::
-	text "Whoo!"
+	text "wuu!"
 	prompt
 
 _PokemonTower5FChanneler5AfterBattleText::
-	text "I fell to evil"
-	line "spirits despite"
-	cont "my training!"
+	text "jIqeqpu' vabDot"
+	line "mujey qa'vam"
+	cont "mIgh!"
 	done
 
 _PokemonTower5FPurifiedZoneText::
-	text "Entered purified,"
-	line "protected zone!"
+	text "HubbeHbogh Daq"
+	line "wutlh Da'elta'!"
 
-	para "<PLAYER>'s #MON"
-	line "are fully healed!"
+	para "pIvchu'qa'"
+	line "<PLAYER> #<m><a><n>!"
 	done
