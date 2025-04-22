@@ -1,74 +1,72 @@
 _RocketHideoutB4FGiovanniImpressedYouGotHereText::
-	text "So! I must say, I"
-	line "am impressed you"
-	cont "got here!"
+	text "toH! bIpawta'mo'"
+	line "bIDoj 'e' vIDIS."
 	done
 
 _RocketHideoutB4FGiovanniWhatCannotBeText::
-	text "WHAT!"
-	line "This cannot be!"
+	text "chay'!?"
+	line "vIHarlaHbe'!"
 	prompt
 
 _RocketHideoutB4FGiovanniHopeWeMeetAgainText::
-	text "I see that you"
-	line "raise #MON"
-	cont "with utmost care."
+	text "#<m><a><n>mey"
+	line "DaQorghtaHvIS"
+	cont "DaSaHqu'bej."
 
-	para "A child like you"
-	line "would never"
-	cont "understand what I"
-	cont "hope to achieve."
+	para "toH! not chav"
+	line "vIturtaHbogh "
+	cont "yajlaH puq"
+	cont "jIvqu'; SoH"
+	cont "Durur."
 
-	para "I shall step"
-	line "aside this time!"
+	para "DaH Qapla'lIj"
+	line "vIchaw'!"
 
-	para "I hope we meet"
-	line "again..."
+	para "maghomqa' 'e'"
+	line "vItul..."
 	done
 
 _RocketHideoutB4FRocket1BattleText::
-	text "I know you! You"
-	line "ruined our plans"
-	cont "at MT.MOON!"
+	text "qaghov! <m><a><S> <H><u><D>Daq"
+	line " nabmaj DanIS!"
 	done
 
 _RocketHideoutB4FRocket1EndBattleText::
-	text "Burned"
-	line "again!"
+	text "vImeQlu'"
+	line "'ej jImeQqa'!"
 	prompt
 
 _RocketHideoutB4FRocket1AfterBattleText::
-	text "Do you have"
-	line "something against"
-	cont "TEAM ROCKET?"
+	text "chay' <p><e><n><g><D><u><j> ghom"
+	line "DamuSlaw'!"
 	done
 
 _RocketHideoutB4FRocket2BattleText::
-	text "How can you not"
-	line "see the beauty of"
-	cont "our evil?"
+	text "ma'IHqu' mIghwI."
+	line "chay' Daghovbe'?"
 	done
 
 _RocketHideoutB4FRocket2EndBattleText::
-	text "Ayaya!"
+	text "va! va!"
+	line "Qu'vatlh!"
 	prompt
 
 _RocketHideoutB4FRocket2AfterBattleText::
-	text "BOSS! I'm sorry I"
-	line "failed you!"
+	text "<p><I><n>! jIlujpu'mo'"
+	line "jIQoS!"
 	done
 
 _RocketHideoutB4FRocket3BattleText::
-	text "The elevator"
-	line "doesn't work? Who"
-	cont "has the LIFT KEY?"
+	text "Qapbe' tut Duj"
+	line "qar'a'? <t><u><t> <D><u><j>"
+	cont "<c><h><a><w><'> ghaj 'Iv?"
 	done
 
 _RocketHideoutB4FRocket3EndBattleText::
-	text "No!"
+	text "Qo'!"
 	prompt
 
 _RocketHideoutB4FRocket3AfterBattleText::
-	text "Oh no! I dropped"
-	line "the LIFT KEY!"
+	text "baQa'! <t><u><t> <D><u><j>"
+	line "<c><h><a><w><'> vIchaghpu'!"
 	done
