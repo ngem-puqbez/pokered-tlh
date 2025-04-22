@@ -1,45 +1,43 @@
 _PokemonTower4FChanneler1BattleText::
-	text "GHOST! No!"
-	line "Kwaaah!"
+	text "qa'! Qo'!"
+	line "quwaaa!"
 	done
 
 _PokemonTower4FChanneler1EndBattleText::
-	text "Where"
-	line "is the GHOST?"
+	text " "
+	line "nuqDaq 'oH qa'?"
 	prompt
 
 _PokemonTower4FChanneler1AfterBattleText::
-	text "I must have been"
-	line "dreaming..."
+	text "jInajtaHlaw'..."
 	done
 
 _PokemonTower4FChanneler2BattleText::
-	text "Be cursed with"
-	line "me! Kwaaah!"
+	text "jI'IghtaH!"
+	line "HImuv! Quwaaaa!"
 	done
 
 _PokemonTower4FChanneler2EndBattleText::
-	text "What!"
+	text "nuq!"
 	prompt
 
 _PokemonTower4FChanneler2AfterBattleText::
-	text "We can't crack"
-	line "the identity of"
-	cont "the GHOSTs."
+	text "qa'mey 'Inyam"
+	line "DIngu'laHbe'chu'!"
 	done
 
 _PokemonTower4FChanneler3BattleText::
-	text "Huhuhu..."
-	line "Beat me not!"
+	text "HuHuHuHu..."
+	line "jIH jeybe' SoH!"
 	done
 
 _PokemonTower4FChanneler3EndBattleText::
-	text "Huh?"
-	line "Who? What?"
+	text "Hu?"
+	line "'Iv? nuq?"
 	prompt
 
 _PokemonTower4FChanneler3AfterBattleText::
-	text "May the departed"
-	line "souls of #MON"
-	cont "rest in peace..."
+	text "leStaHvIS #<m><a><n>"
+	line "Hegh qa'mey"
+	cont "ghanHa'jaj..."
 	done
