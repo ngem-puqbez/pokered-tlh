@@ -1,42 +1,39 @@
 _LoreleisRoomLoreleiBeforeBattleText::
-	text "Welcome to"
-	line "#MON LEAGUE!"
+	text "pIvan #<m><a><n>"
+	line "'obe'!"
 
-	para "I am LORELEI of"
-	line "the ELITE FOUR!"
+	para "<b><I><r><'><e><l><a> jIH."
+	line "<l><o><S> <n><I><v><w><I><'> vI'oS!"
 
-	para "No one can best"
-	line "me when it comes"
-	cont "to icy #MON!"
+	para "nIvqu' chuch"
+	line "#<m><a><n>wIj!"
 
-	para "Freezing moves"
-	line "are powerful!"
+	para "HoSghaj taDlaHbogh"
+	line "tonSaw'mey!"
 
-	para "Your #MON will"
-	line "be at my mercy"
-	cont "when they are"
-	cont "frozen solid!"
+	para "'ej #<m><a><n>lIj"
+	line "vItaDchu'moHDI'"
+	cont "pungwIj Daqoy!"
 
-	para "Hahaha!"
-	line "Are you ready?"
+	para "HghHghHgh!"
+	line "choqaDrup'a'?"
 	done
 
 _LoreleisRoomLoreleiEndBattleText::
-	text "How"
-	line "dare you!"
+	text "chay"
+	line "bIngIl!"
 	prompt
 
 _LoreleisRoomLoreleiAfterBattleText::
-	text "You're better"
-	line "than I thought!"
-	cont "Go on ahead!"
+	text "jIQaQqu' 'e'"
+	line "vIHechbe'!"
+	cont "yIruch!"
 
-	para "You only got a"
-	line "taste of #MON"
-	cont "LEAGUE power!"
+	para "#<m><a><n> 'obe' HoS"
+	line "'ay' mach vIghaj!"
 	done
 
 _LoreleisRoomLoreleiDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "vay' ghogh:"
+	line "DaH yIHeDQo'!"
 	done
