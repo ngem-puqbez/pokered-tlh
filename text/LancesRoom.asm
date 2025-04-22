@@ -1,64 +1,62 @@
 _LancesRoomLanceBeforeBattleText::
-	text "Ah! I heard about"
-	line "you <PLAYER>!"
+	text "toH! DurIchbogh "
+	line "joS vIqoypu',"
+	cont "<PLAYER>!"
 
-	para "I lead the ELITE"
-	line "FOUR! You can"
-	cont "call me LANCE the"
-	cont "dragon trainer!"
+	para "<l><o><S> <n><I><v><w><I><'><p><u><'>"
+	line "vIDev! <b><e><t><H><e><l>"
+	cont "lung'a' qeqwI'"
+	cont "HIpong!"
 
-	para "You know that"
-	line "dragons are"
-	cont "mythical #MON!"
+	para "#<m><a><n> ngar bIH"
+	line "lung'a'mey 'e'"
+	cont "DaSovbej!"
 
-	para "They're hard to"
-	line "catch and raise,"
-	cont "but their powers"
-	cont "are superior!"
+	para "qub 'ej tlhay'Ha'."
+	line "'ach SeHlu'chugh"
+	cont "nIvbej HoSchaj!"
 
-	para "They're virtually"
-	line "indestructible!"
+	para "tlhoS jeylaH"
+	line "pagh!"
 
-	para "Well, are you"
-	line "ready to lose?"
+	para "toH,"
+	line "bIlujrup'a'?"
 
-	para "Your LEAGUE"
-	line "challenge ends"
-	cont "with me, <PLAYER>!"
+	para "#<m><a><n> 'obe'"
+	line "qaDlIj vIrInmoH"
+	cont "jIH, <PLAYER>!"
 	done
 
 _LancesRoomLanceEndBattleText::
-	text "That's it!"
+	text "rIn!"
 
-	para "I hate to admit"
-	line "it, but you are a"
-	cont "#MON master!"
+	para "vIDIS 'e' vImuS"
+	line "'a #<m><a><n> pIn'a'"
+	cont "SoH!"
 	prompt
 
 _LancesRoomLanceAfterBattleText::
-	text "I still can't"
-	line "believe my"
-	cont "dragons lost to"
-	cont "you, <PLAYER>!"
+	text "lung'a'meywIj"
+	line "Dajeyta' tlhoS"
+	cont "'e' vIHarbe',"
+	cont "<PLAYER>!"
 
-	para "You are now the"
-	line "#MON LEAGUE"
-	cont "champion!"
+	para "tugh #<m><a><n> 'obe'"
+	line "charghwI''a' SoH!"
 
-	para "...Or, you would"
-	line "have been, but"
-	cont "you have one more"
-	cont "challenge ahead."
+	para "#<m><a><n> 'obe'"
+	line "charghwI''a'"
+	cont "bImojpa' wa' qaD"
+	cont "Qav Dabam."
 
-	para "You have to face"
-	line "another trainer!"
-	cont "His name is..."
+	para "charghwI'a' ret"
+	line "DaSuvnIS!"
 
-	para "<RIVAL>!"
-	line "He beat the ELITE"
-	cont "FOUR before you!"
+	para "<RIVAL> 'oH"
+	line "pongDaj'e'!"
+	cont "'eQ <l><o><S> <n><I><v><w><I><'>"
+	cont "jeyta' ghaH!"
 
-	para "He is the real"
-	line "#MON LEAGUE"
-	cont "champion!@"
+	para "DaH #<m><a><n> 'obe'"
+	line "charghwI''a' ghaH!@"
 	text_end
