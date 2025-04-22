@@ -1,42 +1,43 @@
 _BluesHouseDaisyRivalAtLabText::
-	text "Hi <PLAYER>!"
-	line "<RIVAL> is out at"
-	cont "Grandpa's lab."
+	text "toH, <PLAYER>!"
+	line "vavnI'ma' Qulpa'"
+	cont "qachDaq jaHpu'"
+	cont "<RIVAL>."
 	done
 
 _BluesHouseDaisyOfferMapText::
-	text "Grandpa asked you"
-	line "to run an errand?"
-	cont "Here, this will"
-	cont "help you!"
+	text "vavnI'vaD Qu'Hom"
+	line "DaturmoHlI''a'?"
+	cont "toH! Dochvam"
+	cont "qanob vIneH!"
 	prompt
 
 _GotMapText::
-	text "<PLAYER> got a"
-	line "@"
 	text_ram wStringBuffer
-	text "!@"
+	text " Suq@"
+	text_start
+	line "<PLAYER>!"
 	text_end
 
 _BluesHouseDaisyBagFullText::
-	text "You have too much"
-	line "stuff with you."
+	text "Qo'! wejHa' 'Iq"
+	line "luch Daghaj."
 	done
 
 _BluesHouseDaisyUseMapText::
-	text "Use the TOWN MAP"
-	line "to find out where"
-	cont "you are."
+	text "DaqlIj Da'olmeH"
+	line "<p><u><'><j><I><n>vam"
+	cont "Dalo'nIS neH."
 	done
 
 _BluesHouseDaisyWalkingText::
-	text "#MON are living"
-	line "things! If they"
-	cont "get tired, give"
-	cont "them a rest!"
+	text "jubbe'wI'mey"
+	line "bIH #<m><a><n>mey."
+	cont "Doy'choHchugh"
+	cont "leS 'e' yIchaw'!"
 	done
 
 _BluesHouseTownMapText::
-	text "It's a big map!"
-	line "This is useful!"
+	text "pu'jIn tIn 'oH!"
+	line "lI'bej!"
 	done
