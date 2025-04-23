@@ -1,62 +1,58 @@
 _Route12SuperRodHouseFishingGuruDoYouLikeToFishText::
-	text "I'm the FISHING"
-	line "GURU's brother!"
+	text "ghotI' wamwI'"
+	line "pIn'a' loDnI' jIH!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "ghotI' vIwam 'e'"
+	line "vIparHa'qu'!"
 
-	para "Do you like to"
-	line "fish?"
+	para "ghotI Dawam 'e'"
+	line "DaparHa''a'?"
 	done
 
 _Route12SuperRodHouseFishingGuruReceivedSuperRodText::
-	text "Grand! I like"
-	line "your style!"
+	text "maj! butlhlIj"
+	line "vIparHa'!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "luchvam yItlhap"
+	line "'ej yIwam, QupwI'!"
 
-	para "<PLAYER> received"
-	line "a @"
+	para "@"
 	text_ram wStringBuffer
-	text "!@"
+	text_start
+	line "Hev <PLAYER>!@"
 	text_end
 
 _Route12SuperRodHouseFishingGuruFishingWayOfLifeText::
 	text_start
 
-	para "Fishing is a way"
-	line "of life!"
+	para "qangtlhIn 'oH"
+	line "chon'e'!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one!"
+	para "bIQtIq ngeng "
+	line "bIQ'a' je yISuch"
+	cont "ghIq gheD nIv"
+	cont "yIjon, QupwI'!"
 	done
 
 _Route12SuperRodHouseFishingGuruThatsDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "ghghgh... "
+	line "chobelHa'moHqu'..."
 	done
 
 _Route12SuperRodHouseFishingGuruTryFishingText::
-	text "Hello there,"
-	line "<PLAYER>!"
+	text "qavan, <PLAYER>!"
 
-	para "Use the SUPER ROD"
-	line "in any water!"
-	cont "You can catch"
-	cont "different kinds"
-	cont "of #MON."
+	para "bIQ HochDaq"
+	line "ngelwI' nIv"
+	cont "Dalo'laH!"
+	cont "#<m><a><n> mut pIm"
+	cont "DaSamlaH."
 
-	para "Try fishing"
-	line "wherever you can!"
+	para "#<m><a><n> Dangel pIj"
+	line "'e' yInID!"
 	done
 
 _Route12SuperRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
-
-	para "I had a gift for"
-	line "you, but you have"
-	cont "no room for it!"
+	text "va! nobwIj"
+	line "DalajlaHbe'!"
 	done
