@@ -321,7 +321,7 @@ _DreamWasEatenText::
 	line "Suchtuv Soplu'!"
 	prompt
 
-_TradeCenterText1::
+_TradeCenterOpponentText::
 	text "!"
 	done
 
