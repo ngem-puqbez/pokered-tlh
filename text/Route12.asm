@@ -50,7 +50,7 @@ _Route12Fisher2AfterBattleText::
 
 _Route12CooltrainerMBattleText::
 	text "<m><a><S> <n><a><g><h>"
-	line "DaSampu''a'?
+	line "DaSampu''a'?"
 	done
 
 _Route12CooltrainerMEndBattleText::
