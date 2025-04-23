@@ -15,8 +15,8 @@ TradeMons:
 	db PONYTA,     SEEL,      TRADE_DIALOGSET_CASUAL, "<m><a><y><'><Q><a><l>@@@@"
 	db SPEAROW,    FARFETCHD, TRADE_DIALOGSET_HAPPY,  "<c><h><a><t><l><h>@@@@@"
 	db SLOWBRO,    LICKITUNG, TRADE_DIALOGSET_CASUAL, "<m><u><m><w><I><'><o><y>@@@"
-	db POLIWHIRL,  JYNX,      TRADE_DIALOGSET_POLITE, "<l><u><q><a><'>@@@@@@"
-	db RAICHU,     ELECTRODE, TRADE_DIALOGSET_POLITE, "<j><o><r><n><e><b><o><y>@@@"
+	db POLIWHIRL,  JYNX,      TRADE_DIALOGSET_EVOLUTION, "<l><u><q><a><'>@@@@@@"
+	db RAICHU,     ELECTRODE, TRADE_DIALOGSET_EVOLUTION, "<j><o><r><n><e><b><o><y>@@@"
 	db VENONAT,    TANGELA,   TRADE_DIALOGSET_HAPPY,  "<Q><I><n><g><q><a><l>@@@@"
 	db NIDORAN_M,  NIDORAN_F, TRADE_DIALOGSET_HAPPY,  "<'><o><D><t><u><'>@@@@@"
 	assert_table_length NUM_NPC_TRADES
