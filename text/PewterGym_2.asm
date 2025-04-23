@@ -80,7 +80,7 @@ _PewterGymBrockBoulderBadgeInfoText::
 	line "<g><h><o><n> Ho'DoS"
 	cont "Dalo'laH je!"
 	done
-_PewterGymCooltrainerMBattleText
+_PewterGymCooltrainerMBattleText::
 	text "bIvIH 'e' yImev,"
 	line "puq!"
 
