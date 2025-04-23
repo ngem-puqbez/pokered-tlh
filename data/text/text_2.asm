@@ -1,205 +1,205 @@
 _AIBattleWithdrawText::
-	text_ram wTrainerName
-	text " with-"
-	line "drew @"
 	text_ram wEnemyMonNick
+	text " HeD-"
+	line "moH @"
+	text_ram wTrainerName	
 	text "!"
 	prompt
 
 _AIBattleUseItemText::
-	text_ram wTrainerName
-	text_start
-	line "used @"
-	text_ram wNameBuffer
-	text_start
-	cont "on @"
 	text_ram wEnemyMonNick
+	text "vaD"
+	line "@"
+	text_ram wNameBuffer
+	text " lo'"
+	cont "@"
+	text_ram wTrainerName
 	text "!"
 	prompt
 
 _TradeWentToText::
-	text_ram wStringBuffer
-	text " went"
-	line "to @"
 	text_ram wLinkEnemyTrainerName
-	text "."
+	text "Daq"
+	line "@"
+	text_ram wStringBuffer
+	text " Qaylu'."
 	done
 
 _TradeForText::
-	text "For <PLAYER>'s"
+	text "<PLAYER>"
 	line "@"
 	text_ram wStringBuffer
-	text ","
+	text " SuqmeH"
 	done
 
 _TradeSendsText::
 	text_ram wLinkEnemyTrainerName
-	text " sends"
+	text " nob"
 	line "@"
 	text_ram wNameBuffer
 	text "."
 	done
 
 _TradeWavesFarewellText::
-	text_ram wLinkEnemyTrainerName
-	text " waves"
-	line "farewell as"
+	text_ram wNameBuffer
+	text "vaD "
+	line "yu'egh."
 	done
 
 _TradeTransferredText::
-	text_ram wNameBuffer
-	text " is"
-	line "transferred."
+	text_ram wLinkEnemyTrainerName
+	text " "
+	line "Qay'lu'."
 	done
 
 _TradeTakeCareText::
-	text "Take good care of"
-	line "@"
 	text_ram wNameBuffer
-	text "."
+	text " "
+	line "yIQorghqu'."
 	done
 
 _TradeWillTradeText::
 	text_ram wLinkEnemyTrainerName
-	text " will"
-	line "trade @"
+	text "vo' "
+	line "tlheD @"
 	text_ram wNameBuffer
 	text_start
 	done
 
 _TradeforText::
-	text "for <PLAYER>'s"
+	text "'ej  <PLAYER>'s"
 	line "@"
 	text_ram wStringBuffer
 	text "."
 	done
 
 _PlaySlotMachineText::
-	text "A slot machine!"
-	line "Want to play?"
+	text "SuDmeH jan 'oH!"
+	line "DaQuj DaneH'a'?"
 	done
 
 _OutOfCoinsSlotMachineText::
-	text "Darn!"
-	line "Ran out of coins!"
+	text "va!"
+	line "yapbe' <Q><u><j> <n><g><o><p>!"
 	done
 
 _BetHowManySlotMachineText::
-	text "Bet how many"
-	line "coins?"
+	text "<Q><u><j> <n><g><o><p>"
+	line "'ar Dalo'?"
 	done
 
 _StartSlotMachineText::
-	text "Start!"
+	text "tagh!"
 	done
 
 _NotEnoughCoinsSlotMachineText::
-	text "Not enough"
-	line "coins!"
+	text "yapbe' <Q><u><j>"
+	line "<n><g><o><p>!"
 	prompt
 
 _OneMoreGoSlotMachineText::
-	text "One more "
-	line "go?"
+	text "DaQujqa'"
+	line "DaneH'a'?"
 	done
 
 _LinedUpText::
-	text " lined up!"
-	line "Scored @"
+	text "wan!"
+	line "@"
 	text_ram wStringBuffer
-	text " coins!"
+	text " <Q><u><j> <n><g><o><p> Suq!"
 	done
 
 _NotThisTimeText::
-	text "Not this time!"
+	text "DaH Qapbe'!"
 	prompt
 
 _YeahText::
-	text "Yeah!@"
+	text "majQa'!@"
 	text_end
 
 _DexSeenOwnedText::
-	text "#DEX   Seen:@"
+	text "#<p><a><q>   legh:@"
 	text_decimal wDexRatingNumMonsSeen, 1, 3
 	text_start
-	line "         Owned:@"
+	line "           jon:@"
 	text_decimal wDexRatingNumMonsOwned, 1, 3
 	text_end
 
 _DexRatingText::
-	text "#DEX Rating<COLON>"
+	text "#<p><a><q> Sar<COLON>"
 	done
 
 _GymStatueText1::
 	text_ram wGymCityName
 	text_start
-	line "#MON GYM"
-	cont "LEADER: @"
+	line "#<m><a><n> qaDqach"
+	cont "qaDpIn: @"
 	text_ram wGymLeaderName
 	text_start
 
-	para "WINNING TRAINERS:"
+	para "jeywI'pu':"
 	line "<RIVAL>"
 	done
 
 _GymStatueText2::
 	text_ram wGymCityName
 	text_start
-	line "#MON GYM"
-	cont "LEADER: @"
+	line "#<m><a><n> qaDqach"
+	cont "qaDpIn: @"
 	text_ram wGymLeaderName
 	text_start
 
-	para "WINNING TRAINERS:"
+	para "jeywI'pu':"
 	line "<RIVAL>"
 	cont "<PLAYER>"
 	done
 
 _ViridianCityPokecenterGuyText::
-	text "#MON CENTERs"
-	line "heal your tired,"
-	cont "hurt or fainted"
-	cont "#MON!"
+	text "#<m><a><n>mey vul"
+	line "#<m><a><n>mey rIQ"
+	cont "je pIvmoH Hoch"
+	cont "#<r><o><p><y><a><H>!"
 	done
 
 _PewterCityPokecenterGuyText::
-	text "Yawn!"
+	text "Hob!"
 
-	para "When JIGGLYPUFF"
-	line "sings, #MON"
-	cont "get drowsy..."
+	para "bomDI' <Q><o><Q><o><n><g>"
+	line "Doy'choH"
+	cont "#<m><a><n>mey..."
 
-	para "...Me too..."
-	line "Snore..."
+	para "...jIH je..."
+	line "wuD..."
 	done
 
 _CeruleanPokecenterGuyText::
-	text "BILL has lots of"
-	line "#MON!"
+	text "#<m><a><n> law'"
+	line "ghaj <b><I><l>!"
 
-	para "He collects rare"
-	line "ones too!"
+	para "#<m><a><n> qub"
+	line "boS ghaH je!"
 	done
 
 _LavenderPokecenterGuyText::
-	text "CUBONEs wear"
-	line "skulls, right?"
+	text "DughrI' tuQ"
+	line "<m><I><v><H><o><m>, qar'a'?"
 
-	para "People will pay a"
-	line "lot for one!"
+	para "DughrI'vam"
+	line "DIlqu'qang ghot"
+	cont "puS 'e' vIHar."
 	done
 
 _MtMoonPokecenterBenchGuyText::
-	text "If you have too"
-	line "many #MON, you"
-	cont "should store them"
-	cont "via PC!"
+	text "#<m><a><n> 'Iq"
+	line "Daghajchugh"
+	cont "DapolmeH De'wI'"
+	cont "yIlo'!"
 	done
 
 _RockTunnelPokecenterGuyText::
-	text "I heard that"
-	line "GHOSTs haunt"
-	cont "LAVENDER TOWN!"
+	text "<'><u><m><a><'> <v><e><n><g><H><o><m>Daq"
+	line "ghachtaH qa'mey"
+	cont "law'! taQqu'!"
 	done
 
 _UnusedBenchGuyText1::
@@ -219,387 +219,379 @@ _UnusedBenchGuyText3::
 	done
 
 _VermilionPokecenterGuyText::
-	text "It is true that a"
-	line "higher level"
-	cont "#MON will be"
-	cont "more powerful..."
+	text "HoSqu' patlh"
+	line "vItlh ghajbogh"
+	cont "#<m><a><n>'e'"
+	cont "net Sov..."
 
-	para "But, all #MON"
-	line "will have weak"
-	cont "points against"
-	cont "specific types."
+	para "'ach jaS wun"
+	line "Hoch #<m><a><n>mey."
+	cont "bIH rIQmoHlaH"
+	cont "'op buv tonSaw'."
 
-	para "So, there is no"
-	line "universally"
-	cont "strong #MON."
+	para "vaj HoS"
+	line "chIwlaHchu'be'"
+	cont "wa' #<m><a><n>."
 	done
 
 _CeladonCityPokecenterGuyText::
-	text "If I had a BIKE,"
-	line "I would go to"
-	cont "CYCLING ROAD!"
+	text "<q><a><m> <D><o> <D><u><j>"
+	line "vIghajchugh,"
+	cont "<q><a><m> <D><o> <D><u><j> <t><a><w>"
+	cont "vISuch!"
 	done
 
 _FuchsiaCityPokecenterGuyText::
-	text "If you're studying "
-	line "#MON, visit"
-	cont "the SAFARI ZONE."
+	text "#<m><a><n>mey"
+	line "DaHaDchugh <c><h><o><n>"
+	cont "<y><o><t><l><h> DaSuchnIS."
 
-	para "It has all sorts"
-	line "of rare #MON."
+	para "pa' law'"
+	line "#<m><a><n> qub."
 	done
 
 _CinnabarPokecenterGuyText::
-	text "#MON can still"
-	line "learn techniques"
-	cont "after canceling"
-	cont "evolution."
+	text "ghe' #<m><a><n> 'e'"
+	line "chaw'lu'be'chugh"
+	cont "pIj tonSaw' chu'"
+	cont "ghojlaHtaH."
 
-	para "Evolution can wait"
-	line "until new moves"
-	cont "have been learned."
+	para "ghoj DaneHchugh"
+	line "yImIm."
 	done
 
 _SaffronCityPokecenterGuyText1::
-	text "It would be great"
-	line "if the ELITE FOUR"
-	cont "came and stomped"
-	cont "TEAM ROCKET!"
+	text "<p><e><n><g><D><u><j> ghom"
+	line "jeymeH loS nIvwI'"
+	cont "naDev Such 'e'"
+	cont "vIjIn!"
 	done
 
 _SaffronCityPokecenterGuyText2::
-	text "TEAM ROCKET took"
-	line "off! We can go"
-	cont "out safely again!"
-	cont "That's great!"
+	text "baHlu'pu' <p><e><n><g><D><u><j>"
+	line "ghom!"
+	cont "juHmaj wImejlaH!"
+	cont "majQa'!"
 	done
 
 _CeladonCityHotelText::
-	text "My sis brought me"
-	line "on this vacation!"
+	text "mughIQmoHtaH"
+	line "be'nI'wI'!"
 	done
 
 _BookcaseText::
-	text "Crammed full of"
-	line "#MON books!"
+	text "yorgh tebtaH"
+	line "#<m><a><n> rIchbogh"
+	cont "paqmey law'!"
 	done
 
 _NewBicycleText::
-	text "A shiny new"
-	line "BICYCLE!"
+	text "bochbogh <q><a><m> <D><o>"
+	line "<D><u><j> chu' 'oH!"
 	done
 
 _PushStartText::
-	text "Push START to"
-	line "open the MENU!"
+	text "yevmeH tagh leQ"
+	line "yI'uy!"
 	done
 
 _SaveOptionText::
-	text "The SAVE option is"
-	line "on the MENU"
-	cont "screen."
+	text "Quj Dayevchugh"
+	line "Quj ta DaqonlaH."
 	done
 
 _StrengthsAndWeaknessesText::
-	text "All #MON types"
-	line "have strong and"
-	cont "weak points"
-	cont "against others."
+	text "HoS 'ej puj"
+	line "ghaj Hoch #<m><a><n>"
+	cont "buv. potlh jagh."
 	done
 
 _TimesUpText::
-	text "PA: Ding-dong!"
+	text "rI'wI': DIng-Dang!"
 
-	para "Time's up!"
+	para "rIn chonlIj!"
 	prompt
 
 _GameOverText::
-	text "PA: Your SAFARI"
-	line "GAME is over!"
+	text "DaH <c><h><o><n> <y><o><t><l><h>"
+	line "DamejnIS!"
 	done
 
 _CinnabarGymQuizIntroText::
-	text "#MON Quiz!"
+	text "#<m><a><n> De'!"
 
-	para "Get it right and"
-	line "the door opens to"
-	cont "the next room!"
+	para "bIlughchugh"
+	line "poSchoH lojmIt"
+	cont "'ej pa' veb Da'el!"
 
-	para "Get it wrong and"
-	line "face a trainer!"
+	para "bIlughbe'chugh"
+	line "chojwI' DaSuv!"
 
-	para "If you want to"
-	line "conserve your"
-	cont "#MON for the"
-	cont "GYM LEADER..."
+	para "Doy'choHpa'"
+	line "#<m><a><n>meylIj"
+	cont "qaDpIn DaSuv"
+	cont "DaneHchugh..."
 
-	para "Then get it right!"
-	line "Here we go!"
+	para "vaj yIlugh!"
+	line "Ha'!"
 	prompt
 
 _CinnabarQuizQuestionsText1::
-	text "CATERPIE evolves"
-	line "into BUTTERFREE?"
+	text "ghe'DI' <S><u><'><w><a><n>"
+	line "moj'a' <'><u><g><h><D><u><q>?"
 	done
 
 _CinnabarQuizQuestionsText2::
-	text "There are 9"
-	line "certified #MON"
-	cont "LEAGUE BADGEs?"
+	text "Hut qaDpIn DeghHom"
+	line "chapmoH'a'"
+	cont "#<m><a><n> 'obe'?"
 	done
 
 _CinnabarQuizQuestionsText3::
-	text "POLIWAG evolves 3"
-	line "times?"
+	text "wejlogh ghe'laH'a'"
+	line "<m><I><b><e><b>?"
 	done
 
 _CinnabarQuizQuestionsText4::
-	text "Are thunder moves"
-	line "effective against"
-	cont "ground element-"
-	cont "type #MON?"
+	text "yav buv #<m><a><n>"
+	line "QIHlaH'a' 'ul"
+	cont "buv tonSaw'?"
 	done
 
 _CinnabarQuizQuestionsText5::
-	text "#MON of the"
-	line "same kind and"
-	cont "level are not"
-	cont "identical?"
+	text "patlh rap"
+	line "chavta'chugh"
+	cont "cha' #<m><a><n>"
+	cont "pIm'a' bIH?"
 	done
 
 _CinnabarQuizQuestionsText6::
-	text "TM28 contains"
-	line "TOMBSTONER?"
+	text "<m><o><l><m><o><H><w><I><'> tonSaw'"
+	line "ghojmoH'a' <t><j>28?"
 	done
 
 _CinnabarGymQuizCorrectText::
-	text "You're absolutely"
-	line "correct!"
+	text "bIlughchu'!"
 
-	para "Go on through!@"
+	para "yIruch!@"
 	text_end
 
 _CinnabarGymQuizIncorrectText::
-	text "Sorry! Bad call!"
+	text "baQa'! bIlughbe'!"
 	prompt
 
 _MagazinesText::
-	text "#MON magazines!"
+	text "#<m><a><n> paqmey!"
 
-	para "#MON notebooks!"
+	para "#<m><a><n> QonoS!"
 
-	para "#MON graphs!"
+	para "#<m><a><n> De'!"
 	done
 
 _BillsHouseMonitorText::
-	text "TELEPORTER is"
-	line "displayed on the"
-	cont "PC monitor."
+	text "HaSta'Daq"
+	line "jolpat cha'lu'"
 	done
 
 _BillsHouseInitiatedText::
-	text "<PLAYER> initiated"
-	line "TELEPORTER's Cell"
-	cont "Separator!@"
+	text "jolpat HanDI'"
+	line "chevwI' pat chu'"
+	cont "<PLAYER>!@"
 	text_end
 
 _BillsHousePokemonListText1::
-	text "BILL's favorite"
-	line "#MON list!"
+	text "#<m><a><n>"
+	line "HaDtaHbogh bIl"
+	cont "tetlh 'oH."
 	prompt
 
 _BillsHousePokemonListText2::
-	text "Which #MON do"
-	line "you want to see?"
+	text "#<m><a><n> Dalegh"
+	line "DaneHbogh yIngu'."
 	done
 
 _OakLabEmailText::
-	text "There's an e-mail"
-	line "message here!"
+	text "QIn cha'lu'."
 
 	para "..."
 
-	para "Calling all"
-	line "#MON trainers!"
+	para "#<m><a><n> qeqwI'"
+	line "wIrIt!"
 
-	para "The elite trainers"
-	line "of #MON LEAGUE"
-	cont "are ready to take"
-	cont "on all comers!"
+	para "lIqaDrup #<m><a><n>"
+	line "'obe' qeqwI'pu'"
+	cont "nIv. "
 
-	para "Bring your best"
-	line "#MON and see"
-	cont "how you rate as a"
-	cont "trainer!"
+	para "#<m><a><n>lIj nIv"
+	line "yIqem 'ej"
+	cont "patlh'eghmeH"
+	cont "ghoqaD!"
 
-	para "#MON LEAGUE HQ"
-	line "INDIGO PLATEAU"
+	para "#<m><a><n> 'obe'"
+	line "#<m><a><n> qaD vaS"
 
-	para "PS: PROF.OAK,"
-	line "please visit us!"
-	cont "..."
 	done
 
 _GameCornerCoinCaseText::
-	text "A COIN CASE is"
-	line "required!"
+	text "ngop 'aplo'"
+	line "DapoQ!"
 	done
 
 _GameCornerNoCoinsText::
-	text "You don't have"
-	line "any coins!"
+	text "Quj ngop DaHutlh!"
 	done
 
 _GameCornerOutOfOrderText::
-	text "OUT OF ORDER"
-	line "This is broken."
+	text "QInHom Datu'."
+	line "[jonvam nISlu'pu']"
+	para "Qapbe'."
 	done
 
 _GameCornerOutToLunchText::
-	text "OUT TO LUNCH"
-	line "This is reserved."
+	text "QInHom Datu'."
+	line "[megh jISop]"
+	para "paw 'e' Hech."
 	done
 
 _GameCornerSomeonesKeysText::
-	text "Someone's keys!"
-	line "They'll be back."
+	text "ngaQHa'moHwI'mey!"
+	line "bIH poQ vay'."
 	done
 
 _JustAMomentText::
-	text "Just a moment."
+	text "nom yIloS."
 	done
 
 TMNotebookText::
-	text "It's a pamphlet"
-	line "on TMs."
+	text "<t><j> rIchbogh De'"
+	line "'echletHom 'oH."
 
 	para "..."
 
-	para "There are 50 TMs"
-	line "in all."
+	para "50 <t><j> pIm neH"
+	line "chenmoHlu'pu'."
 
-	para "There are also 5"
-	line "HMs that can be"
-	cont "used repeatedly."
+	para "5 <H><j> tu'lu' je."
+	line "<H><j> lo'chugh vay'"
+	cont "lo'qa'laH."
 
-	para "SILPH CO.@"
+	para "<S><I><l><v><a><'> <m><a><l><j><a><'>@"
 	text_end
 
 _TurnPageText::
-	text "Turn the page?"
+	text "tenwal veb?"
 	done
 
 _ViridianSchoolNotebookText5::
-	text "GIRL: Hey! Don't"
-	line "look at my notes!@"
+	text "<b><e><'><H><o><m>: toH!"
+	line "QonoSwIj yIlaDQo'!@"
 	text_end
 
 _ViridianSchoolNotebookText1::
-	text "Looked at the"
-	line "notebook!"
+	text "gho paq DalaD!"
 
-	para "First page..."
+	para "tenwal wa'DIch..."
 
-	para "# BALLs are"
-	line "used to catch"
-	cont "#MON."
+	para "#<m><a><n> jonmeH"
+	line "#<m><o><Q> lo'lu'."
 
-	para "Up to 6 #MON"
-	line "can be carried."
+	para "#<m><a><n>mey"
+	line "Qorghchugh ghot"
+	cont "'ej SuvmoHchugh"
+	cont "#<m><a><n> qeqwI'"
+	cont "ponglu'."
 
-	para "People who raise"
-	line "and make #MON"
-	cont "fight are called"
-	cont "#MON trainers."
+	para "chojwI' tlhejlaH"
+	line "jav #<m><a><n> neH."
 	prompt
 
 _ViridianSchoolNotebookText2::
-	text "Second page..."
+	text "tenwal cha'DIch..."
 
-	para "A healthy #MON"
-	line "may be hard to"
-	cont "catch, so weaken"
-	cont "it first!"
+	para "#<m><a><n> pIv Dajon"
+	line "'e' DanIDchugh"
+	cont "ngeDbe'. yIpujmoH!"
 
-	para "Poison, burns and"
-	line "other damage are"
-	cont "effective!"
+	para "vaQ tar, qul,"
+	line "chuch, QIH latlh"
+	cont "je!"
 	prompt
 
 _ViridianSchoolNotebookText3::
-	text "Third page..."
+	text "tenwal wejDIch..."
 
-	para "#MON trainers"
-	line "seek others to"
-	cont "engage in #MON"
-	cont "fights."
+	para "#<m><a><n> may'mey"
+	line "qaSmoHmeH 'ej "
+	cont "jeSmeH nejchuq"
+	cont "#<m><a><n> qeqwI'pu'."
 
-	para "Battles are"
-	line "constantly fought"
-	cont "at #MON GYMs."
+	para "#<m><a><n>"
+	line "<q><a><D><q><a><c><h>meyDaq"
+	cont "pIj qaS may'vam."
 	prompt
 
 _ViridianSchoolNotebookText4::
-	text "Fourth page..."
+	text "tenwal loSDIch..."
 
-	para "The goal for"
-	line "#MON trainers"
-	cont "is to beat the "
-	cont "top 8 #MON"
-	cont "GYM LEADERs."
+	para "chorgh #<m><a><n>"
+	line "qaDpIn jey neH"
+	cont "chojwI'pu' law'."
 
-	para "Do so to earn the"
-	line "right to face..."
-
-	para "The ELITE FOUR of"
-	line "#MON LEAGUE!"
+	para "ghIq #<m><a><n>"
+	line "'obe' loS nIvwI'"
+	cont "qaD net chaw'"
 	prompt
 
 _EnemiesOnEverySideText::
-	text "Enemies on every"
-	line "side!"
+	text "SuvtaH SuvtaH"
+	para "qamDu'chaj"
+	line "bIngDaq"
+	para "letchoH lam"
+	line "nagh rur"
 	done
 
 _WhatGoesAroundComesAroundText::
-	text "What goes around"
-	line "comes around!"
+	text "pa' Qam cha'"
+	line "jaghpu' naS"
+	cont "Suvchuqrupchu'"
+	para "ghopDu'chaj"
 	done
 
 _FightingDojoText::
-	text "FIGHTING DOJO"
+	text "<m><a><y><'> <'><a><m><p><a><S>"
 	done
 
 _IndigoPlateauHQText::
-	text "INDIGO PLATEAU"
-	line "#MON LEAGUE HQ"
+	text "#<m><a><n> qaD vaS"
+	line "#<m><a><n> 'obe'"
 	done
 
 _RedBedroomSNESText::
-	text "<PLAYER> is"
-	line "playing the SNES!"
-	cont "...Okay!"
-	cont "It's time to go!"
+	text "QujmeH Qujjan "
+	line "lo'taH <PLAYER>!"
+	cont "...pItlh!"
+	cont "DaH mejnIS!"
 	done
 
 _Route15UpstairsBinocularsText::
-	text "Looked into the"
-	line "binoculars..."
+	text "Hov tut chang'eng"
+	line "Dalo'."
 
-	para "A large, shining"
-	line "bird is flying"
-	cont "toward the sea."
+	para "puvtaH bo'Degh"
+	line "boch. bIQ'a' Dung"
+	cont "lengtaH 'oH."
 	done
 
 _AerodactylFossilText::
-	text "AERODACTYL Fossil"
-	line "A primitive and"
-	cont "rare #MON."
+	text "-<'><a><n><'><o><r><t><e><l> 'an'or-"
+	line "qubbogh #<m><a><n>"
+	cont "tIQ."
 	done
 
 _KabutopsFossilText::
-	text "KABUTOPS Fossil"
-	line "A primitive and"
-	cont "rare #MON."
+	text " -<m><I><v><j><a><g><h> 'an'or-"
+	line "qubbogh #<m><a><n>"
+	cont "tIQ."
 	done
 
 _LinkCableHelpText1::
@@ -637,466 +629,467 @@ _LinkCableInfoText3::
 	prompt
 
 _ViridianSchoolBlackboardText1::
-	text "The blackboard"
-	line "describes #MON"
-	cont "STATUS changes"
-	cont "during battles."
+	text "teywI' 'echletDaq"
+	line "#<m><a><n> Dotlhmey"
+	cont "bopbogh De' "
+	cont "ghItlhlu'."
 	prompt
 
 _ViridianSchoolBlackboardText2::
-	text "Which heading do"
-	line "you want to read?"
+	text "Dotlh De' DalaD"
+	line "DaneHbogh yIngu'."
 	done
 
 _ViridianBlackboardSleepText::
-	text "A #MON can't"
-	line "attack if it's"
-	cont "asleep!"
+	text "QongtaHvIS"
+	line "#<m><a><n> HIvlaHbe'!"
 
-	para "#MON will stay"
-	line "asleep even after"
-	cont "battles."
+	para "rInchugh may'"
+	line "vaj QongtaH"
+	cont "#<m><a><n>."
 
-	para "Use AWAKENING to"
-	line "wake them up!"
+	para "DamevmoHmeH"
+	line "<v><e><m><m><o><H><w><I><'> yIlo'!"
 	prompt
 
 _ViridianBlackboardPoisonText::
-	text "When poisoned, a"
-	line "#MON's health"
-	cont "steadily drops."
+	text "#<m><a><n> ngejchugh "
+	line "tar vaj QIt"
+	cont "nup yInDaj."
 
-	para "Poison lingers"
-	line "after battles."
+	para "rInDI' may'"
+	line "QIHtaH tar."
 
-	para "Use an ANTIDOTE"
-	line "to cure poison!"
+	para "DavormeH"
+	line "<S><u><Q><H><a><'><w><I><'> yIlo!"
 	prompt
 
 _ViridianBlackboardPrlzText::
-	text "Paralysis could"
-	line "make #MON"
-	cont "moves misfire!"
+	text "roSHa'moHlu'DI'"
+	line "lujchoH #<m><a><n>"
+	cont "tonSaw'mey!"
 
-	para "Paralysis remains"
-	line "after battles."
+	para "rInDI' may'"
+	line "taH Dotlhvam."
 
-	para "Use PARLYZ HEAL"
-	line "for treatment!"
+	para "DapIvqa'moHmeH"
+	line "<m><o><r><m><o><H><w><I><'> yIlo'!"
 	prompt
 
 _ViridianBlackboardBurnText::
-	text "A burn reduces"
-	line "power and speed."
-	cont "It also causes"
-	cont "ongoing damage."
+	text "meQchugh #<m><a><n>"
+	line "HoSDaj DoDaj"
+	cont "je lunuplu'. "
+	cont "yInDaj nup je."
 
-	para "Burns remain"
-	line "after battles."
+	para "rInDI' may'"
+	line "meQtaH."
 
-	para "Use BURN HEAL to"
-	line "cure a burn!"
+	para "qul Datlhay'moHmeH"
+	line "<m><e><Q><H><a><'><w><I><'> yIlo'!"
 	prompt
 
 _ViridianBlackboardFrozenText::
-	text "If frozen, a"
-	line "#MON becomes"
-	cont "totally immobile!"
+	text "taDchugh #<m><a><n>"
+	line "vanglaHbe'chu'!"
 
-	para "It stays frozen"
-	line "even after the"
-	cont "battle ends."
+	para "rInDI' may'"
+	line "taDtaH #<m><a><n>."
 
-	para "Use ICE HEAL to"
-	line "thaw out #MON!"
+	para "DataDHa'moHmeH"
+	line "<t><a><D><H><a><'><w><I><'> yIlo'!"
 	prompt
 
 _VermilionGymTrashText::
-	text "Nope, there's"
-	line "only trash here."
+	text "naDev veQ neH"
+	line "tu'lu'."
 	done
 
 _VermilionGymTrashSuccessText1::
-	text "Hey! There's a"
-	line "switch under the"
-	cont "trash!"
-	cont "Turn it on!"
+	text "toH! veQ bIngDaq"
+	line "leQ tu'lu'!"
+	cont "yIchu'!"
 
-	para "The 1st electric"
-	line "lock opened!@"
+	para "ngaQHa'choH"
+	line "'ul Durghang!@"
 	text_end
 
 _VermilionGymTrashSuccessText2::
-	text "Hey! There's"
-	line "another switch"
-	cont "under the trash!"
-	cont "Turn it on!"
+	text "toH! veQ bIngDaq"
+	line "leQ latlh tu'lu'!"
+	cont "yIchu'!"
 	prompt
 
 _VermilionGymTrashSuccessText3::
-	text "The 2nd electric"
-	line "lock opened!"
+	text "ngaQHa' 'ul "
+	line "Durghang cha'DIch!"
 
-	para "The motorized door"
-	line "opened!@"
+	para "lojmIt poSmoH"
+	line "nguSDI'!@"
 	text_end
 
 _VermilionGymTrashFailText::
-	text "Nope! There's"
-	line "only trash here."
-	cont "Hey! The electric"
-	cont "locks were reset!@"
+	text "ghobe'! naDev"
+	line "veQ neH tu'lu'."
+	cont "va! ngaQqa'"
+	cont "Durghang!@"
 	text_end
 
 _FoundHiddenItemText::
-	text "<PLAYER> found"
-	line "@"
+	text "@"
 	text_ram wNameBuffer
-	text "!@"
+	text_start
+	line "tu'pu' <PLAYER>!@"
 	text_end
 
 _HiddenItemBagFullText::
-	text "But, <PLAYER> has"
-	line "no more room for"
-	cont "other items!"
+	text "'ach wejHa'"
+	line "buy' paqlIj,  vaj"
+	cont "'oH tlhapbe'!"
 	done
 
 _FoundHiddenCoinsText::
-	text "<PLAYER> found"
-	line "@"
+	text "@"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
-	text " coins!@"
+	text "Quj ngop tu'"
+	line "<PLAYER>!@"
 	text_end
 
 _FoundHiddenCoins2Text::
-	text "<PLAYER> found"
-	line "@"
+	text "@"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
-	text " coins!@"
+	text "Quj ngop tu'"
+	line "<PLAYER>!@"
 	text_end
 
 _DroppedHiddenCoinsText::
 	text_start
-	para "Oops! Dropped"
-	line "some coins!"
+	para "va! 'op ngop"
+	line "Dachagh!"
 	done
 
 _IndigoPlateauStatuesText1::
-	text "INDIGO PLATEAU"
+	text "#<m><a><n> qaD vaS"
 	prompt
 
 _IndigoPlateauStatuesText2::
-	text "The ultimate goal"
-	line "of trainers!"
-	cont "#MON LEAGUE HQ"
+	text "qeqwI' ngoQ"
+	line "Qav 'oH!"
+	para "#<m><a><n> 'obe'"
+	line "yaHnIv"
 	done
 
 _IndigoPlateauStatuesText3::
-	text "The highest"
-	line "#MON authority"
-	cont "#MON LEAGUE HQ"
+	text "#<m><a><n> woQna'"
+	line "nIv"
+	para "#<m><a><n> 'obe'"
+	line "yaHnIv"
 	done
 
 _PokemonBooksText::
-	text "Crammed full of"
-	line "#MON books!"
+	text "yorgh tebtaH"
+	line "#<m><a><n> rIchbogh"
+	cont "paqmey' law'."
 	done
 
 _DiglettSculptureText::
-	text "It's a sculpture"
-	line "of DIGLETT."
+	text "ghawghu Hew'"
+	line "'oH."
 	done
 
 _ElevatorText::
-	text "This is an"
-	line "elevator."
+	text "tutDuj 'oH"
+	line "pa'vam'e'."
 	done
 
 _TownMapText::
-	text "A TOWN MAP.@"
+	text "tIn pu'jInvam.@"
 	text_end
 
 _PokemonStuffText::
-	text "Wow! Tons of"
-	line "#MON stuff!"
+	text "mer! #<m><a><n> 'aH"
+	line "law' lutu'lu'!"
 	done
 
 _OutOfSafariBallsText::
-	text "PA: Ding-dong!"
+	text "rI'wI': DIng-Dang!"
 
-	para "You are out of"
-	line "SAFARI BALLs!"
+	para "chonmoQ Danatlh!"
 	prompt
 
 _WildRanText::
-	text "Wild @"
+	text "HeD @"
 	text_ram wEnemyMonNick
 	text_start
-	line "ran!"
+	line "tlhab!"
 	prompt
 
 _EnemyRanText::
-	text "Enemy @"
+	text "HeD @"
 	text_ram wEnemyMonNick
 	text_start
-	line "ran!"
+	line "; nuch rur!"
 	prompt
 
 _HurtByPoisonText::
-	text "<USER>'s"
-	line "hurt by poison!"
+	text "<USER>"
+	line "rIQmoH tar!"
 	prompt
 
 _HurtByBurnText::
-	text "<USER>'s"
-	line "hurt by the burn!"
-	prompt
-
-_HurtByLeechSeedText::
-	text "LEECH SEED saps"
+	text "meQmo' rIQchoH"
 	line "<USER>!"
 	prompt
 
+_HurtByLeechSeedText::
+	text "<USER>vo'"
+	line "yIn lubum ra'SIS!"
+	prompt
+
 _EnemyMonFaintedText::
-	text "Enemy @"
+	text "vulchoH"
+	line "jagh @"
 	text_ram wEnemyMonNick
-	text_start
-	line "fainted!"
-	prompt
-
-_MoneyForWinningText::
-	text "<PLAYER> got ¥@"
-	text_bcd wAmountMoneyWon, 3 | LEADING_ZEROES | LEFT_ALIGN
-	text_start
-	line "for winning!"
-	prompt
-
-_TrainerDefeatedText::
-	text "<PLAYER> defeated"
-	line "@"
-	text_ram wTrainerName
 	text "!"
 	prompt
 
-_PlayerMonFaintedText::
-	text_ram wBattleMonNick
+_MoneyForWinningText::
+	text "Qapmo' ¥@"
+	text_bcd wAmountMoneyWon, 3 | LEADING_ZEROES | LEFT_ALIGN
 	text_start
-	line "fainted!"
+	line "Suq <PLAYER>!"
+	prompt
+
+_TrainerDefeatedText::
+	text_ram wTrainerName
+	text_start
+	line "jey <PLAYER>!"
+	prompt
+
+_PlayerMonFaintedText::
+	text "vulchoH"
+	line "@"
+	text_ram wBattleMonNick
+	text "!"
 	prompt
 
 _UseNextMonText::
-	text "Use next #MON?"
+	text "latlh poqe'man"
+	line "DarIt'a'?"
 	done
 
 _Rival1WinText::
-	text "<RIVAL>: Yeah! Am"
-	line "I great or what?"
+	text "<RIVAL>: maj!"
+	line "jIDunba', qar'a'?"
 	prompt
 
 _PlayerBlackedOutText2::
-	text "<PLAYER> is out of"
-	line "useable #MON!"
+	text "SuvlaHbogh"
+	line "#<m><a><n> Hutlh!"
 
-	para "<PLAYER> blacked"
-	line "out!"
+	para "lIm <PLAYER>"
+	line "'ej HeD!"
 	prompt
 
 _LinkBattleLostText::
-	text "<PLAYER> lost to"
+	text "<PLAYER> jey"
 	line "@"
 	text_ram wTrainerName
 	text "!"
 	prompt
 
 _TrainerAboutToUseText::
-	text_ram wTrainerName
-	text " is"
-	line "about to use"
-	cont "@"
 	text_ram wEnemyMonNick
+	text " "
+	line "SuvmoH"
+	cont"@"
+	text_ram wTrainerName
 	text "!"
 
-	para "Will <PLAYER>"
-	line "change #MON?"
+	para "#<m><a><n> pIm"
+	line "DaSuvmoH'a'?"
 	done
 
 _TrainerSentOutText::
-	text_ram wTrainerName
-	text " sent"
-	line "out @"
 	text_ram wEnemyMonNick
+	text " rIt"
+	line "@"
+	text_ram wTrainerName
 	text "!"
 	done
 
 _NoWillText::
-	text "There's no will"
-	line "to fight!"
+	text "DaH SuvlaHbe'"
+	line "#<m><a><n>vam!"
 	prompt
 
 _CantEscapeText::
-	text "Can't escape!"
+	text "HeDlaHbe'!"
 	prompt
 
 _NoRunningText::
-	text "No! There's no"
-	line "running from a"
-	cont "trainer battle!"
+	text "chojwI' DaSuvtaH."
+	line "DaH bIHeDlaHbe'!"
 	prompt
 
 _GotAwayText::
-	text "Got away safely!"
+	text "HeDchu'ta'!"
 	prompt
 
 _ItemsCantBeUsedHereText::
-	text "Items can't be"
-	line "used here."
+	text "DaH luch"
+	line "Dalo'laHbe'."
 	prompt
 
 _AlreadyOutText::
+	text "wejHa' SuvtaH"
+	line "@"
 	text_ram wBattleMonNick
-	text " is"
-	line "already out!"
+	text "!"
 	prompt
 
 _MoveNoPPText::
-	text "No PP left for"
-	line "this move!"
+	text "tonSaw'vaD HH"
+	line "yap ghajbe' 'oH!"
 	prompt
 
 _MoveDisabledText::
-	text "The move is"
-	line "disabled!"
+	text "tonSaw'vam"
+	line "Qotlhlu'!"
 	prompt
 
 _NoMovesLeftText::
+	text "pagh tonSaw'"
+	line "lo'laH @"
 	text_ram wBattleMonNick
-	text " has no"
-	line "moves left!"
+	text "!"
 	done
 
 _MultiHitText::
-	text "Hit the enemy"
-	line "@"
 	text_decimal wPlayerNumHits, 1, 1
-	text " times!"
+	text "logh jagh"
+	line "@"
+	text "qIpta' tonSaw'!"
 	prompt
 
 _ScaredText::
+	text "vangvIp"
+	line "@"
 	text_ram wBattleMonNick
-	text " is too"
-	line "scared to move!"
+	text "!"
 	prompt
 
 _GetOutText::
-	text "GHOST: Get out..."
-	line "Get out..."
+	text "<q><a><'>: yIqeD..."
+	line "yIqeD..."
 	prompt
 
 _FastAsleepText::
-	text "<USER>"
-	line "is fast asleep!"
+	text "Qongqu'taH"
+	line "<USER>!"
 	prompt
 
 _WokeUpText::
-	text "<USER>"
-	line "woke up!"
+	text "vemta'"
+	line "<USER>"
 	prompt
 
 _IsFrozenText::
-	text "<USER>"
-	line "is frozen solid!"
+	text "taDchu'"
+	line "<USER>!"
 	prompt
 
 _FullyParalyzedText::
-	text "<USER>'s"
-	line "fully paralyzed!"
+	text "<USER>"
+	line "roSHa'moHlu'!"
 	prompt
 
 _FlinchedText::
-	text "<USER>"
-	line "flinched!"
+	text "mur"
+	line "<USER>!"
 	prompt
 
 _MustRechargeText::
-	text "<USER>"
-	line "must recharge!"
+	text "rIHqa'nIS"
+	line "<USER>!"
 	prompt
 
 _DisabledNoMoreText::
-	text "<USER>'s"
-	line "disabled no more!"
+	text "<USER>"
+	line "QotlhHa'lu'!"
 	prompt
 
 _IsConfusedText::
-	text "<USER>"
-	line "is confused!"
+	text "mIStaH"
+	line "<USER>!"
 	prompt
 
 _HurtItselfText::
-	text "It hurt itself in"
-	line "its confusion!"
+	text "mISmo'"
+	line "rIQ'eghmoH!"
 	prompt
 
 _ConfusedNoMoreText::
-	text "<USER>'s"
-	line "confused no more!"
+	text "mISHa'choH"
+	line "<USER>!"
 	prompt
 
 _SavingEnergyText::
-	text "<USER>"
-	line "is saving energy!"
+	text "HoS boStaH"
+	line "<USER>!"
 	prompt
 
 _UnleashedEnergyText::
-	text "<USER>"
-	line "unleashed energy!"
+	text "HoS boSta'bogh lo'"
+	line "<USER>!"
 	prompt
 
 _ThrashingAboutText::
-	text "<USER>'s"
-	line "thrashing about!"
+	text "noghtaH"
+	line "<USER>!"
 	done
 
 _AttackContinuesText::
-	text "<USER>'s"
-	line "attack continues!"
+	text "vanglaHbe'! taHtaH"
+	line "<USER>"
+	cont "tonSaw'."
 	done
 
 _CantMoveText::
-	text "<USER>"
-	line "can't move!"
+	text "vIHlaHbe'"
+	line "<USER>!"
 	prompt
 
 _MoveIsDisabledText::
-	text "<USER>'s"
+	text "<USER>"
 	line "@"
 	text_ram wNameBuffer
-	text " is"
-	cont "disabled!"
+	text " tonSaw'"
+	cont "Qotlhlu'!"
 	prompt
 
 _MonName1Text::
-	text "<USER>@"
-	text_end
+	text_ram wcf4b
+	text "@"
 
 _Used1Text::
-	text_start
-	line "used @"
+	text " lo'"
+	line "@"
 	text_end
 
 _Used2Text::
 	text_start
-	line "used @"
+	line "@"
 	text_end
 
 _InsteadText::
-	text "instead,"
+	text "'e' qa'"
 	cont "@"
 	text_end
 
-_MoveNameText::
-	text_ram wStringBuffer
-	text "@"
+_CF4BText::
+	text "<USER>@"
+	text_end
 
 _ExclamationPoint1Text::
 	text "!"
@@ -1119,173 +1112,178 @@ _ExclamationPoint5Text::
 	done
 
 _AttackMissedText::
-	text "<USER>'s"
-	line "attack missed!"
+	text "DoS qIpbe'"
+	line "<USER>"
+	cont "tonSaw'!"
 	prompt
 
 _KeptGoingAndCrashedText::
-	text "<USER>"
-	line "kept going and"
-	cont "crashed!"
+	text "DoS qIpbe'"
+	line "<USER> 'ej"
+	cont "yav ngeQmo'"
+	cont "rIQ'eghmoH!"
 	prompt
 
 _UnaffectedText::
-	text "<TARGET>'s"
-	line "unaffected!"
+	text "<TARGET>"
+	line "SIghbe'!"
 	prompt
 
 _DoesntAffectMonText::
-	text "It doesn't affect"
-	line "<TARGET>!"
+	text "<TARGET>"
+	line "rIQbe'!"
 	prompt
 
 _CriticalHitText::
-	text "Critical hit!"
+	text "qIpchu'!"
 	prompt
 
 _OHKOText::
-	text "One-hit KO!"
+	text "SIbI' vulmoH!"
 	prompt
 
 _LoafingAroundText::
+	text "buDtaH"
+	line "@"
 	text_ram wBattleMonNick
-	text " is"
-	line "loafing around."
+	text "."
 	prompt
 
 _BeganToNapText::
+	text "DumchoH"
+	line "@"
 	text_ram wBattleMonNick
-	text " began"
-	line "to nap!"
+	text "."
 	prompt
 
 _WontObeyText::
+	text "lobQo' @"
 	text_ram wBattleMonNick
-	text " won't"
-	line "obey!"
+	text "."
 	prompt
 
 _TurnedAwayText::
+	text "buSHa' @"
 	text_ram wBattleMonNick
-	text " turned"
-	line "away!"
+	text "."
 	prompt
 
 _IgnoredOrdersText::
 	text_ram wBattleMonNick
 	text_start
-	line "ignored orders!"
+	line "matlhHa'taH!"
 	prompt
 
 _SubstituteTookDamageText::
-	text "The SUBSTITUTE"
-	line "took damage for"
-	cont "<TARGET>!"
+	text "lIw QIH;"
+	line "<TARGET>"
+	cont "QIH 'e' qa'!"
 	prompt
 
 _SubstituteBrokeText::
-	text "<TARGET>'s"
-	line "SUBSTITUTE broke!"
+	text "<TARGET>"
+	line "lIw ghor!"
 	prompt
 
 _BuildingRageText::
-	text "<USER>'s"
-	line "RAGE is building!"
+	text "QeHqu'choHtaH"
+	line "<USER>!"
 	prompt
 
 _MirrorMoveFailedText::
-	text "The MIRROR MOVE"
-	next "failed!"
+	text "Qapbe' bortaS"
+	next "tonSaw'!"
 	prompt
 
 _HitXTimesText::
-	text "Hit @"
 	text_decimal wEnemyNumHits, 1, 1
-	text " times!"
+	text "logh qIp!"
 	prompt
 
 _GainedText::
-	text_ram wNameBuffer
-	text " gained"
+	text_decimal wExpAmountGained, 2, 4
+	text " HenwI' mIvwa'"
 	line "@"
 	text_end
 
 _WithExpAllText::
-	text "with EXP.ALL,"
+	text "Hoch HenmoHmo'"
 	cont "@"
 	text_end
 
 _BoostedText::
-	text "a boosted"
+	text "ghurlu'bogh"
 	cont "@"
 	text_end
 
 _ExpPointsText::
-	text_decimal wExpAmountGained, 2, 4
-	text " EXP. Points!"
+	text "Suq @"
+	text_ram wNameBuffer
+	text "."
 	prompt
 
 _GrewLevelText::
-	text_ram wNameBuffer
-	text " grew"
-	line "to level @"
-	text_decimal wCurEnemyLevel, 1, 3
-	text "!@"
+	text_ram wcd6d
+	text " numlu'."
+	line "patlh @"
+	text_decimal wCurEnemyLVL, 1, 3
+	text " chav!@"
 	text_end
 
 _WildMonAppearedText::
-	text "Wild @"
+	text "nargh @"
 	text_ram wEnemyMonNick
 	text_start
-	line "appeared!"
+	line "tlhayHa'!"
 	prompt
 
 _HookedMonAttackedText::
-	text "The hooked"
+	text "HIvchoH"
 	line "@"
 	text_ram wEnemyMonNick
 	text_start
-	cont "attacked!"
+	cont "DarItbogh!"
 	prompt
 
 _EnemyAppearedText::
+	text "nargh @"
 	text_ram wEnemyMonNick
 	text_start
-	line "appeared!"
+	text "!"
 	prompt
 
 _TrainerWantsToFightText::
+	text "DuSuv neH"
+	line "@"
 	text_ram wTrainerName
-	text " wants"
-	line "to fight!"
+	text "."
 	prompt
 
 _UnveiledGhostText::
-	text "SILPH SCOPE"
-	line "unveiled the"
-	cont "GHOST's identity!"
+	text "qa' porgh rujmoH"
+	line "So'Ha'moHlu'!"
 	prompt
 
 _GhostCantBeIDdText::
-	text "Darn! The GHOST"
-	line "can't be ID'd!"
+	text "va! qa'"
+	line "ghovlu'be'!"
 	prompt
 
 _GoText::
-	text "Go! @"
+	text "Suv! @"
 	text_end
 
 _DoItText::
-	text "Do it! @"
+	text "vang! @"
 	text_end
 
 _GetmText::
-	text "Get'm! @"
+	text "ruch! @"
 	text_end
 
 _EnemysWeakText::
-	text "The enemy's weak!"
-	line "Get'm! @"
+	text "puj jagh!"
+	line "yIjey! @"
 	text_end
 
 _PlayerMon1Text::
@@ -1299,476 +1297,477 @@ _PlayerMon2Text::
 	text_end
 
 _EnoughText::
-	text "enough!@"
+	text "mevyap!@"
 	text_end
 
 _OKExclamationText::
-	text "OK!@"
+	text "toH!@"
 	text_end
 
 _GoodText::
-	text "good!@"
+	text "maj!@"
 	text_end
 
 _ComeBackText::
 	text_start
-	line "Come back!"
+	line "HIchegh!"
 	done
 
 _SuperEffectiveText::
-	text "It's super"
-	line "effective!"
+	text "vaQqu'"
+	line "tonSaw'!"
 	prompt
 
 _NotVeryEffectiveText::
-	text "It's not very"
-	line "effective..."
+	text "loQ vaQ neH"
+	line "tonSaw'..."
 	prompt
 
 _SafariZoneEatingText::
-	text "Wild @"
+	text "SoptaH @"
 	text_ram wEnemyMonNick
 	text_start
-	line "is eating!"
+	line "tlhayHa'!"
 	prompt
 
 _SafariZoneAngryText::
-	text "Wild @"
+	text "QeH @"
 	text_ram wEnemyMonNick
 	text_start
-	line "is angry!"
+	line "tlhayHa'!"
 	prompt
 
 ; money related
 _PickUpPayDayMoneyText::
-	text "<PLAYER> picked up"
-	line "¥@"
+	text "yavvo' ¥@"
 	text_bcd wTotalPayDayMoney, 3 | LEADING_ZEROES | LEFT_ALIGN
-	text "!"
+	text " "
+	line "woH <PLAYER>!"
 	prompt
 
+
 _ClearSaveDataText::
-	text "Clear all saved"
-	line "data?"
+	text "ta Hoch DawoD'a'?"
 	done
 
 _WhichFloorText::
-	text "Which floor do"
-	line "you want? "
+	text "Su'roq DaneHbogh"
+	line "yIngu'."
 	done
 
 _PartyMenuNormalText::
-	text "Choose a #MON."
+	text "#<m><a><n> yIwIv."
 	done
 
 _PartyMenuItemUseText::
-	text "Use item on which"
-	line "#MON?"
+	text "luch DoS yIwIv!"
 	done
 
 _PartyMenuBattleText::
-	text "Bring out which"
-	line "#MON?"
+	text "#<m><a><n> DarItbogh"
+	line "yIwIv!"
 	done
 
 _PartyMenuUseTMText::
-	text "Use TM on which"
-	line "#MON?"
+	text "tonSaw' ghojbogh"
+	line "#<m><a><n>'e' yIwIv."
 	done
 
 _PartyMenuSwapMonText::
-	text "Move #MON"
-	line "where?"
+	text "nuqDaq lan"
+	line "#<m><a><n>?"
 	done
 
 _PotionText::
-	text_ram wNameBuffer
-	text_start
-	line "recovered by @"
 	text_decimal wHPBarHPDifference, 2, 3
+	text " yIn mIvwa'"
+	line "Suqqa' @"
+	text_ram wNameBuffer
 	text "!"
 	done
 
 _AntidoteText::
 	text_ram wNameBuffer
-	text " was"
-	line "cured of poison!"
+	text " tar"
+	line "vorlu'!"
 	done
 
 _ParlyzHealText::
 	text_ram wNameBuffer
-	text "'s"
-	line "rid of paralysis!"
+	text " "
+	line "vIHqa'laH!"
 	done
 
 _BurnHealText::
 	text_ram wNameBuffer
-	text "'s"
-	line "burn was healed!"
+	text " "
+	line "meQHa'lu'!"
 	done
 
 _IceHealText::
 	text_ram wNameBuffer
-	text " was"
-	line "defrosted!"
+	text " "
+	line "taDHa'moH!"
 	done
 
 _AwakeningText::
+	text "vem @"
 	text_ram wNameBuffer
-	text_start
-	line "woke up!"
+	text "!"
 	done
 
 _FullHealText::
+	text "pIvqa'"
+	line "@"
 	text_ram wNameBuffer
-	text "'s"
-	line "health returned!"
+	text "!"
 	done
 
 _ReviveText::
+	text "SuvlaHqa'"
+	line "@"
 	text_ram wNameBuffer
-	text_start
-	line "is revitalized!"
+	text "."
+
 	done
 
 _RareCandyText::
 	text_ram wNameBuffer
-	text " grew"
-	line "to level @"
-	text_decimal wCurEnemyLevel, 1, 3
-	text "!@"
+	text " numlu'."
+	line "patlh @"
+	text_decimal wCurEnemyLVL, 1, 3
+	text " chav!@"
 	text_end
 
 _TurnedOnPC1Text::
-	text "<PLAYER> turned on"
-	line "the PC."
+	text "De'wI' chu'"
+	line "<PLAYER>."
 	prompt
 
 _AccessedBillsPCText::
-	text "Accessed BILL's"
-	line "PC."
+	text "<b><I><l> De'wI' "
+	line "naw' <PLAYER>."
 
-	para "Accessed #MON"
-	line "Storage System."
+	para "#<m><a><n> polwI'"
+	line "pat naw'."
 	prompt
 
 _AccessedSomeonesPCText::
-	text "Accessed someone's"
-	line "PC."
+	text "vay' De'wI' "
+	line "naw' <PLAYER>."
 
-	para "Accessed #MON"
-	line "Storage System."
+	para "#<m><a><n> polwI'"
+	line "pat naw'."
 	prompt
 
 _AccessedMyPCText::
-	text "Accessed my PC."
+	text "De'wI'wIj vInaw'."
 
-	para "Accessed Item"
-	line "Storage System."
+	para "luch polmeH pat"
+	line "naw'lu'."
 	prompt
 
 _TurnedOnPC2Text::
-	text "<PLAYER> turned on"
-	line "the PC."
+	text "De'wI' chu'"
+	line "<PLAYER>."
 	prompt
 
 _WhatDoYouWantText::
-	text "What do you want"
-	line "to do?"
+	text "nuq DaneH?"
 	done
 
 _WhatToDepositText::
-	text "What do you want"
-	line "to deposit?"
+	text "nuq Dapol?"
 	done
 
 _DepositHowManyText::
-	text "How many?"
+	text "'ar?"
 	done
 
 _ItemWasStoredText::
 	text_ram wNameBuffer
-	text " was"
-	line "stored via PC."
+	text " "
+	line "Dapolta'."
 	prompt
 
 _NothingToDepositText::
-	text "You have nothing"
-	line "to deposit."
+	text "luch Daghajbe'mo'"
+	line "pagh DapollaH."
 	prompt
 
 _NoRoomToStoreText::
-	text "No room left to"
-	line "store items."
+	text "buy'mo' tavam"
+	line "naDev pollaHbe'."
 	prompt
 
 _WhatToWithdrawText::
-	text "What do you want"
-	line "to withdraw?"
+	text "nuq DaSuqqa'?"
 	done
 
 _WithdrawHowManyText::
-	text "How many?"
+	text "'ar?"
 	done
 
 _WithdrewItemText::
-	text "Withdrew"
-	line "@"
+	text "@"
 	text_ram wNameBuffer
-	text "."
+	text " "
+	line "DaSuqqa'ta'."
 	prompt
 
 _NothingStoredText::
-	text "There is nothing"
-	line "stored."
+	text "pagh pollu'."
 	prompt
 
 _CantCarryMoreText::
-	text "You can't carry"
-	line "any more items."
+	text "luch latlh"
+	line "DaqenglaHbe'."
 	prompt
 
 _WhatToTossText::
-	text "What do you want"
-	line "to toss away?"
+	text "nuq DawoD?"
 	done
 
 _TossHowManyText::
-	text "How many?"
+	text "'ar?"
 	done
 
 _AccessedHoFPCText::
-	text "Accessed #MON"
-	line "LEAGUE's site."
+	text "#<m><a><n> 'obe' ta"
+	line "Danaw'."
 
-	para "Accessed the HALL"
-	line "OF FAME List."
+	para "charghwI' tutlh"
+	line "DaHotlh."
 	prompt
 
 _SwitchOnText::
-	text "Switch on!"
+	text "chu'!"
 	prompt
 
 _WhatText::
-	text "What?"
+	text "nuq?"
 	done
 
 _DepositWhichMonText::
-	text "Deposit which"
-	line "#MON?"
+	text "#<m><a><n> Dapolbogh"
+	line "yIwIv!"
 	done
 
 _MonWasStoredText::
-	text_ram wStringBuffer
-	text " was"
-	line "stored in Box @"
+	text "ta @"
 	text_ram wBoxNumString
-	text "."
+	text "Daq"
+	line "@"
+	text_ram wStringBuffer
+	text " pollu'."
 	prompt
 
 _CantDepositLastMonText::
-	text "You can't deposit"
-	line "the last #MON!"
+	text "#<m><a><n> Qav"
+	line "DapollaHbe'!"
 	prompt
 
 _BoxFullText::
-	text "Oops! This Box is"
-	line "full of #MON."
+	text "va! wejHa' buy'"
+	line "#<m><a><n> tavam."
 	prompt
 
 _MonIsTakenOutText::
 	text_ram wStringBuffer
-	text " is"
-	line "taken out."
-	cont "Got @"
+	text " "
+	line "Suqqa'lu'."
+	cont "@"
 	text_ram wStringBuffer
-	text "."
+	text " Daghaj."
 	prompt
 
 _NoMonText::
-	text "What? There are"
-	line "no #MON here!"
+	text "nuq? pa'"
+	line "#<m><a><n> tu'lu'be'!"
 	prompt
 
 _CantTakeMonText::
-	text "You can't take"
-	line "any more #MON."
+	text "#<m><a><n>vam "
+	line "DaSuqqa'laHpa'"
 
-	para "Deposit #MON"
-	line "first."
+	para "latlh #<m><a><n>"
+	line "DapolnIS."
 	prompt
 
 _ReleaseWhichMonText::
-	text "Release which"
-	line "#MON?"
+	text "lonmeH #<m><a><n>"
+	line "yIwIv?"
 	done
 
 _OnceReleasedText::
-	text "Once released,"
+	text "Dalonchugh"
 	line "@"
 	text_ram wStringBuffer
-	text " is"
-	cont "gone forever. OK?"
+	text " "
+	cont "DaSuqqa'laHbe'"
+	cont "ghu' Dalajqu''a'?"
 	done
 
 _MonWasReleasedText::
+	text "'umberDaq"
+	line "@"
 	text_ram wStringBuffer
-	text " was"
-	line "released outside."
-	cont "Bye @"
+	text " lonlu'."
+	cont "rIntaH @"
+
+_CF4BExclamationText::
 	text_ram wStringBuffer
 	text "!"
 	prompt
 
 _RequireCoinCaseText::
-	text "A COIN CASE is"
-	line "required!@"
+	text "ngop 'aplo'"
+	line "poQlu'!@"
 	text_end
 
 _ExchangeCoinsForPrizesText::
-	text "We exchange your"
-	line "coins for prizes."
+	text "tevmey DaSuqmeH"
+	line "Quj ngoplIj wItam."
 	prompt
 
 _WhichPrizeText::
-	text "Which prize do"
-	line "you want?"
+	text "noblIj yIwIv!"
 	done
 
 _HereYouGoText::
-	text "Here you go!@"
+	text "tevlIj yItlhap!@"
 	text_end
 
 _SoYouWantPrizeText::
-	text "So, you want"
+	text "toH,"
 	line "@"
 	text_ram wNameBuffer
-	text "?"
+	text " DaneH,"
+	cont "qar'a'?"
 	done
 
 _SorryNeedMoreCoinsText::
-	text "Sorry, you need"
-	line "more coins.@"
+	text "jIQoS, Quj ngop"
+	line "yap Daghajbe'.@"
 	text_end
 
 _OopsYouDontHaveEnoughRoomText::
-	text "Oops! You don't"
-	line "have enough room.@"
+	text "toH! wejHa jav"
+	line "#<m><a><n> DaqengtaH.@"
 	text_end
 
 _OhFineThenText::
-	text "Oh, fine then.@"
+	text "toH, vaj vIlaj.@"
 	text_end
 
 _GetDexRatedText::
-	text "Want to get your"
-	line "#DEX rated?"
+	text "#<p><a><q>lIj chov"
+	line "<'><o><Q> DaneH'a'?"
 	done
 
 _ClosedOaksPCText::
-	text "Closed link to"
-	line "PROF.OAK's PC.@"
+	text "<'><o><Q> 'a'ghen De'wI'"
+	line "DangaQmoH.@"
 	text_end
 
 _AccessedOaksPCText::
-	text "Accessed PROF."
-	line "OAK's PC."
+	text "<'><o><Q> 'a'ghen De'wI'"
+	line "DangaQHa'moH."
 
-	para "Accessed #DEX"
-	line "Rating System."
+	para "#<p><a><q> chovwI'"
+	line "pat Danaw'."
 	prompt
 
 _WhereWouldYouLikeText::
-	text "Where would you"
-	line "like to go?"
+	text "Daq yIngu'"
 	done
 
 _PleaseWaitText::
-	text "OK, please wait"
-	line "just a moment."
+	text "toH poH ngaj"
+	line "yIloS."
 	done
 
 _LinkCanceledText::
-	text "The link was"
-	line "canceled."
+	text "jabbI'ID"
+	line "qIllu'pu'."
 	done
 
 _OakSpeechText1::
-	text "Hello there!"
-	line "Welcome to the"
-	cont "world of #MON!"
+	text "Qapla' batlh je!"
+	line "#<m><a><n> qo'Daq"
+	cont "Dapawta'!!"
 
-	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
+	para "<'><o><Q> 'oH "
+	line "pongwIj'e'."
+	cont "'a'ghen jIH."
 	prompt
 
 _OakSpeechText2A::
-	text "This world is"
-	line "inhabited by"
-	cont "creatures called"
-	cont "#MON!@"
+	text "qo'vamDaq law'"
+	line "Ha'DIbaH ngar."
+
+	para "#<m><a><n> ponglu'.@"
 	text_end
 
 _OakSpeechText2B::
 	text_start
 
-	para "For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
+	para "law' Sarchaj 'ej"
+	line "Daj Hoch."
+	cont "Saj Dam nuv puS,"
+	cont "SuvmoH latlh."
 
-	para "Myself..."
+	para "jIH...?"
 
-	para "I study #MON"
-	line "as a profession."
+	para "Qu'wIjvaD #<m><a><n>"
+	line "vIHaDtaH."
 	prompt
 
 _IntroducePlayerText::
-	text "First, what is"
-	line "your name?"
+	text "DaH..."
+	line "ponglIj HIjatlh."
 	prompt
 
 _IntroduceRivalText::
-	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	text "puqnI'wI' ghaH"
+	line "loDHomvam'e'."
+	cont "reH ghollI' ghaH"
+	cont "je."
 
-	para "...Erm, what is"
-	line "his name again?"
+	para "...Hu'ma, nuq 'oH"
+	line "pongDaj'e'? "
 	prompt
 
 _OakSpeechText3::
 	text "<PLAYER>!"
 
-	para "Your very own"
-	line "#MON legend is"
-	cont "about to unfold!"
+	para "bIlengrup!"
+	line "tugh #<m><a><n>"
+	cont "lutlIj bI'reS qaS!"
 
-	para "A world of dreams"
-	line "and adventures"
-	cont "with #MON"
-	cont "awaits! Let's go!"
+	para "DuloS qo' rorgh."
+	line "Dutlhejrup"
+	cont "#<m><a><n>mey law'."
+	cont "DaH yItagh!"
 	done
 
 _DoYouWantToNicknameText::
-	text "Do you want to"
-	line "give a nickname"
-	cont "to @"
+	text "@"
 	text_ram wNameBuffer
-	text "?"
+	text "vaD pong"
+	line "chu' Danob"
+	cont "DaneH'a'?"
 	done
 
 _YourNameIsText::
-	text "Right! So your"
-	line "name is <PLAYER>!"
+	text "maj! <PLAYER> 'oH"
+	line "ponglIj'e'."
 	prompt
 
 _HisNameIsText::
-	text "That's right! I"
-	line "remember now! His"
-	cont "name is <RIVAL>!"
+	text "quSDaq ba'! DaH"
+	line "vIqaw! <RIVAL>"
+	cont "'oH pongDaj'e'!"
 	prompt
 
 _WillBeTradedText::
@@ -1781,8 +1780,8 @@ _WillBeTradedText::
 	done
 
 _TextIDErrorText::
-	text_decimal hTextID, 1, 2
-	text " ERROR."
+	text_decimal hSpriteIndexOrTextID, 1, 2
+	text " -Qagh-."
 	done
 
 _ContCharText::
