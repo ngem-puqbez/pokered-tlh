@@ -8,7 +8,7 @@ _PokemonFanClubPikachuFanBetterText::
 	text "baQa'! <p><I><y><q><a><'><c><h><u>"
 	line "'IH law'qu'"
 	cont "#<m><a><n>vetlh 'IH"
-	cont "puSqu'!
+	cont "puSqu'!"
 	done
 
 _PokemonFanClubSeelFanNormalText::
