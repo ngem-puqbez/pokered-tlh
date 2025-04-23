@@ -1,104 +1,104 @@
 _CableClubNPCPleaseComeAgainText::
-	text "Please come again!"
+	text "tugh yIchegh!"
 	done
 
 _CableClubNPCMakingPreparationsText::
-	text "We're making"
-	line "preparations."
-	cont "Please wait."
+	text "wej pItoylaH."
+	line "bIboHnIS."
 	done
 
 _UsedStrengthText::
+	text "<y><u><v> HoDoS lo'"
+	line "@"
 	text_ram wNameBuffer
-	text " used"
-	line "STRENGTH.@"
+	text ".@"
 	text_end
 
 _CanMoveBouldersText::
+	text "DaH nagh tIn"
+	line "vIHmoHlaH"
+	cont "@"
 	text_ram wNameBuffer
-	text " can"
-	line "move boulders."
+	text "."
 	prompt
 
 _CurrentTooFastText::
-	text "The current is"
-	line "much too fast!"
+	text "nom vIHqu' pep'en."
+	line "naDev bIQallaHbe'!"
 	prompt
 
 _CyclingIsFunText::
-	text "Cycling is fun!"
-	line "Forget SURFing!"
+	text "Dun <q><a><m> <D><o> <D><u><j>!"
+	line "DaH yI<Q><a><l>Qo'!"
 	prompt
 
 _FlashLightsAreaText::
-	text "A blinding FLASH"
-	line "lights the area!"
+	text "QIbmey wovmoH"
+	line "<g><h><o><n>taHvIS!"
 	prompt
 
 _WarpToLastPokemonCenterText::
-	text "Warp to the last"
-	line "#MON CENTER."
+	text "#ropyaH ret"
+	line "Dachegh."
 	done
 
 _CannotUseTeleportNowText::
+	text "DaH <Q><o><l>laHbe'"
+	line "@"
 	text_ram wNameBuffer
-	text " can't"
-	line "use TELEPORT now."
+	text "."
 	prompt
 
 _CannotFlyHereText::
+	text "naDev <p><u><v>laHbe'"
+	line "@"
 	text_ram wNameBuffer
-	text " can't"
-	line "FLY here."
+	text "."
 	prompt
 
 _NotHealthyEnoughText::
-	text "Not healthy"
-	line "enough."
+	text "tlhoy' pIvHa'."
 	prompt
 
 _NewBadgeRequiredText::
-	text "No! A new BADGE"
-	line "is required."
+	text "Qo'! DeghHom chu'"
+	line "DapoQ."
 	prompt
 
 _CannotUseItemsHereText::
-	text "You can't use items"
-	line "here."
+	text "naDev luch"
+	line "lo'laHbe'."
 	prompt
 
 _CannotGetOffHereText::
-	text "You can't get off"
-	line "here."
+	text "naDev "
+	line "DalItHa'laHbe'."
 	prompt
 
 _GotMonText::
-	text "<PLAYER> got"
-	line "@"
 	text_ram wNameBuffer
-	text "!@"
+	text " Suq"
+	line "<PLAYER>!@"
 	text_end
 
 _SentToBoxText::
-	text "There's no more"
-	line "room for #MON!"
-	cont "@"
+	text "DutlhaplaHbe'"
+	line "#<m><a><n> latlh!"
+	cont "#ropyaH De'wI'"
+	cont "ta @"
+	text_ram wcf4b
+	text "Daq @"
 	text_ram wBoxMonNicks
-	text " was"
-	cont "sent to #MON"
-	cont "BOX @"
-	text_ram wStringBuffer
-	text " on PC!"
+	cont "jaH!"
 	done
 
 _BoxIsFullText::
-	text "There's no more"
-	line "room for #MON!"
+	text "DaH #<m><a><n>vam"
+	line "DajonlaHbe'!"
 
-	para "The #MON BOX"
-	line "is full and can't"
-	cont "accept any more!"
+	para "wejHa buy' De'wI'"
+	line "ta Dalo'taHbogh!"
 
-	para "Change the BOX at"
-	line "a #MON CENTER!"
+	para "#ropyaHDaq ta"
+	line "pIm DawIvlaH!"
 	done
