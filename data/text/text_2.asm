@@ -1069,7 +1069,7 @@ _MoveIsDisabledText::
 	prompt
 
 _MonName1Text::
-	text_ram wcf4b
+	text_ram wNameBuffer
 	text "@"
 
 _Used1Text::
@@ -1223,10 +1223,10 @@ _ExpPointsText::
 	prompt
 
 _GrewLevelText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " numlu'."
 	line "patlh @"
-	text_decimal wCurEnemyLVL, 1, 3
+	text_decimal wCurEnemyLevel, 1, 3
 	text " chav!@"
 	text_end
 
@@ -1435,7 +1435,7 @@ _RareCandyText::
 	text_ram wNameBuffer
 	text " numlu'."
 	line "patlh @"
-	text_decimal wCurEnemyLVL, 1, 3
+	text_decimal wCurEnemyLevel, 1, 3
 	text " chav!@"
 	text_end
 
@@ -1780,7 +1780,7 @@ _WillBeTradedText::
 	done
 
 _TextIDErrorText::
-	text_decimal hSpriteIndexOrTextID, 1, 2
+	text_decimal hTextID, 1, 2
 	text " -Qagh-."
 	done
 
