@@ -86,7 +86,7 @@ _SentToBoxText::
 	line "#<m><a><n> latlh!"
 	cont "#ropyaH De'wI'"
 	cont "ta @"
-	text_ram wcf4b
+	text_ram wNameBuffer
 	text "Daq @"
 	text_ram wBoxMonNicks
 	cont "jaH!"
