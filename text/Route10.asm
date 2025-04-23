@@ -1,108 +1,109 @@
 _Route10SuperNerd1BattleText::
-	text "Wow, are you a"
-	line "#MANIAC too?"
-	cont "Want to see my"
-	cont "collection?"
+	text "toH, #<m><a><n>"
+	line "ngotlhwI' SoH'a'"
+	cont "je? qengHoDwIj"
+	cont "qa'ang DaneH'a'?"
 	done
 
 _Route10SuperNerd1EndBattleText::
-	text "Humph."
-	line "I'm not angry!"
+	text "ghghgh."
+	line "jIQeHbe'!"
 	prompt
 
 _Route10SuperNerd1AfterBattleText::
-	text "I have more rare"
-	line "#MON at home!"
+	text "juHwIjDaq law'"
+	line "#<m><a><n> qub!"
 	done
 
 _Route10Hiker1BattleText::
-	text "Ha-hahah-ah-ha!"
+	text "'eQ 'e' 'eQ!"
 	done
 
 _Route10Hiker1EndBattleText::
-	text "Ha-haha!"
-	line "Not laughing!"
-	cont "Ha-hay fever!"
-	cont "Haha-ha-choo!"
+	text "'e-'eQ!"
+	line "pagh qaS!"
+	para "jI-'eQQuS! jIchuy!"
+	cont "'eQQuSngew!"
+	prompt
 	prompt
 
 _Route10Hiker1AfterBattleText::
-	text "Haha-ha-choo!"
-	line "Ha-choo!"
-	cont "Snort! Snivel!"
+	text "'eQQuSngew!"
+	line "'eQQuS!"
+	cont "Qoghogh!"
 	done
 
 _Route10SuperNerd2BattleText::
-	text "Hi kid, want to"
-	line "see my #MON?"
+	text "puq! qavan!"
+	line "#<m><a><n>wIj Dalegh"
+	cont "DaneH'a'?"
 	done
 
 _Route10SuperNerd2EndBattleText::
-	text "Oh no!"
-	line "My #MON!"
+	text "ghuy'!"
+	line "#<m><a><n>wIj!"
 	prompt
 
 _Route10SuperNerd2AfterBattleText::
-	text "I don't like you"
-	line "for beating me!"
+	text "mujey'mo'"
+	line "qapar!"
 	done
 
 _Route10CooltrainerF1BattleText::
-	text "I've been to a"
-	line "#MON GYM a few"
-	cont "times. But, I"
-	cont "lost each time."
+	text "'oplogh #<m><a><n>"
+	line "qaDqach vIqaD."
+	cont "'ach Hochlogh"
+	cont "jIlujpu'."
 	done
 
 _Route10CooltrainerF1EndBattleText::
-	text "Ohh!"
-	line "Blew it again!"
+	text "va!"
+	line "'eb vIjonbe'qa'!"
 	prompt
 
 _Route10CooltrainerF1AfterBattleText::
-	text "I noticed some"
-	line "#MANIACs"
-	cont "prowling around."
+	text "naDev ghachtaH"
+	line "#<m><a><n> ngotlhwI'"
+	cont "'e' vItu'."
 	done
 
 _Route10Hiker2BattleText::
-	text "Ah! This mountain"
-	line "air is delicious!"
+	text "maj! HuDvamDaq"
+	line "'ey'qu' rewve'!"
 	done
 
 _Route10Hiker2EndBattleText::
-	text "That"
-	line "cleared my head!"
+	text "DaH"
+	line "yabwIj Huvlu'pu'!"
 	prompt
 
 _Route10Hiker2AfterBattleText::
-	text "I feel bloated on"
-	line "mountain air!"
+	text "mu'almoH "
+	line "HuD rewve'!"
 	done
 
 _Route10CooltrainerF2BattleText::
-	text "I'm feeling a bit"
-	line "faint from this"
-	cont "tough hike."
+	text "muvermoHpu'"
+	line "lengwIj rotlh!"
 	done
 
 _Route10CooltrainerF2EndBattleText::
-	text "I'm"
-	line "not up to it!"
+	text "'oH"
+	line "vIrInmoHlaHbe'!"
 	prompt
 
 _Route10CooltrainerF2AfterBattleText::
-	text "The #MON here"
-	line "are so chunky!"
-	cont "There should be a"
-	cont "pink one with a"
-	cont "floral pattern!"
+	text "naDev ror"
+	line "#<m><a><n>mey! "
+	cont "'InSong rurbogh "
+	cont "DIr'e' Doq ghaj"
+	cont "mut 'e' vIjIn!"
 	done
 
 _Route10RockTunnelSignText::
-	text "ROCK TUNNEL"
+	text "<n><a><g><h> <'><o><c><h>"
 	done
 
 _Route10PowerPlantSignText::
-	text "POWER PLANT"
+	text "<H><o><S> <w><a><w><'>"
 	done
