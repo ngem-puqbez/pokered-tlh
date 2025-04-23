@@ -1,6 +1,6 @@
 CreditsTextPointers:
 ; entries correspond to CRED_* constants
-	table_width 2
+	table_width 2, CreditsTextPointers
 	dw CredVersion
 	dw CredTajiri
 	dw CredTaOota
@@ -65,14 +65,16 @@ CreditsTextPointers:
 	dw CredFukui
 	dw CredClub
 	dw CredPAAD
+	dw CredMyka
+	dw CredKli
 	assert_table_length NUM_CRED_STRINGS
 
-CredVersion:
+CredVersion: ; this 1 byte difference makes all bank addresses offset by 1 in the blue version
 IF DEF(_RED)
-	db -8, "RED VERSION STAFF@"
+	db -7, "<Q><u><j> <S><a><r> <D><o><q> <b><e><q>@"
 ENDC
 IF DEF(_BLUE)
-	db -8, "BLUE VERSION STAFF@"
+	db -7, "<Q><u><j> <S><a><r> <S><u><D> <b><e><q>@"
 ENDC
 CredTajiri:
 	db -6, "SATOSHI TAJIRI@"
@@ -129,37 +131,37 @@ CredTaNakamura:
 CredYuda:
 	db -6, "MASAMITSU YUDA@"
 CredMon:
-	db -3, "#MON@"
+	db -3, "#<m><a><n>@"
 CredDirector:
-	db -3, "DIRECTOR@"
+	db -2, "<D><e><v><w><I><'>@"
 CredProgrammers:
-	db -5, "PROGRAMMERS@"
+	db -4, "<g><h><u><n><w><I><'><p><u><'>@"
 CredCharDesign:
-	db -7, "CHARACTER DESIGN@"
+	db -5, "<g><h><o><t> <r><e><n><w><I><'>@"
 CredMusic:
-	db -2, "MUSIC@"
+	db -1, "<Q><o><Q>@"
 CredSoundEffects:
-	db -6, "SOUND EFFECTS@"
+	db -2, "<w><a><b><m><e><y>@"
 CredGameDesign:
-	db -5, "GAME DESIGN@"
+	db -4, "<Q><u><j> <r><e><n><w><I><'>@"
 CredMonsterDesign:
-	db -6, "MONSTER DESIGN@"
+	db -7, "<t><l><h><a><p><r><a><g><h> <r><e><n><w><I><'>@"
 CredGameScene:
-	db -6, "GAME SCENARIO@"
+	db -4, "<l><u><t> <q><o><n><w><I><'>@"
 CredParam:
-	db -8, "PARAMETRIC DESIGN@"
+	db -4, "<n><a><b> <S><I><m><w><I><'>@"
 CredMap:
-	db -4, "MAP DESIGN@"
+	db -6, "<p><u><'><j><I><n> <r><e><n><w><I><'>@"
 CredTest:
-	db -7, "PRODUCT TESTING@"
+	db -6, "<Q><u><j> <w><a><H><w><I><'><p><u><'>@"
 CredSpecial:
-	db -6, "SPECIAL THANKS@"
+	db -6, "<q><u><v><w><I><'><p><u><'> <l><I><'>@"
 CredProducers:
-	db -4, "PRODUCERS@"
+	db -4, "<v><u><'><w><I><'><p><u><'>@"
 CredProducer:
-	db -4, "PRODUCER@"
+	db -2, "<v><u><'><w><I><'>@"
 CredExecutive:
-	db -8, "EXECUTIVE PRODUCER@"
+	db -4, "<v><u><'><w><I><'><n><I><v>@"
 CredTamada:
 	db -6, "SOUSUKE TAMADA@"
 CredSaOota:
@@ -169,9 +171,9 @@ CredYoshikawa:
 CredToOota:
 	db -6, "TOMOMICHI OOTA@"
 CredUSStaff:
-	db -7, "US VERSION STAFF@"
+	db -6, "<S><e><p><j><I><j><Q><a><'> <b><e><q>@"
 CredUSCoord:
-	db -7, "US COORDINATION@"
+	db -7, "<S><e><p><j><I><j><Q><a><'> <Q><u><m><w><I><'>@"
 CredTilden:
 	db -5, "GAIL TILDEN@"
 CredKawakami:
@@ -183,7 +185,7 @@ CredGiese:
 CredOsborne:
 	db -5, "SARA OSBORNE@"
 CredTrans:
-	db -7, "TEXT TRANSLATION@"
+	db -8, "<D><I><v><I><'> <H><o><l> <m><u><g><h><w><I><'>@"
 CredOgasawara:
 	db -6, "NOB OGASAWARA@"
 CredIwata:
@@ -200,3 +202,7 @@ CredClub:
 	db -9, "NCL SUPER MARIO CLUB@"
 CredPAAD:
 	db -5, "PAAD TESTING@"
+CredMyka:
+	db -7, "MYKA NGEM PUQBE'@"
+CredKli:
+	db -9, "<t><l><h><I><n><g><a><n> <H><o><l> <m><u><g><h><w><I><'>@"
