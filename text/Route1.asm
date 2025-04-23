@@ -1,50 +1,49 @@
 _Route1Youngster1MartSampleText::
-	text "Hi! I work at a"
-	line "#MON MART."
+	text "qavan!"
+	line "#<n><g><e><v><w><I><'> 'oH"
+	cont "yaHwIj'e'."
 
-	para "It's a convenient"
-	line "shop, so please"
-	cont "visit us in"
-	cont "VIRIDIAN CITY."
+	para "qeqwI'vaD luch"
+	line "lI' wIngev."
+	cont "<q><o><'><r><I><n> vengDaq"
+	cont "ghoSuch."
 
-	para "I know, I'll give"
-	line "you a sample!"
-	cont "Here you go!"
+	para "toH! lI' 'e'"
+	line "DaSovmeH Dochvam"
+	cont "qanob! yItlhap!"
 	prompt
 
 _Route1Youngster1GotPotionText::
-	text "<PLAYER> got"
-	line "@"
-	text_ram wStringBuffer
-	text "!@"
-	text_end
+	text "<H><e><r><g><h> Suq"
+	line "<PLAYER>.@"
 
 _Route1Youngster1AlsoGotPokeballsText::
-	text "We also carry"
-	line "# BALLs for"
-	cont "catching #MON!"
+	text "#<m><a><n> chu'"
+	line "DajonmeH"
+	cont "#<m><o><Q>mey"
+	cont "DIngev je."
 	done
 
 _Route1Youngster1NoRoomText::
-	text "You have too much"
-	line "stuff with you!"
+	text "wejHa' buy'"
+	line "buqlIj!"
 	done
 
 _Route1Youngster2Text::
-	text "See those ledges"
-	line "along the road?"
+	text "taw retlhDaq"
+	line "qojHom Datu''a'?"
 
-	para "It's a bit scary,"
-	line "but you can jump"
-	cont "from them."
+	para "qojHomvetlhvo'"
+	line "bISuplaH."
+	cont "ngeD!"
 
-	para "You can get back"
-	line "to PALLET TOWN"
-	cont "quicker that way."
+	para "nom <y><u><t><l><h><e><g><h> <v><e><n><g>"
+	line "DacheghmeH pa'vo'"
+	cont "yIchagh'egh."
 	done
 
 _Route1SignText::
-	text "ROUTE 1"
-	line "PALLET TOWN -"
-	cont "VIRIDIAN CITY"
+	text "He wa'"
+	line "<y><u><t><l><h><e><g><h> <v><e><n><g> -"
+	cont "<q><o><'><r><I><n> <v><e><n><g>"
 	done
