@@ -325,6 +325,6 @@ _TradeCenterText1::
 	text "!"
 	done
 
-_ColosseumText1::
+_ColosseumOpponentText::
 	text "!"
 	done
