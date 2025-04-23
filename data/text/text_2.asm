@@ -1087,7 +1087,7 @@ _InsteadText::
 	cont "@"
 	text_end
 
-_CF4BText::
+_MoveNameText::
 	text "<USER>@"
 	text_end
 
