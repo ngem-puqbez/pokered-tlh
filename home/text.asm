@@ -178,7 +178,7 @@ PlaceCommandCharacter::
 
 TMCharText::      db "<t><j>@"
 TrainerCharText:: db "<c><h><o><j><w><I><'>@"
-PCCharText::      db "<D><e><'><w><I><'<@"
+PCCharText::      db "<D><e><'><w><I><'>@"
 RocketCharText::  db "<p><e><n><g><D><u><j>@"
 PlacePOKeText::   db "<p><o><q>é@"
 SixDotsCharText:: db "……@"
