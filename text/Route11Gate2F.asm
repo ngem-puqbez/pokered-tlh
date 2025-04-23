@@ -1,40 +1,37 @@
 _Route11Gate2FOaksAideItemfinderDescriptionText::
-	text "There are items on"
-	line "the ground that"
-	cont "can't be seen."
+	text "yavDaq Dochmey'e'"
+	line "leghlaHbe'bogh"
+	cont "vay' tu'lu'."
 
-	para "ITEMFINDER will"
-	line "detect an item"
-	cont "close to you."
+	para "bIH DaSammeH"
+	line "<l><u><c><h> <n><e><j><w><I><'> yIlo'."
 
-	para "It can't pinpoint"
-	line "it, so you have"
-	cont "to look yourself!"
+	para "Daq pup ja'laHbe'"
+	line "vaj bInejnIS SoH!"
 	done
 
 _Route11Gate2FLeftBinocularsSnorlaxText::
-	text "Looked into the"
-	line "binoculars."
+	text "Hov tut chang'eng"
+	line "Dalo'."
 
-	para "A big #MON is"
-	line "asleep on a road!"
+	para "taw'Daq QongtaH"
+	line "#<m><a><n> ror!"
 	done
 
 _Route11Gate2FLeftBinocularsNoSnorlaxText::
-	text "Looked into the"
-	line "binoculars."
+	text "Hov tut chang'eng"
+	line "Dalo'."
 
-	para "It's a beautiful"
-	line "view!"
+	para "jorchan 'IH"
+	line "DaleghlaH!"
 	done
 
 _Route11Gate2FRightBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Hov tut chan'eng"
+	line "Dalo'."
 
-	para "The only way to"
-	line "get from CERULEAN"
-	cont "CITY to LAVENDER"
-	cont "is by way of the"
-	cont "ROCK TUNNEL."
+	para "<c><h><a><l><H><o><m> <v><e><n><g>"
+	line "<'><u><m><a><'> <v><e><n><g><H><o><m> je"
+	cont "jojDaq He Huv'"
+	cont "'oH <n><a><g><h> <'><o><c><h>'e'"
 	done
