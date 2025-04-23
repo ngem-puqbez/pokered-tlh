@@ -1068,7 +1068,7 @@ _MoveIsDisabledText::
 	cont "Qotlhlu'!"
 	prompt
 
-_MoveNameText::
+_MonName1Text::
 	text_ram wStringBuffer
 	text "@"
 
