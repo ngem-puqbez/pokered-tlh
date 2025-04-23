@@ -1,173 +1,167 @@
 _Route14CooltrainerM1BattleText::
-	text "You need to use"
-	line "TMs to teach good"
-	cont "moves to #MON!"
+	text "#<m><a><n>vaD tonSaw'"
+	line "QaQ ghojmoHmeH"
+	cont "<t><j>mey Dalo'nIS!"
 	done
 
 _Route14CooltrainerM1EndBattleText::
-	text "Not"
-	line "good enough!"
+	text " "
+	line "yapbe' HoSwIj!"
 	prompt
 
 _Route14CooltrainerM1AfterBattleText::
-	text "You have some HMs"
-	line "right? #MON"
-	cont "can't ever forget"
-	cont "those moves."
+	text "<H><j> Daghaj, qar'a'?"
+	line "not tonSaw'chaj"
+	cont "lIjlaH #<m><a><n>."
 	done
 
 _Route14CooltrainerM2BattleText::
-	text "My bird #MON"
-	line "should be ready"
-	cont "for battle."
+	text "nISuvrup bo'Degh"
+	line "#<m><a><n>meywIj!"
 	done
 
 _Route14CooltrainerM2EndBattleText::
-	text "Not"
-	line "ready yet!"
+	text "Hu,"
+	line "Suvrupbe'law'!"
 	prompt
 
 _Route14CooltrainerM2AfterBattleText::
-	text "They need to learn"
-	line "better moves."
+	text "tonSaw'mey HoS"
+	line "ghojnISbej!"
 	done
 
 _Route14CooltrainerM3BattleText::
-	text "TMs are on sale"
-	line "in CELADON!"
-	cont "But, only a few"
-	cont "people have HMs!"
+	text "<n><g><o><p><w><a><g><h> <v><e><n><g>Daq"
+	line "<t><j>mey lungevlu'!"
+	cont "vabDot <H><j>mey"
+	cont "ghaj ghot puS!"
 	done
 
 _Route14CooltrainerM3EndBattleText::
-	text "Aww,"
-	line "bummer!"
+	text "va!"
+	line "jIDo'Ha'!"
 	prompt
 
 _Route14CooltrainerM3AfterBattleText::
-	text "Teach #MON"
-	line "moves of the same"
-	cont "element type for"
-	cont "more power."
+	text "HIvDI' buv rap"
+	line "chIwchugh #<m><a><n>"
+	cont "tonSaw'Daj je"
+	cont "loQ ghur HoSDaj."
 	done
 
 _Route14CooltrainerM4BattleText::
-	text "Have you taught"
-	line "your bird #MON"
-	cont "how to FLY?"
+	text "<p><u><v> Ho'DoS ghoj'a'"
+	line "#<m><a><n>lIj?"
 	done
 
 _Route14CooltrainerM4EndBattleText::
-	text "Shot"
-	line "down in flames!"
+	text "chalvo'"
+	line "chopummoH!"
 	prompt
 
 _Route14CooltrainerM4AfterBattleText::
-	text "Bird #MON are"
-	line "my true love!"
+	text "bangwI'na' bIH"
+	line "bo'Degh #<m><a><n>!"
 	done
 
 _Route14CooltrainerM5BattleText::
-	text "Have you heard of"
-	line "the legendary"
-	cont "#MON?"
+	text "wIch #<m><a><n>mey"
+	line "lut DaQoypu''a'?"
 	done
 
 _Route14CooltrainerM5EndBattleText::
-	text "Why?"
-	line "Why'd I lose?"
+	text "nuq?"
+	line "qatlh jIluj?"
 	prompt
 
 _Route14CooltrainerM5AfterBattleText::
-	text "The 3 legendary"
-	line "#MON are all"
-	cont "birds of prey."
+	text "toQmey bIH Hoch"
+	line "wIch bo'Deghmey."
 	done
 
 _Route14CooltrainerM6BattleText::
-	text "I'm not into it,"
-	line "but OK! Let's go!"
+	text "jISuvrupchu'be'"
+	line "'a jISuvqang! Ha'!"
 	done
 
 _Route14CooltrainerM6EndBattleText::
-	text "I"
-	line "knew it!"
+	text " "
+	line "jImerbe'!"
 	prompt
 
 _Route14CooltrainerM6AfterBattleText::
-	text "Winning, losing,"
-	line "it doesn't matter"
-	cont "in the long run!"
+	text "jIQap pagh jIluj."
+	line "SIbI'Ha' pIm"
+	cont "gher'ID!"
 	done
 
 _Route14Biker1BattleText::
-	text "C'mon, c'mon."
-	line "Let's go, let's"
-	cont "go, let's go!"
+	text "HIghoS, HIghoS."
+	line "Ha', Ha', Ha'!"
 	done
 
 _Route14Biker1EndBattleText::
-	text "Arrg!"
-	line "Lost! Get lost!"
+	text "ghay'!"
+	line "luj! yImej!"
 	prompt
 
 _Route14Biker1AfterBattleText::
-	text "What, what, what?"
-	line "What do you want?"
+	text "nuq, nuq, nuq?"
+	line "nuq DaneH SoH?"
 	done
 
 _Route14Biker2BattleText::
-	text "Perfect! I need to"
-	line "burn some time!"
+	text "majQa'! 'ebmey"
+	line "DIjonHa'taH!"
 	done
 
 _Route14Biker2EndBattleText::
-	text "What?"
-	line "You!?"
+	text "nuq?"
+	line "SoH!?"
 	prompt
 
 _Route14Biker2AfterBattleText::
-	text "Raising #MON"
-	line "is a drag, man."
+	text "#<m><a><n> vIchojtaH"
+	line "vIneHqu'be'. "
 	done
 
 _Route14Biker3BattleText::
-	text "We ride out here"
-	line "because there's"
-	cont "more room!"
+	text "puSmo' nuvpu'"
+	line "naDev mangIt 'e'"
+	cont "tIv jupwI' jIH je!"
 	done
 
 _Route14Biker3EndBattleText::
-	text "Wipe out!"
+	text "paw'!"
 	prompt
 
 _Route14Biker3AfterBattleText::
-	text "It's cool you"
-	line "made your #MON"
-	cont "so strong!"
+	text "#<m><a><n>lIj "
+	line "DaHoSqu'moHta'!"
+	cont "bIqu'!"
 
-	para "Might is right!"
-	line "And you know it!"
+	para "HoS ghaj"
+	line "HoSghajwI' net"
+	cont "Sov!"
 	done
 
 _Route14Biker4BattleText::
-	text "#MON fight?"
-	line "Cool! Rumble!"
+	text "#<m><a><n> may'?"
+	line "maj! HIgh!"
 	done
 
 _Route14Biker4EndBattleText::
-	text "Blown"
-	line "away!"
+	text "Hu!"
+	line "chopummoH!"
 	prompt
 
 _Route14Biker4AfterBattleText::
-	text "You know who'd"
-	line "win, you and me"
-	cont "one on one!"
+	text "majQa' botwI'"
+	line "latlh DaDam!"
 	done
 
 _Route14SignText::
-	text "ROUTE 14"
-	line "West to FUCHSIA"
-	cont "CITY"
+	text "He wa'maH loS"
+	line "tIngDaq"
+	cont "<t><a><r><D><e><H> <v><e><n><g>"
 	done
