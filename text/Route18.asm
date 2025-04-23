@@ -36,7 +36,7 @@ _Route18CooltrainerM3BattleText::
 	done
 
 _Route18CooltrainerM3EndBattleText::
-	text "va!
+	text "va!"
 	prompt
 
 _Route18CooltrainerM3AfterBattleText::
