@@ -1,139 +1,138 @@
 _Route12SnorlaxText::
-	text "A sleeping #MON"
-	line "blocks the way!"
+	text "He bot QongtaHbogh"
+	line "#<m><a><n>!"
 	done
 
 _Route12SnorlaxWokeUpText::
-	text "SNORLAX woke up!"
+	text "vem <w><u><D><l><e><S>!"
 
-	para "It attacked in a"
-	line "grumpy rage!"
+	para "berghmo' QeHchoH"
+	line "'ej DuHIv!"
 	done
 
 _Route12SnorlaxCalmedDownText::
-	text "SNORLAX calmed"
-	line "down! With a big"
-	cont "yawn, it returned"
-	cont "to the mountains!"
+	text "jotchoH <w><u><D><l><e><S>."
+	line "Hobqu' ghIq"
+	cont "HuDDaq chegh!"
 	done
 
 _Route12Fisher1BattleText::
-	text "Yeah! I got a"
-	line "bite, here!"
+	text "maj! naDev"
+	line "chop vay'!"
 	done
 
 _Route12Fisher1EndBattleText::
-	text "Tch!"
-	line "Just a small fry!"
+	text "ghuy'!"
+	line "ghotI' mach 'oH!"
 	prompt
 
 _Route12Fisher1AfterBattleText::
-	text "Hang on! My line's"
-	line "snagged!"
+	text "yIloS! tlheghwIj"
+	line "meSlu'!"
 	done
 
 _Route12Fisher2BattleText::
-	text "Be patient!"
-	line "Fishing is a"
-	cont "waiting game!"
+	text "DatuvnIS!"
+	line "ghotI' jonlu'meH"
+	cont "loSqangnIS!"
 	done
 
 _Route12Fisher2EndBattleText::
-	text "That"
-	line "one got away!"
+	text "nargh"
+	line "gheDwIj!"
 	prompt
 
 _Route12Fisher2AfterBattleText::
-	text "With a better ROD,"
-	line "I could catch"
-	cont "better #MON!"
+	text "<g><h><o><t><I><'> <r><I><t><w><I><'> nIv"
+	line "vIlo'laHchugh vaj"
+	cont "#<m><a><n> qaq vIjon!"
 	done
 
 _Route12CooltrainerMBattleText::
-	text "Have you found a"
-	line "MOON STONE?"
+	text "<m><a><S> <n><a><g><h>"
+	line "DaSampu''a'?
 	done
 
 _Route12CooltrainerMEndBattleText::
-	text "Oww!"
+	text "'oy'!"
 	prompt
 
 _Route12CooltrainerMAfterBattleText::
-	text "I could have made"
-	line "my #MON evolve"
-	cont "with MOON STONE!"
+	text "<m><a><S> <n><a><g><h> vIneH."
+	line "#<m><a><n>wIjvaD"
+	cont "vIlo'chugh ghe'!"
 	done
 
 _Route12SuperNerdBattleText::
-	text "Electricity is my"
-	line "specialty!"
+	text "jIvaQmeH 'ul'"
+	line "vIlo'!"
 	done
 
 _Route12SuperNerdEndBattleText::
-	text "Unplugged!"
+	text " "
+	line "vIrarHa'lu'!"
 	prompt
 
 _Route12SuperNerdAfterBattleText::
-	text "Water conducts"
-	line "electricity, so"
-	cont "you should zap"
-	cont "sea #MON!"
+	text "'ul qengchu' bIQ"
+	line "vaj bIQ #<m><a><n>"
+	cont "DamupmeH Dalo'"
+	cont "net tlheb!"
 	done
 
 _Route12Fisher3BattleText::
-	text "The FISHING FOOL"
-	line "vs. #MON KID!"
+	text "ghotI' wamwI'"
+	line "Suv #<m><a><n> puq!"
 	done
 
 _Route12Fisher3EndBattleText::
-	text "Too"
-	line "much!"
+	text "bI'Iq!"
 	prompt
 
 _Route12Fisher3AfterBattleText::
-	text "You beat me at"
-	line "#MON, but I'm"
-	cont "good at fishing!"
+	text "chojwI' nIv"
+	line "SoHlaw' 'a wamwI'"
+	cont "nIv jIHbej!"
 	done
 
 _Route12Fisher4BattleText::
-	text "I'd rather be"
-	line "working!"
+	text "jIvumtaH"
+	line "'e' vImaS!"
 	done
 
 _Route12Fisher4EndBattleText::
-	text "It's"
-	line "not easy..."
+	text "..."
+	line "ngeDbe'..."
 	prompt
 
 _Route12Fisher4AfterBattleText::
-	text "It's all right."
-	line "Losing doesn't"
-	cont "bug me any more."
+	text "jIberghbe'."
+	line "muyIvtaHlaHbe'"
+	cont "lujtaHghach."
 	done
 
 _Route12Fisher5BattleText::
-	text "You never know"
-	line "what you could"
-	cont "catch!"
+	text "vay' jIjonpa' 'oH"
+	line "vIngu'laHbe'!"
 	done
 
 _Route12Fisher5EndBattleText::
-	text "Lost"
-	line "it!"
+	text "vI..."
+	line "vIjonHa'!"
 	prompt
 
 _Route12Fisher5AfterBattleText::
-	text "I catch MAGIKARP"
-	line "all the time, but"
-	cont "they're so weak!"
+	text "pIj <g><h><o><t><I><D><n><a><r>"
+	line "vIjon 'ach reH"
+	cont "puj bIH!"
 	done
 
 _Route12SignText::
-	text "ROUTE 12 "
-	line "North to LAVENDER"
+	text "He wa'maH cha'"
+	line "'ev chan -"
+	cont "<'><u><m><a><'> <v><e><n><g><H><o><m>"
 	done
 
 _Route12SportFishingSignText::
-	text "SPORT FISHING AREA"
+	text "ghotI' wammeH Daq"
 	done
