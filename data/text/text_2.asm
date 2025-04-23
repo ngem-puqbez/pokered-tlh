@@ -1069,7 +1069,7 @@ _MoveIsDisabledText::
 	prompt
 
 _MonName1Text::
-	text_ram wNameBuffer
+	text_ram wStringBuffer
 	text "@"
 
 _Used1Text::
