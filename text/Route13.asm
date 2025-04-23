@@ -1,179 +1,175 @@
 _Route13CooltrainerM1BattleText::
-	text "My bird #MON"
-	line "want to scrap!"
+	text "tlhaS neH bo'Degh"
+	line " #<m><a><n>wIj!"
 	done
 
 _Route13CooltrainerM1EndBattleText::
-	text "My"
-	line "bird combo lost?"
+	text "luj"
+	line "bo'DeghmeywIj!"
 	prompt
 
 _Route13CooltrainerM1AfterBattleText::
-	text "My #MON look"
-	line "happy even though"
-	cont "they lost."
+	text "lujpu' #<m><a><n>wIj"
+	line "vabDot Quchlaw'!"
 	done
 
 _Route13CooltrainerF1BattleText::
-	text "I'm told I'm good"
-	line "for a kid!"
+	text "puq po'qu'"
+	line "vIponglu'!"
 	done
 
 _Route13CooltrainerF1EndBattleText::
-	text "Ohh!"
-	line "I lost!"
+	text "toH!"
+	line "jIluj!"
 	prompt
 
 _Route13CooltrainerF1AfterBattleText::
-	text "I want to become"
-	line "a good trainer."
-	cont "I'll train hard."
+	text "chojwI' QaQ vImoj"
+	line "vIneH."
+	cont "jIchojqu'qang."
 	done
 
 _Route13CooltrainerF2BattleText::
-	text "Wow! Your BADGEs"
-	line "are too cool!"
+	text "qu'! Dunqu'"
+	line "DeghmeylIj!"
 	done
 
 _Route13CooltrainerF2EndBattleText::
-	text "Not"
-	line "enough!"
+	text "yapbe'!"
 	prompt
 
 _Route13CooltrainerF2AfterBattleText::
-	text "You got those"
-	line "BADGEs from GYM"
-	cont "LEADERs. I know!"
+	text "SoHvaD Deghmey"
+	line "peSpu' qaDpIn."
+	cont "vISov!"
 	done
 
 _Route13CooltrainerF3BattleText::
-	text "My cute #MON"
-	line "wish to make your"
-	cont "acquaintance."
+	text "toH, lIqIH neH "
+	line "#<m><a><n>meywIj 'IH."
 	done
 
 _Route13CooltrainerF3EndBattleText::
-	text "Wow!"
-	line "You totally won!"
+	text "maj!"
+	line "bIQapqu'!"
 	prompt
 
 _Route13CooltrainerF3AfterBattleText::
-	text "You have to make"
-	line "#MON fight to"
-	cont "toughen them up!"
+	text "#<m><a><n>meywIj"
+	line "vIHoSmoHmeH"
+	cont "pIj vISuvmoHpu'!"
 	done
 
 _Route13CooltrainerF4BattleText::
-	text "I found CARBOS in"
-	line "a cave once."
+	text "'op ret DISDaq"
+	line "<S><u><'><g><h><a><r> vItu'."
 	done
 
 _Route13CooltrainerF4EndBattleText::
-	text "Just"
-	line "messed up!"
+	text "'eQ"
+	line "jIQagh!"
 	prompt
 
 _Route13CooltrainerF4AfterBattleText::
-	text "CARBOS boosted"
-	line "the SPEED of my"
-	cont "#MON."
+	text "#<m><a><n>wIj Do ghur"
+	line "<S><u><'><g><h><a><r> vISuqbogh."
 	done
 
 _Route13CooltrainerM2BattleText::
-	text "The wind's blowing"
-	line "my way!"
+	text "jIHvaD SuS"
+	line "vIvuvmoHta'!"
 	done
 
 _Route13CooltrainerM2EndBattleText::
-	text "The"
-	line "wind turned!"
+	text "lurgh"
+	line "pIm QeqchoH SuS!"
 	prompt
 
 _Route13CooltrainerM2AfterBattleText::
-	text "I'm beat. I guess"
-	line "I'll FLY home."
+	text "jIDoy'. juHwIjDaq"
+	line "muqeng  #<m><a><n>."
 	done
 
 _Route13Beauty1BattleText::
-	text "Sure, I'll play"
-	line "with you!"
+	text "nItebHa' mareH"
+	line "DaneH'a'!"
 	done
 
 _Route13Beauty1EndBattleText::
-	text "Oh!"
-	line "You little brute!"
+	text "toH"
+	line "bIDochnISbe'!"
 	prompt
 
 _Route13Beauty1AfterBattleText::
-	text "I wonder which is"
-	line "stronger, male or"
-	cont "female #MON?"
+	text "#<m><a><n> HoS choH"
+	line "ghaQpey' 'e'"
+	cont "vISIv."
 	done
 
 _Route13Beauty2BattleText::
-	text "Do you want to"
-	line "#MON with me?"
+	text "qaqaD!"
+	line "ma#<m><a><n>chuq!"
 	done
 
 _Route13Beauty2EndBattleText::
-	text "It's over"
-	line "already?"
+	text "wejHa'"
+	line "rIn'a'?"
 	prompt
 
 _Route13Beauty2AfterBattleText::
-	text "I don't know"
-	line "anything about"
-	cont "#MON. I just"
-	cont "like cool ones!"
+	text "pagh #<m><a><n>"
+	line "bopbogh De'"
+	cont "vISov. 'ach"
+	cont "qu'wI' vIparHa'!"
 	done
 
 _Route13BikerBattleText::
-	text "What're you"
-	line "lookin' at?"
+	text "nuq DachotlhtaH?"
 	done
 
 _Route13BikerEndBattleText::
-	text "Dang!"
-	line "Stripped gears!"
+	text "va!"
+	line "Hab Ho' rutlh!"
 	prompt
 
 _Route13BikerAfterBattleText::
-	text "Get lost!"
+	text "yImej!"
 	done
 
 _Route13CooltrainerM3BattleText::
-	text "I always go with"
-	line "bird #MON!"
+	text "reH bo'Degh "
+	line "#<m><a><n>mey vIwIv!"
 	done
 
 _Route13CooltrainerM3EndBattleText::
-	text "Out"
-	line "of power!"
+	text "HoS"
+	line "vInatlhpu'!"
 	prompt
 
 _Route13CooltrainerM3AfterBattleText::
-	text "I wish I could"
-	line "fly like PIDGEY"
-	cont "and PIDGEOTTO..."
+	text "jIpuvlaH; <g><h><I><j><Q><I><n>"
+	line "<c><h><a><'><l><I><S> ghap rur"
+	cont "'e' vIjIn."
 	done
 
 _Route13TrainerTips1Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "Look to the left"
-	line "of that post!"
+	para "De' 'echletvam"
+	line "poSDaq yIghan!"
 	done
 
 _Route13TrainerTips2Text::
-	text "TRAINER TIPS"
+	text "chojwI' qeS"
 
-	para "Use SELECT to"
-	line "switch items in"
-	cont "the ITEM window!"
+	para "ghIH'a' paqlIj?"
+	
+	para "Doch DapatlhmoHmeH"
+	line  "[wIv] leQ yI'uy!"
 	done
 
 _Route13SignText::
-	text "ROUTE 13"
-	line "North to SILENCE"
-	cont "BRIDGE"
+	text "He wa'maH wej"
+	line "chan 'evDaq <Q><I>"
+	cont "<t><a><m> tu'lu'"
 	done
