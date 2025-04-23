@@ -1,330 +1,330 @@
 _FileDataDestroyedText::
-	text "The file data is"
-	line "destroyed!"
+	text "Quj ta Qaw'lu'pu'!"
 	prompt
 
 _WouldYouLikeToSaveText::
-	text "Would you like to"
-	line "SAVE the game?"
+	text "Quj ta Daqon"
+	line "DaneH'a'?"
 	done
 
 _GameSavedText::
-	text "<PLAYER> saved"
-	line "the game!"
+	text "Quj ta qonta'"
+	line "<PLAYER>!"
 	done
 
 _OlderFileWillBeErasedText::
-	text "The older file"
-	line "will be erased to"
-	cont "save. Okay?"
+	text "Quj ta ngo'"
+	line "woDlu' 'e' "
+	cont "Dalaj'a'?"
 	done
 
 _WhenYouChangeBoxText::
-	text "When you change a"
-	line "#MON BOX, data"
-	cont "will be saved."
+	text "#<m><a><n> ta DawIvchugh"
+	line "Quj ta qonnISlu'."
 
-	para "Is that okay?"
+	para "ta Daqon 'e'"
+	line "Dachaw'a'?"
 	done
 
 _ChooseABoxText::
-	text "Choose a"
-	line "<PKMN> BOX.@"
+	text "<PKMN> ta"
+	line "yIwIv.@"
 	text_end
 
 _EvolvedText::
+	text "ghe' @"
 	text_ram wStringBuffer
-	text " evolved"
+	text "."
 	done
 
 _IntoText::
 	text_start
-	line "into @"
+	line "@"
 	text_ram wNameBuffer
-	text "!"
+	text " moj!"
 	done
 
 _StoppedEvolvingText::
-	text "Huh? @"
+	text "Hu? ghe'be'"
+	line "@"
 	text_ram wStringBuffer
-	text_start
-	line "stopped evolving!"
+	text "!"
 	prompt
 
 _IsEvolvingText::
-	text "What? @"
+	text "toH? ghe'choHtaH"
+	line "@"
 	text_ram wStringBuffer
-	text_start
-	line "is evolving!"
+	text "!"
 	done
 
 _FellAsleepText::
-	text "<TARGET>"
-	line "fell asleep!"
+	text "QongchoH"
+	line "<TARGET>!"
 	prompt
 
 _AlreadyAsleepText::
-	text "<TARGET>'s"
-	line "already asleep!"
+	text "wejHa' QongtaH"
+	line "<TARGET>!"
 	prompt
 
 _PoisonedText::
 	text "<TARGET>"
-	line "was poisoned!"
+	line "ngejpu' tar!"
 	prompt
 
 _BadlyPoisonedText::
-	text "<TARGET>'s"
-	line "badly poisoned!"
+	text "<TARGET>"
+	line "ngejpu' tar SuQ!"
 	prompt
 
 _BurnedText::
-	text "<TARGET>"
-	line "was burned!"
-	prompt
-
-_FrozenText::
-	text "<TARGET>"
-	line "was frozen solid!"
-	prompt
-
-_FireDefrostedText::
-	text "Fire defrosted"
+	text "meQpu'"
 	line "<TARGET>!"
 	prompt
 
+_FrozenText::
+	text "taDchu'choH"
+	line "<TARGET>!"
+	prompt
+
+_FireDefrostedText::
+	text "<TARGET> "
+	line "taDHa'moH qul!"
+	prompt
+
 _MonsStatsRoseText::
-	text "<USER>'s"
-	line "@"
-	text_ram wStringBuffer
-	text "@"
+	text "rach@"
 	text_end
 
 _GreatlyRoseText::
-	text "<SCROLL>greatly@"
+	text "qu'@"
 	text_end
 
 _RoseText::
-	text " rose!"
+	text_start
+	line "<TARGET>"
+	cont "@"
+	text_ram wStringBuffer
+	text "."
 	prompt
 
 _MonsStatsFellText::
-	text "<TARGET>'s"
-	line "@"
-	text_ram wStringBuffer
-	text "@"
+	text "'argh@"
 	text_end
 
 _GreatlyFellText::
-	text "<SCROLL>greatly@"
+	text "qu'@"
 	text_end
 
 _FellText::
-	text " fell!"
+	text_start
+	line "<TARGET>"
+	cont "@"
+	text_ram wStringBuffer
+	text "."
 	prompt
 
 _RanFromBattleText::
-	text "<USER>"
-	line "ran from battle!"
+	text "may'vo' HeD"
+	line "<USER>!"
 	prompt
 
 _RanAwayScaredText::
-	text "<TARGET>"
-	line "ran away scared!"
+	text "ghIjlu'mo' jegh"
+	line "<TARGET>!"
 	prompt
 
 _WasBlownAwayText::
 	text "<TARGET>"
-	line "was blown away!"
+	line "mejmoH SuS!"
 	prompt
 
 _ChargeMoveEffectText::
-	text "<USER>@"
+	text "vangchoH"
+	line "<USER>.@"
 	text_end
 
 _MadeWhirlwindText::
 	text_start
-	line "made a whirlwind!"
+	line "cheqmoH!"
 	prompt
 
 _TookInSunlightText::
 	text_start
-	line "took in sunlight!"
+	cont "tamgay bumchoH!"
 	prompt
 
 _LoweredItsHeadText::
 	text_start
-	line "lowered its head!"
+	cont "nachlIj pepHa'!"
 	prompt
 
 _SkyAttackGlowingText::
 	text_start
-	line "is glowing!"
+	cont "wewchoH!"
 	prompt
 
 _FlewUpHighText::
 	text_start
-	line "flew up high!"
+	line "puv 'ej jenchoH!"
 	prompt
 
 _DugAHoleText::
 	text_start
-	line "dug a hole!"
+	cont "QemjIq ghaw!"
 	prompt
 
 _BecameConfusedText::
-	text "<TARGET>"
-	line "became confused!"
+	text "mISchoH"
+	line "<TARGET>!"
 	prompt
 
 _MimicLearnedMoveText::
-	text "<USER>"
-	line "learned"
-	cont "@"
 	text_ram wNameBuffer
+	text_start
+	line "ghoj"
 	text "!"
 	prompt
 
 _MoveWasDisabledText::
-	text "<TARGET>'s"
+	text "<TARGET>"
 	line "@"
 	text_ram wNameBuffer
-	text " was"
-	cont "disabled!"
+	text " "
+	cont "Qotlhlu'!"
 	prompt
 
 _NothingHappenedText::
-	text "Nothing happened!"
+	text "pagh qaS!"
 	prompt
 
 _NoEffectText::
-	text "No effect!"
+	text "gher'ID tu'lu'be'!"
 	prompt
 
 _ButItFailedText::
-	text "But, it failed! "
+	text "'ach Qapbe'! "
 	prompt
 
 _DidntAffectText::
-	text "It didn't affect"
-	line "<TARGET>!"
+	text "<TARGET>"
+	line "SIghbe'!"
 	prompt
 
 _IsUnaffectedText::
 	text "<TARGET>"
-	line "is unaffected!"
+	line "SIghbe'lu'!"
 	prompt
 
 _ParalyzedMayNotAttackText::
-	text "<TARGET>'s"
-	line "paralyzed! It may"
-	cont "not attack!"
+	text "<TARGET>"
+	line "roSHa'moHlu'!"
+	cont "chaq HIvlaHbe'!"
 	prompt
 
 _SubstituteText::
-	text "It created a"
-	line "SUBSTITUTE!"
+	text "lIw chenmoH"
+	line "<USER>!"
 	prompt
 
 _HasSubstituteText::
-	text "<USER>"
-	line "has a SUBSTITUTE!"
+	text "lIw ghaj"
+	line "<USER>!"
 	prompt
 
 _TooWeakSubstituteText::
-	text "Too weak to make"
-	line "a SUBSTITUTE!"
+	text "yapbe'mo' yInDaj"
+	line "lIw chenmoHlaHbe'!"
 	prompt
 
 _CoinsScatteredText::
-	text "Coins scattered"
-	line "everywhere!"
+	text "Dat pum Huch ngop!"
 	prompt
 
 _GettingPumpedText::
-	text "<USER>'s"
-	line "getting pumped!"
+	text "vawqu'choH"
+	line "<USER>!"
 	prompt
 
 _WasSeededText::
 	text "<TARGET>"
-	line "was seeded!"
+	line "vel raS'ISmey!"
 	prompt
 
 _EvadedAttackText::
-	text "<TARGET>"
-	line "evaded attack!"
-	prompt
-
-_HitWithRecoilText::
-	text "<USER>'s"
-	line "hit with recoil!"
-	prompt
-
-_ConvertedTypeText::
-	text "Converted type to"
-	line "<TARGET>'s!"
-	prompt
-
-_StatusChangesEliminatedText::
-	text "All STATUS changes"
-	line "are eliminated!"
-	prompt
-
-_StartedSleepingEffect::
-	text "<USER>"
-	line "started sleeping!"
-	done
-
-_FellAsleepBecameHealthyText::
-	text "<USER>"
-	line "fell asleep and"
-	cont "became healthy!"
-	done
-
-_RegainedHealthText::
-	text "<USER>"
-	line "regained health!"
-	prompt
-
-_TransformedText::
-	text "<USER>"
-	line "transformed into"
-	cont "@"
-	text_ram wNameBuffer
-	text "!"
-	prompt
-
-_LightScreenProtectedText::
-	text "<USER>'s"
-	line "protected against"
-	cont "special attacks!"
-	prompt
-
-_ReflectGainedArmorText::
-	text "<USER>"
-	line "gained armor!"
-	prompt
-
-_ShroudedInMistText::
-	text "<USER>'s"
-	line "shrouded in mist!"
-	prompt
-
-_SuckedHealthText::
-	text "Sucked health from"
+	text "tonSaw' junta'"
 	line "<TARGET>!"
 	prompt
 
-_DreamWasEatenText::
-	text "<TARGET>'s"
-	line "dream was eaten!"
+_HitWithRecoilText::
+	text "<USER> je"
+	line "rIQmoH tonSaw'!"
 	prompt
 
-_TradeCenterOpponentText::
+_ConvertedTypeText::
+	text "<TARGET>"
+	line "buv lIl"
+	cont "<USER>!"
+	prompt
+
+_StatusChangesEliminatedText::
+	text "Dotlh Hoch"
+	line "SIghHa'!"
+	prompt
+
+_StartedSleepingEffect::
+	text "QongchoH"
+	line "<USER>!"
+	done
+
+_FellAsleepBecameHealthyText::
+	text "QongchoH 'ej"
+	line "pIvqa'choH"
+	cont "<USER>!"
+	done
+
+_RegainedHealthText::
+	text "yIn mIvwa' Suqqa'"
+	line "<USER>!"
+	prompt
+
+_TransformedText::
+	text_ram wNameBuffer
+	line "@ moj'eghmoH"
+	cont "<USER>!"
+	prompt
+
+_LightScreenProtectedText::
+	text "HIvchugh boqHar"
+	line "<USER> "
+	cont "Hublu'."
+	prompt
+
+_ReflectGainedArmorText::
+	text "SIryoD Hev"
+	line "<USER>!"
+	prompt
+
+_ShroudedInMistText::
+	text "<USER>"
+	line "Dech vI'laS!"
+	prompt
+
+_SuckedHealthText::
+	text "<TARGET>vo'"
+	line "yIn remlu'!"
+	prompt
+
+_DreamWasEatenText::
+	text "<TARGET>"
+	line "Suchtuv Soplu'!"
+	prompt
+
+_TradeCenterText1::
 	text "!"
 	done
 
-_ColosseumOpponentText::
+_ColosseumText1::
 	text "!"
 	done
