@@ -1,172 +1,173 @@
 _Route15CooltrainerF1BattleText::
-	text "Let me try out the"
-	line "#MON I just"
-	cont "got in a trade!"
+	text "qen #<m><a><n>vam"
+	line "vISuqmeH jImech."
+	cont "vIwaH 'e' HIboQ!"
 	done
 
 _Route15CooltrainerF1EndBattleText::
-	text "Not"
-	line "good enough!"
+	text "Qo'."
+	line "yapbe' HoSDaj!"
 	prompt
 
 _Route15CooltrainerF1AfterBattleText::
-	text "You can't change"
-	line "the nickname of"
-	cont "any #MON you"
-	cont "get in a trade."
+	text "#<m><a><n> DaSuqmeH"
+	line "bImechchugh vaj"
+	cont "'oHvaD pongHom"
+	cont "chu' DaponglaHbe'."
 
-	para "Only the Original"
-	line "Trainer can."
+	para "'oH pongqa'laH"
+	line "jonwI'Daj neH."
 	done
 
 _Route15CooltrainerF2BattleText::
-	text "You look gentle,"
-	line "so I think I can"
-	cont "beat you!"
+	text "bIDochHa'law' vaj"
+	line "qajeylaH 'e'"
+	cont "vIHar!"
 	done
 
 _Route15CooltrainerF2EndBattleText::
-	text "No,"
-	line "wrong!"
+	text "..."
+	line "jIlughbe'!"
 	prompt
 
 _Route15CooltrainerF2AfterBattleText::
-	text "I'm afraid of"
-	line "BIKERs, they look"
-	cont "so ugly and mean!"
+	text "mughIj lotlhwI!"
+	line "moH chaH, 'ej "
+	cont "Dochqu'law'!"
 	done
 
 _Route15CooltrainerM1BattleText::
-	text "When I whistle, I"
-	line "can summon bird"
-	cont "#MON!"
+	text "jI'uqDI' bo'Degh"
+	line "#<m><a><n>wIj vIrIt!"
 	done
 
 _Route15CooltrainerM1EndBattleText::
-	text "Ow!"
-	line "That's tragic!"
+	text "'oy'!"
+	line "Do'Ha'qu'!"
 	prompt
 
 _Route15CooltrainerM1AfterBattleText::
-	text "Maybe I'm not cut"
-	line "out for battles."
+	text "may' vInIDbe' chaq"
+	line "net tlheb."
 	done
 
 _Route15CooltrainerM2BattleText::
-	text "Hmm? My birds are"
-	line "shivering! You're"
-	cont "good, aren't you?"
+	text "Hu? jeltaH"
+	line "bo'DeghmeywIj!"
+	cont "bIQaQ, qar'a'?"
 	done
 
 _Route15CooltrainerM2EndBattleText::
-	text "Just"
-	line "as I thought!"
+	text "toH"
+	line "jIlugh!"
 	prompt
 
 _Route15CooltrainerM2AfterBattleText::
-	text "Did you know moves"
-	line "like EARTHQUAKE"
-	cont "don't have any"
-	cont "effect on birds?"
+	text "bo'Degh #<m><a><n>mey"
+	line "rIQmoHlaHbe' yav"
+	cont "chIwbogh tonSaw'"
+	cont "'e' DaSov'a'?"
 	done
 
 _Route15Beauty1BattleText::
-	text "Oh, you're a"
-	line "little cutie!"
+	text "toH!"
+	line "bI'IH!"
 	done
 
 _Route15Beauty1EndBattleText::
-	text "You looked"
-	line "so cute too!"
+	text "DochlaHbej"
+	line "'IHwI'pu' je!"
 	prompt
 
 _Route15Beauty1AfterBattleText::
-	text "I forgive you!"
-	line "I can take it!"
+	text "qaqeHHa'!"
+	line "vISIQlaH!"
 	done
 
 _Route15Beauty2BattleText::
-	text "I raise #MON"
-	line "because I live"
-	cont "alone!"
+	text "juHwIjDaq jI'ubmo'"
+	line "#<m><a><n> vIQorgh!"
 	done
 
 _Route15Beauty2EndBattleText::
-	text "I didn't"
-	line "ask for this!"
+	text "wanI'vam"
+	line "vIneHbe'!"
 	prompt
 
 _Route15Beauty2AfterBattleText::
-	text "I just like going"
-	line "home to be with"
-	cont "my #MON!"
+	text "juHDaq jIleStaHvIS"
+	line "mutlhej #<m><a><n>"
+	cont "'e' vItIv!"
 	done
 
 _Route15Biker1BattleText::
-	text "Hey kid! C'mon!"
-	line "I just got these!"
+	text "puq! HIghoS!"
+	line "'eQ #<m><a><n>vam"
+	cont "vISuq!"
 	done
 
 _Route15Biker1EndBattleText::
-	text "Why"
-	line "not?"
+	text "qatlh"
+	line "bIlajbe'?"
 	prompt
 
 _Route15Biker1AfterBattleText::
-	text "You only live"
-	line "once, so I live"
-	cont "as an outlaw!"
-	cont "TEAM ROCKET RULES!"
+	text "wa'logh jIyIn"
+	line "vaj yInvam"
+	cont "vIyInqu'! yIn tIv"
+	cont "HeSwI'pu'! Dun"
+	cont "<p><e><n><g><D><u><j> ghom!"
 	done
 
 _Route15Biker2BattleText::
-	text "Fork over all your"
-	line "cash when you"
-	cont "lose to me, kid!"
+	text "bIlujDI' HuchlIj"
+	line "Hoch chonobnIS,"
+	cont "puq!"
 	done
 
 _Route15Biker2EndBattleText::
-	text "That"
-	line "can't be true!"
+	text "'a..."
+	line "qItbe'!"
 	prompt
 
 _Route15Biker2AfterBattleText::
-	text "I was just joking"
-	line "about the money!"
+	text "Huch vIrIchtaHvIS"
+	line "jIqIDtaH!"
 	done
 
 _Route15CooltrainerF3BattleText::
-	text "What's cool?"
-	line "Trading #MON!"
+	text "QaQ nuq?"
+	line "#<m><a><n> mechtaH!"
 	done
 
 _Route15CooltrainerF3EndBattleText::
-	text "I"
-	line "said trade!"
+	text " "
+	line "mamech vIneH!"
 	prompt
 
 _Route15CooltrainerF3AfterBattleText::
-	text "I trade #MON"
-	line "with my friends!"
+	text "#<m><a><n>maj DImech"
+	line "jupwI'pu' jIH je!"
 	done
 
 _Route15CooltrainerF4BattleText::
-	text "Want to play with"
-	line "my #MON?"
+	text "mareH tlhIH jIH"
+	line "#<m><a><n>wIj je"
+	cont "DaneH'a'?"
 	done
 
 _Route15CooltrainerF4EndBattleText::
-	text "I was"
-	line "too impatient!"
+	text "tlhoy"
+	line "jIboH!"
 	prompt
 
 _Route15CooltrainerF4AfterBattleText::
-	text "I'll go train with"
-	line "weaker people.@"
+	text "tlhoy jIHoS. qoch"
+	line "puj vIpoQ.@"
 	text_end
 
 _Route15SignText::
-	text "ROUTE 15"
-	line "West to FUCHSIA"
-	cont "CITY"
+	text "He wa'maH vagh"
+	line "tIngDaq <t><a><r><D><e><H>"
+	cont "<v><e><n><g>"
 	done
