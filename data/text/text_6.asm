@@ -1,231 +1,227 @@
 _ItemUseBallText00::
-	text "It dodged the"
-	line "thrown BALL!"
+	text "jaDpu'bogh moQ"
+	line "junpu'!"
 
-	para "This #MON"
-	line "can't be caught!"
+	para "#<m><a><n>vam"
+	line "jonlu' 'e'"
+	line "qItbe'bej!"
 	prompt
 
 _ItemUseBallText01::
-	text "You missed the"
-	line "#MON!"
+	text "#<m><a><n>"
+	line "DaqIpbe'!"
 	prompt
 
 _ItemUseBallText02::
-	text "Darn! The #MON"
-	line "broke free!"
+	text "va! nargh"
+	line "#<m><a><n>!"
 	prompt
 
 _ItemUseBallText03::
-	text "Aww! It appeared"
-	line "to be caught! "
+	text "ghuy'cha'!"
+	line "jonlu'law'pu'!"
 	prompt
 
 _ItemUseBallText04::
-	text "Shoot! It was so"
-	line "close too!"
+	text "Qu'vatlh! tlhoS"
+	line "jonlu'ta'!"
 	prompt
 
 _ItemUseBallText05::
-	text "All right!"
+	text "majQa'!"
 	line "@"
 	text_ram wEnemyMonNick
-	text " was"
-	cont "caught!@"
+	text " "
+	cont "Dajonta'!@"
 	text_end
 
 _ItemUseBallText07::
+	text "bIl De'wI'Daq"
+	line "@"
 	text_ram wBoxMonNicks
-	text " was"
-	line "transferred to"
-	cont "BILL's PC!"
+	text " "
+	cont "Qaylu'pu'."
 	prompt
 
 _ItemUseBallText08::
+	text "vay' De'wI'Daq"
+	line "@"
 	text_ram wBoxMonNicks
-	text " was"
-	line "transferred to"
-	cont "someone's PC!"
+	text " "
+	cont "Qaylu'pu'."
 	prompt
 
 _ItemUseBallText06::
-	text "New #DEX data"
-	line "will be added for"
-	cont "@"
+	text "@"
 	text_ram wEnemyMonNick
-	text "!@"
+	text " De'"
+	line "qonta' #<p><a><q>.@"
 	text_end
 
 _SurfingGotOnText::
-	text "<PLAYER> got on"
-	line "@"
 	text_ram wNameBuffer
-	text "!"
+	text " lIt"
+	line "<PLAYER>."
 	prompt
 
 _SurfingNoPlaceToGetOffText::
-	text "There's no place"
-	line "to get off!"
+	text "naDev "
+	text_ram wNameBuffer
+	line "DalItHa'laHbe'!"
 	prompt
 
 _VitaminStatRoseText::
 	text_ram wNameBuffer
-	text "'s"
+	text ""
 	line "@"
 	text_ram wStringBuffer
-	text " rose."
+	text " 'argh."
 	prompt
 
 _VitaminNoEffectText::
-	text "It won't have any"
-	line "effect."
+	text "DaDublaHbe'."
 	prompt
 
 _ThrewBaitText::
-	text "<PLAYER> threw"
-	line "some BAIT."
+	text "ngelwI' jaD"
+	line "<PLAYER>."
 	done
 
 _ThrewRockText::
-	text "<PLAYER> threw a"
-	line "ROCK."
+	text "nagh jaD"
+	line "<PLAYER>."
 	done
 
 _PlayedFluteNoEffectText::
-	text "Played the #"
-	line "FLUTE."
+	text "#<D><o><v><'><a><g><h>"
+	line "Dachu'."
 
-	para "Now, that's a"
-	line "catchy tune!"
+	para "toH, bom 'ey'"
+	line "'oH 'IngSav'e'!"
 	prompt
 
 _FluteWokeUpText::
-	text "All sleeping"
-	line "#MON woke up."
+	text "vemchoH Hoch"
+	line "QongwI'pu'."
 	prompt
 
 _PlayedFluteHadEffectText::
-	text "<PLAYER> played the"
-	line "# FLUTE.@"
+	text "#<D><o><v><'><a><g><h> chu'"
+	line "<PLAYER>.@"
 	text_end
 
 _CoinCaseNumCoinsText::
-	text "Coins"
+	text "ngop"
 	line "@"
 	text_bcd wPlayerCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text " "
 	prompt
 
 _ItemfinderFoundItemText::
-	text "Yes! ITEMFINDER"
-	line "indicates there's"
-	cont "an item nearby."
+	text "maj! Hop luch"
+	line "'e' 'ang"
+	cont "luch nejwI'."
 	prompt
 
 _ItemfinderFoundNothingText::
-	text "Nope! ITEMFINDER"
-	line "isn't responding."
+	text "ghobe'! pagh "
+	line "'ang luch nejwI'."
 	prompt
 
 _RaisePPWhichTechniqueText::
-	text "Raise PP of which"
-	line "technique?"
+	text "tonSaw''e' HH"
+	line "Da'argh yIwIv."
 	done
 
 _RestorePPWhichTechniqueText::
-	text "Restore PP of"
-	line "which technique?"
+	text "tonSaw''e' HH"
+	line "DaHuj yIwIv."
 	done
 
 _PPMaxedOutText::
-	text_ram wStringBuffer
-	text "'s PP"
-	line "is maxed out."
+	text "Qapbe'. wejHa'"
+	line "'arghlu'chu'ta'."
 	prompt
 
 _PPIncreasedText::
 	text_ram wStringBuffer
-	text "'s PP"
-	line "increased."
+	text " HH"
+	line "Da'argh."
 	prompt
 
 _PPRestoredText::
-	text "PP was restored."
+	text "HH Hujlu'."
 	prompt
 
 _BootedUpTMText::
-	text "Booted up a TM!"
+	text "<t><j> Dalo'beHmoH!"
 	prompt
 
 _BootedUpHMText::
-	text "Booted up an HM!"
+	text "<H><j> Dalo'beHmoH!"
 	prompt
 
 _TeachMachineMoveText::
-	text "It contained"
+	text_ram wStringBuffer
+	text " "
+	line "tonSaw' ghojmoH!"
+
+	para "#<m><a><n>vaD"
 	line "@"
 	text_ram wStringBuffer
-	text "!"
-
-	para "Teach @"
-	text_ram wStringBuffer
-	text_start
-	line "to a #MON?"
+	text ""
+	cont "DaghojmoH'a'?"
 	done
 
 _MonCannotLearnMachineMoveText::
-	text_ram wNameBuffer
-	text " is not"
-	line "compatible with"
-	cont "@"
 	text_ram wStringBuffer
+	text " tonSaw'"
+	line "lo'laHbe'"
+	cont "@"
+	text_ram wNameBuffer
 	text "."
 
-	para "It can't learn"
-	line "@"
+	para "@"
 	text_ram wStringBuffer
-	text "."
+	line "ghojbe'."
 	prompt
 
 _ItemUseNotTimeText::
-	text "OAK: <PLAYER>!"
-	line "This isn't the"
-	cont "time to use that! "
+	text "<'><o><Q>: <PLAYER>!"
+	line "DaH luchvam"
+	cont "mItbe'! "
 	prompt
 
 _ItemUseNotYoursToUseText::
-	text "This isn't yours"
-	line "to use!"
+	text "luchlIj 'oHbe'"
+	line "Dochvam'e'!"
 	prompt
 
 _ItemUseNoEffectText::
-	text "It won't have any"
-	line "effect."
+	text "pagh ta'."
 	prompt
 
 _ThrowBallAtTrainerMonText1::
-	text "The trainer"
-	line "blocked the BALL!"
+	text "moQ bot qeqwI'"
 	prompt
 
 _ThrowBallAtTrainerMonText2::
-	text "Don't be a thief!"
+	text "yInIHQo'!"
 	prompt
 
 _NoCyclingAllowedHereText::
-	text "No cycling"
-	next "allowed here."
+	text "naDev qam Do"
+	next "Dujmey tuchlu'."
 	prompt
 
 _NoSurfingHereText::
-	text "No SURFing on"
-	line "@"
+	text "naDev "
 	text_ram wNameBuffer
-	text " here!"
+	line " yIlIghQo'!"
 	prompt
 
 _BoxFullCannotThrowBallText::
-	text "The #MON BOX"
-	line "is full! Can't"
-	cont "use that item!"
+	text "wejHa' buy'"
+	line "#<m><a><n> ta! moQ"
+	cont "Dalo'laHbe'!"
 	prompt
