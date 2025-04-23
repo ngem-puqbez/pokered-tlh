@@ -1,133 +1,129 @@
 _Route11Gambler1BattleText::
-	text "Win, lose or draw!"
+	text "bIQapbe'chugh"
+	line "bIlujba'!"
 	done
 
 _Route11Gambler1EndBattleText::
-	text "Atcha!"
-	line "Didn't go my way!"
+	text "QI'yaH!"
+	line "jIHvaD qab ghu'!"
 	prompt
 
 _Route11Gambler1AfterBattleText::
-	text "#MON is life!"
-	line "And to live is to"
-	cont "gamble!"
+	text "yIn 'oH #<m><a><n>'e'"
+	line "'ej yInmeH SuDnIS"
+	cont "vay'!"
 	done
 
 _Route11Gambler2BattleText::
-	text "Competition! I"
-	line "can't get enough!"
+	text "jI'ovnIS! jIHvaD"
+	line "not yap qaD!"
 	done
 
 _Route11Gambler2EndBattleText::
-	text "I had"
-	line "a chance!"
+	text "'eb..."
+	line "vIjonbe'!"
 	prompt
 
 _Route11Gambler2AfterBattleText::
-	text "You can't be a"
-	line "coward in the"
-	cont "world of #MON!"
+	text "#<m><a><n> qo'Daq"
+	line "not nuch DaDalaH!"
 	done
 
 _Route11Youngster1BattleText::
-	text "Let's go, but"
-	line "don't cheat!"
+	text "Ha', 'ach"
+	line "yIngorQo'!"
 	done
 
 _Route11Youngster1EndBattleText::
-	text "Huh?"
-	line "That's not right!"
+	text "nuq?"
+	line "lughbe'!"
 	prompt
 
 _Route11Youngster1AfterBattleText::
-	text "I did my best! I"
-	line "have no regrets!"
+	text "jInIDchu'!"
+	line "vIpaybe'!"
 	done
 
 _Route11SuperNerd1BattleText::
-	text "Careful!"
-	line "I'm laying down"
-	cont "some cables!"
+	text "yIyep! jaSrob"
+	line "vIlantaH!"
 	done
 
 _Route11SuperNerd1EndBattleText::
-	text "That"
-	line "was electric!"
+	text "wovqu' "
+	line "may'maj; 'ul rur!"
 	prompt
 
 _Route11SuperNerd1AfterBattleText::
-	text "Spread the word"
-	line "to save energy!"
+	text "Hoch yIra'!"
+	line "HoS 'anQo'!"
 	done
 
 _Route11Youngster2BattleText::
-	text "I just became a"
-	line "trainer! But, I"
-	cont "think I can win!"
+	text "'eQ chojwI' jImoj!"
+	line "vabDot jIQaplaH"
+	cont "'e' vIHar!"
 	done
 
 _Route11Youngster2EndBattleText::
-	text "My"
-	line "#MON couldn't!"
+	text "Qapbe'bej"
+	line "#<m><a><n>wIj!"
 	prompt
 
 _Route11Youngster2AfterBattleText5::
-	text "What do you want?"
-	line "Leave me alone!"
+	text "nuqneH?"
+	line "HImej!"
 	done
 
 _Route11Gambler3BattleText::
-	text "Fwahaha! I have"
-	line "never lost!"
+	text "Haghghgh! not"
+	line "jIlujpu'!"
 	done
 
 _Route11Gambler3EndBattleText::
-	text "My"
-	line "first loss!"
+	text "...wa'logh"
+	line "jIlujpu'!"
 	prompt
 
 _Route11Gambler3AfterBattleText::
-	text "Luck of the draw!"
-	line "Just luck!"
+	text "Haw Qapla'lIj!"
+	line "bIDo' neH!"
 	done
 
 _Route11Gambler4BattleText::
-	text "I have never won"
-	line "before..."
+	text "not jIQappu'..."
 	done
 
 _Route11Gambler4EndBattleText::
-	text "I saw"
-	line "this coming..."
+	text "gher'ID"
+	line "vI'aqlaH..."
 	prompt
 
 _Route11Gambler4AfterBattleText::
-	text "It's just luck."
-	line "Luck of the draw."
+	text "Haw Qapla'lIj!"
+	line "bIDo' neH!"
 	done
 
 _Route11Youngster3BattleText::
-	text "I'm the best in"
-	line "my class!"
+	text "DuSaQwIjDaq"
+	line "jInIv!"
 	done
 
 _Route11Youngster3EndBattleText::
-	text "Darn!"
-	line "I need to make my"
-	cont "#MON stronger!"
+	text "ghuy!"
+	line "#<m><a><n>wIj"
+	cont "vIHoSqu'nISmoH!"
 	prompt
 
 _Route11Youngster3AfterBattleText::
-	text "There's a fat"
-	line "#MON that"
-	cont "comes down from"
-	cont "the mountains."
+	text "HuDvo' ghIr"
+	line "#<m><a><n> rorqu'."
 
-	para "It's strong if"
-	line "you can get it."
+	para "DajonlaHchugh"
+	line "HoS 'oH."
 	done
 
 _Route11SuperNerd2BattleText::
-	text "Watch out for"
-	line "live wires!"
+	text "'ul qengtaHbogh"
+	line "baS SIrgh yIyep!"
 	done
