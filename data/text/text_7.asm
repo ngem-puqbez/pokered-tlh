@@ -1,200 +1,196 @@
 _ItemUseText001::
-	text "<PLAYER> used@"
-	text_end
+	text_ram wStringBuffer
+	text " lo'"
+	done
 
 _ItemUseText002::
-	text_ram wStringBuffer
-	text "!"
+	text "<PLAYER>!@"
+	text_end
 	done
 
 _GotOnBicycleText1::
-	text "<PLAYER> got on the@"
+	text_ram wStringBuffer
 	text_end
 
 _GotOnBicycleText2::
-	text_ram wStringBuffer
-	text "!"
+	text "lIt <PLAYER>!"
 	prompt
 
 _GotOffBicycleText1::
-	text "<PLAYER> got off@"
+	text_ram wStringBuffer
 	text_end
 
 _GotOffBicycleText2::
-	text "the @"
-	text_ram wStringBuffer
-	text "."
+	text "lItHa' <PLAYER>."
 	prompt
 
 _ThrewAwayItemText::
-	text "Threw away"
-	line "@"
-	text_ram wNameBuffer
-	text "."
+	text_ram wStringBuffer
+	text " woD"
+	line "<PLAYER>.
 	prompt
 
 _IsItOKToTossItemText::
-	text "Is it OK to toss"
-	line "@"
 	text_ram wStringBuffer
-	text "?"
+	text " DawoD"
+	line "'e' DaneHqu''a'?"
 	prompt
 
 _TooImportantToTossText::
-	text "That's too impor-"
-	line "tant to toss!"
+	text "potlhqu'mo' 'oH"
+	line "DawoDbe'nIS!"
 	prompt
 
 _AlreadyKnowsText::
-	text_ram wNameBuffer
-	text " knows"
-	line "@"
 	text_ram wStringBuffer
+	text " Sov"
+	line "@"
+	text_ram wNameBuffer
 	text "!"
 	prompt
 
 _ConnectCableText::
-	text "Okay, connect the"
-	line "cable like so!"
+	text "maj. vaj baS"
+	line "SIrgh yIrarmoH!"
 	prompt
 
 _TradedForText::
-	text "<PLAYER> traded"
+	text "mech <PLAYER>."
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text " for"
-	cont "@"
+	text " ngeH "
+	cont "'ej @"
 	text_ram wInGameTradeReceiveMonName
-	text "!@"
+	text " Hev!@"
 	text_end
 
 _WannaTrade1Text::
-	text "I'm looking for"
+	text "jImech vIneH."
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text "! Wanna"
+	text " vIneH."
 
-	para "trade one for"
+	para "choHevchugh"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
-	text "? "
+	text " qanob. "
 	done
 
 _NoTrade1Text::
-	text "Awww!"
-	line "Oh well..."
+	text "va!"
+	line "Qap tlham..."
 	done
 
 _WrongMon1Text::
-	text "What? That's not"
-	line "@"
+	text "Qo'! @"
 	text_ram wInGameTradeGiveMonName
-	text "!"
+	text_start
+	line "chomuchbe'!"
 
-	para "If you get one,"
-	line "come back here!"
+	para "bImechqangDI'"
+	line "naDev yIchagh!"
 	done
 
 _Thanks1Text::
-	text "Hey thanks!"
+	text "majQa'!"
 	done
 
 _AfterTrade1Text::
-	text "Isn't my old"
+	text "Dunqu''a'"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
-	text " great?"
+	text "wIj Deq?"
 	done
 
 _WannaTrade2Text::
-	text "Hello there! Do"
-	line "you want to trade"
+	text "toH, qavan! "
+	line "mamech DaneH'a'?"
 
-	para "your @"
+	para "tamchuq @"
 	text_ram wInGameTradeGiveMonName
-	text_start
-	line "for @"
+	text "lIj"
+	line "@"
 	text_ram wInGameTradeReceiveMonName
-	text "?"
+	text "wIj 'e'"
+	cont "vIchup!"
 	done
 
 _NoTrade2Text::
-	text "Well, if you"
-	line "don't want to..."
+	text "Hu..."
+	line "bIneHbe'chugh..."
 	done
 
 _WrongMon2Text::
-	text "Hmmm? This isn't"
-	line "@"
+	text "Hu'ma? @"
 	text_ram wInGameTradeGiveMonName
-	text "."
+	text_start
+	line "'oHbe!"
 
-	para "Think of me when"
-	line "you get one."
+	para "#<m><a><n>vam DajonDI'"
+	line "HIqaw."
 	done
 
 _Thanks2Text::
-	text "Thanks!"
+	text "maj!"
 	done
 
 _AfterTrade2Text::
-	text "The @"
+	text "mujaHDI' @"
 	text_ram wInGameTradeGiveMonName
-	text " you"
-	line "traded to me"
+	text_start
+	line "ghe'choH!"
 
-	para "went and evolved!"
+	para "ghu'vam meq vISIv!"
 	done
 
 _WannaTrade3Text::
-	text "Hi! Do you have"
-	line "@"
+	text "toH! @"
 	text_ram wInGameTradeGiveMonName
-	text "?"
+	text_start
+	line "vIHev vIneH!"
 
-	para "Want to trade it"
-	line "for @"
+	para "munobchugh"
+	line "@"
 	text_ram wInGameTradeReceiveMonName
-	text "?"
+	text " qangeH."
 	done
 
 _NoTrade3Text::
-	text "That's too bad."
+	text "Do'Ha'."
 	done
 
 _WrongMon3Text::
-	text "...This is no"
+	text "...'ach"
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text "."
+	text " vIneH."
 
-	para "If you get one,"
-	line "trade it with me!"
+	para "DaSamchugh"
+	line "HImech!"
 	done
 
 _Thanks3Text::
-	text "Thanks pal!"
+	text "buy' ngop!"
 	done
 
 _AfterTrade3Text::
-	text "How is my old"
-	line "@"
 	text_ram wInGameTradeReceiveMonName
-	text "?"
+	text "wIj Deq"
+	line "Dotlh HIDel!"
 
-	para "My @"
+	para "cheptaH @"
 	text_ram wInGameTradeGiveMonName
-	text " is"
-	line "doing great!"
+	text_start
+	line "chonobpu'bogh!"
 	done
 
 _NothingToCutText::
-	text "There isn't"
-	line "anything to CUT!"
+	text "naDev pagh pe'laH!"
+	line " "
 	prompt
 
 _UsedCutText::
+	text "pe' "
 	text_ram wNameBuffer
-	text " hacked"
-	line "away with CUT!"
+	text "."
 	prompt
