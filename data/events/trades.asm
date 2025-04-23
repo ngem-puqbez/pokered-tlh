@@ -9,14 +9,14 @@ TradeMons:
 	; "went and evolved" and also changed the trades to match. English
 	; Red/Blue uses the original JP Red/Green trades but with the JP Blue
 	; post-trade text.
-	db NIDORINO,   NIDORINA,  TRADE_DIALOGSET_CASUAL,    "TERRY@@@@@@"
-	db ABRA,       MR_MIME,   TRADE_DIALOGSET_CASUAL,    "MARCEL@@@@@"
-	db BUTTERFREE, BEEDRILL,  TRADE_DIALOGSET_HAPPY,     "CHIKUCHIKU@" ; unused
-	db PONYTA,     SEEL,      TRADE_DIALOGSET_CASUAL,    "SAILOR@@@@@"
-	db SPEAROW,    FARFETCHD, TRADE_DIALOGSET_HAPPY,     "DUX@@@@@@@@"
-	db SLOWBRO,    LICKITUNG, TRADE_DIALOGSET_CASUAL,    "MARC@@@@@@@"
-	db POLIWHIRL,  JYNX,      TRADE_DIALOGSET_EVOLUTION, "LOLA@@@@@@@"
-	db RAICHU,     ELECTRODE, TRADE_DIALOGSET_EVOLUTION, "DORIS@@@@@@"
-	db VENONAT,    TANGELA,   TRADE_DIALOGSET_HAPPY,     "CRINKLES@@@"
-	db NIDORAN_M,  NIDORAN_F, TRADE_DIALOGSET_HAPPY,     "SPOT@@@@@@@"
+	db NIDORINO,   NIDORINA,  TRADE_DIALOGSET_CASUAL, "<t><o><b><I><'>@@@@@@"
+	db ABRA,       MR_MIME,   TRADE_DIALOGSET_CASUAL, "<y><o><r><I><q>@@@@@@"
+	db BUTTERFREE, BEEDRILL,  TRADE_DIALOGSET_HAPPY,  "<'><a><w><'><v><e><t><l><h>@@"
+	db PONYTA,     SEEL,      TRADE_DIALOGSET_CASUAL, "<m><a><y><'><Q><a><l>@@@@"
+	db SPEAROW,    FARFETCHD, TRADE_DIALOGSET_HAPPY,  "<c><h><a><t><l><h>@@@@@"
+	db SLOWBRO,    LICKITUNG, TRADE_DIALOGSET_CASUAL, "<m><u><m><w><I><'><o><y>@@@"
+	db POLIWHIRL,  JYNX,      TRADE_DIALOGSET_POLITE, "<l><u><q><a><'>@@@@@@"
+	db RAICHU,     ELECTRODE, TRADE_DIALOGSET_POLITE, "<j><o><r><n><e><b><o><y>@@@"
+	db VENONAT,    TANGELA,   TRADE_DIALOGSET_HAPPY,  "<Q><I><n><g><q><a><l>@@@@"
+	db NIDORAN_M,  NIDORAN_F, TRADE_DIALOGSET_HAPPY,  "<'><o><D><t><u><'>@@@@@"
 	assert_table_length NUM_NPC_TRADES
