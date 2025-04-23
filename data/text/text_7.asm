@@ -27,7 +27,7 @@ _GotOffBicycleText2::
 _ThrewAwayItemText::
 	text_ram wStringBuffer
 	text " woD"
-	line "<PLAYER>.
+	line "<PLAYER>."
 	prompt
 
 _IsItOKToTossItemText::
