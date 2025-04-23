@@ -1,213 +1,211 @@
 _PokemartGreetingText::
-	text "Hi there!"
-	next "May I help you?"
+	text "bIje'be'chugh"
+	next "vaj bIHegh!"
 	done
 
 _PokemonFaintedText::
+	text "vul @"
 	text_ram wNameBuffer
-	text_start
-	line "fainted!"
+	text "!"
 	done
 
 _PlayerBlackedOutText::
-	text "<PLAYER> is out of"
-	line "useable #MON!"
+	text "SuvlaHbogh"
+	line "#<m><a><n> ghajbe'"
+	cont "<PLAYER>."
 
-	para "<PLAYER> blacked"
-	line "out!"
+	para "lImchoH <PLAYER>"
+	line "'ej ghu' Haw'!"
 	prompt
 
 _RepelWoreOffText::
-	text "REPEL's effect"
-	line "wore off."
+	text "QapHa'choH "
+	line "<D><o><H><m><o><H><w><I><'>."
 	done
 
 _PokemartBuyingGreetingText::
-	text "Take your time."
+	text "poHwIj yI'anQo'!"
 	done
 
 _PokemartTellBuyPriceText::
 	text_ram wStringBuffer
-	text "?"
-	line "That will be"
-	cont "¥@"
+	text " "
+	line "DIlmeH ¥@"
 	text_bcd hMoney, 3 | LEADING_ZEROES | LEFT_ALIGN
-	text ". OK?"
+	text " "
+	cont "vIneH. bIlaj'a'?"
 	done
 
 _PokemartBoughtItemText::
-	text "Here you are!"
-	line "Thank you!"
+	text "DochlIj yItlhap!"
 	prompt
 
 _PokemartNotEnoughMoneyText::
-	text "You don't have"
-	line "enough money."
+	text "yapbe' HuchlIj!"
+	line "bIDIlnIS."
 	prompt
 
 _PokemartItemBagFullText::
-	text "You can't carry"
-	line "any more items."
+	text "latlh Doch"
+	line "DaqenglaHbe'."
 	prompt
 
 _PokemonSellingGreetingText::
-	text "What would you"
-	line "like to sell?"
+	text "nuq DangevtaH?"
 	done
 
 _PokemartTellSellPriceText::
-	text "I can pay you"
+	text "Dochvetlh DIlmeH"
 	line "¥@"
 	text_bcd hMoney, 3 | LEADING_ZEROES | LEFT_ALIGN
-	text " for that."
+	text " vInobqang."
+	cont "bIlaj'a'?"
 	done
 
 _PokemartItemBagEmptyText::
-	text "You don't have"
-	line "anything to sell."
+	text "vay' DangevlaHbogh"
+	line "Daghajbe'."
 	prompt
 
 _PokemartUnsellableItemText::
-	text "I can't put a"
-	line "price on that."
+	text "Dochvetlh"
+	line "vIDIllaHbe'."
 	prompt
 
 _PokemartThankYouText::
-	text "Thank you!"
+	text "tugh yIje'qa'!"
 	done
 
 _PokemartAnythingElseText::
-	text "Is there anything"
-	line "else I can do?"
+	text "qatlh wej"
+	line "bItlhej?"
 	done
 
 _LearnedMove1Text::
-	text_ram wLearnMoveMonName
-	text " learned"
-	line "@"
 	text_ram wStringBuffer
-	text "!@"
-	text_end
+	text_start
+	line "tonSaw' ghojpu'"
+	cont "@"
+	text_ram wLearnMoveMonName
+	text "!"
+	done
 
 _WhichMoveToForgetText::
-	text "Which move should"
-	next "be forgotten?"
+	text "tonSaw' lIjlu'bogh"
+	next "yIwIv."
 	done
 
 _AbandonLearningText::
-	text "Abandon learning"
-	line "@"
 	text_ram wStringBuffer
-	text "?"
+	text " ghoj"
+	line "'e' DamejmoH'a'?"
 	done
 
 _DidNotLearnText::
-	text_ram wLearnMoveMonName
-	text_start
-	line "did not learn"
-	cont "@"
 	text_ram wStringBuffer
+	text_start
+	line "ghojbe'"
+	cont "@"
+	text_ram wLearnMoveMonName
 	text "!"
 	prompt
 
 _TryingToLearnText::
-	text_ram wLearnMoveMonName
-	text " is"
-	line "trying to learn"
-	cont "@"
 	text_ram wStringBuffer
+	text " ghoj"
+	line "'e' nIDtaH"
+	cont "@"
+	text_ram wLearnMoveMonName
 	text "!"
 
-	para "But, @"
+	para "'ach, loS tonSaw'"
+	line "neH SovlaH"
+	cont "@"
 	text_ram wLearnMoveMonName
-	text_start
-	line "can't learn more"
-	cont "than 4 moves!"
+	text "!"
 
-	para "Delete an older"
-	line "move to make room"
-	cont "for @"
+	para "@"
 	text_ram wStringBuffer
-	text "?"
+	text_start
+	line "ghojmeH latlh"
+	cont "tonSaw' lIj'a'?"
 	done
 
 _OneTwoAndText::
-	text "1, 2 and...@"
+	text "wa'... cha'..."
+	line "ghIq...@"
 	text_end
 
 _PoofText::
-	text " Poof!@"
+	text " pItlh!@"
 	text_end
 
 _ForgotAndText::
 	text_start
 	para "@"
-	text_ram wLearnMoveMonName
-	text " forgot"
-	line "@"
 	text_ram wNameBuffer
+	text_start
+	line "tonSaw' lIjpu'"
+	cont "@"
+	text_ram wLearnMoveMonName
 	text "!"
 
-	para "And..."
+	para "'ej..."
 	prompt
 
 _HMCantDeleteText::
-	text "HM techniques"
-	line "can't be deleted!"
+	text "Ho'DoSvam"
+	line "lIjbe'nISlu'!"
 	prompt
 
 _PokemonCenterWelcomeText::
-	text "Welcome to our"
-	line "#MON CENTER!"
+	text "#<r><o><p><y><a><H>Daq"
+	line "Dapaw!"
 
-	para "We heal your"
-	line "#MON back to"
-	cont "perfect health!"
+	para "naDev #<m><a><n>mey"
+	line "DIpIvchu'moH."
 	prompt
 
 _ShallWeHealYourPokemonText::
-	text "Shall we heal your"
-	line "#MON?"
+	text "nuqneH?"
 	done
 
 _NeedYourPokemonText::
-	text "OK. We'll need"
-	line "your #MON."
+	text "maj. #<m><a><n>lIj"
+	line "HInob."
 	done
 
 _PokemonFightingFitText::
-	text "Thank you!"
-	line "Your #MON are"
-	cont "fighting fit!"
+	text "pItlh!"
+	line "DaH SuvlaHchu'"
+	cont "#<m><a><n>lIj!"
 	prompt
 
 _PokemonCenterFarewellText::
-	text "We hope to see"
-	line "you again!"
+	text "maghomqa'jaj!"
 	done
 
 _CableClubNPCAreaReservedFor2FriendsLinkedByCableText::
-	text "This area is"
-	line "reserved for 2"
-	cont "friends who are"
-	cont "linked by cable."
+	text "DaqvamDaq"
+	line "rarchuqchoHmeH"
+	cont "baS SIrgh lo'"
+	cont "cha' juppu'."
 	done
 
 _CableClubNPCWelcomeText::
-	text "Welcome to the"
-	line "Cable Club!"
+	text "baS SIrgh pa'"
+	line "DaSamta'!"
 	done
 
 _CableClubNPCPleaseApplyHereHaveToSaveText::
-	text "Please apply here."
+	text "bIrarchoHrup'a'."
 
-	para "Before opening"
-	line "the link, we have"
-	cont "to save the game."
+	para "Qujmey rarchoHpa'"
+	line "Quj ta qonnISlu'."
 	done
 
 _CableClubNPCPleaseWaitText::
-	text "Please wait.@"
+	text "nom yIloS.@"
 	text_end
 
 _CableClubNPCLinkClosedBecauseOfInactivityText::
