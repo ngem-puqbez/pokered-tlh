@@ -773,7 +773,7 @@ _IndigoPlateauStatuesText1::
 	prompt
 
 _IndigoPlateauStatuesText2::
-	text "qeqwI' ngoQ"
+	text "hojwI' ngoQ"
 	line "Qav 'oH!"
 	para "#<m><a><n> 'obe'"
 	line "yaHnIv"
@@ -1706,7 +1706,7 @@ _OakSpeechText2A::
 	text "qo'vamDaq law'"
 	line "Ha'DIbaH ngar."
 
-	para "#<m><a><n> ponglu'.@"
+	para "#<m><a><n> luponglu'.@"
 	text_end
 
 _OakSpeechText2B::
@@ -1715,7 +1715,12 @@ _OakSpeechText2B::
 	para "law' Sarchaj 'ej"
 	line "Daj Hoch."
 	cont "Saj Dam nuv puS,"
-	cont "SuvmoH latlh."
+	cont "vummoH latlh."
+
+	para "may' SuvmeH"
+	line "nItebHa' choj 'op,"
+	cont "ghot #<m><a><n>chaj"
+	cont "je."
 
 	para "jIH...?"
 
