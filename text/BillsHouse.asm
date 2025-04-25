@@ -70,7 +70,7 @@ _BillsHouseBillWhyDontYouGoInsteadOfMeText::
 	line "Duj tu'lu'. <b><I><Q><D><u><j>"
 	cont "<H><o><y><q><u><'> 'oH"
 	cont "Dujvetlh pong'e'."
-	cont "#<m><a><n> qeqwI'"
+	cont "#<m><a><n> chojwI'"
 	cont "chaH Hoch"
 	cont "raQpo'Dajpu'!"
 
