@@ -504,7 +504,7 @@ INCLUDE "data/moves/field_move_names.asm"
 PokemonMenuEntries:
 	db   "DI'on"
 	next "buv"
-	next "mej@"
+	next "baq@"
 
 GetMonFieldMoves:
 	ld a, [wWhichPokemon]
