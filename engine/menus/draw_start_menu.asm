@@ -60,7 +60,7 @@ DrawStartMenu::
 	ret
 
 StartMenuPokedexText:
-	db "<PK><t><a><m><e><y>@"
+	db "#<t><a>@"
 
 StartMenuPokemonText:
 	db "#<m><a><n>@"
