@@ -1071,6 +1071,7 @@ _MoveIsDisabledText::
 _MonName1Text::
 	text_ram wStringBuffer
 	text " @"
+	text_end
 
 _Used1Text::
 	text "lo'"
