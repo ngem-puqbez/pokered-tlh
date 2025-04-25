@@ -1,6 +1,6 @@
 _Route25Youngster1BattleText::
-	text "qeqmeH Hatlhvam"
-	line "luSuch qeqwI'pu'"
+	text "chojmeH Hatlhvam"
+	line "luSuch chojwI'pu'"
 	cont "law'!"
 	done
 
