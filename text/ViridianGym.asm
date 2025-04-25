@@ -43,7 +43,7 @@ _ViridianGymGiovanniEarthBadgeInfoText::
 	line "Hoch lobmoH"
 	cont "<y><u><v><D><e><g><h>!"
 
-	para "qeqwI' po'qu' SoH"
+	para "chojwI' po'qu' SoH"
 	line "'e' woq 'oH!"
 
 	para "Daghajmo' #<m><a><n>"
