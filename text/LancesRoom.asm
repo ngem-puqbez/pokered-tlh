@@ -5,7 +5,7 @@ _LancesRoomLanceBeforeBattleText::
 
 	para "<l><o><S> <n><I><v><w><I><'><p><u><'>"
 	line "vIDev! <b><e><t><H><e><l>"
-	cont "lung'a' qeqwI'"
+	cont "lung'a' chojwI'"
 	cont "HIpong!"
 
 	para "#<m><a><n> ngar bIH"
@@ -49,7 +49,7 @@ _LancesRoomLanceAfterBattleText::
 	cont "bImojpa' wa' qaD"
 	cont "Qav Dabam."
 
-	para "charghwI'a' ret"
+	para "charghwI'a' ghen"
 	line "DaSuvnIS!"
 
 	para "<RIVAL> 'oH"
