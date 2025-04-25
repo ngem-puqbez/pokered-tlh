@@ -20,7 +20,7 @@ _Route22RivalBeforeBattleText1::
 _Route22RivalAfterBattleText1::
 	text "law' #<m><a><n>"
 	line "<'><o><b><e><'> yughbogh"
-	cont "qeqwI' HoS'e'!"
+	cont "chojwI' HoS'e'!"
 
 	para "chaH vIjeymeH"
 	line "vIHoSchoHnIS."
@@ -62,7 +62,7 @@ _Route22RivalBeforeBattleText2::
 
 	para "vaj #<m><a><n> qaD'a'"
 	line "vaS vIbampa'"
-	cont "jIqeqmeH"
+	cont "jIchojmeH"
 	cont "qajeyqu'!"
 
 	para "HISuv!"
@@ -74,7 +74,7 @@ _Route22RivalAfterBattleText2::
 	cont "jISuvqu'rup!"
 
 	para "<PLAYER>,"
-	line "DaqeqnISba'taH!"
+	line "DachojnISba'taH!"
 
 	para "'a wejHa' ngoDvam"
 	line "DaSovba'. jImej!"
