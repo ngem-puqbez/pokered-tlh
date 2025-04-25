@@ -196,7 +196,7 @@ _MoveWasDisabledText::
 	prompt
 
 _NothingHappenedText::
-	text "pagh qaS!"
+	text "qaS pagh!"
 	prompt
 
 _NoEffectText::
