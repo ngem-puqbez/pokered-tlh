@@ -1070,10 +1070,10 @@ _MoveIsDisabledText::
 
 _MonName1Text::
 	text_ram wStringBuffer
-	text "@"
+	text " @"
 
 _Used1Text::
-	text " lo'"
+	text "lo'"
 	line "@"
 	text_end
 
@@ -1270,7 +1270,7 @@ _GhostCantBeIDdText::
 	prompt
 
 _GoText::
-	text "Suv! @"
+	text "Ha'! @"
 	text_end
 
 _DoItText::
@@ -1278,7 +1278,7 @@ _DoItText::
 	text_end
 
 _GetmText::
-	text "ruch! @"
+	text "Suv! @"
 	text_end
 
 _EnemysWeakText::
