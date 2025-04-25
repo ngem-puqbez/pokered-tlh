@@ -14,7 +14,7 @@ _FuchsiaPokecenterCooltrainerFText::
 
 	para "#<m><a><n> 'obe'"
 	line "yaHnIv rar. Hoch #<m><a><n>"
-	cont "#<m><a><n> qeqwI'pu'"
+	cont "#<m><a><n> chojwI'pu'"
 	cont "Soj 'oH yaHnIvvam"
 	cont "teblaw'."
 	done
