@@ -3,7 +3,7 @@ _MtMoonPokecenterYoungsterText::
 	line "#<m><o><Q> tu'lu'."
 
 	para "jav #<m><a><n> neH"
-	line "qenglaH qeqwI'."
+	line "qenglaH chojwI'."
 	done
 
 _MtMoonPokecenterGentlemanText::
