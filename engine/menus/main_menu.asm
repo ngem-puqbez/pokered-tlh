@@ -436,8 +436,8 @@ PrintPlayTime:
 
 SaveScreenInfoText:
 	db   "QujwI'"
-	next "Deghmey  "
-	next "#<p><a><q>    "
+	next "<D><e><g><h>mey  "
+	next "#<t><a><m><e><y>  "
 	next "poH @"
 
 
@@ -607,7 +607,7 @@ BattleStyleOptionText:
 	next " qa'moH   ratlh@"
 
 OptionMenuCancelText:
-	db "mej@"
+	db "baq@"
 
 ; sets the options variable according to the current placement of the menu cursors in the options menu
 SetOptionsFromCursorPositions:
