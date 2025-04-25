@@ -16,7 +16,7 @@ _MrFujisHouseLittleGirlThisIsMrFujisHouseText::
 
 	para "DochHa'qu' ghaH!"
 
-	para "qaytu' qeqwI' je"
+	para "qaytu' chojwI' je"
 	line "Hutlhbogh"
 	cont "#<m><a><n> Qorgh!"
 	done
