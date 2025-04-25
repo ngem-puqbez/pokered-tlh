@@ -202,7 +202,7 @@ _ItemUseNoEffectText::
 	prompt
 
 _ThrowBallAtTrainerMonText1::
-	text "moQ bot qeqwI'"
+	text "moQ bot chojwI'"
 	prompt
 
 _ThrowBallAtTrainerMonText2::
