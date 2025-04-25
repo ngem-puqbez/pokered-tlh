@@ -17,7 +17,7 @@ _AgathaBeforeBattleText::
 	cont "net tlheb!"
 
 	para "<PLAYER>! DaH"
-	line "SoHvaD qeqwI'na'"
+	line "SoHvaD chojwI'na'"
 	cont "may' vI'ang!"
 	done
 
