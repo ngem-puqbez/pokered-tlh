@@ -257,9 +257,9 @@ Credits:
 	jp FadeInCreditsText
 
 TheEndTextString:
-; "T H E  E N D"
-	db $60," ",$62," ",$64,"  ",$64," ",$66," ",$68,"@"
-	db $61," ",$63," ",$65,"  ",$65," ",$67," ",$69,"@"
+; "p I t l h"
+	db $60," ",$62," ",$64," ",$66," ",$68,"@"
+	db $61," ",$63," ",$65," ",$67," ",$69,"@"
 
 INCLUDE "data/credits/credits_order.asm"
 
