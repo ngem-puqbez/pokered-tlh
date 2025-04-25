@@ -3,7 +3,7 @@ _Route1Youngster1MartSampleText::
 	line "#<n><g><e><v><w><I><'> 'oH"
 	cont "yaHwIj'e'."
 
-	para "qeqwI'vaD luch"
+	para "chojwI'vaD luch"
 	line "lI' wIngev."
 	cont "<q><o><'><r><I><n> vengDaq"
 	cont "ghoSuch."
