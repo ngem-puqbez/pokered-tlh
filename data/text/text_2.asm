@@ -415,11 +415,11 @@ _OakLabEmailText::
 
 	para "..."
 
-	para "#<m><a><n> qeqwI'"
+	para "#<m><a><n> chojwI'"
 	line "wIrIt!"
 
 	para "lIqaDrup #<m><a><n>"
-	line "'obe' qeqwI'pu'"
+	line "'obe' chojwI'pu'"
 	cont "nIv. "
 
 	para "#<m><a><n>lIj nIv"
@@ -444,13 +444,13 @@ _GameCornerNoCoinsText::
 _GameCornerOutOfOrderText::
 	text "QInHom Datu'."
 	line "[jonvam nISlu'pu']"
-	para "Qapbe'."
+	para "Qapbe'law'."
 	done
 
 _GameCornerOutToLunchText::
 	text "QInHom Datu'."
 	line "[megh jISop]"
-	para "paw 'e' Hech."
+	para "chegh 'e' Hech."
 	done
 
 _GameCornerSomeonesKeysText::
@@ -498,7 +498,7 @@ _ViridianSchoolNotebookText1::
 	para "#<m><a><n>mey"
 	line "Qorghchugh ghot"
 	cont "'ej SuvmoHchugh"
-	cont "#<m><a><n> qeqwI'"
+	cont "#<m><a><n> chojwI'"
 	cont "ponglu'."
 
 	para "chojwI' tlhejlaH"
@@ -523,7 +523,7 @@ _ViridianSchoolNotebookText3::
 	para "#<m><a><n> may'mey"
 	line "qaSmoHmeH 'ej "
 	cont "jeSmeH nejchuq"
-	cont "#<m><a><n> qeqwI'pu'."
+	cont "#<m><a><n> chojwI'pu'."
 
 	para "#<m><a><n>"
 	line "<q><a><D><q><a><c><h>meyDaq"
