@@ -1,8 +1,8 @@
 _PewterGymBrockPostBattleAdviceText::
-	text "qo'Daq qeqwI'"
+	text "qo'Daq chojwI'wI'"
 	line "Sar law' tu'lu'!"
 
-	para "qeqwI' po'"
+	para "chojwI' po'"
 	line "SoHlaw'."
 
 	para "DaH laHmeylIj"
@@ -73,7 +73,7 @@ _PewterGymBrockBoulderBadgeInfoText::
 	cont "'oH Dochvam'e'!"
 
 	para "'oH ghajchugh"
-	line "qeqwI' HoSchoH"
+	line "chojwI' HoSchoH"
 	cont "Hoch #<m><a><n>Daj!"
 
 	para "DaH bISuvbe'chugh"
@@ -106,7 +106,7 @@ _PewterGymGuidePreAdviceText::
 	line "'obe' DacharghlaH"
 	cont "'e' vInoH!"
 
-	para "qeqwI' jIHbe' 'ach"
+	para "chojwI' jIHbe' 'ach"
 	line "bIQap DaneHchugh"
 	cont "qeSwIj yIQoy!"
 
