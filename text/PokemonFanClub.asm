@@ -131,7 +131,7 @@ _PokemonFanClubReceptionistText::
 	done
 
 _PokemonFanClubSign1Text::
-	text "reH qeqwI' yI'Ij!"
+	text "reH chojwI' yI'Ij!"
 	line "yIDochHa'!"
 	done
 
