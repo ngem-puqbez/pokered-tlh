@@ -33,7 +33,7 @@ _ThrewAwayItemText::
 _IsItOKToTossItemText::
 	text_ram wStringBuffer
 	text " DawoD"
-	line "'e' DaneHqu''a'?"
+	line "'e' DaneHbej'a'?"
 	prompt
 
 _TooImportantToTossText::
