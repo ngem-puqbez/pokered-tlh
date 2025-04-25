@@ -16,7 +16,7 @@ _PewterNidoranHouseMiddleAgedManText::
 	cont "'oH #<m><a><n>vetlh."
 
 	para "nom nenchoH 'a"
-	line "po'be'chugh qeqwI'"
+	line "po'be'chugh chojwI'"
 	cont "chaq SuvtaHvIS"
 	cont "lobHa' 'e' wIv!"
 
