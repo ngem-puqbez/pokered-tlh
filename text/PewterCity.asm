@@ -10,7 +10,7 @@ _PewterCityCooltrainerFText::
 
 _PewterCityCooltrainerMText::
 	text "naDev puS"
-	line "#<m><a><n> qeqwI'"
+	line "#<m><a><n> chojwI'"
 	cont "Sagh!"
 
 	para "ghew jonwI'pu'"
@@ -107,7 +107,7 @@ _PewterCityGymSignText::
 	line "#<m><a><n> qaDqach"
 	cont "qaDpIn: <r><o><t><l><h><I><l>"
 
-	para "Sub qeqwI'vam;"
+	para "Sub chojwI'vam;"
 	line "nagh rur!"
 	done
 
