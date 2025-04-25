@@ -27,7 +27,7 @@ _ChampionsRoomRivalIntroText::
 	para "qaja'!"
 
 	para "qo'vam naQDaq"
-	line "qeqwI''e' jIH HoS"
+	line "chojwI''e' jIH HoS"
 	cont "law' Hoch HoS puS!"
 	done
 
@@ -66,7 +66,7 @@ _ChampionsRoomRivalAfterBattleText::
 	line "chay jIluj?"
 
 	para "#<m><a><n>meywIj"
-	line "vIqeqmoHtaHvIS"
+	line "vIchojmoHtaHvIS"
 	cont "not jIQagh..."
 
 	para "va! #<m><a><n>"
