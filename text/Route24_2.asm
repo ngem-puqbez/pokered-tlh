@@ -6,7 +6,7 @@ _Route24CooltrainerM2EndBattleText::
 
 _Route24CooltrainerM2AfterBattleText::
 	text "QIvetlhDaq Suvchuq"
-	line "qeqwI'pu' HoS."
+	line "chojwI'pu' HoS."
 	cont "mughIj 'e' vIDIS."
 	done
 
