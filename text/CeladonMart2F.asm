@@ -13,7 +13,7 @@ _CeladonMart2FGirlText::
 	done
 
 _CeladonMart2FCurrentFloorSignText::
-	text "qeqwI'vaD luch"
+	text "chojwI'vaD luch"
 	line "pov DIngev!"
 
 	para "S2: chojwI'"
