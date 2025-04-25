@@ -7,7 +7,7 @@ _PewterSpeechHouseGamblerText::
 	line "puS ghojmeH"
 	cont "#<m><a><n>"
 	cont "ghojmoHnIS"
-	cont "qeqwI'Daj."
+	cont "chojwI'Daj."
 	done
 
 _PewterSpeechHouseYoungsterText::
