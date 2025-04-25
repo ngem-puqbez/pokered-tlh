@@ -93,7 +93,7 @@ _OaksLabOak1DeliverParcelText::
 	para "maj!"
 	line "DuparHa'qu'ba'."
 
-	para "#<m><a><n> qeqwI'"
+	para "#<m><a><n> chojwI'"
 	line "po' DamojlaH."
 	cont "qavoqmo' jIlugh!"
 
