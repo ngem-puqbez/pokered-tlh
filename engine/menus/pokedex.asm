@@ -372,7 +372,7 @@ PokedexMenuItemsText:
 	db   "De'"
 	next "wab"
 	next "Daq"
-	next "mej@"
+	next "baq@"
 
 ; tests if a pokemon's bit is set in the seen or owned pokemon bit fields
 ; INPUT:
@@ -547,7 +547,7 @@ ShowPokedexDataInternal:
 	hlcoord 11, 8
 	lb bc, 2, 5 ; 2 bytes, 5 digits
 	call PrintNumber ; print weight
-	hlcoord 14, 8
+	hlcoord 9, 8
 	ldh a, [hDexWeight + 1]
 	sub 10
 	ldh a, [hDexWeight]
