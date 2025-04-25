@@ -39,8 +39,8 @@ TwoOptionMenuStrings:
 
 .TradeCancelMenu:
 	db   "mech"
-	next "mej@"
+	next "baq@"
 
 .HealCancelMenu:
 	db   "pIvmoH"
-	next "mej@"
+	next "baq@"
