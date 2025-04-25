@@ -3,27 +3,27 @@ _FileDataDestroyedText::
 	prompt
 
 _WouldYouLikeToSaveText::
-	text "Quj ta Daqon"
-	line "DaneH'a'?"
+	text "Quj ta ngeq"
+	line "qaw DaneH'a'?"
 	done
 
 _GameSavedText::
-	text "Quj ta qonta'"
+	text "Quj ta ngeqta'"
 	line "<PLAYER>!"
 	done
 
 _OlderFileWillBeErasedText::
 	text "Quj ta ngo'"
 	line "woDlu' 'e' "
-	cont "Dalaj'a'?"
+	cont "DaneHbej'a'?"
 	done
 
 _WhenYouChangeBoxText::
 	text "#<m><a><n> ta DawIvchugh"
-	line "Quj ta qonnISlu'."
+	line "Quj ta ngeqnISlu'."
 
-	para "ta Daqon 'e'"
-	line "Dachaw'a'?"
+	para "ta Dangeq 'e'"
+	line "DaneHbej'a'?"
 	done
 
 _ChooseABoxText::
