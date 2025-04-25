@@ -91,27 +91,27 @@ ENDM
 
 DiplomaTextPointersAndCoords:
 	; x, y, text
-	diploma_text  5,  2, DiplomaText
-	diploma_text  3,  4, DiplomaPlayer
+	diploma_text  6,  2, DiplomaText
+	diploma_text  2,  4, DiplomaPlayer
 	diploma_text 15,  4, DiplomaEmptyText
 	diploma_text  2,  6, DiplomaCongrats
 	diploma_text  9, 16, DiplomaGameFreak
 
 DiplomaText:
-	db CIRCLE_TILE_ID, "Diploma", CIRCLE_TILE_ID, "@"
+	db CIRCLE_TILE_ID, "<Q><o><y><j><e><'>", CIRCLE_TILE_ID, "@"
 
 DiplomaPlayer:
-	db "Player@"
+	db "meqlu'! @"
 
 DiplomaEmptyText:
 	db "@"
 
 DiplomaCongrats:
-	db   "Congrats! This"
-	next "diploma certifies"
-	next "that you have"
-	next "completed your"
-	next "#DEX.@"
+	db   "quv wIHoy'qu'!"
+	next "#<p><a><q> naQ"
+	next "ghIrta' ghaH!"
+	next "ta'vam woqbej"
+	next "Qoyje'vam. <tlh>@"
 
 DiplomaGameFreak:
 	db "GAME FREAK@"
