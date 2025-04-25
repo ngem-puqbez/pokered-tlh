@@ -2,11 +2,11 @@ _BrunoBeforeBattleText::
 	text "<S><o><m><r><o><'> jIH!"
 	line "<l><o><S> <n><I><v><w><I><'> vI'oS!"
 
-	para "qeqqu'chugh"
+	para "chojqu'chugh"
 	line "HoSchoH ghotpu'"
 	cont "#<m><a><n>mey je."
 
-	para "maqeqmeH luch"
+	para "machojmeH luch"
 	line "'ugh DIpep jIH"
 	cont "#<m><a><n>wIj je!"
 
