@@ -82,7 +82,7 @@ _CeruleanGymEndBattleText1::
 
 _CeruleanGymAfterBattleText1::
 	text "HoSna'lIj DatobmeH"
-	line "qeqwIpu' latlh"
+	line "chojwIpu' latlh"
 	cont "DaqaDnIS."
 	done
 
