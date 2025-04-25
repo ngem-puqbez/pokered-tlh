@@ -5,7 +5,7 @@ _SSAnne2FWaiterText::
 
 	para "Hoch verghDaq"
 	line "wISuch 'ej lop"
-	cont "qeqwI'pu' law'!"
+	cont "chojwI'pu' law'!"
 	done
 
 _SSAnne2FRivalText::
