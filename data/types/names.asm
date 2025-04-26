@@ -40,4 +40,4 @@ ENDR
 .Bird:     db "  -<Q><a><g><h>-@"
 .Bug:      db "  <g><h><e><w>@"
 .Ghost:    db "   <q><a><'>@"
-.Dragon:   db "<t><l><h><a><p><r><a><g><h>@"
+.Dragon:   db " <l><u><n><g><'><a><'>@"
