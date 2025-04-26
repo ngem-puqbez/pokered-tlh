@@ -16,6 +16,7 @@ _Route1Youngster1MartSampleText::
 _Route1Youngster1GotPotionText::
 	text "<H><e><r><g><h> Suq"
 	line "<PLAYER>.@"
+	text_end
 
 _Route1Youngster1AlsoGotPokeballsText::
 	text "#<m><a><n> chu'"
