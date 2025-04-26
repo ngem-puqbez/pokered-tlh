@@ -641,7 +641,7 @@ _ViridianSchoolBlackboardText2::
 	done
 
 _ViridianBlackboardSleepText::
-	text "QongtaHvIS"
+	text "<Q>o<n><g>taHvIS"
 	line "#<m><a><n> HIvlaHbe'!"
 
 	para "rInchugh may'"
@@ -654,7 +654,7 @@ _ViridianBlackboardSleepText::
 
 _ViridianBlackboardPoisonText::
 	text "#<m><a><n> ngejchugh "
-	line "tar vaj QIt"
+	line "<t><a><r> vaj QIt"
 	cont "nup yInDaj."
 
 	para "rInDI' may'"
@@ -665,7 +665,7 @@ _ViridianBlackboardPoisonText::
 	prompt
 
 _ViridianBlackboardPrlzText::
-	text "roSHa'moHlu'DI'"
+	text "<r>oS<H>a'<m>oHlu'DI'"
 	line "lujchoH #<m><a><n>"
 	cont "tonSaw'mey!"
 
@@ -677,7 +677,7 @@ _ViridianBlackboardPrlzText::
 	prompt
 
 _ViridianBlackboardBurnText::
-	text "meQchugh #<m><a><n>"
+	text "<m><e><Q>chugh #<m><a><n>"
 	line "HoSDaj DoDaj"
 	cont "je lunuplu'. "
 	cont "yInDaj nup je."
@@ -690,7 +690,7 @@ _ViridianBlackboardBurnText::
 	prompt
 
 _ViridianBlackboardFrozenText::
-	text "taDchugh #<m><a><n>"
+	text "<t><a><D>chugh #<m><a><n>"
 	line "vanglaHbe'chu'!"
 
 	para "rInDI' may'"
