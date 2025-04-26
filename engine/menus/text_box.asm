@@ -342,7 +342,7 @@ DisplayTwoOptionMenu:
 
 TwoOptionMenu_SaveScreenTiles:
 	ld de, wBuffer
-	lb bc, 5, 6
+	lb bc, 5, 8
 .loop
 	ld a, [hli]
 	ld [de], a
@@ -350,10 +350,10 @@ TwoOptionMenu_SaveScreenTiles:
 	dec c
 	jr nz, .loop
 	push bc
-	ld bc, SCREEN_WIDTH - 6
+	ld bc, SCREEN_WIDTH - 8
 	add hl, bc
 	pop bc
-	ld c, $6
+	ld c, $8
 	dec b
 	jr nz, .loop
 	ret
