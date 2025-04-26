@@ -2563,8 +2563,8 @@ TossItem_::
 	call CopyToStringBuffer
 	ld hl, IsItOKToTossItemText
 	call PrintText
-	hlcoord 14, 7
-	lb bc, 8, 15
+	hlcoord 12, 7
+	lb bc, 8, 13
 	ld a, TWO_OPTION_MENU
 	ld [wTextBoxID], a
 	call DisplayTextBoxID ; yes/no menu
