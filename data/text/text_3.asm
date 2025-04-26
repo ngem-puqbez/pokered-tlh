@@ -103,7 +103,7 @@ _GreatlyRoseText::
 
 _RoseText::
 	text_start
-	line "<TARGET>"
+	line "<USER>"
 	cont "@"
 	text_ram wStringBuffer
 	text "."
