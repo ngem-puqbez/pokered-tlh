@@ -464,11 +464,29 @@ PrintNamingText:
 	pop af
 	ld [wNamedObjectIndex], a
 	call GetMonName
-	hlcoord 4, 1
+	hlcoord 3, 1
 	call PlaceString
+	ld hl, $0
+	add hl, bc
+	ld [hl], "v"
 	ld hl, $1
 	add hl, bc
-	ld [hl], " " ; leftover from Japanese version; blank tile $c9 in English
+	ld [hl], "a"
+	ld hl, $2
+	add hl, bc
+	ld [hl], "D"
+	ld hl, $3
+	add hl, bc
+	ld [hl], " "
+	ld hl, $4
+	add hl, bc
+	ld [hl], "n"
+	ld hl, $5
+	add hl, bc
+	ld [hl], "u"
+	ld hl, $6
+	add hl, bc
+	ld [hl], "q"
 	hlcoord 1, 3
 	ld de, NicknameTextString
 	jr .placeString
@@ -476,18 +494,19 @@ PrintNamingText:
 	call PlaceString
 	ld l, c
 	ld h, b
+	hlcoord 1, 3
 	ld de, NameTextString
 .placeString
 	jp PlaceString
 
 YourTextString:
-	db "QujwI' @"
+	db " QujwI'vaD nuq @"
 
 RivalsTextString:
-	db "ghol @"
+	db " gholvaD nuq @"
 
 NameTextString:
-	db "pong?@"
+	db "ponglu'?@"
 
 NicknameTextString:
-	db "pong?@"
+	db "Dapong?@"
