@@ -490,4 +490,4 @@ NameTextString:
 	db "pong?@"
 
 NicknameTextString:
-	db "pong tlhIn?@"
+	db "pong?@"
