@@ -11,7 +11,7 @@ SilphCo2FSilphWorkerFPleaseTakeThisText::
 
 _SilphCo2FSilphWorkerFReceivedTM36Text::
 	text_ram wStringBuffer
-	text "Hev <PLAYER>!@"
+	text " Hev <PLAYER>!@"
 	text_end
 
 _SilphCo2FSilphWorkerFTM36ExplanationText::
