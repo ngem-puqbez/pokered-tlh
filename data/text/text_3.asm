@@ -19,7 +19,7 @@ _OlderFileWillBeErasedText::
 	done
 
 _WhenYouChangeBoxText::
-	text "#<m><a><n> ta DawIvchugh"
+	text "<PKMN> ta DawIvchugh"
 	line "Quj ta ngeqnISlu'."
 
 	para "ta Dangeq 'e'"
