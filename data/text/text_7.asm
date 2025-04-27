@@ -58,10 +58,10 @@ _TradedForText::
 	text "mech <PLAYER>."
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text " ngeH "
-	cont "'ej @"
+	text " DangeH, "
+	cont "@"
 	text_ram wInGameTradeReceiveMonName
-	text " Hev!@"
+	text " DaHev!@"
 	text_end
 
 _WannaTrade1Text::
