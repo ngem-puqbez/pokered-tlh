@@ -16,7 +16,7 @@ _GotMapText::
 	text_ram wStringBuffer
 	text " Suq@"
 	text_start
-	line "<PLAYER>!"
+	line "<PLAYER>!@"
 	text_end
 
 _BluesHouseDaisyBagFullText::
