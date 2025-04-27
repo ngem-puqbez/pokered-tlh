@@ -2886,7 +2886,7 @@ PrintMenuItem:
 	call PlaceString
 	hlcoord 7, 11
 	ld [hl], "/"
-	hlcoord 5, 9
+	hlcoord 4, 9
 	ld [hl], "/"
 	hlcoord 5, 11
 	ld de, wBattleMenuCurrentPP
@@ -2897,7 +2897,7 @@ PrintMenuItem:
 	lb bc, 1, 2
 	call PrintNumber
 	call GetCurrentMove
-	hlcoord 2, 10
+	hlcoord 1, 10
 	predef PrintMoveType
 .moveDisabled
 	ld a, $1
@@ -6842,6 +6842,10 @@ InitWildBattle:
 	ld a, "<a>"
 	ld [hli], a
 	ld a, "<'>"
+	ld [hli], a
+	ld a, " "
+	ld [hli], a
+	ld a, " "
 	ld [hli], a
 	ld [hl], "@"
 	ld a, [wCurPartySpecies]
