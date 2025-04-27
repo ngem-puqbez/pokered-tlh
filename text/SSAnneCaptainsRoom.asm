@@ -33,7 +33,7 @@ _SSAnneCaptainsRoomCaptainIFeelMuchBetterText::
 _SSAnneCaptainsRoomCaptainReceivedHM01Text::
 	text "@"
 	text_ram wStringBuffer
-	text "Hev <PLAYER>!@"
+	text " Hev <PLAYER>!@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainNotSickAnymoreText::
