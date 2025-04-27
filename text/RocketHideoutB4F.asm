@@ -28,7 +28,7 @@ _RocketHideoutB4FGiovanniHopeWeMeetAgainText::
 
 _RocketHideoutB4FRocket1BattleText::
 	text "qaghov! <m><a><S> <H><u><D>Daq"
-	line " nabmaj DanIS!"
+	line "nabmaj DanIS!"
 	done
 
 _RocketHideoutB4FRocket1EndBattleText::
