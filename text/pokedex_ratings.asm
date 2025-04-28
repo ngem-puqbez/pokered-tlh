@@ -4,13 +4,13 @@ _DexCompletionText::
 
 	para "@"
 	text_decimal hDexRatingNumMonsSeen, 1, 3
-	text " #<m><a><n> leghpu'"
+	text " #<m><a><n> legh"
 	line "@"
 	text_decimal hDexRatingNumMonsOwned, 1, 3
-	text " #<m><a><n> jonpu'"
+	text " #<m><a><n> jon"
 
-	para "<'><o><Q> 'a'ghen"
-	line "vuD:"
+	para "<'><o><Q> 'a'ghen vuD:"
+	line ""
 	prompt
 
 _DexRatingText_Own0To9::
