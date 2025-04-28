@@ -55,8 +55,8 @@ _Route14CooltrainerM4BattleText::
 	done
 
 _Route14CooltrainerM4EndBattleText::
-	text "chalvo'"
-	line "chopummoH!"
+	text "Qo'!"
+	line "chalvo' chopummoH!"
 	prompt
 
 _Route14CooltrainerM4AfterBattleText::
