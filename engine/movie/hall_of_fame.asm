@@ -172,7 +172,7 @@ HoFDisplayMonInfo:
 	call PrintLevelCommon
 	ld a, [wHoFMonSpecies]
 	ld [wCurSpecies], a
-	hlcoord 3, 9
+	hlcoord 2, 9
 	predef PrintMonType
 	ld a, [wHoFMonSpecies]
 	jp PlayCry
