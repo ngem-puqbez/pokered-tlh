@@ -189,10 +189,10 @@ _SilphCo7FRivalGoodLuckToYouText::
 
 	para "<l><o><S> <n><I><v><w><I><'><p><u><'>"
 	line "vIjeymeH #<m><a><n>"
-	cont "qaD vaS vIve'!qo'"
+	cont "qaD vaS vIve'!"
 
 	para "#<m><a><n> chojwI'"
-	line "nIvchu' vImoj!"
+	line "nIvchu' vImojlI'!"
 
 	para "<PLAYER>, "
 	line "bIDo'taHjaj!"
