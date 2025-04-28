@@ -248,10 +248,10 @@ Credits:
 	ld hl, vChars2 tile $60
 	lb bc, BANK(TheEndGfx), (TheEndGfxEnd - TheEndGfx) / $10
 	call CopyVideoData
-	hlcoord 4, 8
+	hlcoord 5, 8
 	ld de, TheEndTextString
 	call PlaceString
-	hlcoord 4, 9
+	hlcoord 5, 9
 	inc de
 	call PlaceString
 	jp FadeInCreditsText
