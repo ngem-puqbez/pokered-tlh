@@ -9,9 +9,9 @@ _CopycatsHouse2FCopycatDoYouLikePokemonText::
 	line "bItaQ!"
 
 	para "<l><I><l><o><y>: nuqjatlh?"
-	line "qalIl 'e' vImev'a'?"
+	line "qalIl 'e' yImev?"
 
-	para "... Qo'? 'ach bel"
+	para "...Qo'? 'ach bel"
 	line "Qu'vam vImaSqu'!"
 	prompt
 
