@@ -29,7 +29,7 @@ _CopycatsHouse2FCopycatTM31PreReceiveText::
 _CopycatsHouse2FCopycatReceivedTM31Text::
 	text_ram wStringBuffer
 	text " Suq"
-	cont "<PLAYER>."
+	line "<PLAYER>."
 	text_end
 
 _CopycatsHouse2FCopycatTM31Explanation1Text::
