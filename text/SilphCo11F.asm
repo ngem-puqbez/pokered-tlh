@@ -20,7 +20,8 @@ _SilphCo11FSilphPresidentText::
 _SilphCo11FSilphPresidentReceivedMasterBallText::
 
 	text_ram wStringBuffer
-	text "Hev <PLAYER>!@"
+	text " Hev"
+	line "<PLAYER>!@"
 	text_end
 
 _SilphCo11FSilphPresidentMasterBallDescriptionText::
