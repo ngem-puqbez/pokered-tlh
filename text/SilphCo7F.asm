@@ -189,9 +189,9 @@ _SilphCo7FRivalGoodLuckToYouText::
 
 	para "<l><o><S> <n><I><v><w><I><'><p><u><'>"
 	line "vIjeymeH #<m><a><n>"
-	cont "qaD vaS vIve'!"
+	cont "qaD vaS vIve'!qo'"
 
-	para "qo' #<m><a><n> chojwI'"
+	para "#<m><a><n> chojwI'"
 	line "nIvchu' vImoj!"
 
 	para "<PLAYER>, "
