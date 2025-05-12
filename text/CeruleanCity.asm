@@ -132,19 +132,19 @@ _CeruleanCityGuardText::
 	done
 
 _CeruleanCityCooltrainerF1SlowbroUseSonicboomText::
-	text "'eH! <t><a><r><g><h><u><r><o><j>!"
+	text "'eH! <m><o><D><b><e><b><a><'>!"
 	line "<c><h><u><S> <w><a><b><D><o> yIlo'!"
 	cont "yIghuH, Qo'!"
 	cont "HIqIm!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroPunchText::
-	text "<t><a><r><g><h><u><r><o><j>, yIHIv!"
+	text "<m><o><D><b><e><b><a><'>, yIHIv!"
 	line "va! bIlujqa'!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroWithdrawText::
-	text "<t><a><r><g><h><u><r><o><j>!"
+	text "<m><o><D><b><e><b><a><'>!"
 	line "<n><a><g><h> <D><I><r> <'><e><l>!"
 	cont "bIwaS! bIQapbe'!"
 
@@ -158,22 +158,22 @@ _CeruleanCityCooltrainerF1SlowbroWithdrawText::
 
 _CeruleanCitySlowbroTookASnoozeText::
 	text "DumchoH"
-	line "<t><a><r><g><h><u><r><o><j>..."
+	line "<m><o><D><b><e><b><a><'>..."
 	done
 
 _CeruleanCitySlowbroIsLoafingAroundText::
 	text "leStaH"
-	line "<t><a><r><g><h><u><r><o><j>..."
+	line "<m><o><D><b><e><b><a><'>..."
 	done
 
 _CeruleanCitySlowbroTurnedAwayText::
 	text "buSHa'"
-	line "<t><a><r><g><h><u><r><o><j>..."
+	line "<m><o><D><b><e><b><a><'>..."
 	done
 
 _CeruleanCitySlowbroIgnoredOrdersText::
 	text "lobHa'"
-	line "<t><a><r><g><h><u><r><o><j>..."
+	line "<m><o><D><b><e><b><a><'>..."
 	done
 
 _CeruleanCityCooltrainerF2Text::
