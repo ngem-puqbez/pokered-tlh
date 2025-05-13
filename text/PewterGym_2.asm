@@ -106,7 +106,7 @@ _PewterGymGuidePreAdviceText::
 	line "'obe' DacharghlaH"
 	cont "'e' vInoH!"
 
-	para "chojwI' jIHbe' 'ach"
+	para "chojwI' jIHbe' 'a"
 	line "bIQap DaneHchugh"
 	cont "qeSwIj yIQoy!"
 
@@ -133,7 +133,7 @@ _PewterGymGuideAdviceText::
 	done
 
 _PewterGymGuideFreeServiceText::
-	text "qeSwIj DaDIlnISbe'."
+	text "qeS DaDIlnISbe'."
 	line "maja'chuqtaHvIS"
 	cont "mavanglaHbe'!"
 	prompt
