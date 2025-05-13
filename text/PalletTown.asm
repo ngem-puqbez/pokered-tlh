@@ -11,7 +11,7 @@ _PalletTownOakItsUnsafeText::
 	para "DaHublu'meH"
 	line "#<m><a><n>lIj"
 	cont "tlhIn DapoQ."
-	cont "jItlhojta'!"
+	cont "toH jISov!"
 
 	para "DaH HItlhej!"
 	done
