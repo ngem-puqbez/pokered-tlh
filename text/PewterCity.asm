@@ -53,7 +53,7 @@ _PewterCitySuperNerd2DoYouKnowWhatImDoingText::
 
 _PewterCitySuperNerd2ThatsRightText::
 	text "bIlugh!"
-	line "Qatlh ghIgh 'oH!"
+	line "ghIgh Qatlh 'oH!"
 	done
 
 _PewterCitySuperNerd2ImSprayingRepelText::
