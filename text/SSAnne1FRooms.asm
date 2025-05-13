@@ -30,7 +30,7 @@ _SSAnne1FRoomsGentleman2BattleText::
 
 _SSAnne1FRoomsGentleman2EndBattleText::
 	text "va! puq"
-	line "Dochqu' SoHbej!"
+	line "bIDochqu'bej!"
 	prompt
 
 _SSAnne1FRoomsGentleman2AfterBattleText::
