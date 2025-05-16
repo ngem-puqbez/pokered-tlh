@@ -44,7 +44,7 @@ _BillsHouseBillThankYouText::
 
 	para "toH, #<m><a><n>"
 	line "vIboSta'bogh"
-	cont "Daleng DaneH'a'?"
+	cont "Dalegh DaneH'a'?"
 	cont "ghobe'?"
 	cont "chobelHa'moH."
 
@@ -67,7 +67,7 @@ _SSTicketNoRoomText::
 
 _BillsHouseBillWhyDontYouGoInsteadOfMeText::
 	text "<b><e><q><p><u><j> <v><e><n><g>Daq"
-	line "Duj tu'lu'. <b><I><Q><D><u><j>"
+	line "Duj Datu'. <b><I><Q><D><u><j>"
 	cont "<H><o><y><q><u><'> 'oH"
 	cont "Dujvetlh pong'e'."
 	cont "#<m><a><n> chojwI'"
