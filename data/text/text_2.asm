@@ -118,7 +118,7 @@ _YeahText::
 	text_end
 
 _DexSeenOwnedText::
-	text "#<p><a><q>   legh:@"
+	text "#<t><a>   legh:@"
 	text_decimal wDexRatingNumMonsSeen, 1, 3
 	text_start
 	line "           jon:@"
@@ -126,7 +126,7 @@ _DexSeenOwnedText::
 	text_end
 
 _DexRatingText::
-	text "#<p><a><q> Sar<COLON>"
+	text "#<t><a> Sar<COLON>"
 	done
 
 _GymStatueText1::
@@ -291,13 +291,13 @@ _NewBicycleText::
 	done
 
 _PushStartText::
-	text "yevmeH tagh leQ"
+	text "yevmeH [start] leQ"
 	line "yI'uy!"
 	done
 
 _SaveOptionText::
 	text "Quj Dayevchugh"
-	line "Quj ta DaqonlaH."
+	line "Quj ta DangeqlaH."
 	done
 
 _StrengthsAndWeaknessesText::
@@ -390,7 +390,7 @@ _MagazinesText::
 
 _BillsHouseMonitorText::
 	text "HaSta'Daq"
-	line "jolpat cha'lu'"
+	line "jolpat cha'lu'."
 	done
 
 _BillsHouseInitiatedText::
@@ -401,12 +401,12 @@ _BillsHouseInitiatedText::
 
 _BillsHousePokemonListText1::
 	text "#<m><a><n>"
-	line "HaDtaHbogh bIl"
+	line "HaDtaHbogh <b><I><l>"
 	cont "tetlh 'oH."
 	prompt
 
 _BillsHousePokemonListText2::
-	text "#<m><a><n> Dalegh"
+	text "#<m><a><n> Dapoj"
 	line "DaneHbogh yIngu'."
 	done
 
@@ -419,8 +419,7 @@ _OakLabEmailText::
 	line "wIrIt!"
 
 	para "lIqaDrup #<m><a><n>"
-	line "'obe' chojwI'pu'"
-	cont "nIv. "
+	line "'obe' <q><u><'><v><I><g><h>pu'."
 
 	para "#<m><a><n>lIj nIv"
 	line "yIqem 'ej"
@@ -433,12 +432,12 @@ _OakLabEmailText::
 	done
 
 _GameCornerCoinCaseText::
-	text "ngop 'aplo'"
+	text "<n><g><o><p> <'><a><pl><o><'>"
 	line "DapoQ!"
 	done
 
 _GameCornerNoCoinsText::
-	text "Quj ngop DaHutlh!"
+	text "<Q><u><j> <n><g><o><p> DaHutlh!"
 	done
 
 _GameCornerOutOfOrderText::
@@ -538,7 +537,7 @@ _ViridianSchoolNotebookText4::
 	cont "chojwI'pu' law'."
 
 	para "ghIq #<m><a><n>"
-	line "'obe' loS nIvwI'"
+	line "'obe' loS <q><u><'><v><I><g><h>"
 	cont "qaD net chaw'"
 	prompt
 
@@ -653,7 +652,7 @@ _ViridianBlackboardSleepText::
 	prompt
 
 _ViridianBlackboardPoisonText::
-	text "#<m><a><n> ngejchugh "
+	text "#<m><a><n> ngejchugh"
 	line "<t><a><r> vaj QIt"
 	cont "nup yInDaj."
 
@@ -708,7 +707,7 @@ _VermilionGymTrashText::
 _VermilionGymTrashSuccessText1::
 	text "toH! veQ bIngDaq"
 	line "leQ tu'lu'!"
-	cont "yIchu'!"
+	cont "Dachu'!"
 
 	para "ngaQHa'choH"
 	line "'ul Durghang!@"
@@ -716,12 +715,12 @@ _VermilionGymTrashSuccessText1::
 
 _VermilionGymTrashSuccessText2::
 	text "toH! veQ bIngDaq"
-	line "leQ latlh tu'lu'!"
+	line "latlh leQ tu'lu'!"
 	cont "yIchu'!"
 	prompt
 
 _VermilionGymTrashSuccessText3::
-	text "ngaQHa' 'ul "
+	text "ngaQHa' 'ul"
 	line "Durghang cha'DIch!"
 
 	para "lojmIt poSmoH"
@@ -751,14 +750,14 @@ _HiddenItemBagFullText::
 _FoundHiddenCoinsText::
 	text "@"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
-	text "Quj ngop tu'"
+	text "<Q><u><j> <n><g><o><p> tu'"
 	line "<PLAYER>!@"
 	text_end
 
 _FoundHiddenCoins2Text::
 	text "@"
 	text_bcd hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
-	text "Quj ngop tu'"
+	text "<Q><u><j> <n><g><o><p> tu'"
 	line "<PLAYER>!@"
 	text_end
 
@@ -773,7 +772,7 @@ _IndigoPlateauStatuesText1::
 	prompt
 
 _IndigoPlateauStatuesText2::
-	text "hojwI' ngoQ"
+	text "chojwI' ngoQ"
 	line "Qav 'oH!"
 	para "#<m><a><n> 'obe'"
 	line "yaHnIv"
@@ -1235,7 +1234,7 @@ _WildMonAppearedText::
 	text "nargh @"
 	text_ram wEnemyMonNick
 	text_start
-	line "tlhayHa'!"
+	line "tlhab!"
 	prompt
 
 _HookedMonAttackedText::
@@ -1328,14 +1327,14 @@ _SafariZoneEatingText::
 	text "SoptaH @"
 	text_ram wEnemyMonNick
 	text_start
-	line "tlhayHa'!"
+	line "tlhab!"
 	prompt
 
 _SafariZoneAngryText::
 	text "QeH @"
 	text_ram wEnemyMonNick
 	text_start
-	line "tlhayHa'!"
+	line "tlhab!"
 	prompt
 
 ; money related
@@ -1396,7 +1395,7 @@ _AntidoteText::
 _ParlyzHealText::
 	text_ram wNameBuffer
 	text " "
-	line "vIHqa'laH!"
+	line "vIHqa'moHlaH!"
 	done
 
 _BurnHealText::
@@ -1521,7 +1520,7 @@ _NothingStoredText::
 	prompt
 
 _CantCarryMoreText::
-	text "luch latlh"
+	text "latlh luch"
 	line "DaqenglaHbe'."
 	prompt
 
@@ -1622,17 +1621,17 @@ _CF4BExclamationText::
 	prompt
 
 _RequireCoinCaseText::
-	text "ngop 'aplo'"
+	text "<n><g><o><p> <'><a><p><l><o><'>"
 	line "poQlu'!@"
 	text_end
 
 _ExchangeCoinsForPrizesText::
 	text "tevmey DaSuqmeH"
-	line "Quj ngoplIj wItam."
+	line "<Q><u><j> <n><g><o><p>lIj wItam."
 	prompt
 
 _WhichPrizeText::
-	text "noblIj yIwIv!"
+	text "tevlIj yIwIv!"
 	done
 
 _HereYouGoText::
@@ -1648,7 +1647,7 @@ _SoYouWantPrizeText::
 	done
 
 _SorryNeedMoreCoinsText::
-	text "jIQoS, Quj ngop"
+	text "jIQoS, <Q><u><j> <n><g><o><p>"
 	line "yap Daghajbe'.@"
 	text_end
 
@@ -1662,7 +1661,7 @@ _OhFineThenText::
 	text_end
 
 _GetDexRatedText::
-	text "#<p><a><q>lIj chov"
+	text "#<t><a>lIj chov"
 	line "<'><o><Q> DaneH'a'?"
 	done
 
@@ -1675,7 +1674,7 @@ _AccessedOaksPCText::
 	text "<'><o><Q> 'a'ghen De'wI'"
 	line "DangaQHa'moH."
 
-	para "#<p><a><q> chovwI'"
+	para "#<t><a> chovwI'"
 	line "pat Danaw'."
 	prompt
 
@@ -1684,7 +1683,7 @@ _WhereWouldYouLikeText::
 	done
 
 _PleaseWaitText::
-	text "toH poH ngaj"
+	text "toH, poH ngaj"
 	line "yIloS."
 	done
 
