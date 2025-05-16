@@ -46,7 +46,7 @@ _CinnabarLabFossilRoomScientist1SeesFossilText::
 	line "@"
 	text_ram wStringBuffer
 	text " tu'lu'!"
-	cont "bIv tIQqu' loqchoH"
+	cont "bov tIQ loqchoH"
 	cont "#<m><a><n> mutvam!"
 
 	para "#<m><a><n>vetlh"
