@@ -71,7 +71,7 @@ _CannotUseItemsHereText::
 	prompt
 
 _CannotGetOffHereText::
-	text "naDev "
+	text "naDev"
 	line "DalItHa'laHbe'."
 	prompt
 
@@ -99,6 +99,6 @@ _BoxIsFullText::
 	para "wejHa buy' De'wI'"
 	line "ta Dalo'taHbogh!"
 
-	para "#ropyaHDaq ta"
+	para "#<r><o><p><y><a><H>Daq ta"
 	line "pIm DawIvlaH!"
 	done
