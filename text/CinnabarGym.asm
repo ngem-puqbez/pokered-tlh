@@ -165,7 +165,7 @@ _CinnabarGymSuperNerd6EndBattleText::
 	prompt
 
 _CinnabarGymSuperNerd6AfterBattleText::
-	text "<n><o><m><q><e><t><S><u><'> <q><u><l><H><o><S>"
+	text "<n><o><m><q><e><t><S><u><'> <q><e><S><H><a><t>"
 	line "je DIparHa' qul"
 	cont "#<m><a><n> Ho'wI'pu'!"
 	done
