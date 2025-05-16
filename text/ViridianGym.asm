@@ -8,7 +8,7 @@ _ViridianGymGiovanniPreBattleText::
 
 	para "'ach choSamqa'pu'!"
 	line "wejpuH! DaH pung"
-	cont "vI'aghQo'chu'"
+	cont "qa'aghchu'Qo'"
 
 	para "wa'logh <j><I><v><v><o><'><n><I><'>"
 	line "chojwI' nIvqu'"
@@ -106,12 +106,12 @@ _ViridianGymHiker1AfterBattleText::
 
 _ViridianGymRocker1BattleText::
 	text "matay'taHvIS jIH"
-	text "#<m><a><n>wIj je QoQ "
+	line "#<m><a><n>wIj je QoQ "
 	cont "'ey wIbom!"
 	done
 
 _ViridianGymRocker1EndBattleText::
-	text "pupchu'ba'"
+	text "pup"
 	line "'ISQImlIj!"
 	prompt
 
@@ -127,7 +127,8 @@ _ViridianGymHiker2BattleText::
 	done
 
 _ViridianGymHiker2EndBattleText::
-	text "'eQQuSngew!"
+	text " "
+        line "'eQQuSngew!"
 	prompt
 
 _ViridianGymHiker2AfterBattleText::
@@ -211,7 +212,7 @@ _ViridianGymGuidePreBattleText::
 	cont "HoS puS!"
 
 	para "naDev yav #<m><a><n>"
-	line "maSlaw' chojwI'pu'!"
+	line "maS chojwI'pu'!"
 	done
 
 _ViridianGymGuidePostBattleText::
