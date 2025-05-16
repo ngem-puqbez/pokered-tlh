@@ -9,8 +9,8 @@ _VictoryRoad3FCooltrainerM1EndBattleText::
 	prompt
 
 _VictoryRoad3FCooltrainerM1AfterBattleText::
-	text "<p><e><n><g><D><u><j> ghom"
-	line "<j><I><v><v><o><'><n><I><'> je Dajey'a'?"
+	text "<j><I><v><v><o><'><n><I><'>, <p><e><n><g><D><u><j>"
+	line "ghom je Dajey'a'?"
 	done
 
 _VictoryRoad3FCooltrainerF1BattleText::
