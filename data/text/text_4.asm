@@ -19,7 +19,7 @@ _PlayerBlackedOutText::
 	prompt
 
 _RepelWoreOffText::
-	text "QapHa'choH "
+	text "QapHa'choH"
 	line "<D><o><H><m><o><H><w><I><'>."
 	done
 
