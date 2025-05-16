@@ -12,7 +12,7 @@ _CinnabarPokecenterGentlemanText::
 	text "jupwI'pu'"
 	line "Daghaj'a'?"
 
-	para "#<m><a><n> mechlu'chugh"
+	para "#<m><a><n> mechlu'DI'"
 	line "nom ghoj 'ej nom"
 	cont "nenchoH je."
 	done
