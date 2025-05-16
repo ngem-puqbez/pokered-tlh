@@ -78,7 +78,9 @@ _CinnabarGymSuperNerd1EndBattleText::
 _CinnabarGymSuperNerd1AfterBattleText::
 	text "Hat vItlh gheH"
 	line "qul lIngbogh qul"
-	cont "chIwbogh tonSaw..."
+	cont "chIwbogh tonSaw."
+
+        para "... ..."
 
 	para "toH! Dal'a'"
 	line "SoQwIj? Da'Ijbe'!"
