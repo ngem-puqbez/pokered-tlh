@@ -71,8 +71,8 @@ ViridianCityFisherYouCanHaveThisText::
 	cont "tamghay jIDum."
 
 	para "jInaj 'ej"
-	line "SuchtuvwIj Sop"
-	cont "<D><o><y><'><S><a><n> 'e' vIjal."
+	line "Suchtuv Sopbogh"
+	cont "<D><o><y><'><S><a><n> vIjal."
 	cont "Dochvam nuq?"
 	cont "chay' luchvam"
 	cont "vISuq?"
