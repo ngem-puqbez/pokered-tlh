@@ -8,7 +8,7 @@ _ChampionsRoomRivalIntroText::
 	para "mupo'qu'moHmeH"
 	line "po'nIS gholwI'!"
 
-	para "#<p><a><q>wIj"
+	para "#<t><a><m><e><y>wIj"
 	line "vIghertaHvIS Dat"
 	cont "#<m><a><n> HoS vInej!"
 
@@ -26,9 +26,9 @@ _ChampionsRoomRivalIntroText::
 
 	para "qaja'!"
 
-	para "qo'vam naQDaq"
-	line "chojwI''e' jIH HoS"
-	cont "law' Hoch HoS puS!"
+	para "qo'vam chojwI'e'"
+	line "jIH HoS law' Hoch"
+	cont "HoS puS!"
 	done
 
 _RivalDefeatedText::
