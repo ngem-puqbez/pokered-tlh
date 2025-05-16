@@ -36,7 +36,7 @@ _ItemUseBallText05::
 	text_end
 
 _ItemUseBallText07::
-	text "bIl De'wI'Daq"
+	text "<b><I><l> De'wI'Daq"
 	line "@"
 	text_ram wBoxMonNicks
 	text " "
@@ -75,7 +75,7 @@ _VitaminStatRoseText::
 	text ""
 	line "@"
 	text_ram wStringBuffer
-	text " 'argh."
+	text " Dub."
 	prompt
 
 _VitaminNoEffectText::
@@ -120,17 +120,17 @@ _CoinCaseNumCoinsText::
 _ItemfinderFoundItemText::
 	text "maj! Hop luch"
 	line "'e' 'ang"
-	cont "luch nejwI'."
+	cont "<l><u><c><h> <n><e><j><w><I><'>."
 	prompt
 
 _ItemfinderFoundNothingText::
 	text "ghobe'! pagh "
-	line "'ang luch nejwI'."
+	line "'ang <l><u><c><h> <n><e><j><w><I><'>."
 	prompt
 
 _RaisePPWhichTechniqueText::
 	text "tonSaw''e' HH"
-	line "Da'argh yIwIv."
+	line "DaDub yIwIv."
 	done
 
 _RestorePPWhichTechniqueText::
@@ -140,13 +140,13 @@ _RestorePPWhichTechniqueText::
 
 _PPMaxedOutText::
 	text "Qapbe'. wejHa'"
-	line "'arghlu'chu'ta'."
+	line "Dublu'chu'ta'."
 	prompt
 
 _PPIncreasedText::
 	text_ram wStringBuffer
 	text " HH"
-	line "Da'argh."
+	line "DaDub."
 	prompt
 
 _PPRestoredText::
@@ -188,8 +188,8 @@ _MonCannotLearnMachineMoveText::
 
 _ItemUseNotTimeText::
 	text "<'><o><Q>: <PLAYER>!"
-	line "DaH luchvam"
-	cont "mItbe'! "
+	line "DaH mItbe'"
+	cont "luchvam!"
 	prompt
 
 _ItemUseNotYoursToUseText::
@@ -202,7 +202,7 @@ _ItemUseNoEffectText::
 	prompt
 
 _ThrowBallAtTrainerMonText1::
-	text "moQ bot chojwI'"
+	text "moQ bot chojwI'."
 	prompt
 
 _ThrowBallAtTrainerMonText2::
@@ -210,8 +210,8 @@ _ThrowBallAtTrainerMonText2::
 	prompt
 
 _NoCyclingAllowedHereText::
-	text "naDev qam Do"
-	next "Dujmey tuchlu'."
+	text "naDev <q><a><m> <D><o>"
+	next "<D><u><j> lutuchlu'."
 	prompt
 
 _NoSurfingHereText::
