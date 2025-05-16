@@ -1,6 +1,6 @@
 _AgathaBeforeBattleText::
 	text "<q><a><'><r><a><n><a> jIH!"
-	line "<l><o><S> <n><I><v><w><I><'> vI'oS!"
+	line "<l><o><S> <q><u><'><v><I><g><h> vI'oS!"
 
 	para "<'><o><Q> 'a'genvaD"
 	line "bIDajbej, puq!"
@@ -10,8 +10,8 @@ _AgathaBeforeBattleText::
 	cont "rotlh! 'ach"
 	cont "'opmaH ben!"
 
-	para "DaH #<p><a><q> 'urgh"
-	line "neH ghaH!"
+	para "DaH #<t><a><m><e><y>"
+	line "'urgh neH ghaH!"
 	cont "'a lughbe'qu'!"
 	cont "Suv #<m><a><n>mey"
 	cont "net tlheb!"
