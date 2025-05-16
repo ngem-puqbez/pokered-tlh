@@ -17,9 +17,9 @@ _Route4CooltrainerF2EndBattleText::
 	prompt
 
 _Route4CooltrainerF2AfterBattleText::
-	text "chaq naDev "
+	text "chaq naDev"
 	line "'atlhqammey"
-	cont " tu'lu'be'."
+	cont "tu'lu'be'."
 
 	para "wejHa' Hoch"
 	line "vIboSta' 'e'"
