@@ -19,8 +19,8 @@ _CinnabarLabMetronomeRoomScientist1TM35ExplanationText::
 	cont "<l><e><r><c><h><u><'> tonSaw'!"
 
 	para "tonSaw' Sovbe'bogh"
-	line "#<m><a><n> lo'meH yab"
-	cont "toj wabvetlh taQ!"
+	line "#<m><a><n> lo'meH"
+	cont "yab toj wab taQ!"
 	done
 
 _CinnabarLabMetronomeRoomScientist1TM35NoRoomText::
