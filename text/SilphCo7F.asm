@@ -117,7 +117,7 @@ _SilphCo7FRocket2BattleText::
 
 _SilphCo7FRocket2EndBattleText::
 	text "ghuy'!"
-	line "loDnI'pu, jIluj!"
+	line "loDnI'pu', jIluj!"
 	prompt
 
 _SilphCo7FRocket2AfterBattleText::
