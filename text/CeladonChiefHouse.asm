@@ -1,13 +1,13 @@
 _CeladonChiefHouseChiefText::
 	text "HghHgh! Huch"
-	line "law' Suq SuD jan"
-	cont "jay'!"
+	line "law' Suq SuDmeH"
+	cont "janmey jay'!"
 	done
 
 _CeladonChiefHouseRocketText::
-	text "<p><I><n>!"
+	text "pIn!"
 
-	para "cha' SaD tev"
+	para "cha'SaD tev"
 	line "wIHIjta'."
 	cont "#<m><a><n> bIH!"
 	done
