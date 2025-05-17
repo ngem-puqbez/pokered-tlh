@@ -52,5 +52,5 @@ _PokemonTower2FChannelerText::
 
 	para "chaq jechchaj"
 	line "nge'laH vurbogh"
-	cont "So'Ha'moHwI' jan."
+	cont "<S><o><'><H><a><'><m><o><H><w><I><'> jan."
 	done
