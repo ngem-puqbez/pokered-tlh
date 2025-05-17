@@ -107,7 +107,7 @@ _SilphCo11FRocket1AfterBattleText::
 	done
 
 _SilphCo11FRocket2BattleText::
-	text "mev! neqjung"
+	text "mev! neqjungraj"
 	line "pIH'a' pInwIj?"
 	done
 
