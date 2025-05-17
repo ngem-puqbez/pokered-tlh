@@ -65,7 +65,7 @@ _SSAnneB1FRoomsSailor4EndBattleText::
 _SSAnneB1FRoomsSailor4AfterBattleText::
 	text "bIQ jaQ Dab bIQ'a'"
 	line "#<m><a><n>. DajonmeH"
-	cont "ngelwI' Dalo'nIS!"
+	cont "rItwI' Dalo'nIS!"
 	done
 
 _SSAnneB1FRoomsSailor5BattleText::
