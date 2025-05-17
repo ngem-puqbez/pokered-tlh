@@ -1,6 +1,6 @@
 _Route13CooltrainerM1BattleText::
 	text "tlhaS neH bo'Degh"
-	line " #<m><a><n>wIj!"
+	line "#<m><a><n>wIj!"
 	done
 
 _Route13CooltrainerM1EndBattleText::
