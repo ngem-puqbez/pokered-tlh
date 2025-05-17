@@ -21,7 +21,7 @@ _Route10Hiker1BattleText::
 
 _Route10Hiker1EndBattleText::
 	text "'e-'eQ!"
-	line "pagh qaS!"
+	line "qaS pagh!"
 	para "jI-'eQQuS! jIchuy!"
 	cont "'eQQuSngew!"
 	prompt
