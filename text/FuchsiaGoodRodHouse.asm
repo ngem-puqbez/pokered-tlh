@@ -39,5 +39,6 @@ _FuchsiaGoodRodHouseFishingGuruHowAreTheFishText::
 _FuchsiaGoodRodHouseFishingGuruNoRoomText::
 	text "va'!"
 
-	para "nobwIj DalajlaHbe'!"
+	para "nobwIj"
+        line "DalajlaHbe'!"
 	done
