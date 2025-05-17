@@ -89,7 +89,7 @@ _GameCornerGymGuideChampInMakingText::
 
 	para "naDev pagh potlh"
 	line "Dachav, charghwI' "
-	cont "gheSlaHbogh puq."
+	cont "mojlaHbogh puq."
 
 	para "<n><g><o><p><w><a><g><h> <v><e><n><g>"
 	line "qaDpIn ghaH"
