@@ -15,7 +15,7 @@ _Route16FlyHouseBrunetteGirlReceivedHM02Text::
 
 _Route16FlyHouseBrunetteGirlHM02ExplanationText::
 	text "<p><u><v> ngaS <H><j>02."
-	line "veng DaSuchpu'bogh"
+	line "veng DaSuchbogh"
 	cont "DacheghmeH Dalo'."
 
 	para "qanob 'e' "
