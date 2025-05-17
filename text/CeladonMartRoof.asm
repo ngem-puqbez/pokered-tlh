@@ -93,7 +93,7 @@ _CeladonMartRoofLittleGirlImNotThirstyText::
 	text_end
 
 _CeladonMartRoofSuperNerdText::
-	text "vabDot chojwI' ghaH"
+	text "chojwI' ghaH"
 	line "be'nI'wI' Qup'e'."
 
 	para "'ach Doghqu'mo'"
