@@ -56,7 +56,7 @@ _Route16Biker4AfterBattleText::
 	text "<t><a><r><D><e><H> <v><e><n><g> <b><e><q><p><u><j>"
 	line "<v><e><n><g> je joj"
 	cont "qubbID vech taw."
-	cont "bIQ'a' HeHDaq Sup."
+	cont "bIQ'a' HeHDaq Sum."
 	done
 
 _Route16Biker5BattleText::
