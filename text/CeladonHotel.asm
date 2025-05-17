@@ -12,7 +12,7 @@ _CeladonHotelBeautyText::
 	cont "loDnI'wI' je."
 
 	para "veng 'IHqu' 'oH"
-	line "ngopwagh, qar'a'?"
+	line "<n><g><o><p><w><a><g><h>, qar'a'?"
 	done
 
 _CeladonHotelSuperNerdText::
