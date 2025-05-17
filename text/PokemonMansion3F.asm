@@ -33,8 +33,8 @@ _PokemonMansion3FDiaryText::
 	line "jar 2, jaj 6"
 
 	para "boghmoH"
-	line "<'><I><m><y><a><g><h><o><y><'>."
+	line "<m><u><n><g><o><y>."
 
 	para "ghuDajvaD"
-	line "<'><I><m><y><a><g><h><q><a><'> wIpong."
+	line "<m><u><n><g><c><h><u><'> wIpong."
 	done
