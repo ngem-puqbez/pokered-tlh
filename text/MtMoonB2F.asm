@@ -16,7 +16,7 @@ _MtMoonB2FReceivedFossilText::
 
 _MtMoonB2FYouHaveNoRoomText::
 	text "'Iq luchlIj."
-	line "DaH DawoHlaHbe'.@"
+	line "DaH DaSuqlaHbe'.@"
 	text_end
 
 _MtMoonB2FSuperNerdTheyreBothMineText::
@@ -106,7 +106,7 @@ _MtMoonB2FRocket3AfterBattleText::
 	done
 
 _MtMoonB2FRocket4BattleText::
-	text "qup nuQbe' puq"
+	text "qupchaj nuQbe' puq"
 	line "net tlheb."
 	done
 
