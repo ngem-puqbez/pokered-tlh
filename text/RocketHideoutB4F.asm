@@ -42,7 +42,7 @@ _RocketHideoutB4FRocket1AfterBattleText::
 	done
 
 _RocketHideoutB4FRocket2BattleText::
-	text "ma'IHqu' mIghwI."
+	text "'IHqu' mIghwI."
 	line "chay' Daghovbe'?"
 	done
 
