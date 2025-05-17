@@ -39,7 +39,7 @@ _MrFujisHouseNidorinoText::
 _MrFujisHouseMrFujiIThinkThisMayHelpYourQuestText::
 	text "<v><u><j><I><'>: <PLAYER>."
 
-	para "chaq luj #<p><a><q>"
+	para "chaq luj #<t><a><m><e><y>"
 	line "naQmoHmeH Qu'lIj"
 	cont "#<m><a><n>mey Hoch"
 	cont "DaSaHbe'chugh."
