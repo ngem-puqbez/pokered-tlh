@@ -33,7 +33,7 @@ _SSAnneB1FRoomsSailor2EndBattleText::
 _SSAnneB1FRoomsSailor2AfterBattleText::
 	text "<b><e><q><p><u><j> <v><e><n><g>Daq"
 	line "ghotI' wamwI'"
-	cont "pIn'a' DaqIHpu''a'?"
+	cont "pIn'a' DaqIH'a'?"
 	done
 
 _SSAnneB1FRoomsSailor3BattleText::
