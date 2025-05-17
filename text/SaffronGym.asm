@@ -207,7 +207,7 @@ _SaffronGymYoungster3AfterBattleText::
 	line "<v><e><n><g>Daq cha'"
 	cont "qaDqach tu'lu'."
 
-	para "'ach chaH DIqaD"
+	para "'ach chaH qaD"
 	line "qaDqachmaj 'ej"
 	cont "DIjeychu' vaj"
 	cont "chapHa'choH 'ej"
