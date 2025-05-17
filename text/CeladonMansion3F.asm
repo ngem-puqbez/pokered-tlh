@@ -15,7 +15,7 @@ _CeladonMansion3FWriterText::
 	para "<v><I><l><'><a><S><o><y> vIparHa'"
 	line "je!"
 
-	para "toH 'ej <r><I><l><'><e><g><h>"
+	para "toH 'ej <r><I><l><'><e><g><h>!"
 	line "ghaH vIparHa'!"
 	done
 
