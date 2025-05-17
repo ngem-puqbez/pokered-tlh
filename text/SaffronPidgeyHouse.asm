@@ -7,7 +7,8 @@ _SaffronPidgeyHouseBrunetteGirlText::
 	done
 
 _SaffronPidgeyHousePidgeyText::
-	text "<c><h><a><'><l><I><S><n><u>: quruqquw!@"
+	text "<c><h><a><'><l><I><S><n><u>:"
+        line "quruqquw!@"
 	text_end
 
 _SaffronPidgeyHouseYoungsterText::
