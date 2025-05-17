@@ -81,7 +81,7 @@ _Route16Biker6BattleText::
 
 _Route16Biker6EndBattleText::
 	text " "
-	cont "HIQeHmoHQo'!"
+	line "HIQeHmoHQo'!"
 	prompt
 
 _Route16Biker6AfterBattleText::
