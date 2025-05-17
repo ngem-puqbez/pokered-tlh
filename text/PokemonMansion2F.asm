@@ -29,8 +29,8 @@ _PokemonMansion2FDiary1Text::
 _PokemonMansion2FDiary2Text::
 	text "QulwI' QonoS:"
 	line "jar 7, jaj 10"
-	cont "#<m><a><n>vam chu'vaD"
-	cont "<'><I><m><y><a><g><h><o><y><'> wIpong."
+	cont "#<m><a><n> chu'vaD"
+	cont "<m><u><n><g><o><y> wIpong."
 	done
 
 _PokemonMansion2FSwitchText::
