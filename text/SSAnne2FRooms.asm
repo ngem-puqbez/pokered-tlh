@@ -36,7 +36,7 @@ _SSAnne2FRoomsLittleBoyText::
 	done
 
 _SSAnne2FRoomsBrunetteGirlText::
-	text "roplaw' HoD "
+	text "roplaw' HoD"
 	line "pIvbe'chugh"
 	cont "tlheDbe' DujDaj!"
 	done
