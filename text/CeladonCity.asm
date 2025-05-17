@@ -110,7 +110,7 @@ _CeladonCityGymSignText::
 	line "#<m><a><n> qaDqach"
 	cont "qaDpIn: <'><e><r><I><q><a><'>"
 
-	para "qa' but Ho'bogh"
+	para "qo' but Ho'bogh"
 	line "choQun be'!"
 	done
 
