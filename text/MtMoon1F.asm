@@ -60,7 +60,7 @@ _MtMoon1FSuperNerdAfterBattleText::
 
 _MtMoon1FCooltrainerF2BattleText::
 	text "nuqneH? naDev"
-	line "jupwI'pu' vIloStaH."
+	line "jupwI'pu' vIloS."
 	done
 
 _MtMoon1FCooltrainerF2EndBattleText::
