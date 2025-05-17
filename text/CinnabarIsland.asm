@@ -13,17 +13,18 @@ _CinnabarIslandGirlText::
 _CinnabarIslandGamblerText::
 	text "pa'logh meQpu'bogh"
 	line "qachvetlh chImDaq"
-	cont "ngong tejpu."
+	cont "ngong tejpu'."
 	done
 
 _CinnabarIslandSignText::
 	text "<n><a><g><h><q><u><l> 'ambay'"
-	line "meQ chabal vengHom"
-	cont "tuj"
+	line "meQbogh chabal"
+	cont "vengHom tuj"
 	done
 
 _CinnabarIslandPokemonLabSignText::
-	text "#<m><a><n> Qulpa' qach"
+	text "#<m><a><n>"
+        line "Qulpa' qach"
 	done
 
 _CinnabarIslandGymSignText::
