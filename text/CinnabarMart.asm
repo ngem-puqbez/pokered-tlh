@@ -6,5 +6,5 @@ _CinnabarMartSilphWorkerFText::
 
 _CinnabarMartScientistText::
 	text "luch 'Iq "
-	line "ghajlaHbe'lu'!"
+	line "ghajlaHbe' vay'!"
 	done
