@@ -138,7 +138,7 @@ _SaffronGymYoungster1AfterBattleText::
 	done
 
 _SaffronGymChanneler2BattleText::
-	text "chojwI'chaj rurchoH"
+	text "chojwI'chaj rur"
 	line "#<m><a><n>mey."
 
 	para "vaj rotlhlaw'"
