@@ -10,8 +10,8 @@ _Route25Youngster1EndBattleText::
 	prompt
 
 _Route25Youngster1AfterBattleText::
-	text "puj tlhIn ghaj Hoch"
-	line "#<m><a><n>. "
+	text "puj tlhIn ghaj"
+	line "Hoch #<m><a><n>."
 	cont "bIQapqu'meH Sar"
 	cont "law' DaQorghnIS."
 	done
