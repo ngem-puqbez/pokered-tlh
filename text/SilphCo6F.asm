@@ -87,7 +87,7 @@ _SilphCo6FScientistEndBattleText::
 _SilphCo6FScientistAfterBattleText::
 	text "<'><o><r><e><'> Sep! Deb"
 	line "chImDaq che'ron"
-	cont "'oH 'ore''e'!"
+	cont "'oH <'><o><r><e><'>'e'!"
 	done
 
 _SilphCo6FRocket2BattleText::
