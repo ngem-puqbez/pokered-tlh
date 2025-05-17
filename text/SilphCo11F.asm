@@ -77,7 +77,7 @@ _SilphCo10FGiovanniILostAgainText::
 _SilphCo11FGiovanniYouRuinedOurPlansText::
 	text "Hu'tegh!"
 	line "<S><I><l><v><a><'> nabwIj"
-	cont "Da'anlu'moH!"
+	cont "ju'anmoH!"
 
 	para "'ach not lujchu'"
 	line "<p><e><n><g><D><u><j> ghom!"
