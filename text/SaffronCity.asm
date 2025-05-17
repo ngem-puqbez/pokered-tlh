@@ -125,13 +125,12 @@ _SaffronCityTrainerTips1Text::
 _SaffronCityTrainerTips2Text::
 	text "chojwI' qeS"
 
-	para "DunmoQ vaQ law'"
+	para "<D><u><n><m><o><Q> vaQ law'"
 	line "nubwI'Daj vaQ puS"
 	cont "vurmo'."
 
-	para "#<m><a><n>mey rotlh"
-	line "lujonlu'rupbe'bogh"
-	cont "jonmeH yIlo'."
+	para "#<m><a><n> rotlh"
+	line "jonmeH yIlo'."
 	done
 
 _SaffronCitySilphCoSignText::
