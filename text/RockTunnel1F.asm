@@ -27,7 +27,7 @@ _RockTunnel1FHiker2EndBattleText::
 _RockTunnel1FHiker2AfterBattleText::
 	text "He wa'maH cha'Daq"
 	line "QongtaH #<m><a><n>."
-	cont "SatqIn HevamDaq"
+	cont "SetqIn HevamDaq"
 	cont "jIjaHnIS."
 	done
 
