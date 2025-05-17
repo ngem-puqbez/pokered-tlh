@@ -16,6 +16,6 @@ _CopycatsHouse1FMiddleAgedManText::
 	done
 
 _CopycatsHouse1FChanseyText::
-	text "'IjQIm: 'IjIj!"
+	text "<'><I><j><Q><I><m>: 'IjIj!"
 	line "QIm!@"
 	text_end
