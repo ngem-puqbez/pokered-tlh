@@ -1,5 +1,5 @@
 _Route11Gate1FGuardText::
-	text "#mon law'"
+	text "#<m><a><n> law'"
 	line "vIjonchugh bIH"
 	cont "HochvaD pong"
 	cont "tlhIn vI'ogh."
