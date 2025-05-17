@@ -19,7 +19,7 @@ _SilphCo5FRocket2EndBattleText::
 	prompt
 
 _SilphCo5FRocket2AfterBattleText::
-	text "toH, vIqaw'moHlu'..."
+	text "toH, vIqawmoHlu'..."
 
 	para "ghe'DI' tuStuS,"
 	line "tlhovtlhov moj!"
