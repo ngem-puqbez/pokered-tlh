@@ -28,7 +28,7 @@ _Route9CooltrainerM1EndBattleText::
 	prompt
 
 _Route9CooltrainerM1AfterBattleText::
-	text "yIyIttaH!"
+	text "yIyItqa'!"
 	done
 
 _Route9CooltrainerM2BattleText::
@@ -105,7 +105,7 @@ _Route9Youngster1BattleText::
 	done
 
 _Route9Youngster1EndBattleText::
-	text "chay'?"
+	text "nuq?"
 	line "pomeywIj"
 	cont "vI'anpu'!"
 	prompt
