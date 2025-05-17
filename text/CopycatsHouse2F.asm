@@ -85,8 +85,8 @@ _CopycatsHouse2FPCMySecretsText::
 
 	para "peghmeywIj!"
 
-	para "laHwIj: lIltaHghach!"
-	line "bel Qu': <r><a><g><h><g><h><a><n>mey"
+	para "laHwIj: lIltaH!"
+	line "bel Qu': <r><a><g><h><g><h><a><n>"
 	cont "vIboS!"
 	cont "#<m><a><n> vImaSqu':"
 	cont "jagh'Iv!"
