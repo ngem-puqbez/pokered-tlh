@@ -6,7 +6,7 @@ _Route18Gate1FGuardYouNeedABicycleText::
 
 _Route18Gate1FGuardCyclingRoadUphillText::
 	text "naDevvo' <q><a><m> <D><o>"
-	line "<D><u><j> toSnISlu'."
+	line "<D><u><j> lIghnISlu'."
 	done
 
 _Route18Gate1FGuardExcuseMeText::
