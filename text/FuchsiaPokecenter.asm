@@ -13,8 +13,10 @@ _FuchsiaPokecenterCooltrainerFText::
 	line "taw lang tu'lu'."
 
 	para "#<m><a><n> 'obe'"
-	line "yaHnIv rar. Hoch #<m><a><n>"
-	cont "#<m><a><n> chojwI'pu'"
-	cont "Soj 'oH yaHnIvvam"
-	cont "teblaw'."
+	line "yaHnIv rar."
+
+        para "Hoch #<m><a><n>"
+	cont "chojwI'pu' Soj "
+	cont "'oH yaHnIvvam"
+	cont "teblaw''e'."
 	done
