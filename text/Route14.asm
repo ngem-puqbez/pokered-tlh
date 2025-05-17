@@ -156,8 +156,8 @@ _Route14Biker4EndBattleText::
 	prompt
 
 _Route14Biker4AfterBattleText::
-	text "majQa' botwI'"
-	line "latlh DaDam!"
+	text "majQa'! latlh"
+	line "botwI' choDam!"
 	done
 
 _Route14SignText::
