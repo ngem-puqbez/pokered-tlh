@@ -5,7 +5,7 @@ _SafariZoneCenterRestHouseGirlText::
 	done
 
 _SafariZoneCenterRestHouseScientistText::
-	text "juH vIchaghDI'"
+	text "juH vIcheghDI'"
 	line "jupwI'pu'vaD"
 	cont "nobmey vImuchmeH"
 	cont "#<m><a><n> vIboStaH!"
