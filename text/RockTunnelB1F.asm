@@ -25,7 +25,7 @@ _RockTunnelB1FHiker1EndBattleText::
 
 _RockTunnelB1FHiker1AfterBattleText::
 	text "jIQub vIneHbe'mo'"
-	line "HoS neH vInej."
+	line "HoS neH vIbaj."
 	done
 
 _RockTunnelB1FSuperNerd1BattleText::
