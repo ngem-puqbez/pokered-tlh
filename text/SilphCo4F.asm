@@ -36,7 +36,7 @@ _SilphCo4FScientistEndBattleText::
 
 _SilphCo4FScientistAfterBattleText::
 	text "ngaQ lojmIt."
-	line "naQHa'moH <y><a><S>"
+	line "ngaQHa'moH <y><a><S>"
 	cont "<c><h><a><w><'>."
 	done
 
