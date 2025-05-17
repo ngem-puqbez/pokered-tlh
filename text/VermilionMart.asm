@@ -10,7 +10,7 @@ _VermilionMartCooltrainerMText::
 	para "Qatbe'chugh"
 	line "#<m><a><n>, qoj"
 	cont "lo'laHbe' 'e'"
-	cont "Harchugh ghomvetlh"
+	cont "Harchugh ghom"
 	cont "vaj #<m><a><n>vetlh"
 	cont "lon 'ej woD."
 	done
