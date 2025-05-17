@@ -106,8 +106,8 @@ _SilphCo7FScientistEndBattleText::
 
 _SilphCo7FScientistAfterBattleText::
 	text "bIQupba' 'ach"
-	line "wejHa' chojwI' po'"
-	cont "Damojbej!"
+	line "wejHa' chojwI'"
+	cont "po' Damojbej!"
 	done
 
 _SilphCo7FRocket2BattleText::
