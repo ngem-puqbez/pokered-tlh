@@ -128,7 +128,7 @@ MonsterNames::
 	db "<m><a><'><H><a><r><g><h>@@"
 	db "<S><o><v><b><e><'><Q><a><g><h>"
 	db "<r><a><'><l><e><g><h><D><a><q>"
-	db "<m><o><H><Q><o><n><g>@@@"
+	db "<v><o><n><g><o><y>@@@"
 	db "<v><a><l><q><e><j>@@@@"
 	db "<m><u><n><g><c><h><u><'>@@"
 	db "<w><u><D><l><e><S>@@@@"
