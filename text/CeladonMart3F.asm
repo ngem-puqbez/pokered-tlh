@@ -14,7 +14,7 @@ _CeladonMart3FClerkReceivedTM18Text::
 
 _CeladonMart3FClerkTM18ExplanationText::
 	text "<n><o><D> tonSaw' ngaS"
-	line "tj18! QIH SIQbogh"
+	line "<t><j>18! QIH SIQbogh"
 	cont "nobHa' #<m><a><n>lIj!"
 	done
 
