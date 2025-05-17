@@ -86,8 +86,8 @@ _Route17Biker6EndBattleText::
 _Route17Biker6AfterBattleText::
 	text "Hu... ghe'meH"
 	line "naghmey lI'"
-	cont "poQ #<m><a><n> puS 'e'"
-	cont "vIQoypu..."
+	cont "poQ #<m><a><n> puS"
+	cont "'e' vIQoypu..."
 	done
 
 _Route17Biker7BattleText::
