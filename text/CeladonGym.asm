@@ -185,7 +185,7 @@ _CeladonGymAfterBattleText6::
 _CeladonGymBattleText7::
 	text "maqIHchuqmo'"
 	line "jIbel. #<m><a><n>"
-	cont "vIchojs 'e' vItIv."
+	cont "vIchoj 'e' vItIv."
 	done
 
 _CeladonGymEndBattleText7::
