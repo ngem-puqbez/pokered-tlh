@@ -36,8 +36,8 @@ _SilphCo4FScientistEndBattleText::
 
 _SilphCo4FScientistAfterBattleText::
 	text "ngaQ lojmIt."
-	line "naQHa'moH ya"
-	cont "chaw'."
+	line "naQHa'moH <y><a><S>"
+	cont "<c><h><a><w><'>."
 	done
 
 _SilphCo4FRocket2BattleText::
