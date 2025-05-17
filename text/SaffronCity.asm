@@ -67,7 +67,7 @@ _SaffronCityGentlemanText::
 
 _SaffronCityPidgeotText::
 	text "<c><h><a><'><l><I><S><'><a>: bI"
-	line " bIbIbII!@"
+	line "bIbIbII!@"
 	text_end
 
 _SaffronCityRockerText::
