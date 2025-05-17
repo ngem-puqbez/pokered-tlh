@@ -9,7 +9,8 @@ _CeladonMart3FClerkTM18PreReceiveText::
 
 _CeladonMart3FClerkReceivedTM18Text::
 	text "<t><j>18 Suq"
-	line "<PLAYER>!"
+	line "<PLAYER>!@"
+	text_end
 
 _CeladonMart3FClerkTM18ExplanationText::
 	text "<n><o><D> tonSaw' ngaS"
