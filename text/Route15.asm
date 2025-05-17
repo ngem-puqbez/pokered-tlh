@@ -162,7 +162,7 @@ _Route15CooltrainerF4EndBattleText::
 	prompt
 
 _Route15CooltrainerF4AfterBattleText::
-	text "tlhoy jIHoS. qoch"
+	text "tlhoy bIHoS. qoch"
 	line "puj vIpoQ.@"
 	text_end
 
