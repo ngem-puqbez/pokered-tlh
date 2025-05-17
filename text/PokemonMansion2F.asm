@@ -11,9 +11,8 @@ _PokemonMansion2FSuperNerdEndBattleText::
 
 _PokemonMansion2FSuperNerdAfterBattleText::
 	text "leQ Da'uy'chugh"
-	line "poSchoH lojmIt "
-	cont "'op 'ej SoQchoH"
-	cont "latlh!"
+	line "poSchoH lojmIt"
+	cont "'ej SoQchoH latlh!"
 	done
 
 _PokemonMansion2FDiary1Text::
