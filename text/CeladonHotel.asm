@@ -1,6 +1,6 @@
 _CeladonHotelGrannyText::
 	text "#<m><a><n>? ghobe'!"
-	line "mebpa'vam Dab"
+	line "mebpa'vam Such"
 	cont "ghotpu'."
 
 	para "wejHa' mabuy'."
