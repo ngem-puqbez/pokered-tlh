@@ -11,8 +11,8 @@ _Route24CooltrainerM2AfterBattleText::
 	done
 
 _Route24CooltrainerM3BattleText::
-	text "tagha! qaDwI' vagh"
-	line "jIH! qaSang!"
+	text "tagha'! qaDwI'"
+	line "vagh jIH! qaSang!"
 	done
 
 _Route24CooltrainerM3EndBattleText::
