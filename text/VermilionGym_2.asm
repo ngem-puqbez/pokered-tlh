@@ -55,7 +55,7 @@ _VermilionGymLTSurgeReceivedThunderBadgeText::
 _VermilionGymGentlemanBattleText::
 	text "mang jIHtaHvIS"
 	line "ra'wI'wI' ghaH"
-	cont "<t><e><m><I><'> <D><a><'>! yItlh!"
+	cont "<t><e><m><I><S> <D><a><'>! yItlh!"
 	done
 
 _VermilionGymGentlemanEndBattleText::
@@ -68,7 +68,7 @@ _VermilionGymGentlemanAfterBattleText::
 	line "lojmIt tIn?"
 
 	para "reH Hoj"
-	line "<t><e><m><I><'> <D><a><'>!"
+	line "<t><e><m><I><S> <D><a><'>!"
 	done
 
 _VermilionGymSuperNerdBattleText::
@@ -84,7 +84,7 @@ _VermilionGymSuperNerdAfterBattleText::
 	text "va, jIjatlhqang!"
 
 	para "vay' qoDDaq leQmey"
-	line "So' <t><e><m><I><'> <S><o><g><h>"
+	line "So' <t><e><m><I><S> <D><a><'>"
 	cont "'e' muja' ghaH!"
 	done
 
@@ -100,7 +100,7 @@ _VermilionGymSailorEndBattleText::
 
 _VermilionGymSailorAfterBattleText::
 	text "cha' Durghang"
-	line "ngaQmoH <t><e><m><I><'> <D><a><'>!"
+	line "ngaQmoH <t><e><m><I><S> <D><a><'>!"
 
 	para "reH Durghang leQ"
 	line "wa'DIch retlhDaq"
@@ -113,7 +113,7 @@ _VermilionGymGymGuideChampInMakingText::
 	line "mojlaHbogh puq!"
 
 	para "latlh pong ghaj"
-	line "<t><e><m><I><'> <D><a><'>."
+	line "<t><e><m><I><S> <D><a><'>."
 	cont "ghaHvaD pe'bIl"
 	cont "nov ponglu'."
 
@@ -124,7 +124,7 @@ _VermilionGymGymGuideChampInMakingText::
 	line "bIQ #<m><a><n> je"
 	cont "buQ ghaH!"
 
-	para "Hojqu' <t><e><m><I><'>"
+	para "Hojqu' <t><e><m><I><S>"
 	line "<D><a><'>!"
 
 	para "ghaH qaDpa'"
