@@ -1,6 +1,6 @@
 _CeruleanMartCooltrainerMText::
 	text "#<m><a><n> puj"
-	line "Daghombe'meH"
+	line "DaSambe'meH"
 	cont "<D><o><H><m><o><H><w><I><'> yIlo'."
 
 	para "Qapqu'moHmeH"
