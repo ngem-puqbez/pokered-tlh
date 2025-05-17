@@ -1,7 +1,7 @@
 _CeruleanPokecenterSuperNerdText::
 	text "Dun <b><I><l>!"
 
-	para "#<m><a><n> qun"
+	para "#<m><a><n> qub"
 	line "SuqmeH Hoch"
 	cont "Qu'mey DIghqang!"
 	done
