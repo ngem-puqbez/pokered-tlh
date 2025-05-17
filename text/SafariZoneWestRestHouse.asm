@@ -3,7 +3,7 @@ _SafariZoneWestRestHouseScientistText::
 	line "Davo'chugh chaq"
 	cont "DaHeDmoH 'a"
 	cont "HeDbe'chugh"
-	cont "ghaytan DajjonlaH."
+	cont "ghaytan DajonlaH."
 	done
 
 _SafariZoneWestRestHouseCooltrainerMText::
