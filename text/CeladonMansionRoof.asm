@@ -1,3 +1,3 @@
 _CeladonMansionRoofHouseSignText::
-	text "Hoch jISovbej!!"
+	text "Hoch vISovbej!!"
 	done
