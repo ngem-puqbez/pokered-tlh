@@ -29,7 +29,7 @@ _RockTunnelB1FHiker1AfterBattleText::
 	done
 
 _RockTunnelB1FSuperNerd1BattleText::
-	text "#<t><a><m><e><y> Daghaj'a'?"
+	text "#<t><a> Daghaj'a'?"
 	line "'oH vIneH je!"
 	done
 
@@ -39,7 +39,7 @@ _RockTunnelB1FSuperNerd1EndBattleText::
 	prompt
 
 _RockTunnelB1FSuperNerd1AfterBattleText::
-	text "#<t><a><m><e><y> DarInmoHDI'"
+	text "#<t><a> DarInmoHDI'"
 	line "'oH vIghajlaH'a'?"
 	done
 
