@@ -90,7 +90,7 @@ _ViridianForestUseAntidoteSignText::
 _ViridianForestTrainerTips2Text::
 	text "chojwI' qeS"
 
-	para "#<p><a><q>lIj poj"
+	para "#<t><a><m><e><y>lIj poj"
 	line "<'><o><Q> 'a'ghen."
 	cont "ghaH DarI'meH"
 	cont "De'wI' yIlo'!"
