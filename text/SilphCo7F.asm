@@ -50,7 +50,7 @@ _SilphCo7FSilphWorkerM2CancelledMasterBallText::
 	text "naDev <p><I><n><'><a><'><m><o><Q>"
 	line "wI'oghta' 'ach"
 	cont "<p><e><n><g><D><u><j> ghommo'"
-	cont "jInmol wImevmoH."
+	cont "jInmol wIbaq."
 	done
 
 _SilphCo7FSilphWorkerM3ItWouldBeBadText::
