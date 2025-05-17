@@ -55,8 +55,8 @@ _WardensHouseWardenHM04ExplanationText::
 	line "Ho'DoS ngaS <H><j>04!"
 
 	para "Suvbe'taHvIS"
-	line "naghmey tIn vIHmoH"
-	cont "Ho'DoSvam."
+	line "naghmey tIn"
+	cont "vIHmoH Ho'DoSvam."
 
 	para "toH, <c><h><o><n> <y><o><t><l><h>Daq"
 	line "qach pegh"
