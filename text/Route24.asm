@@ -24,7 +24,7 @@ _Route24CooltrainerM1NoRoomText::
 	done
 
 _Route24CooltrainerM1JoinTeamRocketText::
-	text "Dechel... "
+	text "De'chel... "
 	line "<p><e><n><g><D><u><j> ghom"
 	cont "Damuv DaneH'a'?"
 
