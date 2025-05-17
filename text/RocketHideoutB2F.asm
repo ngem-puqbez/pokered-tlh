@@ -1,5 +1,5 @@
 _RocketHideoutB2FRocketBattleText::
-	text "So'Ha'moHwI'"
+	text "<S><o><'><H><a><'><m><o><H><w><I><'>"
 	line "lo'chugh vay' qa'"
 	cont "#<m><a><n> ngu'chu'!"
 	done
