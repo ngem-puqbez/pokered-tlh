@@ -92,8 +92,8 @@ _FuchsiaGymRocker3EndBattleText::
 	prompt
 
 _FuchsiaGymRocker3AfterBattleText::
-	text "tar tonSaw'mey"
-	line "vImaS. rInDI' may'"
+	text "tar tonSaw' vImaS."
+        line "rInDI' may'"
 	cont "DoSchaj QIHtaH!"
 	done
 
