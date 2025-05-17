@@ -50,7 +50,7 @@ _Route17Biker4BattleText::
 
 _Route17Biker4EndBattleText::
 	text "yInlIj"
-	cont "DayInqu'ba'!"
+	line "DayInqu'ba'!"
 	prompt
 
 _Route17Biker4AfterBattleText::
