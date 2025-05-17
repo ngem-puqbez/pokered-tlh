@@ -126,8 +126,8 @@ _WrongMon2Text::
 	text_start
 	line "'oHbe!"
 
-	para "#<m><a><n>vam DajonDI'"
-	line "HIqaw."
+	para "#<m><a><n>vetlh"
+	line "DajonDI' HIqaw."
 	done
 
 _Thanks2Text::
