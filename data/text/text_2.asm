@@ -432,7 +432,7 @@ _OakLabEmailText::
 	done
 
 _GameCornerCoinCaseText::
-	text "<n><g><o><p> <'><a><pl><o><'>"
+	text "<n><g><o><p> <'><a><p><l><o><'>"
 	line "DapoQ!"
 	done
 
