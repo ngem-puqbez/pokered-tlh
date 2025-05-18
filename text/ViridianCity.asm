@@ -111,7 +111,7 @@ _ViridianCityOldManHadMyCoffeeNowText::
 	done
 
 _ViridianCityOldManKnowHowToCatchPokemonText::
-	text "#tamey Dalo'"
+	text "#<t><a><m><e><y> Daqeng"
 	line "'e' vItu'."
 
 	para "#<m><a><n> DajonDI'"
