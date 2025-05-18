@@ -134,8 +134,8 @@ MainSlotMachineLoop:
 .skip2
 	ld hl, OneMoreGoSlotMachineText
 	call PrintText
-	hlcoord 14, 12
-	lb bc, 13, 15
+	hlcoord 12, 12
+	lb bc, 13, 13
 	xor a ; YES_NO_MENU
 	ld [wTwoOptionMenuID], a
 	ld a, TWO_OPTION_MENU
