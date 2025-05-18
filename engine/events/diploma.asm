@@ -108,7 +108,7 @@ DiplomaEmptyText:
 
 DiplomaCongrats:
 	db   "quv wIHoy'qu'!"
-	next "#<p><a><q> naQ"
+	next "#<t><a><m><e><y> Hoch"
 	next "ghIrta' ghaH!"
 	next "ta'vam woqbej"
 	next "Qoyje'vam. <tlh>@"
