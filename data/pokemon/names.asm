@@ -153,7 +153,7 @@ MonsterNames::
 	db "<c><h><a><'><l><I><S><'><a>@"
 	db "<j><I><H><o><v>@@@@@"
 	db "<g><h><u><b><l><u><n><g>@@"
-	db "<'><a><r><D><e><H><l><u><n><g>"
+	db "<'><I><n><S><o><n><l><u><n><g>"
 	db "<n><I><v><r><o><D>@@@@"
 	db "<S><o><v><b><e><'><Q><a><g><h>"
 	db "<q><o><l><q><o><S><'><o><m>@"
