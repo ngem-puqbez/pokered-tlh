@@ -163,7 +163,7 @@ _PokemonCenterWelcomeText::
 	line "Dapaw!"
 
 	para "naDev #<m><a><n>mey"
-	line "DIpIvclmoHchu'."
+	line "DIpIvqa'moHchu'."
 	prompt
 
 _ShallWeHealYourPokemonText::
