@@ -599,7 +599,7 @@ TextSpeedOptionText:
 	next " nom   motlh  QIt@"
 
 BattleAnimationOptionText:
-	db   "may' Hasta"
+	db   "may' HaSta"
 	next " cha'     So'@"
 
 BattleStyleOptionText:
