@@ -367,5 +367,5 @@ _OaksLabRivalLeaveItAllToMeText::
 _OaksLabScientistText::
 	text "<'><o><Q> 'a'ghen boQwI'"
 	line "jIH. matay'taHvIS"
-	cont "#<m><a><n> wIHaD."
+	cont "#<m><a><n> DIHaD."
 	done
