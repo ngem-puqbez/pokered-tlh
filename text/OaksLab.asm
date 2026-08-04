@@ -300,17 +300,17 @@ _OaksLabOakIHaveARequestText::
 
 _OaksLabOakMyInventionPokedexText::
 	text "raSDaq luch"
-	line "vI'oghbogh"
-	cont "Datu'laH."
+	line "vI'oghpu'ogh"
+	cont "tu'lu'."
 	cont "#<t><a><m><e><y> 'oH!"
 
 	para "#<m><a><n> chu'"
-	line "leghDI' pagh"
-	cont "jonDI' SIbI'"
+	line "DaleghDI' pagh"
+	cont "DajonDI', SIbI'"
 	cont "De' qon janvam!"
 
 	para "ghojmoHmeH paq"
-	line "rur, 'ach vur!"
+	line "bIH, 'ach vur!"
 	done
 
 _OaksLabOakGotPokedexText::
